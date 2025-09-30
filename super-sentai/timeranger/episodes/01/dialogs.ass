@@ -18,30 +18,8 @@ Style: Signs,Proxima Soft,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:03.21,0:00:06.21,Default - Italics,,0,0,0,,
-Dialogue: 0,0:00:00.02,0:00:03.02,Signs,,0,0,0,,{\blur1\fnFutura Book\an5\b1\fscx100\fscy100\bord7\3a&HFF&\fs119\t(1148,1548,\3a&H00&)\3c&H5D615E&\c&H5D615E&\pos(722,732)\clip(232,389,256,830)\t(13,981,1,\clip(232,389,1210,845))\1a&HFF&\t(936,981,\1a&H00&)}SÉRIE SUPER SENTAI
-Dialogue: 1,0:00:00.02,0:00:03.02,Signs,,0,0,0,,{\blur1.5\fnFutura Book\an5\b1\fscx100\fscy100\bord0\c&HE1E4E0&\pos(722,732)\clip(231.88,389,255.78,830.33)\4a&HFF&\fs119\t(1148,1548,\blur1)\t(13,981,1,\clip(231.88,389,1210,845))}SÉRIE SUPER SENTAI
-Dialogue: 0,0:01:37.01,0:01:41.42,Signs,,0,0,0,,{\blur1.8\fnCity\an5\fs65\b1\i1\pos(720,442)\shad4\fad(688,553)\c&HEFFAF4&}13 DE FEVEREIRO DE 3000
-Dialogue: 0,0:02:33.54,0:02:36.57,Signs,,0,0,0,,{\fad(0,47)\an5\blur1.5\fscy105\fs90\fnLinux Libertine\shad5\b1\i1\pos(719,701)}Os Fugitivos do Tempo
-Dialogue: 0,0:24:14.07,0:24:16.14,Signs,,0,0,0,,{\an5\blur1.5\fscy105\fs90\fnLinux Libertine\shad5\b1\i1\pos(764,701)\c&HFFFFFF&}O Futuro Oculto
-Dialogue: 0,0:02:43.68,0:02:45.72,Signs,,0,0,0,,{\fad(0,54)\fscx120\blur1.5\an5\fnHZsW_BirdlandAeroplane\fs90\shad5\c&HEEF6FC&\pos(749,827)}Penitenciaria Londer
-Dialogue: 0,0:03:17.51,0:03:19.88,Signs,,0,0,0,,{\fscx120\blur1.5\an5\fnHZsW_BirdlandAeroplane\fs100\shad5\c&HEDF4F2&\pos(750,827)}Don Dolnero
-Dialogue: 0,0:04:29.92,0:04:31.96,Signs,,0,0,0,,{\fscx120\blur1.5\an5\fnHZsW_BirdlandAeroplane\fs100\shad5\c&HE9FDF8&\pos(740,827)}Gien
-Dialogue: 0,0:10:09.33,0:10:11.33,Signs,,0,0,0,,{\fscx120\blur1.5\an5\fnHZsW_BirdlandAeroplane\fs100\shad5\c&HC3CEC0&\pos(738,827)}L{*\c&HCDDAD0&}i{*\c&HD6E5DF&}l{\c&HE0F1EF&}a
-Dialogue: 0,0:12:39.81,0:12:42.85,Signs,,0,0,0,,{\fscx120\blur1.5\an5\fnHZsW_BirdlandAeroplane\fs100\shad5\1c&HF3F6EE&\pos(740,827)}Junk Droid Zenitt
-Dialogue: 1,0:22:25.73,0:22:29.03,Signs,,0,0,0,,{\blur1.8\fnCity\2a&HFF&\an5\fs65\b1\i1\pos(720,442)\shad0\c&HBAD4FA&\4c&H171613&}{\ko11}13 {\ko18}DE {\ko20}FEVE{\ko13}REI{\ko14}RO {\ko13}DE {\ko13}2{\ko10}0{\ko13}0{\ko205}0
-Dialogue: 0,0:22:25.73,0:22:29.03,Signs,,0,0,0,,{\blur1.8\fnCity\2a&HFF&\an5\fs65\b1\i1\pos(723,445)\shad0\c&HBAD4FA&\4c&H171613&}{\ko11\c&H171613&}13 {\ko18}DE {\ko20}FEVE{\ko13}REI{\ko14}RO {\ko13}DE {\ko13}2{\ko10}0{\ko13}0{\ko205}0
-Dialogue: 0,0:01:59.07,0:02:02.41,Signs,,0,0,0,,{\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,819)}Departamento de Proteção do Tempo
-Dialogue: 0,0:02:11.02,0:02:13.08,Signs,,0,0,0,,{\fad(0,80)\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,819)\c&HFFFFFF&}Capitão dos Cadetes, Ryuuya
-Dialogue: 0,0:03:32.69,0:03:34.73,Signs,,0,0,0,,{\fad(0,49)\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,839)\c&HFFFFFF&}Cadete Yuuri
-Dialogue: 0,0:03:36.57,0:03:38.64,Signs,,0,0,0,,{\fad(0,88)\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,829)\c&HFFFFFF&}Cadete Domon
-Dialogue: 0,0:03:40.57,0:03:42.51,Signs,,0,0,0,,{\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,829)\c&HFFFFFF&}Cadete Ayase
-Dialogue: 0,0:03:46.18,0:03:48.28,Signs,,0,0,0,,{\fad(0,85)\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,829)\c&HFFFFFF&}Cadete Sion
-Dialogue: 0,0:07:34.84,0:07:36.94,Signs,,0,0,0,,{\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,829)\c&HFFFFFF&}Robô Guia, Tac
-Dialogue: 0,0:14:21.58,0:14:23.75,Signs,,0,0,0,,{\an5\shad4\blur1.4\fs65\fnLinux Libertine\b1\fscx95\pos(738,829)\c&HFFFFFF&}Asami Tatsuya
-Comment: 0,0:00:03.21,0:00:06.21,Default - Italics,,0,0,0,,
 Dialogue: 0,0:00:06.21,0:00:10.35,Default - Italics,,0,0,0,,Quatro pessoas do século 30 \N e um homem do nosso tempo.
-Dialogue: 0,0:00:10.35,0:00:12.86,Default - Italics,,0,0,0,,Juntos, eles reescreverão o curso da história.
+Dialogue: 0,0:00:10.35,0:00:12.86,Default - Italics,,0,0,0,,Juntos, eles escreverão um novo capítulo na história.
 Dialogue: 0,0:00:12.86,0:00:15.73,Default,,0,0,0,,Esquadrão do Futuro Timeranger!
 Dialogue: 0,0:01:31.78,0:01:32.83,Default,,0,0,0,,Uau!
 Dialogue: 0,0:01:41.03,0:01:42.90,Default - Italics,,0,0,0,,Ano 3000.
@@ -49,7 +27,7 @@ Dialogue: 0,0:01:42.90,0:01:47.58,Default - Italics,,0,0,0,,Após séculos de hi
 Dialogue: 0,0:01:48.37,0:01:51.14,Default - Italics,,0,0,0,,Os humanos não são mais os únicos seres inteligentes.
 Dialogue: 0,0:01:51.18,0:01:56.88,Default - Italics,,0,0,0,,Agora, todos podem viajar pelo espaço,\Ne até mesmo pelo tempo.
 Dialogue: 0,0:01:58.03,0:01:59.50,Default - Top Italics,,0,0,0,,Já se passaram 10 anos
-Dialogue: 0,0:01:59.50,0:02:04.02,Default - Top Italics,,0,0,0,,desde a criação da primeira maquina do tempo.
+Dialogue: 0,0:01:59.50,0:02:04.02,Default - Top Italics,,0,0,0,,desde a criação da primeira máquina do tempo.
 Dialogue: 0,0:02:04.95,0:02:08.26,Default,,0,0,0,,Bem-vindos ao Departamento de Proteção do Tempo.
 Dialogue: 0,0:02:08.26,0:02:10.65,Default,,0,0,0,,Novos cadetes, como o nome já diz,
 Dialogue: 0,0:02:11.15,0:02:13.91,Default - Top,,0,0,0,,nossa missão é proteger o tempo.
@@ -66,7 +44,7 @@ Dialogue: 0,0:03:28.21,0:03:29.22,Default,,0,0,0,,Gatinha!
 Dialogue: 0,0:03:30.06,0:03:32.23,Default - Top,,0,0,0,,Quer jantar comigo mais tarde?
 Dialogue: 0,0:03:35.00,0:03:36.49,Default,,0,0,0,,Não, obrigada.
 Dialogue: 0,0:03:39.11,0:03:40.49,Default - Top,,0,0,0,,Isso foi uma cantada?
-Dialogue: 0,0:03:40.49,0:03:42.49,Default - Top,,0,0,0,,Deve ter aprendido isso na idade das trevas.
+Dialogue: 0,0:03:40.49,0:03:42.49,Default - Top,,0,0,0,,Deve ter aprendido isso na Idade das Trevas.
 Dialogue: 0,0:03:42.49,0:03:44.20,Default,,0,0,0,,O que disse?!
 Dialogue: 0,0:03:44.20,0:03:45.04,Default,,0,0,0,,Com licença.
 Dialogue: 0,0:03:45.04,0:03:46.81,Default - Top,,0,0,0,,Você é o Domon, o lutador profissional?
@@ -83,7 +61,7 @@ Dialogue: 0,0:04:16.26,0:04:16.57,Default,,0,0,0,,Espere!
 Dialogue: 0,0:04:21.10,0:04:21.62,Default,,0,0,0,,O que está fazendo?!
 Dialogue: 0,0:04:22.22,0:04:26.29,Default,,0,0,0,,Gien, você preparou tudo para nossa viagem no tempo?
 Dialogue: 0,0:04:26.90,0:04:27.75,Default,,0,0,0,,Preparei.
-Dialogue: 0,0:04:28.36,0:04:31.30,Default - Top,,0,0,0,,Nós vamos para o ano 2000.
+Dialogue: 0,0:04:28.36,0:04:31.30,Default - Top,,0,0,0,,Vamos para o ano 2000.
 Dialogue: 0,0:04:31.96,0:04:34.42,Default,,0,0,0,,Esse era seu plano desde o início?!
 Dialogue: 0,0:04:41.52,0:04:43.73,Default,,0,0,0,,Por onde ando, só vejo policiais.
 Dialogue: 0,0:04:43.73,0:04:46.52,Default,,0,0,0,,Por isso, estou dando adeus a esta era.
@@ -109,11 +87,11 @@ Dialogue: 0,0:05:44.37,0:05:45.66,Default,,0,0,0,,E você!
 Dialogue: 0,0:05:46.60,0:05:47.12,Default,,0,0,0,,Sim, senhor!
 Dialogue: 0,0:05:47.12,0:05:48.35,Default,,0,0,0,,Por último...
 Dialogue: 0,0:05:48.35,0:05:49.37,Default,,0,0,0,,Capitão!
-Dialogue: 0,0:05:50.23,0:05:51.71,Default,,0,0,0,,Por favor, me deixe ir!
+Dialogue: 0,0:05:50.23,0:05:51.71,Default,,0,0,0,,Por favor, deixe-me ir!
 Dialogue: 0,0:05:52.96,0:05:53.90,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:05:53.90,0:05:54.74,Default,,0,0,0,,Espere!
 Dialogue: 0,0:05:54.74,0:05:56.13,Default,,0,0,0,,Eles são apenas novatos!
-Dialogue: 0,0:05:56.49,0:05:57.67,Default,,0,0,0,,Será um bom treinamento pra eles.
+Dialogue: 0,0:05:56.49,0:05:57.67,Default,,0,0,0,,Será um bom treinamento.
 Dialogue: 0,0:05:58.65,0:06:00.38,Default,,0,0,0,,Chrono Ship, a postos!
 Dialogue: 0,0:06:00.38,0:06:02.72,Default,,0,0,0,,Entendido!\N Pronta para decolar!
 Dialogue: 0,0:06:11.56,0:06:12.92,Default,,0,0,0,,Muito bem.
@@ -126,7 +104,7 @@ Dialogue: 0,0:06:35.11,0:06:35.92,Default,,0,0,0,,Pronto!
 Dialogue: 0,0:06:35.92,0:06:37.36,Default - Italics,,0,0,0,,Parem!
 Dialogue: 0,0:06:37.36,0:06:40.07,Default - Italics,,0,0,0,,Se não tomarem cuidado ao viajar no tempo,
 Dialogue: 0,0:06:40.07,0:06:42.77,Default - Italics,,0,0,0,,vocês podem destruir nossa história.
-Dialogue: 0,0:06:42.77,0:06:44.93,Default,,0,0,0,,Eu sei disso, por isso estou no comando.
+Dialogue: 0,0:06:42.77,0:06:44.93,Default,,0,0,0,,Sei disso, por isso estou no comando.
 Dialogue: 0,0:06:45.36,0:06:49.18,Default - Italics,,0,0,0,,Se destruírem a história enquanto discutimos,\N quem será o responsável?
 Dialogue: 0,0:06:50.17,0:06:50.93,Default,,0,0,0,,Vamos!
 Dialogue: 0,0:06:53.02,0:06:54.94,Default,,0,0,0,,Espera!\N Espera um pouco!
@@ -166,8 +144,8 @@ Dialogue: 0,0:10:27.65,0:10:31.18,Default - Italics,,0,0,0,,Trinta segundos para
 Dialogue: 0,0:10:31.18,0:10:34.45,Default,,0,0,0,,Temos que agir, rápido!\N Há algo que possamos fazer?
 Dialogue: 0,0:10:36.16,0:10:37.75,Default - Italics,,0,0,0,,Evacuem imediatamente.
 Dialogue: 0,0:10:37.75,0:10:38.66,Default,,0,0,0,,Você...
-Dialogue: 0,0:10:39.88,0:10:42.58,Default,,0,0,0,,Eu conserto esse tipo de robô de olhos fechados.
-Dialogue: 0,0:10:42.58,0:10:44.37,Default - Italics,,0,0,0,,10 segundos.
+Dialogue: 0,0:10:39.88,0:10:42.58,Default,,0,0,0,,Conserto esse tipo de robô de olhos fechados.
+Dialogue: 0,0:10:42.58,0:10:44.37,Default - Italics,,0,0,0,,Faltam 10 segundos.
 Dialogue: 0,0:10:44.37,0:10:45.71,Default,,0,0,0,,O que estão fazendo?
 Dialogue: 0,0:10:45.71,0:10:48.21,Default,,0,0,0,,Ótimo!\N Tac, nos solte!
 Dialogue: 0,0:10:48.71,0:10:51.30,Default - Italics,,0,0,0,,3... 2... 1...
@@ -253,7 +231,7 @@ Dialogue: 0,0:18:29.42,0:18:31.30,Default,,0,0,0,,Gien! Lila!
 Dialogue: 0,0:18:33.19,0:18:36.59,Default,,0,0,0,,Vocês estão presos por seus crimes de 1° grau!
 Dialogue: 0,0:18:38.40,0:18:40.52,Default,,0,0,0,,Não seremos pegos por tolos como vocês!
 Dialogue: 0,0:18:40.52,0:18:41.56,Default,,0,0,0,,Zenitts!
-Dialogue: 0,0:18:56.97,0:18:59.28,Default,,0,0,0,,Malditos!\N Agora eu fiquei bravo!
+Dialogue: 0,0:18:56.97,0:18:59.28,Default,,0,0,0,,Malditos!\N Agora fiquei bravo!
 Dialogue: 0,0:19:44.78,0:19:47.62,Default,,0,0,0,,Usem suas armas!\N Elas estão programadas nos trajes!
 Dialogue: 0,0:19:49.42,0:19:50.67,Default,,0,0,0,,Chrono Access!
 Dialogue: 0,0:19:56.28,0:19:57.43,Default,,0,0,0,,Double Vector!
@@ -286,6 +264,5 @@ Dialogue: 0,0:24:02.53,0:24:06.17,Default - Top Italics,,0,0,0,,Não podemos mud
 Dialogue: 0,0:24:06.69,0:24:08.64,Default - Top Italics,,0,0,0,,Podemos fazer isso juntos!
 Dialogue: 0,0:24:08.88,0:24:09.43,Default - Top Italics,,0,0,0,,Prontos?
 Dialogue: 0,0:24:09.77,0:24:11.22,Default - Top Italics,,0,0,0,,Chrono Changer!
-Dialogue: 0,0:24:11.93,0:24:14.02,Default - Top Italics,,0,0,0,,Timeranger: Case File 2!
-Dialogue: 0,0:24:14.54,0:24:16.10,Default - Top Italics,,0,0,0,,O Futuro Oculto!
+Dialogue: 0,0:24:11.93,0:24:14.02,Default - Top Italics,,0,0,0,,Timeranger: Case File 2.
 Dialogue: 0,0:24:17.11,0:24:19.12,Default - Top Italics,,0,0,0,,Agarre o futuro infinito!
