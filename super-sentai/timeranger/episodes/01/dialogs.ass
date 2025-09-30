@@ -19,12 +19,12 @@ Style: Signs,Proxima Soft,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:06.21,0:00:10.35,Default - Italics,,0,0,0,,Quatro pessoas do século 30 \N e um homem do nosso tempo.
-Dialogue: 0,0:00:10.35,0:00:12.86,Default - Italics,,0,0,0,,Juntos, eles escreverão um novo capítulo na história.
+Dialogue: 0,0:00:10.35,0:00:12.86,Default - Italics,,0,0,0,,Juntos, eles reescreverão o curso da história.
 Dialogue: 0,0:00:12.86,0:00:15.73,Default,,0,0,0,,Esquadrão do Futuro Timeranger!
 Dialogue: 0,0:01:31.78,0:01:32.83,Default,,0,0,0,,Uau!
 Dialogue: 0,0:01:41.03,0:01:42.90,Default - Italics,,0,0,0,,Ano 3000.
 Dialogue: 0,0:01:42.90,0:01:47.58,Default - Italics,,0,0,0,,Após séculos de história,\N a Terra entrou em uma nova era.
-Dialogue: 0,0:01:48.37,0:01:51.14,Default - Italics,,0,0,0,,Os humanos não são mais os únicos seres inteligentes.
+Dialogue: 0,0:01:48.37,0:01:51.14,Default - Italics,,0,0,0,,Novas raças inteligentes foram descobertas.
 Dialogue: 0,0:01:51.18,0:01:56.88,Default - Italics,,0,0,0,,Agora, todos podem viajar pelo espaço,\Ne até mesmo pelo tempo.
 Dialogue: 0,0:01:58.03,0:01:59.50,Default - Top Italics,,0,0,0,,Já se passaram 10 anos
 Dialogue: 0,0:01:59.50,0:02:04.02,Default - Top Italics,,0,0,0,,desde a criação da primeira máquina do tempo.
@@ -41,7 +41,7 @@ Dialogue: 0,0:02:57.66,0:03:00.10,Default,,0,0,0,,Congelamento por compressão c
 Dialogue: 0,0:03:09.32,0:03:15.51,Default,,0,0,0,,Próximo! Prisioneiro 35273, Dolnero!
 Dialogue: 0,0:03:19.89,0:03:23.58,Default - Italics,,0,0,0,,Com isso, concluo meu discurso.\N Dispensados.
 Dialogue: 0,0:03:28.21,0:03:29.22,Default,,0,0,0,,Gatinha!
-Dialogue: 0,0:03:30.06,0:03:32.23,Default - Top,,0,0,0,,Quer jantar comigo mais tarde?
+Dialogue: 0,0:03:30.06,0:03:32.23,Default,,0,0,0,,Quer jantar comigo mais tarde?
 Dialogue: 0,0:03:35.00,0:03:36.49,Default,,0,0,0,,Não, obrigada.
 Dialogue: 0,0:03:39.11,0:03:40.49,Default - Top,,0,0,0,,Isso foi uma cantada?
 Dialogue: 0,0:03:40.49,0:03:42.49,Default - Top,,0,0,0,,Deve ter aprendido isso na Idade das Trevas.
@@ -52,14 +52,14 @@ Dialogue: 0,0:03:46.81,0:03:47.43,Default - Top,,0,0,0,,Sim. Sou.
 Dialogue: 0,0:03:47.43,0:03:49.79,Default - Top,,0,0,0,,Sou seu fã. Pode me dar um autógrafo?
 Dialogue: 0,0:03:53.71,0:03:57.65,Default,,0,0,0,,Você foi capturado tão facilmente, Dolnero!
 Dialogue: 0,0:03:58.41,0:04:00.11,Default,,0,0,0,,Qual é a sensação?
-Dialogue: 0,0:04:00.76,0:04:03.35,Default,,0,0,0,,Congelamento por compressão não é mole, não.
+Dialogue: 0,0:04:00.76,0:04:03.35,Default,,0,0,0,,Congelamento por compressão não é fácil, não.
 Dialogue: 0,0:04:03.84,0:04:05.43,Default,,0,0,0,,Quero só ver!
 Dialogue: 0,0:04:10.28,0:04:11.27,Default,,0,0,0,,Dolnero!
 Dialogue: 0,0:04:11.55,0:04:13.91,Default,,0,0,0,,Por seus crimes de 1° grau,
 Dialogue: 0,0:04:13.91,0:04:15.78,Default,,0,0,0,,será congelado por compressão por 1.000 anos!
 Dialogue: 0,0:04:16.26,0:04:16.57,Default,,0,0,0,,Espere!
 Dialogue: 0,0:04:21.10,0:04:21.62,Default,,0,0,0,,O que está fazendo?!
-Dialogue: 0,0:04:22.22,0:04:26.29,Default,,0,0,0,,Gien, você preparou tudo para nossa viagem no tempo?
+Dialogue: 0,0:04:22.22,0:04:26.29,Default,,0,0,0,,Gien, você preparou tudo\N para nossa viagem no tempo?
 Dialogue: 0,0:04:26.90,0:04:27.75,Default,,0,0,0,,Preparei.
 Dialogue: 0,0:04:28.36,0:04:31.30,Default - Top,,0,0,0,,Vamos para o ano 2000.
 Dialogue: 0,0:04:31.96,0:04:34.42,Default,,0,0,0,,Esse era seu plano desde o início?!
@@ -71,7 +71,7 @@ Dialogue: 0,0:05:02.33,0:05:06.41,Default - Italics,,0,0,0,,a viagem no tempo é
 Dialogue: 0,0:05:06.41,0:05:11.92,Default - Italics,,0,0,0,,Kits de emergência são fornecidos\Npara suprir as suas necessidades.
 Dialogue: 0,0:05:11.92,0:05:14.85,Default - Italics,,0,0,0,,Este é um deles: o Chrono Changer.
 Dialogue: 0,0:05:15.75,0:05:18.89,Default - Italics,,0,0,0,,Alerta Vermelho!
-Dialogue: 0,0:05:18.89,0:05:22.02,Default,,0,0,0,,A Polícia Inter-City enviou este alerta.
+Dialogue: 0,0:05:18.89,0:05:22.02,Default,,0,0,0,,A Polícia Inter-City enviou este alerta:
 Dialogue: 0,0:05:22.02,0:05:24.93,Default,,0,0,0,,Dolnero tomou parte da penitenciária.
 Dialogue: 0,0:05:25.48,0:05:28.57,Default,,0,0,0,,Ele está se preparando para viajar para o ano 2000.
 Dialogue: 0,0:05:29.12,0:05:31.14,Default - Italics,,0,0,0,,Código de Emergência, Cadetes!
@@ -90,7 +90,7 @@ Dialogue: 0,0:05:48.35,0:05:49.37,Default,,0,0,0,,Capitão!
 Dialogue: 0,0:05:50.23,0:05:51.71,Default,,0,0,0,,Por favor, deixe-me ir!
 Dialogue: 0,0:05:52.96,0:05:53.90,Default,,0,0,0,,Tudo bem.
 Dialogue: 0,0:05:53.90,0:05:54.74,Default,,0,0,0,,Espere!
-Dialogue: 0,0:05:54.74,0:05:56.13,Default,,0,0,0,,Eles são apenas novatos!
+Dialogue: 0,0:05:54.74,0:05:56.13,Default,,0,0,0,,Eles são apenas recrutas!
 Dialogue: 0,0:05:56.49,0:05:57.67,Default,,0,0,0,,Será um bom treinamento.
 Dialogue: 0,0:05:58.65,0:06:00.38,Default,,0,0,0,,Chrono Ship, a postos!
 Dialogue: 0,0:06:00.38,0:06:02.72,Default,,0,0,0,,Entendido!\N Pronta para decolar!
@@ -115,7 +115,7 @@ Dialogue: 0,0:07:16.11,0:07:17.33,Default,,0,0,0,,O que é isto?
 Dialogue: 0,0:07:19.24,0:07:23.05,Default - Italics,,0,0,0,,Baixando informações sobre o século 20.
 Dialogue: 0,0:07:23.05,0:07:24.69,Default - Italics,,0,0,0,,A validade delas será de 1 ano.
 Dialogue: 0,0:07:27.26,0:07:31.38,Default - Italics,,0,0,0,,A preservação da história deve ser priorizada.
-Dialogue: 0,0:07:34.60,0:07:39.56,Default - Top,,0,0,0,,Eu sou o Tac. Serei seu guia.\N Estão prontos?
+Dialogue: 0,0:07:34.60,0:07:39.56,Default - Top,,0,0,0,,Eu sou Tac. Serei seu guia.\N Estão prontos?
 Dialogue: 0,0:07:39.85,0:07:40.69,Default,,0,0,0,,Depressa!
 Dialogue: 0,0:07:40.69,0:07:45.15,Default - Italics,,0,0,0,,Portal do Tempo, abrir!\N Chrono Ship, pronta para o lançamento!
 Dialogue: 0,0:08:10.42,0:08:10.97,Default,,0,0,0,,O que é aquilo?
@@ -124,12 +124,12 @@ Dialogue: 0,0:08:16.68,0:08:21.19,Default,,0,0,0,,Não! Eles planejaram nos usar
 Dialogue: 0,0:08:21.19,0:08:22.23,Default,,0,0,0,,Ativar freios de emergência!
 Dialogue: 0,0:09:03.26,0:09:04.33,Default,,0,0,0,,Já chegamos?
 Dialogue: 0,0:09:05.36,0:09:06.95,Default,,0,0,0,,Este é o ano 2000?
-Dialogue: 0,0:09:12.73,0:09:14.66,Default,,0,0,0,,Desculpe. Não temos tempo para passear.
+Dialogue: 0,0:09:12.73,0:09:14.66,Default,,0,0,0,,Desculpe, mas não terá tempo de ver o mar.
 Dialogue: 0,0:09:15.27,0:09:15.79,Default,,0,0,0,,Capitão?
 Dialogue: 0,0:09:15.79,0:09:16.58,Default,,0,0,0,,Pare!
 Dialogue: 0,0:09:24.95,0:09:27.80,Default,,0,0,0,,Polícia Inter-City, Divisão Antimáfia!
 Dialogue: 0,0:09:29.40,0:09:30.09,Default,,0,0,0,,Não pode ser!
-Dialogue: 0,0:09:30.97,0:09:34.97,Default,,0,0,0,,Recebemos uma pista sobre o plano do Dolnero.
+Dialogue: 0,0:09:30.97,0:09:34.97,Default,,0,0,0,,Tínhamos uma pista sobre o plano do Dolnero.
 Dialogue: 0,0:09:35.86,0:09:38.77,Default,,0,0,0,,Mas eu não esperava por isso.
 Dialogue: 0,0:09:38.77,0:09:41.01,Default,,0,0,0,,Eu não deveria ter escolhido vocês!
 Dialogue: 0,0:09:41.57,0:09:42.44,Default,,0,0,0,,Mas...
@@ -153,7 +153,7 @@ Dialogue: 0,0:11:32.03,0:11:35.67,Default,,0,0,0,,Você está bem? Acorde!
 Dialogue: 0,0:11:36.32,0:11:37.33,Default,,0,0,0,,Você está bem?
 Dialogue: 0,0:11:39.39,0:11:42.26,Default,,0,0,0,,Você está bem?\N Aguente firme!
 Dialogue: 0,0:11:56.10,0:11:57.45,Default,,0,0,0,,Desgraçado!
-Dialogue: 0,0:12:00.18,0:12:02.66,Default,,0,0,0,,O que eu fiz?\N Por que estão me batendo?
+Dialogue: 0,0:12:00.18,0:12:02.66,Default,,0,0,0,,O que eu fiz?\N Por que estão me atacando?
 Dialogue: 0,0:12:11.41,0:12:12.96,Default,,0,0,0,,Chega!\NParem já com isso!
 Dialogue: 0,0:12:14.26,0:12:15.30,Default,,0,0,0,,Com licença.
 Dialogue: 0,0:12:15.79,0:12:16.59,Default,,0,0,0,,Pode me dar um autógrafo?
@@ -177,7 +177,7 @@ Dialogue: 0,0:14:21.59,0:14:23.72,Default - Top,,0,0,0,,Por que não acreditam e
 Dialogue: 0,0:14:24.41,0:14:27.02,Default,,0,0,0,,Acho que ele pode estar falando a verdade.
 Dialogue: 0,0:14:27.02,0:14:29.96,Default,,0,0,0,,Ele pode ser um ancestral do capitão.
 Dialogue: 0,0:14:29.96,0:14:31.79,Default,,0,0,0,,Hã? O quê?
-Dialogue: 0,0:14:35.36,0:14:36.23,Default,,0,0,0,,O que é isto?
+Dialogue: 0,0:14:35.36,0:14:36.23,Default,,0,0,0,,Que barulho é esse?
 Dialogue: 0,0:14:41.42,0:14:42.65,Default,,0,0,0,,O que é essa coisa?
 Dialogue: 0,0:14:44.28,0:14:48.58,Default,,0,0,0,,Pessoal, isso não é bom!\N Dolnero está atacando a cidade!
 Dialogue: 0,0:14:48.58,0:14:50.16,Default,,0,0,0,,Outro negócio estranho!
@@ -199,7 +199,7 @@ Dialogue: 0,0:15:47.16,0:15:51.37,Default,,0,0,0,,Do contrário, mais pessoas ac
 Dialogue: 0,0:15:51.37,0:15:53.72,Default,,0,0,0,,Por que eu os ajudaria?
 Dialogue: 0,0:15:53.72,0:15:54.94,Default,,0,0,0,,Por quê?
 Dialogue: 0,0:15:54.94,0:15:58.28,Default,,0,0,0,,Vai ignorar aquelas pessoas em perigo?
-Dialogue: 0,0:16:00.13,0:16:02.65,Default,,0,0,0,,Parecia bom de briga naquela hora.\NQue desperdício.
+Dialogue: 0,0:16:00.13,0:16:02.65,Default,,0,0,0,,Vai amarelar agora?\NAchei que era bom de briga.
 Dialogue: 0,0:16:05.25,0:16:08.82,Default,,0,0,0,,Tá bom, então!\N Já lutei contra um ladrão antes, sabia?
 Dialogue: 0,0:16:15.51,0:16:16.82,Default,,0,0,0,,Vamos dar o nosso melhor!
 Dialogue: 0,0:16:17.40,0:16:20.46,Default,,0,0,0,,Acho que não temos escolha!
@@ -211,7 +211,7 @@ Dialogue: 0,0:16:33.18,0:16:33.76,Default,,0,0,0,,Chrono Changer!
 Dialogue: 0,0:16:51.66,0:16:52.95,Default,,0,0,0,,Mas que diabos de roupa é essa?
 Dialogue: 0,0:16:54.56,0:16:55.74,Default,,0,0,0,,Que irado!
 Dialogue: 0,0:16:56.82,0:16:57.70,Default,,0,0,0,,Ficou bom em mim?
-Dialogue: 0,0:16:59.53,0:17:01.42,Default,,0,0,0,,Hã? Espere!
+Dialogue: 0,0:16:59.53,0:17:01.42,Default,,0,0,0,,Hã? Como?
 Dialogue: 0,0:17:01.69,0:17:03.59,Default,,0,0,0,,Time Flyer, decolar!
 Dialogue: 0,0:17:09.06,0:17:12.14,Default,,0,0,0,,Este é o Veículo de Transporte, Time Flyer! Vão!
 Dialogue: 0,0:17:12.14,0:17:13.05,Default,,0,0,0,,Vamos lá!
