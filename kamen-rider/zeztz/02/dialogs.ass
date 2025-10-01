@@ -21,9 +21,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:26.04,0:00:30.15,Default - Top,,0,0,0,,Vá. Realize esse seu pesadelo.
 Dialogue: 0,0:00:52.20,0:00:53.57,Default - Top Italics,,0,0,0,,Sou Yorozu Baku.
 Dialogue: 0,0:00:54.07,0:00:56.61,Default - Top Italics,,0,0,0,,Sou um agente da CODE,\N a Organização Secreta de Defesa.
-Dialogue: 0,0:00:56.93,0:00:59.53,Default - Top Italics,,0,0,0,,Minha missão é acabar com o mal.
-Dialogue: 0,0:01:06.37,0:01:08.60,Default - Top Italics,,0,0,0,,Pelo menos, é com isso que sonho todas as noites.
-Dialogue: 0,0:01:08.60,0:01:10.40,Default - Top Italics,,0,0,0,,Fora dos sonhos, sou um cara normal.
+Dialogue: 0,0:00:56.93,0:00:59.53,Default - Top Italics,,0,0,0,,Minha missão é erradicar o mal.
+Dialogue: 0,0:01:06.37,0:01:08.60,Default - Top Italics,,0,0,0,,Pelo menos, é com isso que eu sonho.
+Dialogue: 0,0:01:08.60,0:01:10.40,Default - Top Italics,,0,0,0,,Na verdade, sou um cara bem normal.
 Dialogue: 0,0:01:12.71,0:01:14.24,Default - Top Italics,,0,0,0,,A minha missão hoje é...
 Dialogue: 0,0:01:14.94,0:01:17.36,English,,0,0,165,,Deter o homem-bomba.
 Dialogue: 0,0:01:19.52,0:01:20.21,Default - Top Italics,,0,0,0,,Mas...
@@ -250,7 +250,7 @@ Dialogue: 0,0:16:12.04,0:16:13.41,Default,,0,0,0,,Gire para ver.
 Dialogue: 0,0:16:17.12,0:16:18.32,Default,,0,0,0,,Vamos ver.
 Dialogue: 0,0:16:28.78,0:16:30.11,Default,,0,0,0,,O que é isto?
 Dialogue: 0,0:16:33.13,0:16:34.07,Default,,0,0,0,,Tome.
-Dialogue: 0,0:16:37.02,0:16:41.12,Default,,0,0,0,,"Transform. Possui o poder de mudar\N a forma do seu corpo."
+Dialogue: 0,0:16:37.02,0:16:41.12,Default,,0,0,0,,"Transform. Concede o poder de mudar o corpo."
 Dialogue: 0,0:16:41.50,0:16:43.46,Default,,0,0,0,,Deve ser útil na sua missão.
 Dialogue: 0,0:16:45.14,0:16:46.11,Default,,0,0,0,,Espere um pouco.
 Dialogue: 0,0:16:46.11,0:16:51.29,Default,,0,0,0,,Você disse que tenho que impedir\N os pesadelos antes que se realizem.

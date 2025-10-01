@@ -20,9 +20,9 @@ Style: English,Agenor Neue,70,&H00F5F6F7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.63,0:00:02.83,Default - Top Italics,,0,0,0,,Sou Yorozu Baku.
 Dialogue: 0,0:00:03.18,0:00:05.88,Default - Top Italics,,0,0,0,,Sou um agente da CODE,\N a Organização Secreta de Defesa.
-Dialogue: 0,0:00:05.88,0:00:08.64,Default - Top Italics,,0,0,0,,Minha missão é acabar com o mal.
-Dialogue: 0,0:00:09.02,0:00:10.52,Default - Top Italics,,0,0,0,,Pelo menos, é com isso que sonho todas as noites.
-Dialogue: 0,0:00:10.52,0:00:12.31,Default - Top Italics,,0,0,0,,Fora dos sonhos, sou um cara normal.
+Dialogue: 0,0:00:05.88,0:00:08.64,Default - Top Italics,,0,0,0,,Minha missão é erradicar o mal.
+Dialogue: 0,0:00:09.02,0:00:10.52,Default - Top Italics,,0,0,0,,Pelo menos, é com isso que eu sonho.
+Dialogue: 0,0:00:10.52,0:00:12.31,Default - Top Italics,,0,0,0,,Na verdade, sou um cara bem normal.
 Dialogue: 0,0:00:14.27,0:00:16.64,Default,,0,0,0,,Mas só precisará fazer uma coisa:
 Dialogue: 0,0:00:16.64,0:00:18.52,Default,,0,0,0,,Infiltrar-se nos sonhos dos outros,
 Dialogue: 0,0:00:18.52,0:00:20.97,Default,,0,0,0,,e impedir os pesadelos dos Nightmares\N antes que se realizem.
@@ -31,7 +31,7 @@ Dialogue: 0,0:00:24.16,0:00:26.95,Default - Italics,,0,0,0,,Era o próprio Sonha
 Dialogue: 0,0:00:27.72,0:00:28.99,Default,,0,0,0,,Sonhos...
 Dialogue: 0,0:00:29.27,0:00:31.71,Default,,0,0,0,,São reflexos do subconsciente do Sonhador.
 Dialogue: 0,0:00:34.62,0:00:38.91,Default,,0,0,0,,Por quê, Sr. Fujimi?
-Dialogue: 0,0:00:40.42,0:00:43.42,English,,0,0,170,,Deter o homem-bomba.
+Dialogue: 0,0:00:40.42,0:00:43.42,English,,0,0,170,,Detenha o homem-bomba.
 Dialogue: 0,0:00:44.27,0:00:47.96,Default,,0,0,0,,Intruso. Saia deste sonho, já!
 Dialogue: 0,0:00:48.37,0:00:51.26,Default - Top,,0,0,0,,Se ele desejou um sonho com um homem-bomba...
 Dialogue: 0,0:00:51.93,0:00:54.26,Default - Top,,0,0,0,,Deve haver uma explicação para isso!
@@ -234,7 +234,7 @@ Dialogue: 0,0:23:01.05,0:23:03.45,English,,0,0,180,,{\fad(0,527)}Sua próxima mi
 Dialogue: 0,0:23:06.72,0:23:08.93,Default - Top Italics,,0,0,0,,No próximo episódio de Kamen Rider Zeztz:
 Dialogue: 0,0:23:08.93,0:23:10.35,Default - Top Italics,,0,0,0,,Vou tirar a Miyuki daqui!
 Dialogue: 0,0:23:10.35,0:23:11.76,Default - Top Italics,,0,0,0,,Por que deseja este pesadelo?
-Dialogue: 0,0:23:11.76,0:23:14.93,Default - Top Italics,,0,0,0,,Se você se esforçar,\N pode se tornar um agente de verdade.
+Dialogue: 0,0:23:11.76,0:23:14.93,Default - Top Italics,,0,0,0,,Se mantiver sua mente determinada,\N pode se tornar um agente de verdade.
 Dialogue: 0,0:23:14.93,0:23:16.93,Default - Top Italics,,0,0,0,,A noiva vem comigo.
 Dialogue: 0,0:23:16.93,0:23:19.03,Default - Top Italics,,0,0,0,,Proteger a noiva VIP.
 Dialogue: 0,0:23:19.03,0:23:20.90,Default - Top Italics,,0,0,0,,Essa é a minha missão.

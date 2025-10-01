@@ -19,215 +19,221 @@ Style: English,Agenor Neue,70,&H00F5F6F7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:01.80,0:00:03.14,Default - Top,,0,0,0,,I'm Yorozu Baku.
-Dialogue: 0,0:00:03.14,0:00:05.65,Default - Top,,0,0,0,,I'm an agent for the Secret Defense Organization, CODE.
-Dialogue: 0,0:00:05.65,0:00:08.28,Default - Top,,0,0,0,,My mission is eradicate evil.
-Dialogue: 0,0:00:08.67,0:00:10.37,Default - Top,,0,0,0,,At least, that's what I dream about.
-Dialogue: 0,0:00:10.37,0:00:12.25,Default - Top,,0,0,0,,I'm actually a pretty normal guy.
-Dialogue: 0,0:00:12.85,0:00:16.41,Default - Top,,0,0,0,,But even in the waking world, I found...
-Dialogue: 0,0:00:16.41,0:00:19.80,Default,,0,0,0,,You must infiltrate people's dreams and stop their nightmares.
-Dialogue: 0,0:00:20.17,0:00:23.15,Default,,0,0,0,,Once the Nightmare has opened all of the Mind's Doors,
-Dialogue: 0,0:00:23.15,0:00:26.30,Default,,0,0,0,,the Dreamer will be trapped in their bad dream forever.
-Dialogue: 0,0:00:26.30,0:00:27.71,Default,,0,0,0,,How do I do that?
-Dialogue: 0,0:00:27.71,0:00:31.26,Default,,0,0,0,,Find the location of the Mind's Doors and stop the Nightmare.
-Dialogue: 0,0:00:31.67,0:00:34.26,Default - Top,,0,0,0,,I'd been given a real secret agent mission!
-Dialogue: 0,0:00:34.65,0:00:36.99,Default - Top,,0,0,0,,But do they really expect me to do this?!
-Dialogue: 0,0:00:46.57,0:00:50.53,English,,0,0,0,,{\c&HE3E5E5&}Protect the VIP bride.
-Dialogue: 0,0:00:59.75,0:01:01.42,English,,0,0,0,,{\c&HE3E5E5&}Good luck.
-Dialogue: 0,0:01:16.26,0:01:17.85,English,,0,0,0,,I'm on it.
-Dialogue: 0,0:01:28.52,0:01:34.07,Default,,0,0,0,,Do you, Koki, take Miyuki to be your wife,
-Dialogue: 0,0:01:34.69,0:01:40.04,Default,,0,0,0,,in sickness and in health, to have and to hold,
-Dialogue: 0,0:01:40.50,0:01:45.25,Default,,0,0,0,,to love and to cherish?
-Dialogue: 0,0:01:46.05,0:01:48.17,Default,,0,0,0,,Yes. I do.
-Dialogue: 0,0:01:53.02,0:01:55.25,Default,,0,0,0,,Thanks for helping with the rehearsal.
-Dialogue: 0,0:01:55.25,0:01:57.60,Default,,0,0,0,,Congratulations again, you two.
-Dialogue: 0,0:01:57.60,0:01:59.55,Default,,0,0,0,,Well see you for the ceremony.
-Dialogue: 0,0:01:59.55,0:02:00.22,Default,,0,0,0,,Of course.
-Dialogue: 0,0:02:37.34,0:02:38.81,Default,,0,0,0,,O Nightmare.
-Dialogue: 0,0:02:39.90,0:02:45.87,Default,,0,0,0,,Now... lead the world into a bad dream.
-Dialogue: 0,0:04:30.95,0:04:32.71,Default,,0,0,0,,Good night, Seven!
-Dialogue: 0,0:04:32.71,0:04:34.38,Default,,0,0,0,,You scared me!
-Dialogue: 0,0:04:34.38,0:04:35.92,Default,,0,0,0,,We meet again.
-Dialogue: 0,0:04:36.45,0:04:38.70,Default,,0,0,0,,You're a priest today?
-Dialogue: 0,0:04:40.28,0:04:41.38,Default,,0,0,0,,And what about you, Nem?
-Dialogue: 0,0:04:45.66,0:04:47.56,Default,,0,0,0,,I'm a wedding planner!
-Dialogue: 0,0:04:52.76,0:04:55.03,Default,,0,0,0,,Aren't weddings simply amazing?
-Dialogue: 0,0:04:55.44,0:04:58.31,Default,,0,0,0,,They make everyone involved happy.
-Dialogue: 0,0:04:58.62,0:05:01.72,Default,,0,0,0,,I just love that I get to be there for such a special day!
-Dialogue: 0,0:05:02.70,0:05:04.62,Default,,0,0,0,,I'm happy to see you aga—
-Dialogue: 0,0:05:04.62,0:05:05.62,Default,,0,0,0,,Seven, are you—
-Dialogue: 0,0:05:09.66,0:05:11.49,Default,,0,0,0,,Seven, are you on a mission again?
-Dialogue: 0,0:05:13.58,0:05:14.29,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:05:15.54,0:05:17.75,Default,,0,0,0,,I'm protecting the VIP bride.
-Dialogue: 0,0:05:17.75,0:05:19.18,Default,,0,0,0,,Oh right...
-Dialogue: 0,0:05:20.18,0:05:22.05,Default,,0,0,0,,The bride's father...
-Dialogue: 0,0:05:22.05,0:05:24.93,Default,,0,0,0,,He's Asamiya, the Minister for Foreign Affairs, right?
-Dialogue: 0,0:05:27.33,0:05:30.94,Default,,0,0,0,,Who could be after the daughter of such an important man?
-Dialogue: 0,0:05:32.83,0:05:34.66,Default,,0,0,0,,Could it be... a Nightmare?!
-Dialogue: 0,0:05:43.28,0:05:44.31,Default,,0,0,0,,Get back!
-Dialogue: 0,0:05:45.94,0:05:49.00,Default,,0,0,0,,Who are you? Did one of Minister Asamiya's rival factions send you?
-Dialogue: 0,0:05:51.37,0:05:52.83,Default,,0,0,0,,He's my childhood friend.
-Dialogue: 0,0:05:54.50,0:05:55.88,Default,,0,0,0,,Your childhood friend?!
-Dialogue: 0,0:05:58.43,0:06:00.09,Default,,0,0,0,,Not quite the assassin I was expecting...
-Dialogue: 0,0:06:00.09,0:06:01.20,Default,,0,0,0,,Get out of the way.
-Dialogue: 0,0:06:02.00,0:06:03.55,Default,,0,0,0,,I'm taking Miyuki out of here.
-Dialogue: 0,0:06:30.98,0:06:31.97,Default,,0,0,0,,That hurts!
-Dialogue: 0,0:06:34.64,0:06:36.96,Default,,0,0,0,,Not one speck of dust will touch you.
-Dialogue: 0,0:06:39.11,0:06:41.42,Default,,0,0,0,,Very impressive... Father.
-Dialogue: 0,0:06:42.75,0:06:44.47,Default,,0,0,0,,Are you the Dreamer?
-Dialogue: 0,0:06:48.90,0:06:52.96,Default,,0,0,0,,Why do you wish for this nightma—
-Dialogue: 0,0:06:58.18,0:06:59.54,Default,,0,0,0,,Already morning, huh?
-Dialogue: 0,0:07:12.25,0:07:14.10,Default,,0,0,0,,Good morning, Seven!
-Dialogue: 0,0:07:14.10,0:07:15.55,Default,,0,0,0,,Good morning!
-Dialogue: 0,0:07:15.90,0:07:17.38,Default,,0,0,0,,How's the mission coming?
-Dialogue: 0,0:07:17.82,0:07:20.40,Default,,0,0,0,,The Nightmare hasn't shown itself yet,
-Dialogue: 0,0:07:20.40,0:07:22.30,Default,,0,0,0,,but I think I found the Dreamer.
-Dialogue: 0,0:07:23.30,0:07:25.45,Default,,0,0,0,,The person after the bride?
-Dialogue: 0,0:07:25.45,0:07:28.51,Default,,0,0,0,,Yes. It seems he's her childhood friend.
-Dialogue: 0,0:07:29.52,0:07:31.13,Default,,0,0,0,,It seems?
-Dialogue: 0,0:07:33.44,0:07:36.02,Default,,0,0,0,,Not someone you know, then?
-Dialogue: 0,0:07:38.27,0:07:42.72,Default,,0,0,0,,He must have been infected in the bomber incident.
-Dialogue: 0,0:07:42.72,0:07:45.20,Default,,0,0,0,,Infected? What do you mean?
-Dialogue: 0,0:07:45.75,0:07:51.03,Default,,0,0,0,,Since we couldn't stop the Nightmare bomber from manifesting into reality the other day,
-Dialogue: 0,0:07:51.82,0:07:54.62,Default,,0,0,0,,it was able to further spread the nightmare contagion.
-Dialogue: 0,0:07:56.62,0:07:59.67,Default,,0,0,0,,You remember that eerie sky and sound, don't you?
-Dialogue: 0,0:08:03.72,0:08:09.90,Default,,0,0,0,,It caused an explosive rise in the number of dreams in which Nightmares dwell.
-Dialogue: 0,0:08:13.50,0:08:14.99,Default,,0,0,0,,You mean...
-Dialogue: 0,0:08:15.27,0:08:18.16,Default,,0,0,0,,Because I didn't stop the bomber...
-Dialogue: 0,0:08:23.72,0:08:28.82,Default,,0,0,0,,Do I really... have what it takes to be an agent?
-Dialogue: 0,0:08:31.75,0:08:34.66,Default,,0,0,0,,I do fine when I think it's just a dream.
-Dialogue: 0,0:08:35.82,0:08:38.30,Default,,0,0,0,,But when it turns real, I get so anxious...
-Dialogue: 0,0:08:39.70,0:08:42.30,Default,,0,0,0,,You've already made one dream come true.
-Dialogue: 0,0:08:56.02,0:09:00.02,Default,,0,0,0,,An undercover camera and a sensor alarm.
-Dialogue: 0,0:09:00.95,0:09:02.72,Default,,0,0,0,,An ID with a visor.
-Dialogue: 0,0:09:03.72,0:09:06.55,Default,,0,0,0,,These agent items should be useful on your missions.
-Dialogue: 0,0:09:06.55,0:09:07.86,Default,,0,0,0,,They're called Zeztz Gear.
-Dialogue: 0,0:09:10.02,0:09:12.79,Default,,0,0,0,,You've also got the Capsems.
+Dialogue: 0,0:00:01.80,0:00:03.14,Default - Top Italics,,0,0,0,,Sou Yorozu Baku.
+Dialogue: 0,0:00:03.14,0:00:05.65,Default - Top Italics,,0,0,0,,Sou um agente da CODE,\N a Organização Secreta de Defesa.
+Dialogue: 0,0:00:05.65,0:00:08.28,Default - Top Italics,,0,0,0,,Minha missão é erradicar o mal.
+Dialogue: 0,0:00:08.67,0:00:10.37,Default - Top Italics,,0,0,0,,Pelo menos, é com isso que eu sonho.
+Dialogue: 0,0:00:10.37,0:00:12.25,Default - Top Italics,,0,0,0,,Na verdade, sou um cara bem normal.
+Dialogue: 0,0:00:12.85,0:00:16.41,Default - Top Italics,,0,0,0,,No mundo real, descobri algumas coisas...
+Dialogue: 0,0:00:16.41,0:00:19.80,Default,,0,0,0,,Por isso, deve invadir os sonhos das pessoas\N e impedir os pesadelos antes que se realizem.
+Dialogue: 0,0:00:20.17,0:00:23.15,Default,,0,0,0,,Quando o Nightmare abrir todas as Portas da Mente,
+Dialogue: 0,0:00:23.15,0:00:26.30,Default,,0,0,0,,o Sonhador ficará preso em seu pesadelo para sempre.
+Dialogue: 0,0:00:26.30,0:00:27.71,Default,,0,0,0,,Como farei isso?
+Dialogue: 0,0:00:27.71,0:00:31.26,Default,,0,0,0,,Encontre as Portas da Mente e detenha o Nightmare.
+Dialogue: 0,0:00:31.67,0:00:34.26,Default - Top Italics,,0,0,0,,Recebi uma missão de agente secreto de verdade!
+Dialogue: 0,0:00:34.65,0:00:36.99,Default - Top Italics,,0,0,0,,Mas eles esperam mesmo que eu dê conta disso?!
+Dialogue: 0,0:00:46.57,0:00:50.53,English,,0,0,160,,{\c&HE3E5E5&}Proteja a noiva VIP.
+Dialogue: 0,0:00:59.75,0:01:01.42,English,,0,0,0,,{\c&HE3E5E5&}Boa sorte.
+Dialogue: 0,0:01:16.26,0:01:17.85,English,,0,0,0,,Eu cuido disso.
+Dialogue: 0,0:01:28.52,0:01:34.07,Default,,0,0,0,,Koki, aceita Miyuki como sua esposa
+Dialogue: 0,0:01:34.69,0:01:40.04,Default,,0,0,0,,na saúde e na doença,\N na alegria e na tristeza,
+Dialogue: 0,0:01:40.50,0:01:45.25,Default,,0,0,0,,para amá-la e respeitá-la\Ntodos os dias de sua vida?
+Dialogue: 0,0:01:46.05,0:01:48.17,Default,,0,0,0,,Sim. Aceito.
+Dialogue: 0,0:01:53.02,0:01:55.25,Default,,0,0,0,,Obrigada por ajudar no ensaio.
+Dialogue: 0,0:01:55.25,0:01:57.60,Default,,0,0,0,,Parabéns a vocês dois.
+Dialogue: 0,0:01:57.60,0:01:59.55,Default,,0,0,0,,Nos vemos na cerimônia.
+Dialogue: 0,0:01:59.55,0:02:00.22,Default,,0,0,0,,Certo.
+Dialogue: 0,0:02:37.34,0:02:38.81,Default,,0,0,0,,Ó, Nightmare.
+Dialogue: 0,0:02:40.14,0:02:41.54,Default,,0,0,0,,Chegou a sua hora.
+Dialogue: 0,0:02:42.82,0:02:46.15,Default,,0,0,0,,Faça o mundo despertar em um pesadelo.
+Dialogue: 0,0:04:30.95,0:04:32.71,Default,,0,0,0,,Boa noite, Seven!
+Dialogue: 0,0:04:32.71,0:04:34.38,Default,,0,0,0,,Que susto!
+Dialogue: 0,0:04:34.38,0:04:35.92,Default,,0,0,0,,Nos encontramos de novo.
+Dialogue: 0,0:04:36.45,0:04:38.70,Default,,0,0,0,,Hoje você é um padre?
+Dialogue: 0,0:04:40.28,0:04:41.38,Default,,0,0,0,,E quanto a você, Nem?
+Dialogue: 0,0:04:45.66,0:04:47.56,Default,,0,0,0,,Sou uma cerimonialista!
+Dialogue: 0,0:04:52.76,0:04:55.03,Default,,0,0,0,,Casamentos não são incríveis?
+Dialogue: 0,0:04:55.44,0:04:58.31,Default,,0,0,0,,Eles deixam todos os envolvidos felizes.
+Dialogue: 0,0:04:58.62,0:05:01.72,Default,,0,0,0,,Adoro poder estar presente num dia tão especial!
+Dialogue: 0,0:05:02.70,0:05:04.62,Default,,0,0,0,,Fico feliz em te ver de novo.
+Dialogue: 0,0:05:04.62,0:05:05.62,Default,,0,0,0,,Seven, você está...
+Dialogue: 0,0:05:09.66,0:05:11.49,Default,,0,0,0,,Seven, você está em uma missão de novo?
+Dialogue: 0,0:05:13.58,0:05:14.29,Default,,0,0,0,,Estou.
+Dialogue: 0,0:05:15.54,0:05:17.75,Default,,0,0,0,,Estou protegendo a noiva VIP.
+Dialogue: 0,0:05:17.75,0:05:19.18,Default,,0,0,0,,Entendi...
+Dialogue: 0,0:05:20.18,0:05:22.05,Default,,0,0,0,,O pai da noiva...
+Dialogue: 0,0:05:22.05,0:05:24.93,Default,,0,0,0,,É o Asamiya, o Ministro das Relações Exteriores, certo?
+Dialogue: 0,0:05:27.33,0:05:30.94,Default,,0,0,0,,Quem estaria atrás da filha\N de um homem tão importante?
+Dialogue: 0,0:05:32.83,0:05:34.66,Default,,0,0,0,,Não pode ser! \N Será que é um Nightmare?!
+Dialogue: 0,0:05:43.28,0:05:44.31,Default,,0,0,0,,Afastem-se!
+Dialogue: 0,0:05:46.05,0:05:46.55,Default,,0,0,0,,Quem é você?
+Dialogue: 0,0:05:47.02,0:05:49.35,Default,,0,0,0,,Algum opositor político do Ministro Asamiya te enviou?
+Dialogue: 0,0:05:51.37,0:05:52.83,Default,,0,0,0,,Ele é meu amigo de infância.
+Dialogue: 0,0:05:54.50,0:05:55.88,Default,,0,0,0,,Seu amigo de infância?!
+Dialogue: 0,0:05:58.43,0:06:00.09,Default,,0,0,0,,Não é bem o assassino que eu esperava...
+Dialogue: 0,0:06:00.09,0:06:01.20,Default,,0,0,0,,Saia da frente.
+Dialogue: 0,0:06:02.00,0:06:03.55,Default,,0,0,0,,Vou tirar a Miyuki daqui.
+Dialogue: 0,0:06:30.98,0:06:31.97,Default,,0,0,0,,Isso dói!
+Dialogue: 0,0:06:34.64,0:06:36.96,Default,,0,0,0,,Não deixarei um grão de poeira tocar em você.
+Dialogue: 0,0:06:39.11,0:06:41.42,Default,,0,0,0,,Impressionante, padre.
+Dialogue: 0,0:06:42.75,0:06:44.47,Default,,0,0,0,,Você é o Sonhador?
+Dialogue: 0,0:06:48.90,0:06:52.96,Default,,0,0,0,,Por que deseja este pesadelo?
+Dialogue: 0,0:06:58.18,0:06:59.54,Default,,0,0,0,,Já amanheceu?
+Dialogue: 0,0:07:12.25,0:07:14.10,Default - Italics,,0,0,0,,Bom dia, Seven!
+Dialogue: 0,0:07:14.10,0:07:15.55,Default,,0,0,0,,Bom dia!
+Dialogue: 0,0:07:15.90,0:07:17.38,Default,,0,0,0,,Como está indo a missão?
+Dialogue: 0,0:07:17.82,0:07:20.40,Default,,0,0,0,,O Nightmare ainda não apareceu,
+Dialogue: 0,0:07:20.40,0:07:22.30,Default,,0,0,0,,mas acho que encontrei o Sonhador.
+Dialogue: 0,0:07:23.30,0:07:25.45,Default,,0,0,0,,A pessoa atrás da noiva?
+Dialogue: 0,0:07:25.45,0:07:28.51,Default,,0,0,0,,Sim. Parece que ele é o amigo de infância dela.
+Dialogue: 0,0:07:29.52,0:07:31.13,Default,,0,0,0,,Parece?
+Dialogue: 0,0:07:33.44,0:07:36.02,Default,,0,0,0,,Não é ninguém que você conhece?
+Dialogue: 0,0:07:38.27,0:07:42.72,Default,,0,0,0,,Ele foi infectado no incidente do homem-bomba, então.
+Dialogue: 0,0:07:42.72,0:07:45.20,Default,,0,0,0,,Infectado?\N Como assim?
+Dialogue: 0,0:07:45.75,0:07:51.03,Default,,0,0,0,,Já que não impedimos sua manifestação no mundo real,
+Dialogue: 0,0:07:51.82,0:07:54.62,Default,,0,0,0,,o Nightmare pode espalhar o contágio do pesadelo.
+Dialogue: 0,0:07:56.62,0:07:59.67,Default,,0,0,0,,Você se lembra daquele céu e sons esquisitos?
+Dialogue: 0,0:08:03.72,0:08:09.90,Default,,0,0,0,,Aquilo ampliou os sonhos tomados pelos Nightmares.
+Dialogue: 0,0:08:13.50,0:08:14.99,Default,,0,0,0,,Não acredito...
+Dialogue: 0,0:08:15.27,0:08:18.16,Default,,0,0,0,,Tudo isso porque não detive o homem-bomba.
+Dialogue: 0,0:08:23.72,0:08:28.82,Default,,0,0,0,,Será que sou capaz mesmo de ser um agente?
+Dialogue: 0,0:08:31.75,0:08:34.66,Default,,0,0,0,,Eu me saio bem quando penso que é só um sonho.
+Dialogue: 0,0:08:35.82,0:08:38.30,Default,,0,0,0,,Mas quando tudo se torna real, fico tão ansioso...
+Dialogue: 0,0:08:39.70,0:08:42.30,Default,,0,0,0,,Você já realizou um sonho.
+Dialogue: 0,0:08:56.02,0:09:00.02,Default,,0,0,0,,Uma câmera espiã e um alarme de sensor.
+Dialogue: 0,0:09:00.95,0:09:02.72,Default,,0,0,0,,Um crachá com um visor.
+Dialogue: 0,0:09:03.72,0:09:06.55,Default,,0,0,0,,Esses itens de agente devem ser úteis em suas missões.
+Dialogue: 0,0:09:06.55,0:09:07.86,Default,,0,0,0,,Eles se chamam Zeztz Gear.
+Dialogue: 0,0:09:10.02,0:09:12.79,Default,,0,0,0,,Você também tem os Capsems.
 Dialogue: 0,0:09:12.79,0:09:14.02,Default,,0,0,0,,Capsems?
-Dialogue: 0,0:09:24.45,0:09:26.39,Default,,0,0,0,,I've never seen these ones before.
-Dialogue: 0,0:09:29.95,0:09:32.65,Default,,0,0,0,,"Wing. The power to fly."
-Dialogue: 0,0:09:37.09,0:09:40.52,Default,,0,0,0,,"Stream. The power to manipulate the air."
-Dialogue: 0,0:09:46.65,0:09:47.79,Default,,0,0,0,,Give it to me.
-Dialogue: 0,0:10:00.62,0:10:03.22,Default,,0,0,0,,The conditions are all in place.
-Dialogue: 0,0:10:03.22,0:10:07.89,Default,,0,0,0,,If you just put your mind to it, you can become a real agent.
-Dialogue: 0,0:10:13.75,0:10:17.75,Default,,0,0,0,,My... mind?
-Dialogue: 0,0:10:21.02,0:10:23.69,Default,,0,0,0,,That explosion at the main office the other day...
-Dialogue: 0,0:10:24.12,0:10:29.15,Default,,0,0,0,,It was massive, but we can't track down what caused it.
-Dialogue: 0,0:10:31.35,0:10:34.57,Default,,0,0,0,,I want Paranormal Affairs to find the truth.
-Dialogue: 0,0:10:34.92,0:10:38.03,Default,,0,0,0,,But you already shut down Paranormal Affairs!
-Dialogue: 0,0:10:38.03,0:10:39.12,Default,,0,0,0,,True.
-Dialogue: 0,0:10:39.49,0:10:42.89,Default,,0,0,0,,So I want you working in an unofficial capacity.
-Dialogue: 0,0:10:44.65,0:10:49.25,Default,,0,0,0,,From now on, whenever I get information on what seems like a Black Case,
-Dialogue: 0,0:10:49.92,0:10:51.79,Default,,0,0,0,,I'll quietly send it your way.
-Dialogue: 0,0:10:52.92,0:10:55.45,Default,,0,0,0,,I know the Nightmares are behind all this!
-Dialogue: 0,0:10:58.19,0:11:00.72,Default,,0,0,0,,If that's what you really believe...
-Dialogue: 0,0:11:02.22,0:11:05.79,Default,,0,0,0,,then find evidence that proves that it's real.
-Dialogue: 0,0:11:06.19,0:11:07.15,Default,,0,0,0,,Understood?
-Dialogue: 0,0:11:29.52,0:11:31.22,Default,,0,0,0,,I'm dyin' here!
-Dialogue: 0,0:11:31.22,0:11:33.59,Default,,0,0,0,,How can you keep this pace up?!
-Dialogue: 0,0:11:33.59,0:11:37.52,Default,,0,0,0,,It's good for your health, and management is an exhausting job.
-Dialogue: 0,0:11:37.52,0:11:39.65,Default,,0,0,0,,What's gotten you interesting in exercising all of a sudden?
-Dialogue: 0,0:11:39.65,0:11:42.72,Default,,0,0,0,,I gotta build up my stamina, too.
-Dialogue: 0,0:11:42.72,0:11:44.23,Default,,0,0,0,,For my mission and all...
-Dialogue: 0,0:11:44.72,0:11:45.85,Default,,0,0,0,,Mission?
-Dialogue: 0,0:11:46.19,0:11:47.99,Default,,0,0,0,,What did you get yourself into this time?!
-Dialogue: 0,0:11:47.99,0:11:49.15,Default,,0,0,0,,Oh, no, not like that!
-Dialogue: 0,0:11:49.15,0:11:52.78,Default,,0,0,0,,It's the mission of job hunting, you know...
-Dialogue: 0,0:11:58.26,0:11:59.31,Default,,0,0,0,,That old lady needs...
-Dialogue: 0,0:12:02.23,0:12:03.25,Default,,0,0,0,,Look out!
-Dialogue: 0,0:12:06.46,0:12:07.67,Default,,0,0,0,,That was close!
-Dialogue: 0,0:12:09.25,0:12:13.21,Default,,0,0,0,,I'm begging you, save helping people for your dreams.
-Dialogue: 0,0:12:13.21,0:12:15.42,Default,,0,0,0,,You'll get seriously hurt again if you don't!
-Dialogue: 0,0:12:17.19,0:12:18.25,Default,,0,0,0,,Sorry.
-Dialogue: 0,0:12:24.02,0:12:25.31,Default,,0,0,0,,Right this way, ma'am.
-Dialogue: 0,0:12:26.85,0:12:28.19,Default,,0,0,0,,Take it slow.
-Dialogue: 0,0:12:29.35,0:12:30.40,Default,,0,0,0,,Almost there.
-Dialogue: 0,0:12:30.89,0:12:32.11,Default,,0,0,0,,That guy...
-Dialogue: 0,0:12:34.85,0:12:36.65,Default,,0,0,0,,Thank you so much.
-Dialogue: 0,0:12:36.65,0:12:37.78,Default,,0,0,0,,You're welcome.
-Dialogue: 0,0:12:38.15,0:12:39.62,Default,,0,0,0,,Take care, now.
-Dialogue: 0,0:12:41.97,0:12:45.41,Default - Top,,0,0,0,,Is it just me, or is the Dreamer a nice guy?
-Dialogue: 0,0:12:46.45,0:12:49.12,Default,,0,0,0,,Sorry, Minami. I've gotta go.
-Dialogue: 0,0:12:49.12,0:12:51.38,Default,,0,0,0,,Hey, where are you going?!
-Dialogue: 0,0:13:08.35,0:13:10.32,Default,,0,0,0,,She's getting married, right?
-Dialogue: 0,0:13:10.32,0:13:12.45,Default,,0,0,0,,Minister Asamiya's daughter.
-Dialogue: 0,0:13:13.90,0:13:14.64,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:13:16.60,0:13:18.35,Default,,0,0,0,,Cheer up, man.
-Dialogue: 0,0:13:18.80,0:13:20.85,Default,,0,0,0,,Eat up.
-Dialogue: 0,0:13:21.53,0:13:22.75,Default,,0,0,0,,Go on.
-Dialogue: 0,0:13:23.75,0:13:28.29,Default,,0,0,0,,I know it sucks, but he's the heir to the Takarada Conglomerate.
-Dialogue: 0,0:13:28.29,0:13:30.21,Default,,0,0,0,,There's no way you stand a chance against him.
-Dialogue: 0,0:13:30.21,0:13:33.29,Default,,0,0,0,,We don't know that Miyuki really wants to marry him.
-Dialogue: 0,0:13:34.45,0:13:36.00,Default,,0,0,0,,C'mon, Ippei.
-Dialogue: 0,0:13:36.34,0:13:39.95,Default,,0,0,0,,Just because you happened to grow up nearby
-Dialogue: 0,0:13:39.95,0:13:42.55,Default,,0,0,0,,doesn't mean you both live in the same world.
-Dialogue: 0,0:13:43.15,0:13:48.59,Default,,0,0,0,,Listen, I know "I can't forget my first love" sounds romantic and all,
-Dialogue: 0,0:13:48.59,0:13:52.19,Default,,0,0,0,,but there's a fine line between being "devoted" and being a "stalker."
-Dialogue: 0,0:13:53.39,0:13:55.55,Default,,0,0,0,,The Dreamer's name is Ippei.
-Dialogue: 0,0:13:56.05,0:14:00.45,Default,,0,0,0,,He was childhood friends with and grew up near the bride, Miyuki Asamiya.
-Dialogue: 0,0:14:00.45,0:14:03.25,Default,,0,0,0,,He seems to still be in love with her.
-Dialogue: 0,0:14:03.25,0:14:06.65,Default,,0,0,0,,That may be why he's dreaming about kidnapping her.
-Dialogue: 0,0:14:07.32,0:14:08.60,Default,,0,0,0,,I see.
-Dialogue: 0,0:14:09.90,0:14:11.70,Default,,0,0,0,,You really can put in the work after all.
-Dialogue: 0,0:14:11.70,0:14:12.70,Default,,0,0,0,,Really?!
-Dialogue: 0,0:14:21.25,0:14:25.55,Default - Top,,0,0,0,,Gathering intel on persons of interest is part of a stellar agent's job.
-Dialogue: 0,0:14:27.00,0:14:30.85,Default,,0,0,0,,You've been a secret agent for years in your dreams.
-Dialogue: 0,0:14:31.65,0:14:34.47,Default,,0,0,0,,That experience is carrying into reality, you see.
-Dialogue: 0,0:14:37.55,0:14:40.36,Default,,0,0,0,,I can really be an agent?
-Dialogue: 0,0:14:40.70,0:14:42.90,Default,,0,0,0,,Well, night's coming soon.
-Dialogue: 0,0:14:43.60,0:14:47.58,Default,,0,0,0,,If his dream of abducting the bride comes true,
-Dialogue: 0,0:14:47.99,0:14:50.39,Default,,0,0,0,,it will put the Dreamer in danger.
-Dialogue: 0,0:15:15.29,0:15:17.27,Default,,0,0,0,,Nem, good night!
-Dialogue: 0,0:15:17.27,0:15:19.20,Default,,0,0,0,,Good night!
-Dialogue: 0,0:15:21.70,0:15:24.85,Default,,0,0,0,,Hey, the ceremony's starting soon.
-Dialogue: 0,0:15:25.25,0:15:26.48,Default,,0,0,0,,You'd better fix that bed head!
-Dialogue: 0,0:15:30.29,0:15:31.54,Default,,0,0,0,,Where are the bride and groom?
-Dialogue: 0,0:15:31.54,0:15:33.58,Default,,0,0,0,,They're waiting on standby.
-Dialogue: 0,0:15:36.10,0:15:37.59,Default,,0,0,0,,I guess it's go time.
-Dialogue: 0,0:15:45.29,0:15:46.85,Default,,0,0,0,,You're gorgeous...!
-Dialogue: 0,0:15:47.40,0:15:48.70,Default,,0,0,0,,Thank you.
-Dialogue: 0,0:15:48.70,0:15:52.80,Default,,0,0,0,,You're the prettiest girl in the world, Nem, so hearing you say that is like a dream.
-Dialogue: 0,0:15:53.49,0:15:56.69,Default,,0,0,0,,You're the most beautiful, Miyuki.
-Dialogue: 0,0:16:11.29,0:16:13.45,Default,,0,0,0,,I've got to protect her, no matter what.
-Dialogue: 0,0:16:15.20,0:16:19.95,Default,,0,0,0,,Yes. Nobody has the right to interrupt such a happy day.
-Dialogue: 0,0:16:21.25,0:16:23.19,Default,,0,0,0,,In case something goes wrong...
-Dialogue: 0,0:16:23.60,0:16:26.17,Default,,0,0,0,,Nem, please lead the evacuation.
-Dialogue: 0,0:16:26.17,0:16:27.39,Default,,0,0,0,,Roger!
+Dialogue: 0,0:09:24.45,0:09:26.39,Default,,0,0,0,,Nunca vi esses antes.
+Dialogue: 0,0:09:29.95,0:09:32.65,Default,,0,0,0,,"Wing. Concede o poder de voar."
+Dialogue: 0,0:09:37.09,0:09:40.52,Default,,0,0,0,,"Stream. Concede o poder de manipular o ar."
+Dialogue: 0,0:09:46.65,0:09:47.79,Default - Italics,,0,0,0,,Me dê isso.
+Dialogue: 0,0:10:00.62,0:10:03.22,Default,,0,0,0,,As condições estão favoráveis para você.
+Dialogue: 0,0:10:03.22,0:10:05.13,Default,,0,0,0,,Se mantiver sua mente determinada,
+Dialogue: 0,0:10:05.13,0:10:07.89,Default,,0,0,0,,pode se tornar um agente de verdade.
+Dialogue: 0,0:10:13.75,0:10:17.75,Default,,0,0,0,,Minha mente?
+Dialogue: 0,0:10:21.02,0:10:23.69,Default,,0,0,0,,Aquela explosão na sede outro dia...
+Dialogue: 0,0:10:24.12,0:10:29.15,Default,,0,0,0,,Foi enorme, mas não conseguimos determinar a causa.
+Dialogue: 0,0:10:31.35,0:10:34.57,Default,,0,0,0,,Quero que a sua divisão encontre a verdade.
+Dialogue: 0,0:10:34.92,0:10:38.03,Default,,0,0,0,,Mas o senhor dissolveu a divisão!
+Dialogue: 0,0:10:38.03,0:10:39.12,Default,,0,0,0,,Correto.
+Dialogue: 0,0:10:39.49,0:10:42.89,Default,,0,0,0,,Mas quero que trabalhem extraoficialmente.
+Dialogue: 0,0:10:44.65,0:10:45.82,Default,,0,0,0,,A partir de hoje,
+Dialogue: 0,0:10:45.82,0:10:49.25,Default,,0,0,0,,quando chegar algo que pareça um Caso Obscuro,
+Dialogue: 0,0:10:49.92,0:10:51.79,Default,,0,0,0,,vou enviá-lo diretamente para vocês.
+Dialogue: 0,0:10:52.92,0:10:55.45,Default,,0,0,0,,Sei que os Nightmares estão por trás de tudo isso!
+Dialogue: 0,0:10:58.19,0:11:00.72,Default,,0,0,0,,Se é nisso que você acredita...
+Dialogue: 0,0:11:02.22,0:11:05.79,Default,,0,0,0,,Então, encontre provas de que eles existem.
+Dialogue: 0,0:11:06.19,0:11:07.15,Default,,0,0,0,,Fui claro?
+Dialogue: 0,0:11:29.52,0:11:31.22,Default,,0,0,0,,Acho que vou ter um treco!
+Dialogue: 0,0:11:31.22,0:11:33.59,Default,,0,0,0,,Como consegue manter esse ritmo?!
+Dialogue: 0,0:11:33.59,0:11:37.52,Default,,0,0,0,,É bom para a saúde, mas exige esforço constante.
+Dialogue: 0,0:11:37.52,0:11:39.65,Default,,0,0,0,,Por que se interessou por exercícios tão de repente?
+Dialogue: 0,0:11:39.65,0:11:42.72,Default,,0,0,0,,Eu também preciso me manter em forma.
+Dialogue: 0,0:11:42.72,0:11:44.23,Default,,0,0,0,,Para minha missão e tudo mais...
+Dialogue: 0,0:11:44.72,0:11:45.85,Default,,0,0,0,,Missão?
+Dialogue: 0,0:11:46.19,0:11:47.99,Default,,0,0,0,,No que se meteu dessa vez?!
+Dialogue: 0,0:11:47.99,0:11:49.15,Default,,0,0,0,,Não! Não é isso!
+Dialogue: 0,0:11:49.15,0:11:52.78,Default,,0,0,0,,Estou falando da missão de buscar emprego, sabe?
+Dialogue: 0,0:11:58.26,0:11:59.31,Default,,0,0,0,,Aquela senhora precisa de...
+Dialogue: 0,0:12:02.23,0:12:03.25,Default,,0,0,0,,Cuidado!
+Dialogue: 0,0:12:06.46,0:12:07.67,Default,,0,0,0,,Foi por pouco!
+Dialogue: 0,0:12:09.25,0:12:13.21,Default,,0,0,0,,Por favor, deixe para ajudar as pessoas nos sonhos.
+Dialogue: 0,0:12:13.21,0:12:15.42,Default,,0,0,0,,Vai se machucar feio de novo se não parar!
+Dialogue: 0,0:12:17.19,0:12:18.25,Default,,0,0,0,,Desculpe.
+Dialogue: 0,0:12:24.02,0:12:25.31,Default,,0,0,0,,Deixe-me ajudá-la, senhora.
+Dialogue: 0,0:12:26.85,0:12:28.19,Default,,0,0,0,,Vá com calma.
+Dialogue: 0,0:12:29.35,0:12:30.40,Default,,0,0,0,,Estamos quase lá.
+Dialogue: 0,0:12:30.89,0:12:32.11,Default,,0,0,0,,Aquele cara...
+Dialogue: 0,0:12:34.85,0:12:36.65,Default,,0,0,0,,Muito obrigada.
+Dialogue: 0,0:12:36.65,0:12:37.78,Default,,0,0,0,,De nada.
+Dialogue: 0,0:12:38.15,0:12:39.62,Default,,0,0,0,,Se cuide.
+Dialogue: 0,0:12:41.97,0:12:45.41,Default - Italics,,0,0,0,,É impressão minha ou o Sonhador é um cara legal?
+Dialogue: 0,0:12:46.45,0:12:49.12,Default,,0,0,0,,Desculpe, Minami.\N Preciso resolver um assunto.
+Dialogue: 0,0:12:49.12,0:12:51.38,Default,,0,0,0,,Onde você vai?!
+Dialogue: 0,0:13:08.35,0:13:10.32,Default,,0,0,0,,Ela vai se casar, não é?
+Dialogue: 0,0:13:10.32,0:13:12.45,Default,,0,0,0,,A filha do Ministro Asamiya.
+Dialogue: 0,0:13:13.90,0:13:14.64,Default,,0,0,0,,Pois é.
+Dialogue: 0,0:13:16.60,0:13:18.35,Default,,0,0,0,,Não fique assim, cara.
+Dialogue: 0,0:13:18.80,0:13:20.85,Default,,0,0,0,,Come.
+Dialogue: 0,0:13:21.53,0:13:22.75,Default,,0,0,0,,Pode comer.
+Dialogue: 0,0:13:23.75,0:13:25.49,Default,,0,0,0,,Sei que é uma droga,
+Dialogue: 0,0:13:25.49,0:13:28.29,Default,,0,0,0,,mas ele é o herdeiro do Conglomerado Takarada.
+Dialogue: 0,0:13:28.29,0:13:30.21,Default,,0,0,0,,Você não tem a menor chance contra ele.
+Dialogue: 0,0:13:30.21,0:13:33.29,Default,,0,0,0,,Não sabemos se a Miyuki quer mesmo se casar com ele.
+Dialogue: 0,0:13:34.45,0:13:36.00,Default,,0,0,0,,Qual é, Ippei.
+Dialogue: 0,0:13:36.34,0:13:39.95,Default,,0,0,0,,Não é por terem crescido juntos
+Dialogue: 0,0:13:39.95,0:13:42.55,Default,,0,0,0,,que vão viver as mesmas escolhas.
+Dialogue: 0,0:13:43.15,0:13:48.59,Default - Italics,,0,0,0,,Eu sei, primeiro amor é bonito e tal...
+Dialogue: 0,0:13:48.59,0:13:52.19,Default,,0,0,0,,Mas há uma linha tênue entre amor e perseguição.
+Dialogue: 0,0:13:53.39,0:13:55.55,Default,,0,0,0,,O nome do Sonhador é Ippei.
+Dialogue: 0,0:13:56.05,0:14:00.45,Default,,0,0,0,,Ele era amigo de infância da noiva, Asamiya Miyuki.
+Dialogue: 0,0:14:00.45,0:14:03.25,Default,,0,0,0,,Parece que ele ainda é apaixonado por ela.
+Dialogue: 0,0:14:03.25,0:14:06.65,Default,,0,0,0,,Pode ser por isso que ele sonha em sequestrá-la.
+Dialogue: 0,0:14:07.32,0:14:08.60,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:14:09.90,0:14:11.70,Default,,0,0,0,,No fim, até que você leva jeito para a coisa.
+Dialogue: 0,0:14:11.70,0:14:12.70,Default,,0,0,0,,Sério?!
+Dialogue: 0,0:14:21.25,0:14:23.42,Default,,0,0,0,,Coletar informações sobre pessoas de interesse
+Dialogue: 0,0:14:23.42,0:14:25.55,Default,,0,0,0,,faz parte do trabalho de um agente profissional.
+Dialogue: 0,0:14:27.00,0:14:30.85,Default,,0,0,0,,Você é um agente secreto há anos em seus sonhos.
+Dialogue: 0,0:14:31.65,0:14:34.47,Default,,0,0,0,,Essa experiência está se manifestando na vida real.
+Dialogue: 0,0:14:37.55,0:14:40.36,Default,,0,0,0,,Posso mesmo ser um agente?
+Dialogue: 0,0:14:40.70,0:14:42.90,Default,,0,0,0,,Bem, a noite está chegando.
+Dialogue: 0,0:14:43.60,0:14:47.58,Default,,0,0,0,,Se o sonho dele de sequestrar a noiva virar realidade,
+Dialogue: 0,0:14:47.99,0:14:50.39,Default,,0,0,0,,o Sonhador estará em sério perigo.
+Dialogue: 0,0:15:15.29,0:15:17.27,Default,,0,0,0,,Nem, boa noite!
+Dialogue: 0,0:15:17.27,0:15:19.20,Default,,0,0,0,,Boa noite!
+Dialogue: 0,0:15:21.70,0:15:24.85,Default,,0,0,0,,A cerimônia já vai começar!
+Dialogue: 0,0:15:25.25,0:15:26.48,Default,,0,0,0,,Dê um jeito nesse topete!
+Dialogue: 0,0:15:30.29,0:15:31.54,Default,,0,0,0,,Onde estão os noivos?
+Dialogue: 0,0:15:31.54,0:15:33.58,Default,,0,0,0,,Eles estão aguardando.
+Dialogue: 0,0:15:36.10,0:15:37.59,Default,,0,0,0,,Acho que é hora do show.
+Dialogue: 0,0:15:45.29,0:15:46.85,Default,,0,0,0,,Você está deslumbrante!
+Dialogue: 0,0:15:47.40,0:15:48.70,Default,,0,0,0,,Obrigada.
+Dialogue: 0,0:15:48.70,0:15:52.80,Default,,0,0,0,,Você é a garota mais linda do mundo, Nem,\N então ouvir isso de você é como um sonho.
+Dialogue: 0,0:15:53.49,0:15:56.69,Default,,0,0,0,,Você é a mais linda, Miyuki.
+Dialogue: 0,0:16:11.29,0:16:13.45,Default,,0,0,0,,Tenho que protegê-la, custe o que custar.
+Dialogue: 0,0:16:15.20,0:16:19.95,Default,,0,0,0,,Ninguém tem o direito de estragar um dia tão feliz.
+Dialogue: 0,0:16:21.25,0:16:23.19,Default,,0,0,0,,Caso algo dê errado...
+Dialogue: 0,0:16:23.60,0:16:26.17,Default,,0,0,0,,Nem, por favor, leve as pessoas para um lugar seguro.
+Dialogue: 0,0:16:26.17,0:16:27.39,Default,,0,0,0,,Entendido!
 Dialogue: 0,0:16:51.85,0:16:52.95,Default,,0,0,0,,Miyuki.
-Dialogue: 0,0:18:17.40,0:18:18.59,Default,,0,0,0,,The Nightmare...
-Dialogue: 0,0:18:20.29,0:18:22.39,Default,,0,0,0,,Everyone, get away from the entrance!
-Dialogue: 0,0:18:22.39,0:18:23.40,Default,,0,0,0,,Hurry!
-Dialogue: 0,0:18:23.89,0:18:25.59,Default,,0,0,0,,Get away!
-Dialogue: 0,0:18:35.90,0:18:37.30,Default,,0,0,0,,Miyuki, are you all right?
-Dialogue: 0,0:18:37.30,0:18:38.35,Default,,0,0,0,,Yes...
-Dialogue: 0,0:18:41.22,0:18:42.70,Default,,0,0,0,,Get out of my way.
-Dialogue: 0,0:18:42.70,0:18:44.94,Default,,0,0,0,,The bride's coming with me.
-Dialogue: 0,0:18:51.03,0:18:53.78,English,,0,0,0,,Protect the VIP bride.
-Dialogue: 0,0:18:54.95,0:18:56.95,Default,,0,0,0,,That's my mission.
-Dialogue: 0,0:19:05.66,0:19:06.83,English,,0,0,0,,I'm on it.
+Dialogue: 0,0:18:17.40,0:18:18.59,Default,,0,0,0,,Nightmare!
+Dialogue: 0,0:18:20.29,0:18:22.39,Default,,0,0,0,,Pessoal, afastem-se da entrada!
+Dialogue: 0,0:18:22.39,0:18:23.40,Default,,0,0,0,,Rápido!
+Dialogue: 0,0:18:23.89,0:18:25.59,Default,,0,0,0,,Afastem-se!
+Dialogue: 0,0:18:35.90,0:18:37.30,Default,,0,0,0,,Miyuki, você está bem?
+Dialogue: 0,0:18:37.30,0:18:38.35,Default,,0,0,0,,Estou.
+Dialogue: 0,0:18:41.22,0:18:42.70,Default,,0,0,0,,Saia do meu caminho.
+Dialogue: 0,0:18:42.70,0:18:44.94,Default,,0,0,0,,A noiva vem comigo.
+Dialogue: 0,0:18:51.03,0:18:53.78,English,,0,0,0,,Proteger a noiva VIP.
+Dialogue: 0,0:18:54.95,0:18:56.95,Default,,0,0,0,,Essa é a minha missão.
+Dialogue: 0,0:19:05.66,0:19:06.83,English,,0,0,0,,Eu cuido disso.
 Dialogue: 0,0:19:09.95,0:19:10.85,Default,,0,0,0,,Henshin!
-Dialogue: 0,0:20:13.64,0:20:16.20,Default,,0,0,0,,There's crow feathers all over this chapel, huh...
-Dialogue: 0,0:20:17.79,0:20:19.32,Default,,0,0,0,,This Black Case...
-Dialogue: 0,0:20:19.69,0:20:21.67,Default,,0,0,0,,It could be a sign of an incoming Nightmare.
-Dialogue: 0,0:20:24.83,0:20:28.47,Default,,0,0,0,,Even if it is, what can we do about it?
-Dialogue: 0,0:20:29.64,0:20:31.09,Default,,0,0,0,,We have a lead.
+Dialogue: 0,0:20:13.64,0:20:16.20,Default,,0,0,0,,Tem penas de corvo por toda a capela.
+Dialogue: 0,0:20:17.79,0:20:19.32,Default,,0,0,0,,Este Caso Obscuro...
+Dialogue: 0,0:20:19.69,0:20:21.67,Default,,0,0,0,,Pode ser um sinal da chegada de um Nightmare.
+Dialogue: 0,0:20:24.83,0:20:28.47,Default,,0,0,0,,Mesmo que seja, o que podemos fazer?
+Dialogue: 0,0:20:29.64,0:20:31.09,Default,,0,0,0,,Temos uma pista.
 Dialogue: 0,0:20:32.46,0:20:33.93,Default,,0,0,0,,Yorozu Baku.
-Dialogue: 0,0:20:49.05,0:20:51.97,Default,,0,0,0,,Let's make this nightmare come true!
-Dialogue: 0,0:21:07.33,0:21:08.11,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:49.05,0:20:51.97,Default,,0,0,0,,Vamos tornar este pesadelo realidade!
+Dialogue: 0,0:21:07.33,0:21:08.11,Default,,0,0,0,,O quê?
 Dialogue: 0,0:21:13.00,0:21:14.03,Default,,0,0,0,,Miyuki!
-Dialogue: 0,0:21:23.95,0:21:25.07,Default,,0,0,0,,I'm on my way!
+Dialogue: 0,0:21:23.95,0:21:25.07,Default,,0,0,0,,Vou salvá-la!
 Dialogue: 0,0:22:13.70,0:22:14.40,Default,,0,0,0,,Miyuki...
 Dialogue: 0,0:22:15.97,0:22:16.73,Default,,0,0,0,,Miyuki!
 Dialogue: 0,0:22:18.29,0:22:19.22,Default,,0,0,0,,Miyuki?
 Dialogue: 0,0:22:21.36,0:22:22.42,Default,,0,0,0,,Miyuki!
 Dialogue: 0,0:22:23.00,0:22:23.90,Default,,0,0,0,,Miyuki...
-Dialogue: 0,0:22:24.53,0:22:26.62,Default,,0,0,0,,Only the bride fell?
-Dialogue: 0,0:22:29.33,0:22:33.12,Default,,0,0,0,,Yes! That's the nightmare the Dreamer fears!
-Dialogue: 0,0:22:37.57,0:22:41.21,Default,,0,0,0,,Can it be... the Dreamer is the bride?
-Dialogue: 0,0:22:49.00,0:22:52.18,Default,,0,0,0,,How can the bride want to be attacked?
-Dialogue: 0,0:22:55.62,0:22:57.11,Default,,0,0,0,,What's going on here?
-Dialogue: 0,0:23:06.82,0:23:08.95,Default - Top,,0,0,0,,Next time on Kamen Rider Zeztz:
-Dialogue: 0,0:23:08.95,0:23:11.79,Default - Top,,0,0,0,,I never would've imagined that you're the one wishing for this nightmare...
-Dialogue: 0,0:23:11.79,0:23:14.54,Default - Top,,0,0,0,,It changed my whole life.
-Dialogue: 0,0:23:14.54,0:23:17.17,Default - Top,,0,0,0,,It's your job to find that out in her dream.
-Dialogue: 0,0:23:17.17,0:23:20.96,Default - Top,,0,0,0,,I'm the one and only, Code Number: 7.
+Dialogue: 0,0:22:24.53,0:22:26.62,Default,,0,0,0,,Só a noiva caiu?
+Dialogue: 0,0:22:29.33,0:22:33.12,Default,,0,0,0,,Sim! Esse é o pesadelo que o Sonhador teme!
+Dialogue: 0,0:22:37.57,0:22:41.21,Default,,0,0,0,,Será que o Sonhador é, na verdade, a noiva?
+Dialogue: 0,0:22:49.00,0:22:52.18,Default,,0,0,0,,Como ela pode querer ser atacada?
+Dialogue: 0,0:22:55.62,0:22:57.11,Default,,0,0,0,,O que significa isso?
+Dialogue: 0,0:23:06.82,0:23:08.95,Default - Top Italics,,0,0,0,,No próximo episódio de Kamen Rider Zeztz:
+Dialogue: 0,0:23:08.95,0:23:11.79,Default - Top Italics,,0,0,0,,Nunca imaginaria que você desejaria este pesadelo.
+Dialogue: 0,0:23:11.79,0:23:14.54,Default - Top Italics,,0,0,0,,Isso mudou toda a minha vida.
+Dialogue: 0,0:23:14.54,0:23:17.17,Default - Top Italics,,0,0,0,,É seu trabalho descobrir isso no sonho dela.
+Dialogue: 0,0:23:17.17,0:23:20.96,Default - Top Italics,,0,0,0,,Eu sou único.\N Eu sou o Code Number: 7.
