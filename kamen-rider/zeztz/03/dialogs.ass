@@ -10,10 +10,10 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,0
-Style: Default - Italics,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,0
-Style: Default - Top,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,8,225,225,60,0
-Style: Default - Top Italics,Gandhi Sans,72,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,3.6,1.5,8,225,225,60,0
+Style: Default,Proxima Soft,65,&H00FFFFFF,&H00FFFFFF,&H00120703,&H80120703,-1,0,0,0,100,105,0,0,1,3.5,2.5,2,225,225,65,0
+Style: Default - Italics,Proxima Soft,65,&H00FFFFFF,&H00FFFFFF,&H00120703,&H80120703,-1,-1,0,0,100,105,0,0,1,3.5,2.5,2,225,225,65,0
+Style: Default - Top,Proxima Soft,65,&H00FFFFFF,&H00FFFFFF,&H00120703,&H80120703,-1,0,0,0,100,105,0,0,1,3.5,2.5,8,225,225,65,0
+Style: Default - Top Italics,Proxima Soft,65,&H00FFFFFF,&H00FFFFFF,&H00120703,&H80120703,-1,-1,0,0,100,105,0,0,1,3.5,2.5,8,225,225,65,0
 Style: English,Agenor Neue,70,&H00F5F6F7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,0,3,2,225,225,150,0
 
 [Events]
@@ -38,7 +38,7 @@ Dialogue: 0,0:00:51.93,0:00:54.26,Default - Top,,0,0,0,,Deve haver uma explicaç
 Dialogue: 0,0:00:55.26,0:00:58.86,Default - Top,,0,0,0,,Ninguém entende o subconsciente de uma pessoa.
 Dialogue: 0,0:01:02.90,0:01:05.79,Default - Top,,0,0,0,,Nem mesmo o próprio Sonhador.
 Dialogue: 0,0:01:11.43,0:01:14.98,Default - Top,,0,0,0,,Você não pode parar este pesadelo.
-Dialogue: 0,0:01:30.47,0:01:32.76,Default - Top,,0,0,0,,O que eu devo fazer?
+Dialogue: 0,0:01:30.47,0:01:32.76,Default - Top,,0,0,0,,O que devo fazer?
 Dialogue: 0,0:01:38.46,0:01:40.03,Default - Top,,0,0,0,,O que houve?!
 Dialogue: 0,0:01:40.03,0:01:42.13,Default - Top,,0,0,0,,Desculpe. Falei dormindo.
 Dialogue: 0,0:01:44.19,0:01:45.76,Default - Top,,0,0,0,,Teve um pesadelo?
@@ -47,15 +47,15 @@ Dialogue: 1,0:02:08.38,0:02:12.35,Default - Top Italics,,0,0,0,,Estamos na Deleg
 Dialogue: 1,0:02:12.35,0:02:15.07,Default - Top Italics,,0,0,0,,Assim como na explosão da viatura ontem,
 Dialogue: 1,0:02:15.07,0:02:18.10,Default - Top Italics,,0,0,0,,acredita-se que tenha sido um atentado,\N mas nenhum vestígio de explosivos foi encontrado.
 Dialogue: 0,0:02:18.10,0:02:22.30,Default - Top Italics,,0,0,0,,Nenhum suspeito foi visto nas câmeras de segurança.
-Dialogue: 0,0:02:24.58,0:02:26.59,Default - Top,,0,0,0,,Não foi um sonho?
+Dialogue: 0,0:02:24.58,0:02:26.59,Default - Top,,0,0,0,,Não foi só um sonho?
 Dialogue: 0,0:02:29.00,0:02:31.31,Default - Top,,0,0,0,,Isso é ruim, muito ruim, péssimo!
 Dialogue: 0,0:02:33.69,0:02:35.28,Default,,0,0,0,,Espera! Espera!
 Dialogue: 0,0:02:36.47,0:02:37.49,Default,,0,0,0,,Zero!
 Dialogue: 0,0:02:38.25,0:02:39.25,Default,,0,0,0,,Hã?
 Dialogue: 0,0:02:44.33,0:02:45.59,Default - Italics,,0,0,0,,Bom dia, Seven.
 Dialogue: 0,0:02:46.76,0:02:47.50,Default,,0,0,0,,Tomando um chazinho?
-Dialogue: 0,0:02:47.50,0:02:49.55,Default,,0,0,0,,Não sabia que robôs também bebiam chá!
-Dialogue: 0,0:02:50.73,0:02:52.10,Default,,0,0,0,,É combustível com sabor chá.
+Dialogue: 0,0:02:47.50,0:02:49.55,Default,,0,0,0,,Não sabia que robôs bebiam chá!
+Dialogue: 0,0:02:50.73,0:02:52.10,Default,,0,0,0,,É combustível com sabor de chá.
 Dialogue: 0,0:02:52.10,0:02:54.26,Default,,0,0,0,,Por que se dar ao trabalho de copiar um chá?
 Dialogue: 0,0:02:54.55,0:02:55.76,Default,,0,0,0,,Espere, não é por isso que estou aqui!
 Dialogue: 0,0:02:55.76,0:03:00.17,Default,,0,0,0,,O que vivi no sonho realmente aconteceu!
@@ -81,9 +81,9 @@ Dialogue: 0,0:04:38.18,0:04:40.12,Default,,0,0,0,,Decidimos dissolvê-la.
 Dialogue: 0,0:04:41.22,0:04:42.11,Default,,0,0,0,,Dissolvê-la?
 Dialogue: 0,0:04:44.28,0:04:45.62,Default,,0,0,0,,Como assim?
 Dialogue: 0,0:04:45.76,0:04:51.69,Default - Top,,0,0,0,,Desde que assumi, não vejo necessidade nela.
-Dialogue: 0,0:04:52.22,0:04:54.66,Default,,0,0,0,,É um desperdício do dinheiro dos contribuintes.
+Dialogue: 0,0:04:52.22,0:04:54.66,Default,,0,0,0,,É um desperdício de dinheiro dos contribuintes.
 Dialogue: 0,0:04:54.66,0:04:55.79,Default,,0,0,0,,Espere um pouco!
-Dialogue: 0,0:04:55.79,0:04:58.73,Default,,0,0,0,,Estou investigando um Caso Obscuro neste momento!
+Dialogue: 0,0:04:55.79,0:04:58.73,Default,,0,0,0,,Estou investigando um Caso Obscuro agora!
 Dialogue: 0,0:04:59.50,0:05:02.60,Default,,0,0,0,,Sabe a explosão na delegacia?\N Um Nightmare pode estar por trás...
 Dialogue: 0,0:05:02.60,0:05:03.63,Default,,0,0,0,,Um "Nightmare"?
 Dialogue: 0,0:05:03.63,0:05:04.53,Default,,0,0,0,,Sim.
@@ -111,7 +111,7 @@ Dialogue: 0,0:06:29.64,0:06:33.31,Default - Italics,,0,0,0,,Ser policial era o m
 Dialogue: 0,0:06:34.32,0:06:35.45,Default - Italics,,0,0,0,,Sr. Fujimi.
 Dialogue: 0,0:06:36.59,0:06:39.98,Default - Italics,,0,0,0,,Qual é o pesadelo que está desejando?
 Dialogue: 0,0:06:46.77,0:06:52.07,Default - Italics,,0,0,0,,Há vítimas e danos incalculáveis!
-Dialogue: 0,0:06:52.07,0:06:54.54,Default - Top,,0,0,0,,Equipe A, preparem-se para partir!
+Dialogue: 0,0:06:52.07,0:06:54.54,Default - Top,,0,0,0,,Equipe A, prepare-se para partir!
 Dialogue: 0,0:06:54.54,0:06:55.78,Default,,0,0,0,,Ele vai pagar!
 Dialogue: 0,0:06:55.78,0:06:57.26,Default,,0,0,0,,Encontrem o homem-bomba!
 Dialogue: 0,0:06:57.26,0:06:57.95,Default,,0,0,0,,Sim, senhora!
@@ -136,7 +136,7 @@ Dialogue: 0,0:07:37.14,0:07:39.88,Default,,0,0,0,,Eu nunca poderia desejar algo 
 Dialogue: 0,0:07:42.51,0:07:44.16,Default,,0,0,0,,Guarde os sonhos para quando dormir!
 Dialogue: 0,0:07:45.08,0:07:47.48,Default,,0,0,0,,Isso pode ser um sonho, mas não estou sonhando!
 Dialogue: 0,0:07:52.42,0:07:54.17,Default,,0,0,0,,Seven, você foi longe demais.
-Dialogue: 0,0:07:54.17,0:07:56.96,Default,,0,0,0,,O Sr. Fujimi é um honrado oficial da lei!
+Dialogue: 0,0:07:54.17,0:07:56.96,Default,,0,0,0,,O Sr. Fujimi tem um grande senso de justiça!
 Dialogue: 0,0:07:57.58,0:08:01.42,Default,,0,0,0,,Nem. Assumindo a personagem como sempre...
 Dialogue: 0,0:08:01.87,0:08:04.77,Default,,0,0,0,,A Divisão de Assuntos Paranormais está no caso.
 Dialogue: 0,0:08:04.77,0:08:06.90,Default,,0,0,0,,Fique aqui e comporte-se!
@@ -161,13 +161,13 @@ Dialogue: 0,0:09:50.30,0:09:51.22,Default,,0,0,0,,Com licença.
 Dialogue: 0,0:10:13.53,0:10:14.53,Default,,0,0,0,,Bingo.
 Dialogue: 0,0:10:54.25,0:10:55.34,Default,,0,0,0,,Sr. Fujimi!
 Dialogue: 0,0:11:00.19,0:11:01.76,Default,,0,0,0,,Eu só quero...
-Dialogue: 0,0:11:03.31,0:11:05.28,Default,,0,0,0,,Que tudo isso se exploda.
+Dialogue: 0,0:11:03.31,0:11:05.28,Default,,0,0,0,,Que tudo se exploda.
 Dialogue: 0,0:11:06.88,0:11:09.34,Default,,0,0,0,,Sr. Fujimi! Sr. Fujimi!
-Dialogue: 0,0:11:17.95,0:11:23.30,Default,,0,0,0,,Este é o pesadelo que seu subconsciente queria?
-Dialogue: 0,0:11:25.72,0:11:27.63,Default,,0,0,0,,Seu desejo é...
+Dialogue: 0,0:11:17.95,0:11:23.30,Default,,0,0,0,,Esse é o pesadelo que seu subconsciente queria?
+Dialogue: 0,0:11:25.72,0:11:27.63,Default,,0,0,0,,O seu desejo é...
 Dialogue: 0,0:11:35.95,0:11:37.94,Default,,0,0,0,,Destruir a polícia.
 Dialogue: 0,0:11:41.61,0:11:44.73,Default,,0,0,0,,Apareça, Nightmare!
-Dialogue: 0,0:11:52.71,0:11:57.86,Default,,0,0,0,,Que tudo isso se exploda!
+Dialogue: 0,0:11:52.71,0:11:57.86,Default,,0,0,0,,Que tudo se exploda!
 Dialogue: 0,0:12:13.30,0:12:14.78,Default,,0,0,0,,O que está acontecendo?!
 Dialogue: 0,0:12:27.92,0:12:29.25,Default,,0,0,0,,Não...
 Dialogue: 0,0:12:39.72,0:12:40.91,Default,,0,0,0,,Sr. Fujimi!
@@ -178,7 +178,7 @@ Dialogue: 0,0:13:52.62,0:13:54.67,Default,,0,0,0,,Ó, mundo...
 Dialogue: 0,0:13:55.85,0:13:57.99,Default,,0,0,0,,Desperte em um pesadelo!
 Dialogue: 0,0:14:04.56,0:14:07.76,Default,,0,0,0,,O quê? O que está acontecendo?
 Dialogue: 0,0:14:28.45,0:14:31.24,Default,,0,0,0,,Hã? Eu não estava em casa?
-Dialogue: 0,0:14:35.35,0:14:39.03,Default,,0,0,0,,A situação exigiu que eu o levasse de moto até aqui.
+Dialogue: 0,0:14:35.35,0:14:39.03,Default,,0,0,0,,A situação exigiu que eu te levasse de moto até aqui.
 Dialogue: 0,0:14:44.29,0:14:45.87,Default,,0,0,0,,O que diabos está acontecendo?
 Dialogue: 0,0:14:48.49,0:14:53.27,Default,,0,0,0,,Se não detivermos o Nightmare, o mundo vai acabar.
 Dialogue: 0,0:15:27.42,0:15:28.56,Default,,0,0,0,,Nightmare!
@@ -198,7 +198,7 @@ Dialogue: 0,0:16:31.76,0:16:33.99,Default,,0,0,0,,Não estamos em um sonho.
 Dialogue: 0,0:16:36.89,0:16:38.62,Default,,0,0,0,,Estamos no mundo real!
 Dialogue: 0,0:16:54.92,0:16:56.44,Default,,0,0,0,,Venha!
 Dialogue: 0,0:17:03.76,0:17:05.92,Default,,0,0,0,,Agora, vamos terminar o serviço.
-Dialogue: 0,0:17:05.92,0:17:13.78,Default,,0,0,0,,Vou explodir o corpo do Sonhador\N e completar o pesadelo!
+Dialogue: 0,0:17:05.92,0:17:13.78,Default,,0,0,0,,Vou explodir o Sonhador e completar o pesadelo!
 Dialogue: 0,0:17:21.29,0:17:22.67,Default,,0,0,0,,Não vou permitir.
 Dialogue: 0,0:17:25.63,0:17:27.46,Default - Italics,,0,0,0,,Deter o homem-bomba.
 Dialogue: 0,0:17:31.11,0:17:32.98,Default,,0,0,0,,Vou cumprir minha missão!
@@ -218,7 +218,7 @@ Dialogue: 0,0:21:13.74,0:21:14.78,Default,,0,0,0,,Desapareça.
 Dialogue: 0,0:21:48.88,0:21:52.78,Default - Italics,,0,0,0,,Missão cumprida.
 Dialogue: 0,0:22:00.75,0:22:02.30,Default,,0,0,0,,Bom dia.
 Dialogue: 0,0:22:03.52,0:22:04.74,Default,,0,0,0,,Você é...
-Dialogue: 0,0:22:06.59,0:22:09.82,Default,,0,0,0,,O senhor estava apenas tendo um pesadelo.
+Dialogue: 0,0:22:06.59,0:22:09.82,Default,,0,0,0,,O senhor estava tendo um pesadelo.
 Dialogue: 0,0:22:10.95,0:22:12.02,Default,,0,0,0,,Um sonho?
 Dialogue: 0,0:22:13.35,0:22:15.33,Default,,0,0,0,,Senhor! Senhor!
 Dialogue: 0,0:22:16.12,0:22:17.29,Default,,0,0,0,,O senhor está bem?
