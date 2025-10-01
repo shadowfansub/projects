@@ -23,7 +23,7 @@ Dialogue: 0,0:00:03.18,0:00:05.88,Default - Top Italics,,0,0,0,,Sou um agente da
 Dialogue: 0,0:00:05.88,0:00:08.64,Default - Top Italics,,0,0,0,,Minha missão é acabar com o mal.
 Dialogue: 0,0:00:09.02,0:00:10.52,Default - Top Italics,,0,0,0,,Pelo menos, é com isso que sonho todas as noites.
 Dialogue: 0,0:00:10.52,0:00:12.31,Default - Top Italics,,0,0,0,,Fora dos sonhos, sou um cara normal.
-Dialogue: 0,0:00:14.27,0:00:16.64,Default,,0,0,0,,Você tem um grande dever.
+Dialogue: 0,0:00:14.27,0:00:16.64,Default,,0,0,0,,Mas só precisará fazer uma coisa:
 Dialogue: 0,0:00:16.64,0:00:18.52,Default,,0,0,0,,Infiltrar-se nos sonhos dos outros,
 Dialogue: 0,0:00:18.52,0:00:20.97,Default,,0,0,0,,e impedir os pesadelos dos Nightmares\N antes que se realizem.
 Dialogue: 0,0:00:20.97,0:00:24.15,Default - Italics,,0,0,0,,Mas quem desejava o pesadelo do homem-bomba...
@@ -94,7 +94,7 @@ Dialogue: 0,0:05:14.36,0:05:15.49,Default,,0,0,0,,Não foi só um sonho.
 Dialogue: 0,0:05:16.85,0:05:18.74,Default,,0,0,0,,Acorde, Fujimi.
 Dialogue: 0,0:05:20.20,0:05:24.66,Default,,0,0,0,,Você está correndo atrás de delírios impossíveis.
 Dialogue: 0,0:05:27.26,0:05:28.94,Default,,0,0,0,,Tire um tempo para esfriar a cabeça.
-Dialogue: 0,0:05:44.19,0:05:48.66,Default,,0,0,0,,Qual foi o sentido de tudo isso?
+Dialogue: 0,0:05:44.19,0:05:48.66,Default,,0,0,0,,Qual é o sentido de tudo isso?
 Dialogue: 0,0:05:59.56,0:06:00.53,Default,,0,0,0,,Com licença!
 Dialogue: 0,0:06:00.53,0:06:01.89,Default,,0,0,0,,Onde fica a Divisão de Assuntos Paranormais?
 Dialogue: 0,0:06:01.89,0:06:02.74,Default,,0,0,0,,Assuntos Paranormais?
@@ -150,12 +150,12 @@ Dialogue: 0,0:08:28.67,0:08:30.14,Default,,0,0,0,,Eu preciso deter o homem-bomba
 Dialogue: 0,0:08:30.15,0:08:31.51,Default,,0,0,0,,O Sr. Fujimi está em perigo!
 Dialogue: 0,0:08:31.51,0:08:32.93,Default,,0,0,0,,Não vou cair nessa.
 Dialogue: 0,0:08:32.93,0:08:33.93,Default,,0,0,0,,Eu...
-Dialogue: 0,0:08:42.40,0:08:44.55,Default,,0,0,0,,Eu quero proteger o sonho do Sr. Fujimi!
+Dialogue: 0,0:08:42.40,0:08:44.55,Default,,0,0,0,,Quero proteger o sonho do Sr. Fujimi!
 Dialogue: 0,0:08:46.87,0:08:48.28,Default,,0,0,0,,Por favor, preciso da sua ajuda.
 Dialogue: 0,0:09:09.71,0:09:10.72,Default,,0,0,0,,Nem...
 Dialogue: 0,0:09:13.53,0:09:18.10,Default,,0,0,0,,A polícia tem o dever sagrado de proteger o povo.
 Dialogue: 0,0:09:18.99,0:09:21.92,Default,,0,0,0,,O Sr. Fujimi é importante para mim também.
-Dialogue: 0,0:09:28.51,0:09:31.41,Default,,0,0,0,,É assim que se fala, Chefe por um Dia.
+Dialogue: 0,0:09:28.51,0:09:31.41,Default,,0,0,0,,É assim que se fala, Chefe de Polícia por um Dia.
 Dialogue: 0,0:09:44.13,0:09:45.31,Default,,0,0,0,,Tenham um bom trabalho!
 Dialogue: 0,0:09:50.30,0:09:51.22,Default,,0,0,0,,Com licença.
 Dialogue: 0,0:10:13.53,0:10:14.53,Default,,0,0,0,,Bingo.
@@ -166,7 +166,7 @@ Dialogue: 0,0:11:06.88,0:11:09.34,Default,,0,0,0,,Sr. Fujimi! Sr. Fujimi!
 Dialogue: 0,0:11:17.95,0:11:23.30,Default,,0,0,0,,Este é o pesadelo que seu subconsciente queria?
 Dialogue: 0,0:11:25.72,0:11:27.63,Default,,0,0,0,,Seu desejo é...
 Dialogue: 0,0:11:35.95,0:11:37.94,Default,,0,0,0,,Destruir a polícia.
-Dialogue: 0,0:11:41.61,0:11:44.73,Default,,0,0,0,,Cadê você?! Nightmare!
+Dialogue: 0,0:11:41.61,0:11:44.73,Default,,0,0,0,,Apareça, Nightmare!
 Dialogue: 0,0:11:52.71,0:11:57.86,Default,,0,0,0,,Que tudo isso se exploda!
 Dialogue: 0,0:12:13.30,0:12:14.78,Default,,0,0,0,,O que está acontecendo?!
 Dialogue: 0,0:12:27.92,0:12:29.25,Default,,0,0,0,,Não...
@@ -175,7 +175,7 @@ Dialogue: 0,0:12:43.45,0:12:46.39,Default,,0,0,0,,Eu realizei o seu sonho.
 Dialogue: 0,0:12:55.76,0:12:57.36,Default,,0,0,0,,Sr. Fujimi!
 Dialogue: 0,0:13:34.54,0:13:35.75,Default,,0,0,0,,O que é isso?
 Dialogue: 0,0:13:52.62,0:13:54.67,Default,,0,0,0,,Ó, mundo...
-Dialogue: 0,0:13:55.85,0:13:57.99,Default,,0,0,0,,Desperte em um pesadelo.
+Dialogue: 0,0:13:55.85,0:13:57.99,Default,,0,0,0,,Desperte em um pesadelo!
 Dialogue: 0,0:14:04.56,0:14:07.76,Default,,0,0,0,,O quê? O que está acontecendo?
 Dialogue: 0,0:14:28.45,0:14:31.24,Default,,0,0,0,,Hã? Eu não estava em casa?
 Dialogue: 0,0:14:35.35,0:14:39.03,Default,,0,0,0,,A situação exigiu que eu o levasse de moto até aqui.
