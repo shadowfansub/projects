@@ -46,7 +46,7 @@ Comment: 0,0:01:09.41,0:01:14.12,TR,,0,0,0,karaoke,Se fizer apenas isso, você �
 Comment: 0,0:01:14.30,0:01:15.99,TR,,0,0,0,karaoke,Se for homem de verdade
 Comment: 0,0:01:16.32,0:01:19.14,TR,,0,0,0,karaoke,Erga-se em defesa dos mais fracos!
 Comment: 0,0:01:19.32,0:01:24.20,TR,,0,0,0,karaoke,As mulheres também, não fiquem só olhando!
-Comment: 0,0:01:24.32,0:01:29.14,TR,,0,0,0,karaoke,Sejam corajosos e lutem pelo que é certo!
+Comment: 0,0:01:24.32,0:01:29.14,TR,,0,0,0,karaoke,Seja corajoso e lute pelo que é certo!
 Comment: 0,0:01:29.42,0:01:34.48,TR,,0,0,0,karaoke,Se fizer apenas isso, você é um herói!
 Comment: 0,0:01:34.54,0:01:35.34,TR,,0,0,0,karaoke,Isso aí!
 Comment: 0,0:00:00.00,0:00:00.00,RO,,0,0,0,,
@@ -114,9 +114,9 @@ Dialogue: 0,0:01:19.14,0:01:19.44,TR,,0,0,0,fx,{\an5\move(720.00,81.50,-720.00,8
 Dialogue: 0,0:01:19.02,0:01:19.32,TR,,0,0,0,fx,{\an5\move(2160.00,81.50,720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(300,0)}As mulheres também, não fiquem só olhando!
 Dialogue: 1,0:01:19.32,0:01:24.20,TR,,0,0,0,fx,{\an5\pos(720.00,81.50)\3c&HAF401E&\blur3}As mulheres também, não fiquem só olhando!
 Dialogue: 0,0:01:24.20,0:01:24.50,TR,,0,0,0,fx,{\an5\move(720.00,81.50,-720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}As mulheres também, não fiquem só olhando!
-Dialogue: 0,0:01:24.02,0:01:24.32,TR,,0,0,0,fx,{\an5\move(2160.00,81.50,720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(300,0)}Sejam corajosos e lutem pelo que é certo!
-Dialogue: 1,0:01:24.32,0:01:29.14,TR,,0,0,0,fx,{\an5\pos(720.00,81.50)\3c&HAF401E&\blur3}Sejam corajosos e lutem pelo que é certo!
-Dialogue: 0,0:01:29.14,0:01:29.44,TR,,0,0,0,fx,{\an5\move(720.00,81.50,-720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}Sejam corajosos e lutem pelo que é certo!
+Dialogue: 0,0:01:24.02,0:01:24.32,TR,,0,0,0,fx,{\an5\move(2160.00,81.50,720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(300,0)}Seja corajoso e lute pelo que é certo!
+Dialogue: 1,0:01:24.32,0:01:29.14,TR,,0,0,0,fx,{\an5\pos(720.00,81.50)\3c&HAF401E&\blur3}Seja corajoso e lute pelo que é certo!
+Dialogue: 0,0:01:29.14,0:01:29.44,TR,,0,0,0,fx,{\an5\move(720.00,81.50,-720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}Seja corajoso e lute pelo que é certo!
 Dialogue: 0,0:01:29.12,0:01:29.42,TR,,0,0,0,fx,{\an5\move(2160.00,81.50,720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se fizer apenas isso, você é um herói!
 Dialogue: 1,0:01:29.42,0:01:34.48,TR,,0,0,0,fx,{\an5\pos(720.00,81.50)\3c&HAF401E&\blur3}Se fizer apenas isso, você é um herói!
 Dialogue: 0,0:01:34.48,0:01:34.78,TR,,0,0,0,fx,{\an5\move(720.00,81.50,-720.00,81.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se fizer apenas isso, você é um herói!

@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H00120703,&HA0120703,-1,0,0,0,100,105,0,0,1,3.2,2.5,2,30,30,65,1
-Style: Default - Italics,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H00120703,&HA0120703,-1,-1,0,0,100,105,0,0,1,3.2,2.5,2,30,30,65,1
-Style: Default - Top,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H00120703,&HA0120703,-1,0,0,0,100,105,0,0,1,3.2,2.5,8,30,30,65,1
-Style: Default - Top Italics,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H00120703,&HA0120703,-1,-1,0,0,100,105,0,0,1,3.2,2.5,8,30,30,65,1
+Style: Default,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H002A170F,&HA0170602,-1,0,0,0,100,105,0,0,1,3.5,2.5,2,30,30,65,1
+Style: Default - Italics,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H002A170F,&HA0170602,-1,-1,0,0,100,105,0,0,1,3.5,2.5,2,30,30,65,1
+Style: Default - Top,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H002A170F,&HA0170602,-1,0,0,0,100,105,0,0,1,3.5,2.5,8,30,30,65,1
+Style: Default - Top Italics,Proxima Soft,60,&H00FFFFFF,&H00FFFFFF,&H002A170F,&HA0170602,-1,-1,0,0,100,105,0,0,1,3.5,2.5,8,30,30,65,1
 Style: Signs,Proxima Soft,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,0,1
 
 [Events]
@@ -24,29 +24,29 @@ Comment: 0,0:00:29.01,0:00:29.05,Default - Italics,chptr,0,0,0,,{Abertura} = Ope
 Comment: 0,0:02:07.98,0:02:08.01,Default - Italics,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:02:13.96,0:02:20.36,Default - Italics,,0,0,0,,Achamos que sempre viveremos esses tempos de paz.
 Dialogue: 0,0:02:20.78,0:02:24.47,Default - Italics,,0,0,0,,Se houvesse algo desconhecido espreitando,
-Dialogue: 0,0:02:24.47,0:02:27.77,Default - Italics,,0,0,0,,pronto para destruir a vida como conhecemos,
-Dialogue: 0,0:02:27.77,0:02:31.40,Default - Italics,,0,0,0,,a maioria das pessoas não ligaria pra isso.
-Dialogue: 0,0:02:34.15,0:02:40.68,Default - Italics,,0,0,0,,E se a realidade em que vivemos fosse uma mentira?
-Dialogue: 0,0:02:55.65,0:02:58.16,Default,,0,0,0,,Já ouvi. Pare de buzinar, cara.
+Dialogue: 0,0:02:24.47,0:02:27.77,Default - Italics,,0,0,0,,prestes a destruir a vida como conhecemos,
+Dialogue: 0,0:02:27.77,0:02:31.40,Default - Italics,,0,0,0,,a maioria das pessoas não ligaria para isso.
+Dialogue: 0,0:02:34.15,0:02:40.68,Default - Italics,,0,0,0,,E se a realidade em que vivemos fosse uma farsa?
+Dialogue: 0,0:02:55.65,0:02:58.16,Default,,0,0,0,,Já ouvi. Para de buzinar, cara.
 Dialogue: 0,0:02:58.90,0:02:59.73,Default,,0,0,0,,O que disse?
 Dialogue: 0,0:03:00.80,0:03:01.93,Default,,0,0,0,,Bem-vindo!
 Dialogue: 0,0:03:07.33,0:03:08.28,Default,,0,0,0,,Amigo...
-Dialogue: 0,0:03:08.28,0:03:09.45,Default,,0,0,0,,Isso é alguma brincadeira?
-Dialogue: 0,0:03:09.45,0:03:10.19,Default,,0,0,0,,Perdão?
+Dialogue: 0,0:03:08.28,0:03:09.45,Default,,0,0,0,,Está de brincadeira comigo?
+Dialogue: 0,0:03:09.45,0:03:10.19,Default,,0,0,0,,Como?
 Dialogue: 0,0:03:10.19,0:03:11.19,Default,,0,0,0,,Nem vem com essa!
 Dialogue: 0,0:03:11.19,0:03:13.14,Default,,0,0,0,,Veja o medidor da bomba!
 Dialogue: 0,0:03:13.14,0:03:14.79,Default,,0,0,0,,Meu tanque já deveria estar cheio!
-Dialogue: 0,0:03:14.79,0:03:15.95,Default,,0,0,0,,Não é possível...
+Dialogue: 0,0:03:14.79,0:03:15.95,Default,,0,0,0,,Não é possível—
 Dialogue: 0,0:03:16.58,0:03:17.38,Default,,0,0,0,,O quê?!
 Dialogue: 0,0:03:23.31,0:03:24.96,Default,,0,0,0,,Uma oscilação foi detectada.
 Dialogue: 0,0:03:28.83,0:03:30.99,Default,,0,0,0,,Será que tem algum vazamento?
 Dialogue: 0,0:03:33.80,0:03:34.60,Default,,0,0,0,,Hã?
 Dialogue: 0,0:03:35.60,0:03:36.97,Default,,0,0,0,,O que é isso?
 Dialogue: 0,0:04:12.14,0:04:14.81,Default - Italics,,0,0,0,,Aqui são os Night Raiders.\N Alvo localizado.
-Dialogue: 0,0:04:14.81,0:04:19.21,Default - Italics,,0,0,0,,Aqui é o CIC. Nível de Ataque 3.\N Iniciem a operação.
+Dialogue: 0,0:04:14.81,0:04:19.21,Default - Italics,,0,0,0,,Aqui é o CIC. Nível de Ataque C3.\N Iniciem a operação.
 Dialogue: 0,0:04:31.49,0:04:33.49,Default,,0,0,0,,O que foi isso?
 Dialogue: 0,0:04:39.92,0:04:42.47,Default - Italics,,0,0,0,,O alvo está indo para o local planejado.
-Dialogue: 0,0:04:43.85,0:04:46.94,Default - Italics,,0,0,0,,Nenhum humano na área.\N Abortar a segunda etapa.
+Dialogue: 0,0:04:43.85,0:04:46.94,Default - Italics,,0,0,0,,Nenhum civil na área.\N Abortar a segunda etapa.
 Dialogue: 0,0:04:47.25,0:04:48.16,Default - Italics,,0,0,0,,Entendido.
 Dialogue: 0,0:04:48.88,0:04:50.84,Default - Italics,,0,0,0,,Iniciando a etapa final.
 Dialogue: 0,0:05:49.76,0:05:50.80,Default,,0,0,0,,Iniciem o ataque!
@@ -62,11 +62,11 @@ Dialogue: 0,0:06:56.96,0:06:58.00,Default,,0,0,0,,Ela tinha forma de lesma
 Dialogue: 0,0:06:58.00,0:07:00.83,Default,,0,0,0,,e seu corpo era composto por 95% de água.
 Dialogue: 0,0:07:01.92,0:07:05.30,Default,,0,0,0,,Além disso, parece que gostava de etanol.
 Dialogue: 0,0:07:05.30,0:07:08.13,Default,,0,0,0,,Não é o principal componente do álcool?
-Dialogue: 0,0:07:09.11,0:07:11.89,Default,,0,0,0,,Odeio bebuns!
+Dialogue: 0,0:07:09.11,0:07:11.89,Default,,0,0,0,,Eu realmente odeio bebuns!
 Dialogue: 0,0:07:13.36,0:07:15.73,Default,,0,0,0,,Também está presente na gasolina e no diesel.
-Dialogue: 0,0:07:16.65,0:07:17.75,Default,,0,0,0,,Por isso atacou um posto—
+Dialogue: 0,0:07:16.65,0:07:17.75,Default,,0,0,0,,Por isso atacou o posto—
 Dialogue: 0,0:07:17.75,0:07:19.15,Default,,0,0,0,,E devorou uma pessoa.
-Dialogue: 0,0:07:27.12,0:07:30.65,Default,,0,0,0,,Monstros são monstros. São todos iguais.
+Dialogue: 0,0:07:27.12,0:07:30.65,Default,,0,0,0,,Monstros são monstros.\N São todos iguais.
 Dialogue: 0,0:07:33.40,0:07:34.87,Default,,0,0,0,,Vice-Capitã!
 Dialogue: 0,0:07:36.08,0:07:38.63,Default,,0,0,0,,É verdade que irão recrutar um novo membro?
 Dialogue: 0,0:07:38.63,0:07:39.58,Default,,0,0,0,,Parece que sim.
@@ -82,14 +82,14 @@ Dialogue: 0,0:09:04.22,0:09:05.73,Default,,0,0,0,,Ajuste sua posição! Rápido!
 Dialogue: 0,0:09:14.85,0:09:16.78,Default,,0,0,0,,Todos cometem erros.
 Dialogue: 0,0:09:17.40,0:09:18.18,Default,,0,0,0,,Não fique assim.
 Dialogue: 0,0:09:18.18,0:09:18.89,Default,,0,0,0,,Exatamente.
-Dialogue: 0,0:09:18.89,0:09:21.52,Default,,0,0,0,,No final, conseguiu resgatar aquelas pessoas, certo?
+Dialogue: 0,0:09:18.89,0:09:21.52,Default,,0,0,0,,No fim, conseguiu resgatar aquelas pessoas, certo?
 Dialogue: 0,0:09:22.06,0:09:25.78,Default,,0,0,0,,O Líder do Esquadrão, Fukami, foi quem as salvou.
 Dialogue: 0,0:09:27.83,0:09:28.76,Default,,0,0,0,,Entendo.
 Dialogue: 0,0:09:31.07,0:09:33.29,Default,,0,0,0,,Gosto deste trabalho.
 Dialogue: 0,0:09:33.56,0:09:37.49,Default,,0,0,0,,Mas talvez eu não sirva para isso.
 Dialogue: 0,0:09:39.89,0:09:40.86,Default,,0,0,0,,Komon!
 Dialogue: 0,0:09:46.51,0:09:48.16,Default,,0,0,0,,Isto estava na sua mesa.
-Dialogue: 0,0:09:53.16,0:09:55.98,Default,,0,0,0,,Será que é o que estou imaginando?
+Dialogue: 0,0:09:53.16,0:09:55.98,Default,,0,0,0,,Será que é o que estou pensando?
 Dialogue: 0,0:09:55.98,0:09:58.01,Default,,0,0,0,,Uma carta de demissão?
 Dialogue: 0,0:10:01.68,0:10:03.52,Default,,0,0,0,,Mas não era isso, era?
 Dialogue: 0,0:10:03.94,0:10:06.31,Default,,0,0,0,,Era um relatório de exame físico.
@@ -105,9 +105,9 @@ Dialogue: 0,0:10:30.05,0:10:33.12,Default,,0,0,0,,são sempre retratados como um
 Dialogue: 0,0:10:35.41,0:10:38.33,Default,,0,0,0,,Este é o tema do meu TCC.
 Dialogue: 0,0:10:38.83,0:10:41.12,Default,,0,0,0,,"Retratos de Famílias."
 Dialogue: 0,0:10:41.12,0:10:43.26,Default,,0,0,0,,"Retratos de Famílias?"
-Dialogue: 0,0:10:45.11,0:10:47.68,Default,,0,0,0,,Um dia, quero conhecer a sua família.
+Dialogue: 0,0:10:45.11,0:10:47.68,Default,,0,0,0,,Um dia, quero conhecer sua família também.
 Dialogue: 0,0:10:48.72,0:10:49.59,Default,,0,0,0,,Hã?
-Dialogue: 0,0:10:50.65,0:10:52.58,Default,,0,0,0,,Não é como se você fosse me apresentar pra eles!
+Dialogue: 0,0:10:50.65,0:10:52.58,Default,,0,0,0,,Não é como se fosse me apresentar pra eles!
 Dialogue: 0,0:10:52.58,0:10:55.29,Default,,0,0,0,,Só queria poder conhecê-los.
 Dialogue: 0,0:10:57.57,0:10:59.84,Default,,0,0,0,,Certo. Vou pensar.
 Dialogue: 0,0:10:59.84,0:11:02.63,Default,,0,0,0,,Sério? Ótimo!
@@ -118,11 +118,11 @@ Dialogue: 0,0:11:11.47,0:11:12.61,Default,,0,0,0,,Cuide-se.
 Dialogue: 0,0:11:19.24,0:11:21.00,Default - Top Italics,,0,0,0,,Nexus.
 Dialogue: 0,0:11:22.45,0:11:24.00,Default - Top Italics,,0,0,0,,Nexus.
 Comment: 0,0:11:24.00,0:11:24.03,Default,chptr,0,0,0,,{Parte B} = Part B
-Dialogue: 0,0:11:45.09,0:11:46.69,Default,,0,0,0,,Cheguei no horário e no local combinados.
-Dialogue: 0,0:11:47.57,0:11:49.82,Default,,0,0,0,,Isso é estranho.
-Dialogue: 0,0:12:09.81,0:12:11.95,Default,,0,0,0,,Komon Kazuki, correto?
+Dialogue: 0,0:11:45.09,0:11:46.69,Default,,0,0,0,,Cheguei no horário e local combinados.
+Dialogue: 0,0:11:47.57,0:11:49.82,Default,,0,0,0,,Isso é bem esquisito.
+Dialogue: 0,0:12:09.81,0:12:11.95,Default,,0,0,0,,Komon Kazuki?
 Dialogue: 0,0:12:12.89,0:12:13.72,Default,,0,0,0,,Isso.
-Dialogue: 0,0:12:14.05,0:12:17.53,Default,,0,0,0,,Meu nome é Matsunaga. Por favor, entre.
+Dialogue: 0,0:12:14.05,0:12:17.53,Default,,0,0,0,,Meu nome é Matsunaga.\N Por favor, entre.
 Dialogue: 0,0:12:20.38,0:12:21.29,Default,,0,0,0,,Por aqui!
 Dialogue: 0,0:12:21.29,0:12:21.82,Default,,0,0,0,,Por aqui.
 Dialogue: 0,0:12:21.82,0:12:23.41,Default,,0,0,0,,Por aqui? Como assim?
@@ -137,32 +137,30 @@ Dialogue: 0,0:12:58.96,0:13:02.43,Default,,0,0,0,,Todas as leituras de K02 a K55
 Dialogue: 0,0:13:03.17,0:13:11.19,Default,,0,0,0,,A análise do fator tipo R7 indica +87 e -0.
 Dialogue: 0,0:13:08.44,0:13:10.01,Default - Top,,0,0,0,,Esperem...
 Dialogue: 0,0:13:10.46,0:13:11.57,Default - Top,,0,0,0,,Esperem!
-Dialogue: 0,0:13:12.08,0:13:14.85,Default,,0,0,0,,O que foi?\N O cinto está muito apertado?
+Dialogue: 0,0:13:12.08,0:13:14.85,Default,,0,0,0,,O que foi?\N O cinto está apertado?
 Dialogue: 0,0:13:14.85,0:13:16.68,Default,,0,0,0,,Não é isso!
-Dialogue: 0,0:13:17.27,0:13:21.15,Default,,0,0,0,,Quem são vocês? Onde estou?
+Dialogue: 0,0:13:17.27,0:13:21.15,Default,,0,0,0,,Quem são vocês? Onde estou? Que lugar é esse?
 Dialogue: 0,0:13:21.15,0:13:24.58,Default,,0,0,0,,Não se preocupe.\N O exame terminará em breve.
 Dialogue: 0,0:13:24.58,0:13:26.04,Default,,0,0,0,,Exame de quê?
-Dialogue: 0,0:13:28.00,0:13:31.06,Default,,0,0,0,,O que é isto? O que vão fazer?
+Dialogue: 0,0:13:28.00,0:13:31.06,Default,,0,0,0,,O que é isso?\N O que estão fazendo?
 Dialogue: 0,0:13:32.76,0:13:33.85,Default,,0,0,0,,Hã?!
-Dialogue: 0,0:14:07.20,0:14:08.82,Default - Italics,,0,0,0,,Já faz uma semana desde que Iwata Tadashi,
-Dialogue: 0,0:14:08.82,0:14:10.97,Default - Italics,,0,0,0,,funcionário deste posto de gasolina,
-Dialogue: 0,0:14:10.97,0:14:13.11,Default - Italics,,0,0,0,,desapareceu.
+Dialogue: 0,0:14:07.20,0:14:13.11,Default - Italics,,0,0,0,,Hoje faz uma semana desde que Iwata Tadashi,\N funcionário deste posto de gasolina, desapareceu.
 Dialogue: 0,0:14:13.11,0:14:15.53,Default - Italics,,0,0,0,,Seu paradeiro ainda é desconhecido.
 Dialogue: 0,0:14:15.53,0:14:19.62,Default - Italics,,0,0,0,,A polícia suspeita que ele foi vítima de um crime.
 Dialogue: 0,0:14:19.62,0:14:21.31,Default - Italics,,0,0,0,,Se alguém tiver alguma pista que possa levar—
 Dialogue: 0,0:14:24.48,0:14:25.92,Default,,0,0,0,,Com licença.
 Dialogue: 0,0:14:31.69,0:14:33.66,Default,,0,0,0,,Você de novo!
-Dialogue: 0,0:14:33.66,0:14:34.83,Default,,0,0,0,,Desculpe-me por ontem.
+Dialogue: 0,0:14:33.66,0:14:34.83,Default,,0,0,0,,Desculpe por ontem.
 Dialogue: 0,0:14:37.65,0:14:40.17,Default,,0,0,0,,Acredito que o comissário já adiantou o assunto.
 Dialogue: 0,0:14:40.17,0:14:46.23,Default,,0,0,0,,A partir de hoje, você trabalhará em outro posto.
 Dialogue: 0,0:14:47.35,0:14:49.24,Default,,0,0,0,,Estas são suas novas atribuições.
 Dialogue: 0,0:14:53.07,0:14:54.80,Default,,0,0,0,,TLT?
 Dialogue: 0,0:14:54.80,0:14:58.22,Default,,0,0,0,,Leia-se "Tilt".\N É uma organização secreta global,
 Dialogue: 0,0:14:58.22,0:15:01.36,Default,,0,0,0,,cuja missão é preservar a paz.
-Dialogue: 0,0:15:01.36,0:15:05.16,Default,,0,0,0,,Você foi escolhido como novo membro da força tarefa.
+Dialogue: 0,0:15:01.36,0:15:05.16,Default,,0,0,0,,Você foi escolhido como novo membro da força-tarefa.
 Dialogue: 0,0:15:06.04,0:15:07.16,Default,,0,0,0,,Escolhido?
 Dialogue: 0,0:15:07.46,0:15:10.87,Default,,0,0,0,,É uma organização poderosa,\N que reúne os melhores talentos
-Dialogue: 0,0:15:10.87,0:15:14.76,Default,,0,0,0,,não apenas da polícia, mas de várias áreas.
+Dialogue: 0,0:15:10.87,0:15:14.76,Default,,0,0,0,,não somente da polícia, mas de várias áreas.
 Dialogue: 0,0:15:16.13,0:15:17.99,Default,,0,0,0,,É um trabalho muito valioso.
 Dialogue: 0,0:15:25.31,0:15:26.38,Default,,0,0,0,,O que é isto?
 Dialogue: 0,0:15:27.03,0:15:29.48,Default,,0,0,0,,Pulse Breigar.\N Um equipamento de ponta.
@@ -177,8 +175,9 @@ Dialogue: 0,0:15:49.63,0:15:51.50,Default,,0,0,0,,É tipo ser transferido de fil
 Dialogue: 0,0:15:52.00,0:15:52.99,Default - Italics,,0,0,0,,Sei...
 Dialogue: 0,0:15:53.66,0:15:57.26,Default,,0,0,0,,Foi tudo tão rápido, terei de partir ainda hoje.
 Dialogue: 0,0:15:57.80,0:15:59.38,Default,,0,0,0,,Então...
-Dialogue: 0,0:15:59.38,0:16:03.02,Default - Italics,,0,0,0,,Se for sobre nosso encontro,\N faremos um inesquecível na próxima vez.
-Dialogue: 0,0:16:03.60,0:16:06.68,Default - Italics,,0,0,0,,A propósito, como é seu novo trabalho?
+Dialogue: 0,0:15:59.38,0:16:00.78,Default - Italics,,0,0,0,,Se for sobre nosso encontro,
+Dialogue: 0,0:16:00.78,0:16:03.02,Default - Italics,,0,0,0,,faremos um inesquecível na próxima vez.
+Dialogue: 0,0:16:03.60,0:16:06.68,Default - Italics,,0,0,0,,Então, como é seu novo trabalho?
 Dialogue: 0,0:16:08.52,0:16:09.99,Default,,0,0,0,,Sobre isso...
 Dialogue: 0,0:16:09.99,0:16:12.22,Default - Italics,,0,0,0,,Sua transferência é ultrassecreta.
 Dialogue: 0,0:16:12.51,0:16:15.51,Default - Italics,,0,0,0,,É um trabalho que envolve salvar pessoas?
@@ -187,14 +186,14 @@ Dialogue: 0,0:16:21.10,0:16:22.07,Default,,0,0,0,,Ainda bem!
 Dialogue: 0,0:16:22.07,0:16:27.33,Default,,0,0,0,,Afinal, só virou socorrista por causa disso.
 Dialogue: 0,0:16:27.33,0:16:28.10,Default - Italics,,0,0,0,,Pois é.
 Dialogue: 0,0:16:28.96,0:16:30.86,Default - Italics,,0,0,0,,Bem, depois te ligo.
-Dialogue: 0,0:16:30.86,0:16:31.65,Default - Italics,,0,0,0,,Tá.
-Dialogue: 0,0:16:32.35,0:16:33.14,Default - Italics,,0,0,0,,Bom...
+Dialogue: 0,0:16:30.86,0:16:31.65,Default,,0,0,0,,Certo.
+Dialogue: 0,0:16:32.35,0:16:33.14,Default,,0,0,0,,Bom...
 Dialogue: 0,0:16:33.67,0:16:34.59,Default,,0,0,0,,Komon...
 Dialogue: 0,0:16:34.59,0:16:35.55,Default - Italics,,0,0,0,,Sim?
 Dialogue: 0,0:16:36.07,0:16:37.76,Default,,0,0,0,,Tome cuidado.
 Dialogue: 0,0:16:54.88,0:16:56.65,Default,,0,0,0,,Traga mais saquê!
 Dialogue: 0,0:16:57.97,0:16:58.51,Default,,0,0,0,,Motorista!
-Dialogue: 0,0:16:58.51,0:17:01.21,Default,,0,0,0,,Venha cantar uma música conosco!
+Dialogue: 0,0:16:58.51,0:17:01.21,Default,,0,0,0,,Por que não vem cantar uma música com a gente?
 Dialogue: 0,0:17:01.21,0:17:03.54,Default,,0,0,0,,Não, tenho que—
 Dialogue: 0,0:17:18.76,0:17:22.52,Default,,0,0,0,,Ondas de Bestas detectadas na área 3, ponto 247.
 Dialogue: 0,0:17:22.52,0:17:24.43,Default,,0,0,0,,Acionando os Night Raiders!
@@ -202,23 +201,23 @@ Dialogue: 0,0:17:25.04,0:17:27.03,Default - Italics,,0,0,0,,Alerta de Comando N�
 Dialogue: 0,0:17:27.03,0:17:29.27,Default - Italics,,0,0,0,,Night Raiders, mobilizem-se.
 Dialogue: 0,0:17:29.27,0:17:31.47,Default - Italics,,0,0,0,,Night Raiders, mobilizem-se.
 Dialogue: 0,0:17:52.56,0:17:54.29,Default,,0,0,0,,Onde fica esse posto novo?
-Dialogue: 0,0:17:54.96,0:17:57.13,Default,,0,0,0,,Estou na direção certa?
+Dialogue: 0,0:17:54.96,0:17:57.13,Default,,0,0,0,,Estou no caminho certo?
 Dialogue: 0,0:18:11.35,0:18:12.42,Default,,0,0,0,,Olá?
 Dialogue: 0,0:18:22.42,0:18:24.12,Default,,0,0,0,,Olha o estado deste ônibus...
 Dialogue: 0,0:18:24.57,0:18:26.03,Default,,0,0,0,,Onde estão os passageiros?
 Dialogue: 0,0:18:49.71,0:18:52.95,Default,,0,0,0,,O que quer de mim?
 Dialogue: 0,0:18:58.20,0:19:00.11,Default,,0,0,0,,Captei uma oscilação diferente na área.
-Dialogue: 0,0:19:04.11,0:19:05.32,Default,,0,0,0,,Não há dúvida.
-Dialogue: 0,0:19:05.82,0:19:07.76,Default,,0,0,0,,Algo acabou de despertar?
+Dialogue: 0,0:19:04.11,0:19:05.32,Default,,0,0,0,,Só pode ser isso...
+Dialogue: 0,0:19:05.82,0:19:07.76,Default,,0,0,0,,Alguma coisa acabou de despertar?
 Dialogue: 0,0:19:44.22,0:19:45.48,Default - Italics,,0,0,0,,Não desista.
-Dialogue: 0,0:20:34.13,0:20:37.12,Default,,0,0,0,,Só pode ser um sonho.
+Dialogue: 0,0:20:34.13,0:20:37.12,Default,,0,0,0,,Isso só pode ser um sonho.
 Dialogue: 0,0:20:52.88,0:20:54.05,Default,,0,0,0,,Isso...
 Dialogue: 0,0:20:55.85,0:20:57.87,Default,,0,0,0,,Não pode ser real.
 Dialogue: 0,0:21:00.99,0:21:02.73,Default,,0,0,0,,As oscilações estão baixas.
 Dialogue: 0,0:21:02.73,0:21:04.66,Default,,0,0,0,,O alvo já foi neutralizado.
 Dialogue: 0,0:21:04.66,0:21:07.40,Default,,0,0,0,,De todo modo, cuidaremos dos sobreviventes.
 Dialogue: 0,0:21:07.40,0:21:08.36,Default,,0,0,0,,Nagi.
-Dialogue: 0,0:21:09.49,0:21:11.17,Default,,0,0,0,,O que houve?
+Dialogue: 0,0:21:09.49,0:21:11.17,Default,,0,0,0,,O que houve aqui?
 Dialogue: 0,0:21:11.17,0:21:11.95,Default,,0,0,0,,O quê?
 Dialogue: 0,0:21:13.59,0:21:15.46,Default,,0,0,0,,Estou perguntando o que aconteceu!
 Dialogue: 0,0:21:15.70,0:21:16.74,Default,,0,0,0,,Não sei...
@@ -226,8 +225,8 @@ Dialogue: 0,0:21:26.92,0:21:28.70,Default,,0,0,0,,Então, é você?
 Dialogue: 0,0:21:29.04,0:21:29.84,Default,,0,0,0,,Perdão?
 Dialogue: 0,0:21:31.48,0:21:33.54,Default,,0,0,0,,Vou logo avisando...
 Dialogue: 0,0:21:44.20,0:21:46.90,Default,,0,0,0,,Da próxima vez, proteja-se, não somos sua babá.
-Dialogue: 0,0:21:49.36,0:21:56.97,Default - Italics,,0,0,0,,Foi assim que conheci ela e aquele gigante prateado.
-Dialogue: 0,0:22:00.67,0:22:06.44,Default - Top Italics,,0,0,0,,Mas naquela época, não imaginava...
+Dialogue: 0,0:21:49.36,0:21:56.97,Default - Top Italics,,0,0,0,,Foi assim que conheci ela\N e aquele gigante prateado.
+Dialogue: 0,0:22:00.67,0:22:06.44,Default - Top Italics,,0,0,0,,Mas naquela época, eu não imaginava...
 Dialogue: 0,0:22:07.40,0:22:09.43,Default - Top Italics,,0,0,0,,As surpresas que esta realidade me reservava.
 Comment: 0,0:22:10.98,0:22:11.01,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:41.00,0:23:41.04,Default,chptr,0,0,0,,{Prévia} = Preview
