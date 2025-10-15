@@ -41,7 +41,7 @@ Comment: 0,0:00:57.19,0:00:59.79,TR,,0,0,0,karaoke,E seus desejos mais puros e i
 Comment: 0,0:00:59.95,0:01:02.18,TR,,0,0,0,karaoke,Sou um pequeno fruto imaturo
 Comment: 0,0:01:02.51,0:01:04.80,TR,,0,0,0,karaoke,Buscando, enfim, amadurecer
 Comment: 0,0:01:04.97,0:01:07.34,TR,,0,0,0,karaoke,Vire sua coragem de ponta-cabeça
-Comment: 0,0:01:07.54,0:01:09.97,TR,,0,0,0,karaoke,Se a realidade não te satisfaz
+Comment: 0,0:01:07.54,0:01:09.97,TR,,0,0,0,karaoke,Se a realidade ainda não te satisfaz
 Comment: 0,0:01:10.20,0:01:12.50,TR,,0,0,0,karaoke,Seus sentimentos não ganharão asas
 Comment: 0,0:01:12.70,0:01:15.08,TR,,0,0,0,karaoke,Se não tiver o desejo de mudar
 Comment: 0,0:01:17.91,0:01:20.30,TR,,0,0,0,karaoke,De hoje em diante, viva o agora
@@ -537,36 +537,42 @@ Dialogue: 1,0:01:05.33,0:01:07.34,TR,,0,0,0,fx,{\an5\pos(1043.74,81.50)\3c&HAF40
 Dialogue: 1,0:01:05.35,0:01:07.34,TR,,0,0,0,fx,{\an5\pos(1072.08,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
 Dialogue: 1,0:01:05.37,0:01:07.34,TR,,0,0,0,fx,{\an5\pos(1098.90,81.50)\3c&HAF401E&\blur3\fad(300,300)}ç
 Dialogue: 1,0:01:05.39,0:01:07.34,TR,,0,0,0,fx,{\an5\pos(1125.68,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
-Dialogue: 1,0:01:07.34,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(375.20,81.50)\3c&HAF401E&\blur3\fad(300,300)}S
-Dialogue: 1,0:01:07.36,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(404.19,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
-Dialogue: 1,0:01:07.38,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(428.66,81.50)\3c&HAF401E&\blur3\fad(300,300)}
-Dialogue: 1,0:01:07.40,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(453.10,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
-Dialogue: 1,0:01:07.42,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(477.54,81.50)\3c&HAF401E&\blur3\fad(300,300)}
-Dialogue: 1,0:01:07.44,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(498.70,81.50)\3c&HAF401E&\blur3\fad(300,300)}r
-Dialogue: 1,0:01:07.46,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(522.36,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
-Dialogue: 1,0:01:07.48,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(549.29,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
-Dialogue: 1,0:01:07.50,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(569.88,81.50)\3c&HAF401E&\blur3\fad(300,300)}l
-Dialogue: 1,0:01:07.52,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(583.78,81.50)\3c&HAF401E&\blur3\fad(300,300)}i
-Dialogue: 1,0:01:07.54,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(605.76,81.50)\3c&HAF401E&\blur3\fad(300,300)}d
-Dialogue: 1,0:01:07.56,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(634.43,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
-Dialogue: 1,0:01:07.58,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(663.10,81.50)\3c&HAF401E&\blur3\fad(300,300)}d
-Dialogue: 1,0:01:07.60,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(691.81,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
-Dialogue: 1,0:01:07.62,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(716.29,81.50)\3c&HAF401E&\blur3\fad(300,300)}
-Dialogue: 1,0:01:07.64,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(741.75,81.50)\3c&HAF401E&\blur3\fad(300,300)}n
-Dialogue: 1,0:01:07.66,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(769.66,81.50)\3c&HAF401E&\blur3\fad(300,300)}ã
-Dialogue: 1,0:01:07.68,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(797.69,81.50)\3c&HAF401E&\blur3\fad(300,300)}o
-Dialogue: 1,0:01:07.70,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(823.26,81.50)\3c&HAF401E&\blur3\fad(300,300)}
-Dialogue: 1,0:01:07.72,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(843.69,81.50)\3c&HAF401E&\blur3\fad(300,300)}t
-Dialogue: 1,0:01:07.74,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(866.61,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
-Dialogue: 1,0:01:07.76,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(891.09,81.50)\3c&HAF401E&\blur3\fad(300,300)}
-Dialogue: 1,0:01:07.78,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(914.05,81.50)\3c&HAF401E&\blur3\fad(300,300)}s
-Dialogue: 1,0:01:07.80,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(939.48,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
-Dialogue: 1,0:01:07.82,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(962.36,81.50)\3c&HAF401E&\blur3\fad(300,300)}t
-Dialogue: 1,0:01:07.84,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(978.55,81.50)\3c&HAF401E&\blur3\fad(300,300)}i
-Dialogue: 1,0:01:07.86,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(997.27,81.50)\3c&HAF401E&\blur3\fad(300,300)}s
-Dialogue: 1,0:01:07.88,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1018.52,81.50)\3c&HAF401E&\blur3\fad(300,300)}f
-Dialogue: 1,0:01:07.90,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1041.23,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
-Dialogue: 1,0:01:07.92,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1067.48,81.50)\3c&HAF401E&\blur3\fad(300,300)}z
+Dialogue: 1,0:01:07.34,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(300.88,81.50)\3c&HAF401E&\blur3\fad(300,300)}S
+Dialogue: 1,0:01:07.36,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(329.86,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
+Dialogue: 1,0:01:07.38,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(354.34,81.50)\3c&HAF401E&\blur3\fad(300,300)}
+Dialogue: 1,0:01:07.40,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(378.77,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:07.42,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(403.21,81.50)\3c&HAF401E&\blur3\fad(300,300)}
+Dialogue: 1,0:01:07.44,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(424.38,81.50)\3c&HAF401E&\blur3\fad(300,300)}r
+Dialogue: 1,0:01:07.46,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(448.03,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
+Dialogue: 1,0:01:07.48,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(474.96,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:07.50,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(495.55,81.50)\3c&HAF401E&\blur3\fad(300,300)}l
+Dialogue: 1,0:01:07.52,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(509.45,81.50)\3c&HAF401E&\blur3\fad(300,300)}i
+Dialogue: 1,0:01:07.54,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(531.43,81.50)\3c&HAF401E&\blur3\fad(300,300)}d
+Dialogue: 1,0:01:07.56,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(560.10,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:07.58,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(588.77,81.50)\3c&HAF401E&\blur3\fad(300,300)}d
+Dialogue: 1,0:01:07.60,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(617.48,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
+Dialogue: 1,0:01:07.62,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(641.96,81.50)\3c&HAF401E&\blur3\fad(300,300)}
+Dialogue: 1,0:01:07.64,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(666.40,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:07.66,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(686.59,81.50)\3c&HAF401E&\blur3\fad(300,300)}i
+Dialogue: 1,0:01:07.68,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(707.81,81.50)\3c&HAF401E&\blur3\fad(300,300)}n
+Dialogue: 1,0:01:07.70,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(737.51,81.50)\3c&HAF401E&\blur3\fad(300,300)}d
+Dialogue: 1,0:01:07.72,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(766.18,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:07.74,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(790.62,81.50)\3c&HAF401E&\blur3\fad(300,300)}
+Dialogue: 1,0:01:07.76,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(816.08,81.50)\3c&HAF401E&\blur3\fad(300,300)}n
+Dialogue: 1,0:01:07.78,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(843.99,81.50)\3c&HAF401E&\blur3\fad(300,300)}ã
+Dialogue: 1,0:01:07.80,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(872.02,81.50)\3c&HAF401E&\blur3\fad(300,300)}o
+Dialogue: 1,0:01:07.82,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(897.59,81.50)\3c&HAF401E&\blur3\fad(300,300)}
+Dialogue: 1,0:01:07.84,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(918.02,81.50)\3c&HAF401E&\blur3\fad(300,300)}t
+Dialogue: 1,0:01:07.86,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(940.94,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
+Dialogue: 1,0:01:07.88,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(965.41,81.50)\3c&HAF401E&\blur3\fad(300,300)}
+Dialogue: 1,0:01:07.90,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(988.38,81.50)\3c&HAF401E&\blur3\fad(300,300)}s
+Dialogue: 1,0:01:07.92,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1013.80,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:07.94,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1036.69,81.50)\3c&HAF401E&\blur3\fad(300,300)}t
+Dialogue: 1,0:01:07.96,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1052.88,81.50)\3c&HAF401E&\blur3\fad(300,300)}i
+Dialogue: 1,0:01:07.98,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1071.60,81.50)\3c&HAF401E&\blur3\fad(300,300)}s
+Dialogue: 1,0:01:08.00,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1092.84,81.50)\3c&HAF401E&\blur3\fad(300,300)}f
+Dialogue: 1,0:01:08.02,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1115.55,81.50)\3c&HAF401E&\blur3\fad(300,300)}a
+Dialogue: 1,0:01:08.04,0:01:09.97,TR,,0,0,0,fx,{\an5\pos(1141.81,81.50)\3c&HAF401E&\blur3\fad(300,300)}z
 Dialogue: 1,0:01:10.00,0:01:12.50,TR,,0,0,0,fx,{\an5\pos(293.87,81.50)\3c&HAF401E&\blur3\fad(300,300)}S
 Dialogue: 1,0:01:10.02,0:01:12.50,TR,,0,0,0,fx,{\an5\pos(322.85,81.50)\3c&HAF401E&\blur3\fad(300,300)}e
 Dialogue: 1,0:01:10.04,0:01:12.50,TR,,0,0,0,fx,{\an5\pos(350.80,81.50)\3c&HAF401E&\blur3\fad(300,300)}u
