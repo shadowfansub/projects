@@ -16,14 +16,14 @@ Style: Signs,Proxima Soft,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(720,817)\c&H000000&\1a&HFF&\blur1\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
-Dialogue: 1,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(720,817)\bord0\4a&HFF&\blur1\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
+Dialogue: 0,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(720,817)\c&H000000&\1a&HFF&\blur0.85\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
+Dialogue: 1,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(720,817)\bord0\4a&HFF&\blur0.85\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 0,0:14:22.15,0:14:26.45,Signs,,0,0,0,,{=12}{\blur3\an2\pos(720,1080)\fscx100\fscy100\frz0\p1\c&H434145&\fnReimin Y20 Web\fs20\b0}m -183.63 -381 l 840.08 -594 844.09 -520 -188.63 -323
 Dialogue: 0,0:14:22.15,0:14:26.45,Signs,,0,0,0,,{=17}{\blur1\an2\fs20\fnReimin Y20 Web\b0\fax-0.231583\fscx159.45\fscy179.06\frz11.1118\frx1.6816\fry-5.7632\org(453.74,377.15)\pos(457.43,395.05)\c&HA3D1DE&\xshad3\yshad2\4c&H1B3942&}Polícia Metropolitana\h\h\h\h\h\h{\fs30}Delegacia de Polícia de Minami-Ono
-Dialogue: 0,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\c&H000000&\blur1\fad(521,514)\pos(718,1021)}Night Raid
-Dialogue: 1,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\bord0\4a&HFF&\blur0.8\fad(521,514)\pos(718,1021)}Night Raid
-Dialogue: 0,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(718,1021)\c&H000000&\blur1\fad(519,552)}Bestas Espaciais
-Dialogue: 1,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(718,1021)\bord0\4a&HFF&\blur0.8\fad(519,552)}Bestas Espaciais
+Dialogue: 0,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\c&H000000&\blur0.85\fad(521,514)\pos(718,1021)}Night Raid
+Dialogue: 1,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\bord0\4a&HFF&\blur0.85\fad(521,514)\pos(718,1021)}Night Raid
+Dialogue: 0,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(718,1021)\c&H000000&\blur0.85\fad(519,552)}Bestas Espaciais
+Dialogue: 1,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(718,1021)\bord0\4a&HFF&\blur0.85\fad(519,552)}Bestas Espaciais
 
 [Aegisub Extradata]
 Data: 0,_aegi_perspective_ambient_plane,e18.72;423.15#7C991.36;499.00#7C991.36;539.00#7C94.64;539.00
