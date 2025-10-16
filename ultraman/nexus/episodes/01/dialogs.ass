@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Gandhi Sans,67,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,99,100,0,0,1,3.6,1.6,2,60,60,65,1
-Style: Default - Italics,Gandhi Sans,67,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,99,100,0,0,1,3.6,1.6,2,60,60,65,1
-Style: Default - Top,Gandhi Sans,67,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,99,100,0,0,1,3.6,1.6,8,60,60,65,1
-Style: Default - Top Italics,Gandhi Sans,67,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,99,100,0,0,1,3.6,1.6,8,60,60,65,1
+Style: Default,Asap,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.8,2,2,60,60,65,1
+Style: Default - Italics,Asap,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.8,2,2,60,60,65,1
+Style: Default - Top,Asap,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.8,2,8,60,60,65,1
+Style: Default - Top Italics,Asap,70,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,3.8,2,8,60,60,65,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -229,6 +229,6 @@ Dialogue: 0,0:22:07.40,0:22:09.43,Default - Top Italics,,0,0,0,,As surpresas que
 Comment: 0,0:22:10.98,0:22:11.01,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:41.00,0:23:41.04,Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 0,0:23:41.88,0:23:44.71,Default - Italics,,0,0,0,,Seu local de trabalho é um campo de batalha.
-Dialogue: 0,0:23:44.71,0:23:46.42,Default - Italics,,0,0,0,,Vou avisar de novo...
+Dialogue: 0,0:23:44.71,0:23:46.42,Default - Italics,,0,0,0,,Vou te avisar só mais uma vez...
 Dialogue: 0,0:23:46.42,0:23:47.98,Default - Italics,,0,0,0,,Não seremos a sua babá.
 Dialogue: 0,0:23:52.13,0:23:54.75,Default - Italics,,0,0,0,,Dê o seu melhor no novo trabalho.
