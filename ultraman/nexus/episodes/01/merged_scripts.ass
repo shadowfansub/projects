@@ -25,7 +25,7 @@ Style: 4$Signs,Proxima Soft,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 200,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=18}dialogs.ass
+Comment: 200,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=22}dialogs.ass
 Comment: 200,0:00:00.00,0:00:00.00,1$Default,chptr,0,0,0,,{Introdução} = Intro
 Dialogue: 200,0:00:25.27,0:00:28.41,1$Default,,0,0,0,,O despertar está próximo.
 Comment: 200,0:00:29.01,0:00:29.05,1$Default - Italics,chptr,0,0,0,,{Abertura} = Opening
@@ -34,16 +34,14 @@ Dialogue: 200,0:02:13.96,0:02:20.36,1$Default - Italics,,0,0,0,,Achamos que semp
 Dialogue: 200,0:02:20.78,0:02:24.47,1$Default - Italics,,0,0,0,,Se houvesse algo desconhecido espreitando,
 Dialogue: 200,0:02:24.47,0:02:27.77,1$Default - Italics,,0,0,0,,prestes a destruir a vida como conhecemos,
 Dialogue: 200,0:02:27.77,0:02:31.40,1$Default - Italics,,0,0,0,,a maioria das pessoas não ligaria para isso.
-Dialogue: 200,0:02:34.15,0:02:40.68,1$Default - Italics,,0,0,0,,E se a realidade em que vivemos fosse uma farsa?
+Dialogue: 200,0:02:34.15,0:02:40.68,1$Default - Italics,,0,0,0,,E se a realidade em que vivemos fosse uma mentira?
 Dialogue: 200,0:02:55.65,0:02:58.16,1$Default,,0,0,0,,Já ouvi. Para de buzinar, cara.
 Dialogue: 200,0:02:58.90,0:02:59.73,1$Default,,0,0,0,,O que disse?
 Dialogue: 200,0:03:00.80,0:03:01.93,1$Default,,0,0,0,,Bem-vindo!
-Dialogue: 200,0:03:07.33,0:03:08.28,1$Default,,0,0,0,,Amigo...
-Dialogue: 200,0:03:08.28,0:03:09.45,1$Default,,0,0,0,,Está de brincadeira comigo?
-Dialogue: 200,0:03:09.45,0:03:10.19,1$Default,,0,0,0,,Como?
+Dialogue: 200,0:03:07.33,0:03:09.45,1$Default,,0,0,0,,Amigo, está de brincadeira comigo?
+Dialogue: 200,0:03:09.45,0:03:10.19,1$Default,,0,0,0,,Hã?
 Dialogue: 200,0:03:10.19,0:03:11.19,1$Default,,0,0,0,,Nem vem com essa!
-Dialogue: 200,0:03:11.19,0:03:13.14,1$Default,,0,0,0,,Veja o medidor da bomba!
-Dialogue: 200,0:03:13.14,0:03:14.79,1$Default,,0,0,0,,Meu tanque já deveria estar cheio!
+Dialogue: 200,0:03:11.19,0:03:14.79,1$Default,,0,0,0,,Veja o medidor da bomba!\N Meu tanque já deveria estar cheio!
 Dialogue: 200,0:03:14.79,0:03:15.95,1$Default,,0,0,0,,Não é possível—
 Dialogue: 200,0:03:16.58,0:03:17.38,1$Default,,0,0,0,,O quê?!
 Dialogue: 200,0:03:23.31,0:03:24.96,1$Default,,0,0,0,,Uma oscilação foi detectada.
@@ -92,7 +90,7 @@ Dialogue: 200,0:09:17.40,0:09:18.18,1$Default,,0,0,0,,Não fique assim.
 Dialogue: 200,0:09:18.18,0:09:18.89,1$Default,,0,0,0,,Exatamente.
 Dialogue: 200,0:09:18.89,0:09:21.52,1$Default,,0,0,0,,No fim, conseguiu resgatar aquelas pessoas, certo?
 Dialogue: 200,0:09:22.06,0:09:25.78,1$Default,,0,0,0,,O Líder do Esquadrão, Fukami, foi quem as salvou.
-Dialogue: 200,0:09:27.83,0:09:28.76,1$Default,,0,0,0,,Entendo.
+Dialogue: 200,0:09:27.83,0:09:28.76,1$Default,,0,0,0,,Entendo...
 Dialogue: 200,0:09:31.07,0:09:33.29,1$Default,,0,0,0,,Gosto deste trabalho.
 Dialogue: 200,0:09:33.56,0:09:37.49,1$Default,,0,0,0,,Mas talvez eu não sirva para isso.
 Dialogue: 200,0:09:39.89,0:09:40.86,1$Default,,0,0,0,,Komon!
@@ -133,7 +131,7 @@ Dialogue: 200,0:12:12.89,0:12:13.72,1$Default,,0,0,0,,Isso.
 Dialogue: 200,0:12:14.05,0:12:17.53,1$Default,,0,0,0,,Meu nome é Matsunaga.\N Por favor, entre.
 Dialogue: 200,0:12:20.38,0:12:21.29,1$Default,,0,0,0,,Por aqui!
 Dialogue: 200,0:12:21.29,0:12:21.82,1$Default,,0,0,0,,Por aqui.
-Dialogue: 200,0:12:21.82,0:12:23.41,1$Default,,0,0,0,,Por aqui? Como assim?
+Dialogue: 200,0:12:21.82,0:12:23.41,1$Default,,0,0,0,,Por aqui?\N Como assim?
 Dialogue: 200,0:12:26.55,0:12:27.67,1$Default,,0,0,0,,Esperem!
 Dialogue: 200,0:12:28.48,0:12:32.35,1$Default,,0,0,0,,Por gentileza, coloque esta venda.
 Dialogue: 200,0:12:32.35,0:12:34.41,1$Default,,0,0,0,,Por gentileza? Tá bom!
@@ -187,7 +185,7 @@ Dialogue: 200,0:15:59.38,0:16:00.78,1$Default - Italics,,0,0,0,,Se for sobre nos
 Dialogue: 200,0:16:00.78,0:16:03.02,1$Default - Italics,,0,0,0,,faremos um inesquecível na próxima vez.
 Dialogue: 200,0:16:03.60,0:16:06.68,1$Default - Italics,,0,0,0,,Então, como é seu novo trabalho?
 Dialogue: 200,0:16:08.52,0:16:09.99,1$Default,,0,0,0,,Sobre isso...
-Dialogue: 200,0:16:09.99,0:16:12.22,1$Default - Italics,,0,0,0,,Sua transferência é ultrassecreta.
+Dialogue: 200,0:16:09.99,0:16:12.22,1$Default - Italics,flashback 01,0,0,0,,Sua transferência é ultrassecreta.
 Dialogue: 200,0:16:12.51,0:16:15.51,1$Default - Italics,,0,0,0,,É um trabalho que envolve salvar pessoas?
 Dialogue: 200,0:16:18.67,0:16:19.56,1$Default,,0,0,0,,Parece que sim.
 Dialogue: 200,0:16:21.10,0:16:22.07,1$Default,,0,0,0,,Ainda bem!
@@ -215,7 +213,7 @@ Dialogue: 200,0:18:49.71,0:18:52.95,1$Default,,0,0,0,,O que quer de mim?
 Dialogue: 200,0:18:58.20,0:19:00.11,1$Default,,0,0,0,,Captei uma oscilação diferente na área.
 Dialogue: 200,0:19:04.11,0:19:05.32,1$Default,,0,0,0,,Só pode ser isso...
 Dialogue: 200,0:19:05.82,0:19:07.76,1$Default,,0,0,0,,Alguma coisa acabou de despertar?
-Dialogue: 200,0:19:44.22,0:19:45.48,1$Default - Italics,,0,0,0,,Não desista.
+Dialogue: 200,0:19:44.22,0:19:45.48,1$Default - Italics,flashback,0,0,0,,Não desista.
 Dialogue: 200,0:20:34.13,0:20:37.12,1$Default,,0,0,0,,Isso só pode ser um sonho.
 Dialogue: 200,0:20:52.88,0:20:54.05,1$Default,,0,0,0,,Isso...
 Dialogue: 200,0:20:55.85,0:20:57.87,1$Default,,0,0,0,,Não pode ser real.
@@ -240,7 +238,7 @@ Dialogue: 200,0:23:41.88,0:23:44.71,1$Default - Italics,,0,0,0,,Seu local de tra
 Dialogue: 200,0:23:44.71,0:23:46.42,1$Default - Italics,,0,0,0,,Vou te avisar só mais uma vez...
 Dialogue: 200,0:23:46.42,0:23:47.98,1$Default - Italics,,0,0,0,,Não seremos a sua babá.
 Dialogue: 200,0:23:52.13,0:23:54.75,1$Default - Italics,,0,0,0,,Dê o seu melhor no novo trabalho.
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=19}ending.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=23}ending.ass
 Comment: 0,0:00:00.00,0:00:00.00,2$RO,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,2$RO,,0,0,0,code once,ke4 = _G.ke4
 Comment: 0,0:00:00.00,0:00:00.00,2$RO,,0,0,0,code once,blur_size = 3
@@ -1474,7 +1472,7 @@ Dialogue: 2,0:23:28.29,0:23:33.54,2$RO,,0,0,0,fx,{\an5\move(705.57,101.50,655.57
 Dialogue: 1,0:23:36.20,0:23:36.50,2$RO,,0,0,0,fx,{\an5\pos(655.57,101.50)\3c&H6C7178&\blur3\fad(0,300)}w
 Dialogue: 2,0:23:28.29,0:23:33.54,2$RO,,0,0,0,fx,{\an5\move(723.78,101.50,673.78,101.50,0,300)\3c&H6C7178&\blur3\alpha&HA0&\fad(300,0)}o
 Dialogue: 1,0:23:36.20,0:23:36.50,2$RO,,0,0,0,fx,{\an5\pos(673.78,101.50)\3c&H6C7178&\blur3\fad(0,300)}o
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=20}opening.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=24}opening.ass
 Comment: 0,0:00:00.00,0:00:00.00,3$RO,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,3$RO,,0,0,0,code once,ke4 = _G.ke4
 Comment: 0,0:00:00.00,0:00:00.00,3$RO,,0,0,0,code once,delay = 300
@@ -2303,7 +2301,7 @@ Dialogue: 0,0:02:02.76,0:02:03.31,3$RO,,0,0,0,fx,{\an5\pos(451.85,101.50)\3c&HAF
 Dialogue: 1,0:02:02.51,0:02:02.76,3$RO,,0,0,0,fx,{\an5\pos(494.90,101.50)\3c&HAF401E&\blur3\alpha&HA0&}right
 Dialogue: 2,0:02:02.76,0:02:03.31,3$RO,,0,0,0,fx,{\an5\pos(494.90,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}right
 Dialogue: 0,0:02:03.31,0:02:03.31,3$RO,,0,0,0,fx,{\an5\pos(494.90,101.50)\3c&HAF401E&\blur3}right
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=21}types.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=25}types.ass
 Dialogue: 0,0:02:03.87,0:02:07.54,4$Credits,,0,0,0,,{\pos(480,544.667)\c&H000000&\1a&HFF&\blur0.55\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 1,0:02:03.87,0:02:07.54,4$Credits,,0,0,0,,{\pos(480,544.667)\bord0\4a&HFF&\blur0.55\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 0,0:14:22.15,0:14:26.45,4$Signs,,0,0,0,,{=4}{\pos(480,720)\fnReimin Y20 Web\fs13.33\c&H434145&\blur2\p1}m -122.375 -254 l 560 -396 562.75 -346.625 -125.75 -215.375
@@ -2336,3 +2334,7 @@ Data: 18,myaa.MergeScripts,e[{"prefix"#3A1#2C"extrakeys"#3A{}#2C"script_info"#3A
 Data: 19,myaa.MergeScripts,e[{"prefix"#3A2#2C"extrakeys"#3A{}#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"3"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}#2C{"class"#3A"info"#2C"value"#3A"960"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"720"#2C"key"#3A"PlayResY"}]#2C"aegisub_garbage"#3A{}#2C"file"#3A"ending.ass"}]
 Data: 20,myaa.MergeScripts,e[{"prefix"#3A3#2C"extrakeys"#3A{}#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"3"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}#2C{"class"#3A"info"#2C"value"#3A"960"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"720"#2C"key"#3A"PlayResY"}]#2C"aegisub_garbage"#3A{}#2C"file"#3A"opening.ass"}]
 Data: 21,myaa.MergeScripts,e[{"prefix"#3A4#2C"extrakeys"#3A{"_aegi_perspective_ambient_plane"#3A{"16.74;426.74#7C1048.72;209.97#7C1053.03;291.17#7C12.72;487.41"#3A11#2C"16.74;426.73#7C1048.72;209.96#7C1053.02;291.16#7C12.72;487.41"#3A12#2C"16.76;426.81#7C1048.75;210.07#7C1053.05;291.23#7C12.74;487.45"#3A13#2C"16.76;426.81#7C1048.74;210.07#7C1053.04;291.23#7C12.74;487.45"#3A15#2C"16.76;426.81#7C1048.73;210.07#7C1052.14;291.23#7C12.74;487.45"#3A16#2C"16.76;426.81#7C1048.73;210.07#7C1052.14;291.23#7C13.63;487.45"#3A17#2C"16.77;426.77#7C1047.62;211.45#7C1052.01;290.57#7C15.31;485.99"#3A8#2C"18.72;423.15#7C1045.59;211.24#7C1050.41;288.57#7C13.90;486.02"#3A3#2C"18.72;423.15#7C1045.59;211.24#7C991.36;539.00#7C13.90;486.02"#3A2#2C"18.70;423.09#7C1047.60;211.47#7C1051.99;290.58#7C13.87;485.99"#3A6#2C"16.77;426.77#7C1047.62;211.45#7C1052.01;290.57#7C12.75;487.43"#3A9#2C"18.72;423.15#7C991.36;499.00#7C991.36;539.00#7C94.64;539.00"#3A0#2C"18.72;423.15#7C991.36;499.00#7C991.36;539.00#7C13.90;486.02"#3A1#2C"18.70;423.09#7C1048.19;210.59#7C1051.99;290.58#7C13.87;485.99"#3A5#2C"16.77;426.76#7C1048.75;210.00#7C1052.01;290.56#7C12.74;487.42"#3A10#2C"18.70;423.09#7C1048.19;210.59#7C1050.37;288.53#7C13.87;485.99"#3A4#2C"18.69;423.09#7C1047.62;211.45#7C1052.01;290.57#7C15.31;485.99"#3A7}}#2C"script_info"#3A[{"class"#3A"info"#2C"value"#3A"v4.00+"#2C"key"#3A"ScriptType"}#2C{"class"#3A"info"#2C"value"#3A"3"#2C"key"#3A"WrapStyle"}#2C{"class"#3A"info"#2C"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"}#2C{"class"#3A"info"#2C"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"}#2C{"class"#3A"info"#2C"value"#3A"960"#2C"key"#3A"PlayResX"}#2C{"class"#3A"info"#2C"value"#3A"720"#2C"key"#3A"PlayResY"}]#2C"aegisub_garbage"#3A{}#2C"file"#3A"types.ass"}]
+Data: 22,myaa.MergeScripts,e[{"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}]#2C"prefix"#3A1#2C"file"#3A"dialogs.ass"#2C"aegisub_garbage"#3A{}#2C"extrakeys"#3A{}}]
+Data: 23,myaa.MergeScripts,e[{"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"prefix"#3A2#2C"file"#3A"ending.ass"#2C"aegisub_garbage"#3A{}#2C"extrakeys"#3A{}}]
+Data: 24,myaa.MergeScripts,e[{"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"prefix"#3A3#2C"file"#3A"opening.ass"#2C"aegisub_garbage"#3A{}#2C"extrakeys"#3A{}}]
+Data: 25,myaa.MergeScripts,e[{"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"prefix"#3A4#2C"file"#3A"types.ass"#2C"aegisub_garbage"#3A{}#2C"extrakeys"#3A{"_aegi_perspective_ambient_plane"#3A{"16.76;426.81#7C1048.74;210.07#7C1053.04;291.23#7C12.74;487.45"#3A15#2C"16.76;426.81#7C1048.73;210.07#7C1052.14;291.23#7C12.74;487.45"#3A16#2C"16.77;426.77#7C1047.62;211.45#7C1052.01;290.57#7C15.31;485.99"#3A8#2C"16.77;426.77#7C1047.62;211.45#7C1052.01;290.57#7C12.75;487.43"#3A9#2C"18.72;423.15#7C1045.59;211.24#7C991.36;539.00#7C13.90;486.02"#3A2#2C"16.76;426.81#7C1048.73;210.07#7C1052.14;291.23#7C13.63;487.45"#3A17#2C"16.74;426.74#7C1048.72;209.97#7C1053.03;291.17#7C12.72;487.41"#3A11#2C"18.70;423.09#7C1047.60;211.47#7C1051.99;290.58#7C13.87;485.99"#3A6#2C"18.72;423.15#7C1045.59;211.24#7C1050.41;288.57#7C13.90;486.02"#3A3#2C"18.70;423.09#7C1048.19;210.59#7C1051.99;290.58#7C13.87;485.99"#3A5#2C"16.74;426.73#7C1048.72;209.96#7C1053.02;291.16#7C12.72;487.41"#3A12#2C"18.72;423.15#7C991.36;499.00#7C991.36;539.00#7C94.64;539.00"#3A0#2C"18.72;423.15#7C991.36;499.00#7C991.36;539.00#7C13.90;486.02"#3A1#2C"18.70;423.09#7C1048.19;210.59#7C1050.37;288.53#7C13.87;485.99"#3A4#2C"16.76;426.81#7C1048.75;210.07#7C1053.05;291.23#7C12.74;487.45"#3A13#2C"16.77;426.76#7C1048.75;210.00#7C1052.01;290.56#7C12.74;487.42"#3A10#2C"18.69;423.09#7C1047.62;211.45#7C1052.01;290.57#7C15.31;485.99"#3A7}}}]
