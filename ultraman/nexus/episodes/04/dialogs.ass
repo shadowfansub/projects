@@ -18,13 +18,13 @@ Style: Default - Top Italics,Asap,47,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Introdução} = Intro
-Dialogue: 0,0:00:18.02,0:00:20.65,Default,,0,0,0,,Vocês foram atraídos para um matadouro.
-Dialogue: 0,0:00:21.29,0:00:25.44,Default,,0,0,0,,Elas absorvem dados lutando com seres mais fortes
-Dialogue: 0,0:00:26.00,0:00:27.98,Default,,0,0,0,,e usam isso para evoluir.
-Dialogue: 0,0:00:28.69,0:00:30.58,Default,,0,0,0,,Como um vírus mortal.
-Dialogue: 0,0:00:32.91,0:00:34.38,Default,,0,0,0,,Desculpe.
-Dialogue: 0,0:00:34.38,0:00:38.31,Default,,0,0,0,,Só queria ouvir sua voz.
-Dialogue: 0,0:00:38.72,0:00:41.76,Default - Italics,,0,0,0,,O que houve?\N Aconteceu algo no trabalho?
+Dialogue: 0,0:00:18.02,0:00:20.65,Default,replay 03,0,0,0,,Vocês foram atraídos para um matadouro.
+Dialogue: 0,0:00:21.29,0:00:25.44,Default,replay 03,0,0,0,,Elas absorvem dados lutando com seres mais fortes
+Dialogue: 0,0:00:26.00,0:00:27.98,Default,replay 03,0,0,0,,e usam isso para evoluir.
+Dialogue: 0,0:00:28.69,0:00:30.58,Default,replay 03,0,0,0,,Como um vírus mortal.
+Dialogue: 0,0:00:32.91,0:00:34.38,Default,replay 03,0,0,0,,Desculpe.
+Dialogue: 0,0:00:34.38,0:00:38.31,Default,replay 03,0,0,0,,Só queria ouvir sua voz.
+Dialogue: 0,0:00:38.72,0:00:41.76,Default - Italics,replay 03,0,0,0,,O que houve?\N Aconteceu algo no trabalho?
 Dialogue: 0,0:00:42.64,0:00:43.17,Default - Italics,,0,0,0,,Não, nada.
 Dialogue: 0,0:00:43.17,0:00:46.95,Default - Italics,,0,0,0,,Naquele momento, estava completamente confuso.
 Dialogue: 0,0:00:47.84,0:00:50.43,Default - Italics,,0,0,0,,Achei que, voltando para meu lugar seguro,
@@ -35,9 +35,9 @@ Comment: 0,0:02:38.08,0:02:38.11,Default,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:02:54.79,0:02:58.01,Default - Top,,0,0,0,,O alvo está escondido em um túnel.
 Dialogue: 0,0:02:59.13,0:03:00.64,Default - Top,,0,0,0,,Houve alguma baixa?
 Dialogue: 0,0:03:00.64,0:03:03.23,Default,,0,0,0,,Para falar a verdade, já houve várias.
-Dialogue: 0,0:03:03.90,0:03:07.52,Default,,0,0,0,,E por que ainda não fomos chamados?!
+Dialogue: 0,0:03:03.90,0:03:07.52,Default,,0,0,0,,E por que ainda não fomos convocados?!
 Dialogue: 0,0:03:07.52,0:03:10.21,Default,,0,0,0,,O principal objetivo delas agora é se unir.
-Dialogue: 0,0:03:11.21,0:03:14.18,Default,,0,0,0,,Se conseguirem, se tornarão um monstro mais forte.
+Dialogue: 0,0:03:11.21,0:03:14.18,Default,,0,0,0,,Se conseguirem, se tornarão uma Besta mais forte.
 Dialogue: 0,0:03:15.64,0:03:16.88,Default,,0,0,0,,Quem é você?
 Dialogue: 0,0:03:17.25,0:03:18.77,Default,,0,0,0,,Ainda não o apresentei a todos.
 Dialogue: 0,0:03:19.89,0:03:21.57,Default,,0,0,0,,Este é Kirasawa Yu.
@@ -64,13 +64,13 @@ Dialogue: 0,0:04:21.54,0:04:24.60,Default,,0,0,0,,Dizem que o Yu é um vidente.
 Dialogue: 0,0:04:24.60,0:04:25.83,Default,,0,0,0,,O quê?
 Dialogue: 0,0:04:25.83,0:04:29.32,Default,,0,0,0,,Ele consegue sentir onde as Bestas irão aparecer.
 Dialogue: 0,0:04:30.71,0:04:34.41,Default,,0,0,0,,O poder de sentir as Bestas?
-Dialogue: 0,0:04:36.33,0:04:36.72,Default - Italics,,0,0,0,,Fujam!
-Dialogue: 0,0:04:37.31,0:04:37.63,Default - Italics,,0,0,0,,Hã?
-Dialogue: 0,0:04:38.09,0:04:40.13,Default - Italics,,0,0,0,,Depressa!\N Seremos cercados!
+Dialogue: 0,0:04:36.33,0:04:36.72,Default - Italics,flashback 03,0,0,0,,Fujam!
+Dialogue: 0,0:04:37.31,0:04:37.63,Default - Italics,flashback 03,0,0,0,,Hã?
+Dialogue: 0,0:04:38.09,0:04:40.13,Default - Italics,flashback 03,0,0,0,,Depressa!\N Seremos cercados!
 Dialogue: 0,0:04:56.35,0:04:58.75,Default,,0,0,0,,O fluido corporal do monstro é altamente inflamável.
 Dialogue: 0,0:04:58.75,0:05:00.38,Default,,0,0,0,,Ou seja, é como pólvora.
-Dialogue: 0,0:05:01.51,0:05:04.70,Default,,0,0,0,,Faremos um ataque na entrada e na saída do túnel,
-Dialogue: 0,0:05:04.70,0:05:07.86,Default,,0,0,0,,usando o Chester Beta e Gamma.
+Dialogue: 0,0:05:01.51,0:05:04.70,Default,preview 03,0,0,0,,Faremos um ataque na entrada e na saída do túnel,
+Dialogue: 0,0:05:04.70,0:05:07.86,Default,preview 03,0,0,0,,usando o Chester Beta e Gamma.
 Dialogue: 0,0:05:09.30,0:05:10.61,Default,,0,0,0,,Quem irá nesta missão?
 Dialogue: 0,0:05:11.27,0:05:14.18,Default,,0,0,0,,No Beta, teremos o Capitão Wakura e o Oficial Ishibori.
 Dialogue: 0,0:05:14.18,0:05:17.28,Default,,0,0,0,,A Vice-Capitã Saijyo pilotará o novo Gamma.
@@ -88,9 +88,9 @@ Dialogue: 0,0:05:44.08,0:05:46.44,Default,,0,0,0,,Desta vez, garantam que o alvo
 Dialogue: 0,0:05:46.44,0:05:49.40,Default,,0,0,0,,Não sabemos se o gigante aparecerá novamente.
 Dialogue: 0,0:05:57.11,0:06:00.07,Default - Italics,,0,0,0,,Chester Gamma, preparando-se para decolar.
 Dialogue: 0,0:06:00.07,0:06:01.75,Default - Italics,,0,0,0,,Decolagem em 10 minutos.
-Dialogue: 0,0:06:17.16,0:06:21.89,Default - Italics,,0,0,0,,Mãe! Mãe!\N Onde você está?
-Dialogue: 0,0:06:21.89,0:06:25.29,Default - Italics,,0,0,0,,Mãe! Mãe!
-Dialogue: 0,0:06:30.98,0:06:32.91,Default - Italics,,0,0,0,,Cadê a minha mãe?
+Dialogue: 0,0:06:17.16,0:06:21.89,Default - Italics,flashback,0,0,0,,Mãe! Mãe!\N Onde você está?
+Dialogue: 0,0:06:21.89,0:06:25.29,Default - Italics,flashback,0,0,0,,Mãe! Mãe!
+Dialogue: 0,0:06:30.98,0:06:32.91,Default - Italics,flashback,0,0,0,,Cadê a minha mãe?
 Dialogue: 0,0:06:49.85,0:06:50.96,Default,,0,0,0,,Vice-Capitã.
 Dialogue: 0,0:06:54.53,0:06:55.47,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:06:57.72,0:07:01.61,Default,,0,0,0,,Por que não delatou aquele homem?
@@ -133,15 +133,15 @@ Dialogue: 0,0:10:51.25,0:10:52.64,Default,,0,0,0,,A temperatura está subindo!
 Dialogue: 0,0:10:53.62,0:10:54.16,Default,,0,0,0,,Recuar!
 Dialogue: 0,0:11:07.63,0:11:08.39,Default,,0,0,0,,O que houve?!
 Dialogue: 0,0:11:13.01,0:11:16.63,Default,,0,0,0,,Usar o gás inflamável para criar bolas de fogo?
-Dialogue: 0,0:11:17.59,0:11:22.60,Default,,0,0,0,,Elas entenderam nossa estratégia\N e evoluíram seu poder defensivo?
+Dialogue: 0,0:11:17.59,0:11:22.60,Default,,0,0,0,,Elas entenderam nossa estratégia\N e evoluíram seu instinto de defesa?
 Dialogue: 0,0:11:25.51,0:11:27.07,Default - Top Italics,,0,0,0,,Nexus.
 Dialogue: 0,0:11:30.03,0:11:31.07,Default - Top Italics,,0,0,0,,Nexus.
 Comment: 0,0:11:31.07,0:11:31.11,Default,chptr,0,0,0,,{Parte B} = Part B
 Dialogue: 0,0:11:44.99,0:11:46.39,Default,,0,0,0,,Seu monstro maldito!
 Dialogue: 0,0:11:50.99,0:11:51.87,Default,,0,0,0,,Ela voou!
 Dialogue: 0,0:11:57.47,0:11:59.37,Default,,0,0,0,,Com este jato, podemos alcançá-la!
-Dialogue: 0,0:12:03.29,0:12:05.11,Default,,0,0,0,,Ela não para de se mexer! Que saco!
-Dialogue: 0,0:12:14.23,0:12:15.41,Default,,0,0,0,,Não vou deixá-la escapar!
+Dialogue: 0,0:12:03.29,0:12:05.11,Default,preview 03,0,0,0,,Ela não para de se mexer! Que saco!
+Dialogue: 0,0:12:14.23,0:12:15.41,Default,preview 03,0,0,0,,Não vou deixá-la escapar!
 Dialogue: 0,0:12:26.24,0:12:27.20,Default,,0,0,0,,Boa!
 Dialogue: 0,0:12:31.40,0:12:33.06,Default,,0,0,0,,Shiori, dispare mais uma vez!
 Dialogue: 0,0:12:41.45,0:12:42.98,Default,,0,0,0,,O que diabos é isso?!
@@ -165,8 +165,8 @@ Dialogue: 0,0:15:22.25,0:15:23.37,Default,,0,0,0,,Ele veio!
 Dialogue: 0,0:16:40.37,0:16:42.37,Default,,0,0,0,,O gigante e a Besta...
 Dialogue: 0,0:16:42.37,0:16:43.44,Default,,0,0,0,,Sumiram!
 Dialogue: 0,0:16:45.40,0:16:47.46,Default,,0,0,0,,Igual àquela vez!
-Dialogue: 0,0:17:09.06,0:17:10.19,Default,,0,0,0,,Que lugar é este?
-Dialogue: 0,0:17:11.49,0:17:12.98,Default,,0,0,0,,Onde eu vim parar?
+Dialogue: 0,0:17:09.06,0:17:10.19,Default,preview 03,0,0,0,,Que lugar é este?
+Dialogue: 0,0:17:11.49,0:17:12.98,Default,preview 03,0,0,0,,Onde eu vim parar?
 Dialogue: 0,0:20:19.39,0:20:21.28,Default,,0,0,0,,Incrível!
 Dialogue: 0,0:20:53.49,0:20:56.41,Default - Italics,,0,0,0,,Ele salvou minha vida mais uma vez.
 Dialogue: 0,0:20:58.27,0:21:03.37,Default - Italics,,0,0,0,,Não só isso, o Ultraman salvou dezenas de vidas.

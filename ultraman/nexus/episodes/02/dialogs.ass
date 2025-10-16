@@ -71,13 +71,13 @@ Dialogue: 0,0:05:10.92,0:05:15.37,Default,,0,0,0,,Ele disse que foi salvo por um
 Dialogue: 0,0:05:14.63,0:05:16.60,Default - Top,,0,0,0,,É coisa da cabeça dele!
 Dialogue: 0,0:05:18.76,0:05:21.07,Default,,0,0,0,,Se ele viu outra Besta,
 Dialogue: 0,0:05:21.07,0:05:22.91,Default,,0,0,0,,é impossível ela ter salvado uma pessoa.
-Dialogue: 0,0:05:24.86,0:05:27.51,Default - Italics,,0,0,0,,Seu local de trabalho é um campo de batalha.
+Dialogue: 0,0:05:24.86,0:05:27.51,Default - Italics,preview 01,0,0,0,,Seu local de trabalho é um campo de batalha.
 Dialogue: 0,0:05:27.78,0:05:30.68,Default - Italics,,0,0,0,,Precisamos treinar sua força, sabedoria,
 Dialogue: 0,0:05:30.68,0:05:33.99,Default - Italics,,0,0,0,,a capacidade de tomar decisões, tudo ao máximo.
 Dialogue: 0,0:05:35.33,0:05:39.66,Default - Italics,,0,0,0,,Este é o básico para ter sucesso em nossa missão.
 Dialogue: 0,0:05:45.45,0:05:47.70,Default,,0,0,0,,Começaremos seu treinamento com táticas de guerra.
 Dialogue: 0,0:05:48.02,0:05:49.43,Default,,0,0,0,,Deixe-me apresentar sua instrutora.
-Dialogue: 0,0:06:01.71,0:06:03.55,Default,,0,0,0,,Hiraki Shiori. Prazer!
+Dialogue: 0,0:06:01.71,0:06:03.55,Default,,0,0,0,,Sou Hiraki Shiori. Prazer!
 Dialogue: 0,0:06:04.88,0:06:06.48,Default,,0,0,0,,Prazer em conhecê-la!
 Dialogue: 0,0:06:12.06,0:06:13.52,Default,,0,0,0,,Está apertando o gatilho com muita força!
 Dialogue: 0,0:06:13.52,0:06:15.02,Default,,0,0,0,,Seu ombro está muito alto!
@@ -89,7 +89,7 @@ Dialogue: 0,0:06:46.11,0:06:47.41,Default,,0,0,0,,Komon...
 Dialogue: 0,0:06:57.79,0:07:00.83,Default,,0,0,0,,O que está fazendo?\N Você é uma vergonha.
 Dialogue: 0,0:07:01.96,0:07:03.46,Default,,0,0,0,,Como vai o treinamento?
 Dialogue: 0,0:07:05.58,0:07:08.21,Default,,0,0,0,,Está indo aos trancos e barrancos.
-Dialogue: 0,0:07:08.96,0:07:13.38,Default,,0,0,0,,Ele não tem nada de excepcional,\N mas acho que tem jeito pra coisa.
+Dialogue: 0,0:07:08.96,0:07:13.38,Default,,0,0,0,,Ele não tem nada de excepcional,\N mas acho que tem jeito para a coisa.
 Dialogue: 0,0:07:13.96,0:07:15.10,Default,,0,0,0,,É mesmo?
 Dialogue: 0,0:07:15.65,0:07:17.11,Default,,0,0,0,,Você tem alguma objeção?
 Dialogue: 0,0:07:18.18,0:07:21.76,Default,,0,0,0,,Como socorrista, ele cometeu um erro grave.
@@ -124,7 +124,8 @@ Dialogue: 0,0:10:07.74,0:10:08.63,Default,,0,0,0,,Ryuhei!
 Dialogue: 0,0:10:45.74,0:10:46.64,Default,,0,0,0,,Não atirem!
 Dialogue: 0,0:10:47.31,0:10:50.13,Default,,0,0,0,,CIC. A sobrevivente está próxima do alvo.
 Dialogue: 0,0:10:51.55,0:10:52.40,Default,,0,0,0,,Novo plano:
-Dialogue: 0,0:10:53.22,0:10:56.81,Default,,0,0,0,,Usem o Divait Gunner para afastar o alvo\N e depois eliminem-no.
+Dialogue: 0,0:10:53.24,0:10:55.56,Default,,0,0,0,,Usem o Divait Gunner para afastar o alvo
+Dialogue: 0,0:10:55.56,0:10:56.81,Default,,0,0,0,,e depois eliminem-no.
 Dialogue: 0,0:10:57.26,0:10:59.21,Default,,0,0,0,,Entendido. Nagi e Shiori.
 Dialogue: 0,0:11:16.36,0:11:17.56,Default,,0,0,0,,Disparar!
 Dialogue: 0,0:11:26.44,0:11:27.88,Default,,0,0,0,,Alvo neutralizado.
@@ -146,7 +147,7 @@ Dialogue: 0,0:13:01.10,0:13:04.70,Default,,0,0,0,,Sabia que iríamos nos encontr
 Dialogue: 0,0:13:10.37,0:13:10.81,Default,,0,0,0,,Pra você!
 Dialogue: 0,0:13:14.15,0:13:16.75,Default,,0,0,0,,Foi você quem fez, Riko?
 Dialogue: 0,0:13:16.75,0:13:18.78,Default,,0,0,0,,É um amuleto.\N "Dê seu melhor, Kuina!"
-Dialogue: 0,0:13:19.91,0:13:22.55,Default,,0,0,0,,Dê o seu melhor no novo trabalho.
+Dialogue: 0,0:13:19.91,0:13:22.55,Default,preview 01,0,0,0,,Dê o seu melhor no novo trabalho.
 Dialogue: 0,0:13:24.43,0:13:25.44,Default,,0,0,0,,Obrigado.
 Dialogue: 0,0:13:33.50,0:13:34.63,Default,,0,0,0,,Komon Kazuki.
 Dialogue: 0,0:13:34.63,0:13:37.43,Default,,0,0,0,,Fui designado para a Unidade A dos Night Raiders.
@@ -161,8 +162,8 @@ Dialogue: 0,0:13:56.07,0:13:58.90,Default,,0,0,0,,O que quer dizer com isso, Cap
 Dialogue: 0,0:14:00.33,0:14:01.99,Default,,0,0,0,,Bem-vindo de novo.
 Dialogue: 0,0:14:03.63,0:14:04.50,Default,,0,0,0,,E...
 Dialogue: 0,0:14:04.50,0:14:05.78,Default,,0,0,0,,Eu sou Saijyo Nagi.
-Dialogue: 0,0:14:08.50,0:14:10.16,Default,,0,0,0,,Vou te avisar só mais uma vez...
-Dialogue: 0,0:14:10.16,0:14:12.05,Default,,0,0,0,,Não seremos a sua babá.
+Dialogue: 0,0:14:08.50,0:14:10.16,Default,preview 01,0,0,0,,Vou te avisar só mais uma vez...
+Dialogue: 0,0:14:10.16,0:14:12.05,Default,preview 01,0,0,0,,Não seremos a sua babá.
 Dialogue: 0,0:14:14.94,0:14:15.88,Default,,0,0,0,,Certo.
 Dialogue: 0,0:14:18.19,0:14:20.77,Default,,0,0,0,,É por aqui. Nesta área.
 Dialogue: 0,0:14:22.65,0:14:24.22,Default,,0,0,0,,Estão ouvindo esse som estranho?
@@ -209,7 +210,7 @@ Dialogue: 0,0:19:35.78,0:19:37.26,Default - Italics,,0,0,0,,Não tem novo plano.
 Dialogue: 0,0:19:37.98,0:19:40.63,Default,,0,0,0,,Se não a destruírem, os danos serão catastróficos.
 Dialogue: 0,0:19:40.92,0:19:42.80,Default,,0,0,0,,Alguns sacrifícios são necessários.
 Dialogue: 0,0:19:46.56,0:19:47.50,Default,,0,0,0,,Entendido.
-Dialogue: 0,0:19:49.16,0:19:52.04,Default,,0,0,0,,Não acredito!\N Isso é alguma piada?
+Dialogue: 0,0:19:49.16,0:19:52.04,Default,,0,0,0,,Não acredito!\N Isso é alguma brincadeira?
 Dialogue: 0,0:19:52.56,0:19:53.45,Default,,0,0,0,,Komon.
 Dialogue: 0,0:19:55.96,0:20:00.48,Default,,0,0,0,,Nosso trabalho é seguir ordens.
 Dialogue: 0,0:20:11.29,0:20:12.79,Default,,0,0,0,,Não atire!

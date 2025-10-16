@@ -25,16 +25,14 @@ Dialogue: 0,0:02:13.96,0:02:20.36,Default - Italics,,0,0,0,,Achamos que sempre v
 Dialogue: 0,0:02:20.78,0:02:24.47,Default - Italics,,0,0,0,,Se houvesse algo desconhecido espreitando,
 Dialogue: 0,0:02:24.47,0:02:27.77,Default - Italics,,0,0,0,,prestes a destruir a vida como conhecemos,
 Dialogue: 0,0:02:27.77,0:02:31.40,Default - Italics,,0,0,0,,a maioria das pessoas não ligaria para isso.
-Dialogue: 0,0:02:34.15,0:02:40.68,Default - Italics,,0,0,0,,E se a realidade em que vivemos fosse uma farsa?
+Dialogue: 0,0:02:34.15,0:02:40.68,Default - Italics,,0,0,0,,E se a realidade em que vivemos fosse uma mentira?
 Dialogue: 0,0:02:55.65,0:02:58.16,Default,,0,0,0,,Já ouvi. Para de buzinar, cara.
 Dialogue: 0,0:02:58.90,0:02:59.73,Default,,0,0,0,,O que disse?
 Dialogue: 0,0:03:00.80,0:03:01.93,Default,,0,0,0,,Bem-vindo!
-Dialogue: 0,0:03:07.33,0:03:08.28,Default,,0,0,0,,Amigo...
-Dialogue: 0,0:03:08.28,0:03:09.45,Default,,0,0,0,,Está de brincadeira comigo?
-Dialogue: 0,0:03:09.45,0:03:10.19,Default,,0,0,0,,Como?
+Dialogue: 0,0:03:07.33,0:03:09.45,Default,,0,0,0,,Amigo, está de brincadeira comigo?
+Dialogue: 0,0:03:09.45,0:03:10.19,Default,,0,0,0,,Hã?
 Dialogue: 0,0:03:10.19,0:03:11.19,Default,,0,0,0,,Nem vem com essa!
-Dialogue: 0,0:03:11.19,0:03:13.14,Default,,0,0,0,,Veja o medidor da bomba!
-Dialogue: 0,0:03:13.14,0:03:14.79,Default,,0,0,0,,Meu tanque já deveria estar cheio!
+Dialogue: 0,0:03:11.19,0:03:14.79,Default,,0,0,0,,Veja o medidor da bomba!\N Meu tanque já deveria estar cheio!
 Dialogue: 0,0:03:14.79,0:03:15.95,Default,,0,0,0,,Não é possível—
 Dialogue: 0,0:03:16.58,0:03:17.38,Default,,0,0,0,,O quê?!
 Dialogue: 0,0:03:23.31,0:03:24.96,Default,,0,0,0,,Uma oscilação foi detectada.
@@ -83,7 +81,7 @@ Dialogue: 0,0:09:17.40,0:09:18.18,Default,,0,0,0,,Não fique assim.
 Dialogue: 0,0:09:18.18,0:09:18.89,Default,,0,0,0,,Exatamente.
 Dialogue: 0,0:09:18.89,0:09:21.52,Default,,0,0,0,,No fim, conseguiu resgatar aquelas pessoas, certo?
 Dialogue: 0,0:09:22.06,0:09:25.78,Default,,0,0,0,,O Líder do Esquadrão, Fukami, foi quem as salvou.
-Dialogue: 0,0:09:27.83,0:09:28.76,Default,,0,0,0,,Entendo.
+Dialogue: 0,0:09:27.83,0:09:28.76,Default,,0,0,0,,Entendo...
 Dialogue: 0,0:09:31.07,0:09:33.29,Default,,0,0,0,,Gosto deste trabalho.
 Dialogue: 0,0:09:33.56,0:09:37.49,Default,,0,0,0,,Mas talvez eu não sirva para isso.
 Dialogue: 0,0:09:39.89,0:09:40.86,Default,,0,0,0,,Komon!
@@ -124,7 +122,7 @@ Dialogue: 0,0:12:12.89,0:12:13.72,Default,,0,0,0,,Isso.
 Dialogue: 0,0:12:14.05,0:12:17.53,Default,,0,0,0,,Meu nome é Matsunaga.\N Por favor, entre.
 Dialogue: 0,0:12:20.38,0:12:21.29,Default,,0,0,0,,Por aqui!
 Dialogue: 0,0:12:21.29,0:12:21.82,Default,,0,0,0,,Por aqui.
-Dialogue: 0,0:12:21.82,0:12:23.41,Default,,0,0,0,,Por aqui? Como assim?
+Dialogue: 0,0:12:21.82,0:12:23.41,Default,,0,0,0,,Por aqui?\N Como assim?
 Dialogue: 0,0:12:26.55,0:12:27.67,Default,,0,0,0,,Esperem!
 Dialogue: 0,0:12:28.48,0:12:32.35,Default,,0,0,0,,Por gentileza, coloque esta venda.
 Dialogue: 0,0:12:32.35,0:12:34.41,Default,,0,0,0,,Por gentileza? Tá bom!
@@ -178,7 +176,7 @@ Dialogue: 0,0:15:59.38,0:16:00.78,Default - Italics,,0,0,0,,Se for sobre nosso e
 Dialogue: 0,0:16:00.78,0:16:03.02,Default - Italics,,0,0,0,,faremos um inesquecível na próxima vez.
 Dialogue: 0,0:16:03.60,0:16:06.68,Default - Italics,,0,0,0,,Então, como é seu novo trabalho?
 Dialogue: 0,0:16:08.52,0:16:09.99,Default,,0,0,0,,Sobre isso...
-Dialogue: 0,0:16:09.99,0:16:12.22,Default - Italics,,0,0,0,,Sua transferência é ultrassecreta.
+Dialogue: 0,0:16:09.99,0:16:12.22,Default - Italics,flashback 01,0,0,0,,Sua transferência é ultrassecreta.
 Dialogue: 0,0:16:12.51,0:16:15.51,Default - Italics,,0,0,0,,É um trabalho que envolve salvar pessoas?
 Dialogue: 0,0:16:18.67,0:16:19.56,Default,,0,0,0,,Parece que sim.
 Dialogue: 0,0:16:21.10,0:16:22.07,Default,,0,0,0,,Ainda bem!
@@ -206,7 +204,7 @@ Dialogue: 0,0:18:49.71,0:18:52.95,Default,,0,0,0,,O que quer de mim?
 Dialogue: 0,0:18:58.20,0:19:00.11,Default,,0,0,0,,Captei uma oscilação diferente na área.
 Dialogue: 0,0:19:04.11,0:19:05.32,Default,,0,0,0,,Só pode ser isso...
 Dialogue: 0,0:19:05.82,0:19:07.76,Default,,0,0,0,,Alguma coisa acabou de despertar?
-Dialogue: 0,0:19:44.22,0:19:45.48,Default - Italics,,0,0,0,,Não desista.
+Dialogue: 0,0:19:44.22,0:19:45.48,Default - Italics,flashback,0,0,0,,Não desista.
 Dialogue: 0,0:20:34.13,0:20:37.12,Default,,0,0,0,,Isso só pode ser um sonho.
 Dialogue: 0,0:20:52.88,0:20:54.05,Default,,0,0,0,,Isso...
 Dialogue: 0,0:20:55.85,0:20:57.87,Default,,0,0,0,,Não pode ser real.
