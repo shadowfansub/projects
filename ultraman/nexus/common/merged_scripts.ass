@@ -5,8 +5,8 @@ ScriptType: v4.00+
 WrapStyle: 3
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-PlayResX: 1440
-PlayResY: 1080
+PlayResX: 960
+PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
