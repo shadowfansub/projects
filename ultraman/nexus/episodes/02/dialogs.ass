@@ -223,7 +223,7 @@ Dialogue: 0,0:22:06.07,0:22:08.66,Default - Top,,0,0,0,,Pare!
 Comment: 0,0:22:10.05,0:22:10.08,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:40.07,0:23:40.10,Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 0,0:23:44.16,0:23:47.44,Default - Italics,,0,0,0,,Que arma é essa? Quem é você?
-Dialogue: 0,0:23:48.97,0:23:50.81,Default - Italics,,0,0,0,,Não atirem!\NÉ gás combustível!
+Dialogue: 0,0:23:48.97,0:23:50.81,Default - Italics,,0,0,0,,Não atire!\N É gás combustível!
 Dialogue: 0,0:23:52.05,0:23:55.18,Default - Italics,,0,0,0,,A distância entre o alvo e a cidade é de 4000 unidades.
 Dialogue: 0,0:23:56.12,0:23:57.88,Default - Italics,,0,0,0,,Levaremos 30 segundos para chegar até ele.
 Dialogue: 0,0:23:58.80,0:24:00.05,Default - Italics,,0,0,0,,Não vamos conseguir!
