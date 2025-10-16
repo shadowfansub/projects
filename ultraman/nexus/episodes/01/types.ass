@@ -16,14 +16,14 @@ Style: Signs,Proxima Soft,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(480,544.667)\c&H000000&\1a&HFF&\blur0.57\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
-Dialogue: 1,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(480,544.667)\bord0\4a&HFF&\blur0.57\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
+Dialogue: 0,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(480,544.667)\c&H000000&\1a&HFF&\blur0.55\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
+Dialogue: 1,0:02:03.87,0:02:07.54,Credits,,0,0,0,,{\pos(480,544.667)\bord0\4a&HFF&\blur0.55\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 0,0:14:22.15,0:14:26.45,Signs,,0,0,0,,{=12}{\pos(480,720)\fnReimin Y20 Web\fs13.33\c&H434145&\blur2\p1}m -122.375 -254 l 560 -396 562.75 -346.625 -125.75 -215.375
-Dialogue: 0,0:14:22.15,0:14:26.45,Signs,,0,0,0,,{=17}{\pos(304.953,263.367)\org(302,251)\fscx159.45\fscy179.06\frz11.112\fry-5.763\frx1.682\fax-0.232\fnReimin Y20 Web\fs13.33\xshad2\yshad1.333\c&HA3D1DE&\4c&H1B3942&\blur0.67}Polícia Metropolitana\h\h\h\h\h\h{\fs20}Delegacia de Polícia de Minami-Ono
-Dialogue: 0,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.57\fad(521,514)}Night Raid
-Dialogue: 1,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.57\fad(521,514)}Night Raid
-Dialogue: 0,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.57\fad(519,552)}Bestas Espaciais
-Dialogue: 1,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.57\fad(519,552)}Bestas Espaciais
+Dialogue: 0,0:14:22.15,0:14:26.45,Signs,,0,0,0,,{=17}{\pos(304.953,263.367)\org(302,251)\fscx159.45\fscy179.06\frz11.112\fry-5.763\frx1.682\fax-0.232\fnReimin Y20 Web\fs13.33\xshad2\yshad1.333\c&HA3D1DE&\4c&H1B3942&\blur0.55}Polícia Metropolitana\h\h\h\h\h\h{\fs20}Delegacia de Polícia de Minami-Ono
+Dialogue: 0,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.55\fad(521,514)}Night Raid
+Dialogue: 1,0:02:44.31,0:02:50.35,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.55\fad(521,514)}Night Raid
+Dialogue: 0,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.55\fad(519,552)}Bestas Espaciais
+Dialogue: 1,0:24:06.36,0:24:10.40,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.55\fad(519,552)}Bestas Espaciais
 
 [Aegisub Extradata]
 Data: 0,_aegi_perspective_ambient_plane,e18.72;423.15#7C991.36;499.00#7C991.36;539.00#7C94.64;539.00

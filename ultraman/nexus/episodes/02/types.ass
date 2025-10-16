@@ -16,8 +16,8 @@ Style: Signs,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,10
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:02:00.90,0:02:04.57,Credits,,0,0,0,,{\pos(480,544.667)\c&H000000&\1a&HFF&\blur0.57\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
-Dialogue: 1,0:02:00.90,0:02:04.57,Credits,,0,0,0,,{\pos(480,544.667)\bord0\4a&HFF&\blur0.57\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
+Dialogue: 0,0:02:00.90,0:02:04.57,Credits,,0,0,0,,{\pos(480,544.667)\c&H000000&\1a&HFF&\blur0.55\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
+Dialogue: 1,0:02:00.90,0:02:04.57,Credits,,0,0,0,,{\pos(480,544.667)\bord0\4a&HFF&\blur0.55\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 1,0:04:37.09,0:04:43.87,Signs,,0,0,0,,{=10}{\an4\pos(575.513,165.26)\org(509,177)\fscx139.72\fscy139.87\frz-6.818\fry-0.833\frx0.219\fax0.002\fnBuilt Titling Rg\fs16.67\b1\xbord1.79\ybord1.52\c&H332D2D&\3c&H332D2D&\blur1}Treze Mortos!\NTragédia em Viagem de Empresa
 Dialogue: 2,0:04:37.09,0:04:43.87,Signs,,0,0,0,,{=10}{\an4\pos(575.513,165.26)\org(509,177)\fscx139.72\fscy139.87\frz-6.818\fry-0.833\frx0.219\fax0.002\fnBuilt Titling Rg\fs16.67\b1\c&HF4E7EA&\4a&HFF&\blur1}Treze Mortos!\NTragédia em Viagem de Empresa
 Dialogue: 0,0:04:37.09,0:04:43.87,Signs,,0,0,0,,{\an5\pos(692,188)\c&H4E6D71&\blur1.33\clip(m 551.375 135.375 l 832.625 166.875 832.625 168 551.375 136.5)\p1}m 21.375 0 l 274.625 28 267.375 96 14 65.375 b 13.375 53.875 8.625 47.125 0 45.375 l 3.375 14.625 b 11.625 13.75 17.875 9.125 21.375 0
@@ -127,10 +127,10 @@ Dialogue: 0,0:04:37.09,0:04:43.87,Signs,,0,0,0,,{\an5\pos(692,188)\c&H527074&\bl
 Dialogue: 0,0:04:37.09,0:04:43.87,Signs,,0,0,0,,{\an5\pos(692,188)\c&H506E72&\blur1.33\clip(m 551.375 204.75 l 832.625 236.375 832.625 237.5 551.375 206)\p1}m 21.375 0 l 274.625 28 267.375 96 14 65.375 b 13.375 53.875 8.625 47.125 0 45.375 l 3.375 14.625 b 11.625 13.75 17.875 9.125 21.375 0
 Dialogue: 0,0:04:37.09,0:04:43.87,Signs,,0,0,0,,{\an5\pos(692,188)\c&H4E6D71&\blur1.33\clip(m 551.375 205.5 l 832.625 237 832.625 238.125 551.375 206.625)\p1}m 21.375 0 l 274.625 28 267.375 96 14 65.375 b 13.375 53.875 8.625 47.125 0 45.375 l 3.375 14.625 b 11.625 13.75 17.875 9.125 21.375 0
 Dialogue: 0,0:12:11.15,0:12:12.88,Signs,,0,0,0,,{\an4\pos(204.287,201.167)\org(838,118)\fscx267\fscy243\frz-6.24\fry0.6\frx0.45\fnEarly GameBoy\xshad1.333\c&H332D2D&\4c&H402A23&\blur1.67}Komon
-Dialogue: 0,0:02:05.41,0:02:10.05,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.57\fad(516,487)}Bestas Espaciais
-Dialogue: 1,0:02:05.41,0:02:10.05,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.57\fad(516,487)}Bestas Espaciais
-Dialogue: 0,0:24:05.43,0:24:09.47,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.57\fad(515,522)}Ultraman
-Dialogue: 1,0:24:05.43,0:24:09.47,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.57\fad(515,522)}Ultraman
+Dialogue: 0,0:02:05.41,0:02:10.05,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.55\fad(516,487)}Bestas Espaciais
+Dialogue: 1,0:02:05.41,0:02:10.05,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.55\fad(516,487)}Bestas Espaciais
+Dialogue: 0,0:24:05.43,0:24:09.47,Episode Title,,0,0,0,,{\pos(478.667,680.667)\c&H000000&\blur0.55\fad(515,522)}Ultraman
+Dialogue: 1,0:24:05.43,0:24:09.47,Episode Title,,0,0,0,,{\pos(478.667,680.667)\bord0\4a&HFF&\blur0.55\fad(515,522)}Ultraman
 
 [Aegisub Extradata]
 Data: 0,_aegi_perspective_ambient_plane,e595.08;226.86#7C1269.71;226.86#7C1233.11;351.43#7C595.08;306.86
