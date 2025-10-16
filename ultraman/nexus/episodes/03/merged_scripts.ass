@@ -25,17 +25,17 @@ Style: 4$Signs,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 200,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=0}dialogs.ass
+Comment: 200,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=60}dialogs.ass
 Comment: 200,0:00:00.00,0:00:04.46,1$Default,chptr,0,0,0,,{Introdução} = Intro
 Dialogue: 200,0:00:04.34,0:00:07.66,1$Default,,0,0,0,,Se atacarmos nessas condições,\N aquelas pessoas serão atingidas!
-Dialogue: 200,0:00:10.12,0:00:14.30,1$Default - Italics,,0,0,0,,Eu estava tão impotente naquele momento.
+Dialogue: 200,0:00:10.12,0:00:14.30,1$Default - Italics,,0,0,0,,Eu estava impotente naquele momento.
 Dialogue: 200,0:00:18.14,0:00:19.64,1$Default,,0,0,0,,Não atire!
 Dialogue: 200,0:00:23.94,0:00:25.04,1$Default,,0,0,0,,Aquele homem!
 Dialogue: 200,0:00:48.16,0:00:55.47,1$Default - Italics,,0,0,0,,Eu ainda não entendia a minha nova realidade.
 Comment: 200,0:00:56.04,0:00:56.07,1$Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 200,0:02:35.01,0:02:35.04,1$Default,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 200,0:02:42.78,0:02:45.15,1$Default,,0,0,0,,Aquele é o gigante prateado?!
-Dialogue: 200,0:03:12.20,0:03:14.01,1$Default,,0,0,0,,Aquele gigante não é nosso inimigo.
+Dialogue: 200,0:03:12.20,0:03:14.01,1$Default,,0,0,0,,Aquele gigante não é nosso inimigo!
 Dialogue: 200,0:04:07.71,0:04:09.31,1$Default,,0,0,0,,Que gás é esse?
 Dialogue: 200,0:04:09.31,0:04:10.85,1$Default,,0,0,0,,Ishibori, analise.
 Dialogue: 200,0:04:10.85,0:04:11.83,1$Default,,0,0,0,,Entendido.
@@ -45,13 +45,13 @@ Dialogue: 200,0:04:46.97,0:04:48.41,1$Default,,0,0,0,,O alvo está fugindo!
 Dialogue: 200,0:04:49.04,0:04:50.36,1$Default,,0,0,0,,Por favor, vão atrás dele.
 Dialogue: 200,0:04:50.36,0:04:53.58,1$Default,,0,0,0,,Ele está indo para um grande centro populacional.
 Dialogue: 200,0:05:14.80,0:05:17.51,1$Default,,0,0,0,,A distância entre o alvo e a cidade é de 4000 unidades.
-Dialogue: 200,0:05:19.31,0:05:21.11,1$Default,,0,0,0,,Levaremos trinta segundos para chegar até ele.
+Dialogue: 200,0:05:19.31,0:05:21.11,1$Default,,0,0,0,,Levaremos 30 segundos para chegar até ele.
 Dialogue: 200,0:05:22.00,0:05:23.47,1$Default,,0,0,0,,Não vamos conseguir!
 Dialogue: 200,0:05:59.52,0:06:01.34,1$Default,,0,0,0,,Perdemos o alvo.
-Dialogue: 200,0:06:10.77,0:06:12.16,1$Default,,0,0,0,,Aonde ele foi?
+Dialogue: 200,0:06:10.77,0:06:12.16,1$Default,,0,0,0,,Para onde ele foi?
 Dialogue: 200,0:06:19.66,0:06:20.91,1$Default,,0,0,0,,Fogos de artifício?
-Dialogue: 200,0:06:42.93,0:06:44.02,1$Default,,0,0,0,,O que aconteceu com a Besta?
-Dialogue: 200,0:06:44.72,0:06:45.92,1$Default - Italics,,0,0,0,,Perdemos o sinal.
+Dialogue: 200,0:06:42.93,0:06:44.02,1$Default,,0,0,0,,O que houve com a Besta?
+Dialogue: 200,0:06:44.72,0:06:45.92,1$Default - Italics,,0,0,0,,Perdemos o sinal dela.
 Dialogue: 200,0:06:47.15,0:06:50.26,1$Default - Italics,,0,0,0,,O alvo desapareceu.\NPor favor, retornem.
 Dialogue: 200,0:06:52.29,0:06:53.20,1$Default,,0,0,0,,Entendido.
 Dialogue: 200,0:06:55.53,0:06:57.58,1$Default,,0,0,0,,Ele destruiu a Besta?
@@ -59,13 +59,11 @@ Dialogue: 200,0:06:59.63,0:07:01.47,1$Default,,0,0,0,,O que é aquele gigante?
 Dialogue: 200,0:07:03.04,0:07:04.23,1$Default,,0,0,0,,Ultraman.
 Dialogue: 200,0:07:21.22,0:07:25.54,1$Default,,0,0,0,,Um distúrbio no espaço? Legal.
 Dialogue: 200,0:07:35.38,0:07:37.65,1$Default,,0,0,0,,Não consegui destruí-la completamente.
-Dialogue: 200,0:07:49.32,0:07:50.27,1$Default,,0,0,0,,Ontem à noite,
-Dialogue: 200,0:07:50.27,0:07:53.82,1$Default,,0,0,0,,uma pessoa faleceu em um incêndio\N na fábrica de cerveja.
+Dialogue: 200,0:07:49.32,0:07:53.82,1$Default,,0,0,0,,Ontem à noite, uma pessoa faleceu\N num incêndio na fábrica de cerveja.
 Dialogue: 200,0:07:53.82,0:07:56.09,1$Default,,0,0,0,,Outras duas seguem internadas no hospital.
-Dialogue: 200,0:07:56.50,0:07:59.21,1$Default - Italics,,0,0,0,,Como não havia vazamentos na fábrica,
-Dialogue: 200,0:07:59.21,0:08:01.05,1$Default - Italics,,0,0,0,,há suspeitas de um incêndio criminoso.
+Dialogue: 200,0:07:56.50,0:08:01.05,1$Default - Italics,,0,0,0,,Como não havia vazamentos na fábrica,\N a polícia suspeita que foi um incêndio criminoso. 
 Dialogue: 200,0:08:01.31,0:08:04.50,1$Default - Italics,,0,0,0,,Há relatos de uma explosão no céu ontem à noite.
-Dialogue: 200,0:08:04.50,0:08:09.21,1$Default - Italics,,0,0,0,,Esses relatos vieram dos moradores de Ohara,\N na província de Chiba.
+Dialogue: 200,0:08:04.50,0:08:09.21,1$Default - Italics,,0,0,0,,Esses relatos vieram de Ohara, na província de Chiba.
 Dialogue: 200,0:08:09.45,0:08:10.93,1$Default,,0,0,0,,Oficial Komon.
 Dialogue: 200,0:08:10.93,0:08:15.00,1$Default,,0,0,0,,Parece que já encontrou o gigante prateado antes.
 Dialogue: 200,0:08:15.31,0:08:16.43,1$Default,,0,0,0,,Isso procede?
@@ -86,21 +84,20 @@ Dialogue: 200,0:08:54.00,0:08:56.61,1$Default,,0,0,0,,Honestamente, não sei.
 Dialogue: 200,0:08:57.95,0:09:01.93,1$Default,,0,0,0,,No entanto, se ele for nosso inimigo,
 Dialogue: 200,0:09:02.64,0:09:04.23,1$Default,,0,0,0,,em nosso estado atual,
 Dialogue: 200,0:09:04.23,0:09:05.73,1$Default,,0,0,0,,não conseguiremos derrotá-lo.
-Dialogue: 200,0:09:06.89,0:09:09.67,1$Default,,0,0,0,,Precisamos realizar mais pesquisas.
+Dialogue: 200,0:09:06.89,0:09:09.67,1$Default,,0,0,0,,Precisamos investigar mais sobre a origem dele.
 Dialogue: 200,0:09:13.06,0:09:18.45,1$Default,,0,0,0,,Você não confia no Ultraman, Capitão?
 Dialogue: 200,0:09:19.63,0:09:21.94,1$Default,,0,0,0,,Ele é um ser desconhecido.
 Dialogue: 200,0:09:21.94,0:09:24.24,1$Default,,0,0,0,,Ainda é cedo para confiar nele.
 Dialogue: 200,0:09:24.24,0:09:25.25,1$Default,,0,0,0,,Mas...
 Dialogue: 200,0:09:25.25,0:09:29.23,1$Default,,0,0,0,,Você viu que ele salvou duas pessoas da Besta!
 Dialogue: 200,0:09:29.23,0:09:31.67,1$Default,,0,0,0,,Ele só estava roubando a comida.
-Dialogue: 200,0:09:33.70,0:09:35.10,1$Default,,0,0,0,,Ele deve ser uma Besta.
-Dialogue: 200,0:09:35.10,0:09:37.16,1$Default,,0,0,0,,Isso se encaixa melhor na nossa teoria.
+Dialogue: 200,0:09:33.70,0:09:37.16,1$Default,,0,0,0,,Ele só pode ser uma Besta.\N Isso se encaixaria melhor na nossa teoria.
 Dialogue: 200,0:09:37.99,0:09:39.36,1$Default,,0,0,0,,Não é verdade.
 Dialogue: 200,0:09:39.82,0:09:43.17,1$Default,,0,0,0,,As coisas nem sempre são o que parecem.
 Dialogue: 200,0:09:44.13,0:09:47.03,1$Default,,0,0,0,,Coloque essa sua cabeça para funcionar.
 Dialogue: 200,0:09:50.15,0:09:51.85,1$Default,,0,0,0,,O que quer dizer com isso?
-Dialogue: 200,0:09:52.91,0:09:57.99,1$Default,,0,0,0,,O novo membro já está se rebelando?
-Dialogue: 200,0:09:59.00,0:10:01.39,1$Default,,0,0,0,,Como comandante da equipe,
+Dialogue: 200,0:09:52.91,0:09:57.99,1$Default,,0,0,0,,O novo membro já está causando confusão?
+Dialogue: 200,0:09:59.00,0:10:01.39,1$Default,,0,0,0,,Como capitão da equipe,
 Dialogue: 200,0:10:01.39,0:10:03.22,1$Default,,0,0,0,,acho esse comportamento perigoso.
 Dialogue: 200,0:10:05.34,0:10:07.59,1$Default,,0,0,0,,Isto não te lembra uma pessoa?
 Dialogue: 200,0:10:09.71,0:10:13.98,1$Default,,0,0,0,,Ele também tinha um gênio forte.
@@ -110,30 +107,30 @@ Dialogue: 200,0:10:21.49,0:10:24.72,1$Default,,0,0,0,,Por isso, queremos que o K
 Dialogue: 200,0:10:25.81,0:10:28.20,1$Default,,0,0,0,,Saijyo também pensa o mesmo.
 Dialogue: 200,0:10:28.20,0:10:31.19,1$Default,,0,0,0,,Claro, também concordo.
 Dialogue: 200,0:10:32.20,0:10:33.31,1$Default,,0,0,0,,Com licença.
-Dialogue: 200,0:10:38.03,0:10:39.80,1$Default,,0,0,0,,Por favor, me diga.
+Dialogue: 200,0:10:38.03,0:10:39.80,1$Default,,0,0,0,,Por favor, me diga!
 Dialogue: 200,0:10:39.80,0:10:42.29,1$Default,,0,0,0,,"As coisas nem sempre são o que parecem."
 Dialogue: 200,0:10:42.29,0:10:43.75,1$Default,,0,0,0,,O que quer dizer?!
 Dialogue: 200,0:11:06.59,0:11:08.32,1$Default,,0,0,0,,Incrível.
 Dialogue: 200,0:11:09.05,0:11:10.82,1$Default,,0,0,0,,O que está fazendo?
-Dialogue: 200,0:11:11.42,0:11:14.42,1$Default,,0,0,0,,Ontem, durante a missão,\N entrou na frente da minha arma.
-Dialogue: 200,0:11:15.31,0:11:20.41,1$Default,,0,0,0,,Se eu tivesse disparado,\N tudo seria tratado como acidente.
+Dialogue: 200,0:11:11.42,0:11:14.42,1$Default,,0,0,0,,Ontem, durante a nossa missão,\N entrou na frente da minha arma.
+Dialogue: 200,0:11:15.31,0:11:20.41,1$Default,,0,0,0,,Se eu tivesse disparado em você,\N tudo seria tratado como acidente.
 Dialogue: 200,0:11:20.98,0:11:24.03,1$Default,,0,0,0,,Você levaria a culpa por ficar no meu caminho.
 Dialogue: 200,0:11:24.72,0:11:29.71,1$Default,,0,0,0,,Um NR não deveria atirar em outro.
 Dialogue: 200,0:11:33.06,0:11:35.58,1$Default,,0,0,0,,Por que confia nas pessoas tão facilmente?
-Dialogue: 200,0:11:36.72,0:11:40.22,1$Default,,0,0,0,,Só saberá que alguém é aliado ou inimigo na hora H.
+Dialogue: 200,0:11:36.72,0:11:40.22,1$Default,,0,0,0,,Só saberá se alguém é aliado ou inimigo na hora H.
 Dialogue: 200,0:11:50.43,0:11:51.87,1$Default - Italics,,0,0,0,,Sem balas.
 Dialogue: 200,0:11:53.11,0:11:55.60,1$Default,,0,0,0,,Lembre-se sempre de quantas balas restam.
 Dialogue: 200,0:11:58.54,0:11:59.94,1$Default,,0,0,0,,Espere!
-Dialogue: 200,0:11:59.94,0:12:02.51,1$Default,,0,0,0,,Ainda não respondeu a minha pergunta.
+Dialogue: 200,0:11:59.94,0:12:02.51,1$Default,,0,0,0,,Ainda não respondeu à minha pergunta.
 Dialogue: 200,0:12:02.51,0:12:05.02,1$Default,,0,0,0,,"As coisas nem sempre são o que parecem."
 Dialogue: 200,0:12:05.02,0:12:06.64,1$Default,,0,0,0,,O que quer dizer com isso?
-Dialogue: 200,0:12:18.67,0:12:22.11,1$Default,,0,0,0,,Hã? Lembro deste lugar.
+Dialogue: 200,0:12:18.67,0:12:22.11,1$Default,,0,0,0,,Hã? Lembro-me deste lugar.
 Dialogue: 200,0:12:38.31,0:12:39.79,1$Default,,0,0,0,,Por que me trouxe aqui?
 Dialogue: 200,0:12:39.79,0:12:40.95,1$Default,,0,0,0,,Veja.
-Dialogue: 200,0:12:46.48,0:12:49.11,1$Default,,0,0,0,,As famílias das vítimas devoradas pela Besta.
+Dialogue: 200,0:12:46.48,0:12:49.11,1$Default,,0,0,0,,São as famílias das vítimas devoradas pela Besta.
 Dialogue: 200,0:12:50.25,0:12:52.79,1$Default,,0,0,0,,Por que estão jogando flores para o vale?
-Dialogue: 200,0:12:53.47,0:12:55.83,1$Default,,0,0,0,,Talvez não soube porque estava treinando...
-Dialogue: 200,0:12:55.83,0:12:57.97,1$Default,,0,0,0,,Mas as mortes foram tratadas como um acidente.
+Dialogue: 200,0:12:53.47,0:12:55.83,1$Default,,0,0,0,,Talvez não soube porque estava treinando,
+Dialogue: 200,0:12:55.83,0:12:57.97,1$Default,,0,0,0,,mas as mortes foram tratadas como um acidente.
 Dialogue: 200,0:12:57.97,0:13:00.19,1$Default,,0,0,0,,Disseram que o ônibus caiu em ribanceira.
 Dialogue: 200,0:13:00.20,0:13:01.73,1$Default,,0,0,0,,Caiu em ribanceira?
 Dialogue: 200,0:13:01.73,0:13:03.27,1$Default,,0,0,0,,Todos os casos são assim.
@@ -141,20 +138,20 @@ Dialogue: 200,0:13:03.78,0:13:06.86,1$Default,,0,0,0,,As baixas são tratadas co
 Dialogue: 200,0:13:06.86,0:13:09.27,1$Default,,0,0,0,,As famílias nunca sabem da verdade.
 Dialogue: 200,0:13:09.74,0:13:12.71,1$Default,,0,0,0,,Está dizendo que a verdade está sendo acobertada?
 Dialogue: 200,0:13:13.12,0:13:14.88,1$Default,,0,0,0,,Claro.
-Dialogue: 200,0:13:14.88,0:13:17.81,1$Default,,0,0,0,,Se as pessoas soubessem a verdade,\N haveria pânico generalizado.
-Dialogue: 200,0:13:18.52,0:13:21.52,1$Default,,0,0,0,,É por isso que destruímos a Besta em segredo.
+Dialogue: 200,0:13:14.88,0:13:17.81,1$Default,,0,0,0,,Se as pessoas soubessem, haveria pânico generalizado.
+Dialogue: 200,0:13:18.52,0:13:21.52,1$Default,,0,0,0,,É por isso que destruímos as Bestas em segredo.
 Dialogue: 200,0:13:24.72,0:13:27.92,1$Default,,0,0,0,,As coisas nem sempre são o que parecem.
-Dialogue: 200,0:13:27.92,0:13:29.13,1$Default,,0,0,0,,Respondi a sua pergunta?
-Dialogue: 200,0:13:29.50,0:13:31.03,1$Default,,0,0,0,,E as testemunhas?
+Dialogue: 200,0:13:27.92,0:13:29.13,1$Default,,0,0,0,,Respondi à sua pergunta?
+Dialogue: 200,0:13:29.50,0:13:31.03,1$Default,,0,0,0,,Mas e as testemunhas?
 Dialogue: 200,0:13:31.53,0:13:34.53,1$Default,,0,0,0,,Não podem distorcer o relato das testemunhas.
-Dialogue: 200,0:13:34.84,0:13:36.15,1$Default,,0,0,0,,A verdade sempre...
-Dialogue: 200,0:13:36.15,0:13:39.09,1$Default,,0,0,0,,As testemunhas nunca irão dizer a verdade.
+Dialogue: 200,0:13:34.84,0:13:36.15,1$Default,,0,0,0,,A verdade sempre—
+Dialogue: 200,0:13:36.15,0:13:39.09,1$Default,,0,0,0,,As testemunhas nunca dirão a verdade.
 Dialogue: 200,0:13:39.09,0:13:42.71,1$Default,,0,0,0,,Há uma seção especial para lidar com isso.
 Dialogue: 200,0:13:47.01,0:13:48.36,1$Default - Italics,,0,0,0,,Não se preocupe.
 Dialogue: 200,0:13:49.08,0:13:53.47,1$Default - Italics,,0,0,0,,Se esquecer tudo, poderá retornar à sua vida normal.
 Dialogue: 200,0:13:53.47,0:13:54.15,1$Default - Italics,,0,0,0,,Hã?
 Dialogue: 200,0:13:54.72,0:13:57.62,1$Default - Italics,,0,0,0,,Em outras palavras, sua memória será apagada.
-Dialogue: 200,0:13:59.95,0:14:01.75,1$Default - Italics,,0,0,0,,É alguma brincadeira?
+Dialogue: 200,0:13:59.95,0:14:01.75,1$Default - Italics,,0,0,0,,Isso é alguma brincadeira?
 Dialogue: 200,0:14:01.75,0:14:03.61,1$Default - Italics,,0,0,0,,Não tem como vocês fazerem isso.
 Dialogue: 200,0:14:07.76,0:14:12.90,1$Default,,0,0,0,,Se eu decidisse expor a verdade,\N a minha memória seria apagada?
 Dialogue: 200,0:14:12.90,0:14:14.14,1$Default,,0,0,0,,A TLT faria isso?
@@ -162,11 +159,11 @@ Dialogue: 200,0:14:23.27,0:14:24.98,1$Default - Top Italics,,0,0,0,,Nexus.
 Dialogue: 200,0:14:26.70,0:14:27.98,1$Default - Top Italics,,0,0,0,,Nexus.
 Comment: 200,0:14:27.98,0:14:28.02,1$Default,chptr,0,0,0,,{Parte B} = Part B
 Dialogue: 200,0:14:46.25,0:14:47.60,1$Default,,0,0,0,,O que aconteceu?
-Dialogue: 200,0:14:48.42,0:14:50.00,1$Default,,0,0,0,,Por que está segurando a arma?
+Dialogue: 200,0:14:48.42,0:14:50.00,1$Default,,0,0,0,,Por que está armada?
 Dialogue: 200,0:14:50.00,0:14:52.06,1$Default,,0,0,0,,Alguém estava nos observando.
 Dialogue: 200,0:14:52.06,0:14:53.00,1$Default,,0,0,0,,Quê?
 Dialogue: 200,0:14:56.98,0:14:59.16,1$Default,,0,0,0,,Detectei Ondas de Bestas.
-Dialogue: 200,0:14:59.16,0:15:00.68,1$Default,,0,0,0,,Espere!
+Dialogue: 200,0:14:59.16,0:15:00.68,1$Default,,0,0,0,,Por favor, espere!
 Dialogue: 200,0:15:17.16,0:15:20.53,1$Default,,0,0,0,,Como imaginei, você não era uma ilusão.
 Dialogue: 200,0:15:20.53,0:15:23.07,1$Default,,0,0,0,,Estava nos seguindo? Responda!
 Dialogue: 200,0:15:23.58,0:15:25.90,1$Default,,0,0,0,,Vocês estavam sendo seguidos...
@@ -175,15 +172,15 @@ Dialogue: 200,0:15:35.20,0:15:36.14,1$Default,,0,0,0,,Bom...
 Dialogue: 200,0:15:38.92,0:15:40.19,1$Default,,0,0,0,,Quem é você?
 Dialogue: 200,0:15:41.44,0:15:42.06,1$Default,,0,0,0,,Fujam!
 Dialogue: 200,0:15:42.41,0:15:42.96,1$Default,,0,0,0,,Hã?
-Dialogue: 200,0:15:43.22,0:15:45.46,1$Default,,0,0,0,,Depressa! Seremos cercados!
+Dialogue: 200,0:15:43.22,0:15:45.46,1$Default,,0,0,0,,Depressa!\N Seremos cercados!
 Dialogue: 200,0:16:05.55,0:16:09.33,1$Default,,0,0,0,,Ondas de Bestas detectadas na área 3, ponto 247.
-Dialogue: 200,0:16:10.77,0:16:13.14,1$Default,,0,0,0,,Também há Night Raiders no local?
-Dialogue: 200,0:16:20.61,0:16:22.54,1$Default,,0,0,0,,E aquele homem está com eles.
+Dialogue: 200,0:16:10.77,0:16:13.14,1$Default,,0,0,0,,Há Night Raiders no local?
+Dialogue: 200,0:16:20.61,0:16:22.54,1$Default,,0,0,0,,Aquele homem está com eles.
 Dialogue: 200,0:16:24.34,0:16:25.44,1$Default,,0,0,0,,Por aqui!
 Dialogue: 200,0:16:55.36,0:16:57.65,1$Default,,0,0,0,,Que arma é essa?
-Dialogue: 200,0:16:57.65,0:16:59.25,1$Default,,0,0,0,,Quem é você?!
+Dialogue: 200,0:16:57.65,0:16:59.25,1$Default,,0,0,0,,Quem é você?
 Dialogue: 200,0:17:03.75,0:17:05.07,1$Default,,0,0,0,,Droga!
-Dialogue: 200,0:17:19.88,0:17:21.27,1$Default,,0,0,0,,Essa não! Estou acabado!
+Dialogue: 200,0:17:19.88,0:17:21.27,1$Default,,0,0,0,,Não! Estou acabado!
 Dialogue: 200,0:17:21.27,0:17:22.49,1$Default,,0,0,0,,Não desista!
 Dialogue: 200,0:17:38.05,0:17:40.94,1$Default,,0,0,0,,Não pode ser! Era você?
 Dialogue: 200,0:17:50.30,0:17:51.76,1$Default,,0,0,0,,O que está fazendo?!
@@ -207,10 +204,10 @@ Dialogue: 200,0:19:35.22,0:19:36.66,1$Default,,0,0,0,,Por favor, pare.
 Dialogue: 200,0:19:46.67,0:19:47.84,1$Default,,0,0,0,,Aonde ele foi?
 Dialogue: 200,0:20:02.52,0:20:04.67,1$Default,,0,0,0,,Apresento-lhes o Chrome Chester Gamma.
 Dialogue: 200,0:20:06.10,0:20:09.20,1$Default,,0,0,0,,Sua operação é similar à dos modelos que já usamos,
-Dialogue: 200,0:20:09.20,0:20:13.07,1$Default,,0,0,0,,mas, como a mobilidade aumentou,\N pode ser difícil de usar.
+Dialogue: 200,0:20:09.20,0:20:13.07,1$Default,,0,0,0,,mas, como a mobilidade aumentou,\N pode ser difícil de pilotar.
 Dialogue: 200,0:20:15.57,0:20:19.40,1$Default,,0,0,0,,Agora, não ficaremos atrás das Bestas.
 Dialogue: 200,0:20:21.29,0:20:26.30,1$Default - Italics,,0,0,0,,A Vice-Capitã nunca delatou aquele homem.
-Dialogue: 200,0:20:28.53,0:20:34.28,1$Default - Italics,,0,0,0,,Eu não sabia mais qual realidade era real.
+Dialogue: 200,0:20:28.53,0:20:34.28,1$Default - Italics,,0,0,0,,Eu não sabia mais se aquela realidade era real.
 Dialogue: 200,0:20:37.29,0:20:38.48,1$Default,,0,0,0,,Alô?
 Dialogue: 200,0:20:38.48,0:20:39.83,1$Default - Italics,,0,0,0,,Komon?
 Dialogue: 200,0:20:40.67,0:20:43.99,1$Default - Italics,,0,0,0,,É incomum me ligar tão cedo.
@@ -219,10 +216,10 @@ Dialogue: 200,0:20:45.66,0:20:49.50,1$Default,,0,0,0,,Só queria ouvir sua voz.
 Dialogue: 200,0:20:50.46,0:20:53.75,1$Default - Italics,,0,0,0,,O que houve?\N Aconteceu algo no trabalho?
 Dialogue: 200,0:20:54.53,0:20:59.74,1$Default,,0,0,0,,Não, nada.\N Só estava precisando ouvir sua voz.
 Dialogue: 200,0:21:01.50,0:21:05.55,1$Default - Italics,,0,0,0,,Mas, na breve conversa que tive com a Riko,
-Dialogue: 200,0:21:05.55,0:21:10.20,1$Default - Italics,,0,0,0,,meu coração entendeu qual realidade era real.
-Dialogue: 200,0:21:19.44,0:21:21.87,1$Default,,0,0,0,,Não freie assim! É perigoso!
+Dialogue: 200,0:21:05.55,0:21:10.20,1$Default - Italics,,0,0,0,,meu coração entendeu que aquela realidade era real.
+Dialogue: 200,0:21:19.44,0:21:21.87,1$Default,,0,0,0,,Não freie assim, é perigoso!
 Dialogue: 200,0:21:21.87,0:21:24.68,1$Default,,0,0,0,,Mas não pisei no freio, foi o carro...
-Dialogue: 200,0:21:29.15,0:21:30.84,1$Default,,0,0,0,,Socorro!
+Dialogue: 200,0:21:29.15,0:21:30.84,1$Default,,0,0,0,,Socorro...
 Comment: 200,0:22:10.05,0:22:10.08,1$Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 200,0:23:40.00,0:23:40.04,1$Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 200,0:23:41.70,0:23:45.14,1$Default - Italics,,0,0,0,,Faremos um ataque na entrada e na saída do túnel,
@@ -230,8 +227,8 @@ Dialogue: 200,0:23:45.14,0:23:48.13,1$Default - Italics,,0,0,0,,usando o Chester
 Dialogue: 200,0:23:51.71,0:23:54.42,1$Default - Italics,,0,0,0,,Ela não para de se mexer! Que saco!
 Dialogue: 200,0:23:54.42,0:23:55.69,1$Default - Italics,,0,0,0,,Você não irá escapar!
 Dialogue: 200,0:23:59.98,0:24:00.76,1$Default - Italics,,0,0,0,,Que lugar é este?
-Dialogue: 200,0:24:01.69,0:24:03.43,1$Default - Italics,,0,0,0,,Aonde vim parar?
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=1}ending.ass
+Dialogue: 200,0:24:01.69,0:24:03.43,1$Default - Italics,,0,0,0,,Onde eu vim parar?
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=61}ending.ass
 Comment: 0,0:00:00.00,0:00:00.00,2$RO,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,2$RO,,0,0,0,code once,ke4 = _G.ke4
 Comment: 0,0:00:00.00,0:00:00.00,2$RO,,0,0,0,code once,blur_size = 3
@@ -1465,7 +1462,7 @@ Dialogue: 2,0:23:27.33,0:23:32.58,2$RO,,0,0,0,fx,{\an5\move(705.57,101.50,655.57
 Dialogue: 1,0:23:35.24,0:23:35.54,2$RO,,0,0,0,fx,{\an5\pos(655.57,101.50)\3c&H6C7178&\blur3\fad(0,300)}w
 Dialogue: 2,0:23:27.33,0:23:32.58,2$RO,,0,0,0,fx,{\an5\move(723.78,101.50,673.78,101.50,0,300)\3c&H6C7178&\blur3\alpha&HA0&\fad(300,0)}o
 Dialogue: 1,0:23:35.24,0:23:35.54,2$RO,,0,0,0,fx,{\an5\pos(673.78,101.50)\3c&H6C7178&\blur3\fad(0,300)}o
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=2}opening.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=62}opening.ass
 Comment: 0,0:00:00.00,0:00:00.00,3$RO,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,3$RO,,0,0,0,code once,ke4 = _G.ke4
 Comment: 0,0:00:00.00,0:00:00.00,3$RO,,0,0,0,code once,delay = 300
@@ -2294,7 +2291,7 @@ Dialogue: 0,0:02:29.79,0:02:30.34,3$RO,,0,0,0,fx,{\an5\pos(451.85,101.50)\3c&HAF
 Dialogue: 1,0:02:29.54,0:02:29.79,3$RO,,0,0,0,fx,{\an5\pos(494.90,101.50)\3c&HAF401E&\blur3\alpha&HA0&}right
 Dialogue: 2,0:02:29.79,0:02:30.34,3$RO,,0,0,0,fx,{\an5\pos(494.90,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}right
 Dialogue: 0,0:02:30.34,0:02:30.34,3$RO,,0,0,0,fx,{\an5\pos(494.90,101.50)\3c&HAF401E&\blur3}right
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=3}types.ass
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,import,{=63}types.ass
 Dialogue: 0,0:02:30.93,0:02:34.60,4$Credits,,0,0,0,,{\pos(480,544.667)\c&H000000&\1a&HFF&\blur0.55\fad(354,346)\t(309,354,\1a&H00&)\t(3324,3369,\1a&HFF&)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 1,0:02:30.93,0:02:34.60,4$Credits,,0,0,0,,{\pos(480,544.667)\bord0\4a&HFF&\blur0.55\fad(354,346)}Legendado por Rainbow Rush Fansub\N\NRevisão, QC, Edição por Shadow Fansub\Nwww.shadowfansub.com
 Dialogue: 2,0:08:01.40,0:08:01.43,4$Signs,,0,0,0,,{=4}{\pos(-303.58,548.317)\org(415.74,514)\fscx493.945\fscy309.173\frz10.053\fry-5.161\frx2.071\fax-0.065\fnBebas Neue\fs20\b1\xshad3.24\yshad1.38\c&HE5DAD6&\4c&H3D302B&\blur1\clip(m 105.19 540.2 l 799.94 410.7 802.94 473.08 103.69 591.2)\q2}EXPLOSÃO MISTERIOSA NO CÉU
@@ -2885,3 +2882,11 @@ Data: 52,_aegi_perspective_ambient_plane,e701.678;426.947#7C731.678;426.947#7C73
 Data: 53,_aegi_perspective_ambient_plane,e716.055;424.246#7C746.055;424.246#7C746.055;454.246#7C716.055;454.246
 Data: 54,_aegi_perspective_ambient_plane,e730.313;421.596#7C760.313;421.596#7C760.313;451.596#7C730.313;451.596
 Data: 55,_aegi_perspective_ambient_plane,e731.402;421.408#7C761.402;421.408#7C761.402;451.408#7C731.402;451.408
+Data: 56,myaa.MergeScripts,e[{"aegisub_garbage"#3A{}#2C"prefix"#3A1#2C"extrakeys"#3A{}#2C"file"#3A"dialogs.ass"#2C"script_info"#3A[{"value"#3A"v4.00+"#2C"key"#3A"ScriptType"#2C"class"#3A"info"}#2C{"value"#3A"3"#2C"key"#3A"WrapStyle"#2C"class"#3A"info"}#2C{"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"#2C"class"#3A"info"}#2C{"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"}#2C{"value"#3A"960"#2C"key"#3A"PlayResX"#2C"class"#3A"info"}#2C{"value"#3A"720"#2C"key"#3A"PlayResY"#2C"class"#3A"info"}]}]
+Data: 57,myaa.MergeScripts,e[{"aegisub_garbage"#3A{}#2C"prefix"#3A2#2C"extrakeys"#3A{}#2C"file"#3A"ending.ass"#2C"script_info"#3A[{"value"#3A"v4.00+"#2C"key"#3A"ScriptType"#2C"class"#3A"info"}#2C{"value"#3A"3"#2C"key"#3A"WrapStyle"#2C"class"#3A"info"}#2C{"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"}#2C{"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"#2C"class"#3A"info"}#2C{"value"#3A"960"#2C"key"#3A"PlayResX"#2C"class"#3A"info"}#2C{"value"#3A"720"#2C"key"#3A"PlayResY"#2C"class"#3A"info"}]}]
+Data: 58,myaa.MergeScripts,e[{"aegisub_garbage"#3A{}#2C"prefix"#3A3#2C"extrakeys"#3A{}#2C"file"#3A"opening.ass"#2C"script_info"#3A[{"value"#3A"v4.00+"#2C"key"#3A"ScriptType"#2C"class"#3A"info"}#2C{"value"#3A"3"#2C"key"#3A"WrapStyle"#2C"class"#3A"info"}#2C{"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"}#2C{"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"#2C"class"#3A"info"}#2C{"value"#3A"960"#2C"key"#3A"PlayResX"#2C"class"#3A"info"}#2C{"value"#3A"720"#2C"key"#3A"PlayResY"#2C"class"#3A"info"}]}]
+Data: 59,myaa.MergeScripts,e[{"aegisub_garbage"#3A{}#2C"prefix"#3A4#2C"extrakeys"#3A{"_aegi_perspective_ambient_plane"#3A{"490.081;465.549#7C520.081;465.549#7C520.081;495.549#7C490.081;495.549"#3A237#2C"1076.89;651.007#7C1106.89;651.007#7C1106.89;681.007#7C1076.89;681.007"#3A170#2C"502.651;463.228#7C532.651;463.228#7C532.651;493.228#7C502.651;493.228"#3A238#2C"1097.94;647.18#7C1127.94;647.18#7C1127.94;677.18#7C1097.94;677.18"#3A171#2C"515.239;460.926#7C545.239;460.926#7C545.239;490.926#7C515.239;490.926"#3A239#2C"1099.11;647.041#7C1129.11;647.041#7C1129.11;677.041#7C1099.11;677.041"#3A172#2C"1099.24;646.992#7C1129.24;646.992#7C1129.24;676.992#7C1099.24;676.992"#3A173#2C"566.213;451.511#7C596.213;451.511#7C596.213;481.511#7C566.213;481.511"#3A243#2C"142.77;818.075#7C172.77;818.075#7C172.77;848.075#7C142.77;848.075"#3A116#2C"579.348;449.168#7C609.348;449.168#7C609.348;479.168#7C579.348;479.168"#3A244#2C"142.77;818.07#7C172.77;818.07#7C172.77;848.07#7C142.77;848.07"#3A182#2C"592.467;446.876#7C622.467;446.876#7C622.467;476.876#7C592.467;476.876"#3A245#2C"114.97;284.62#7C172.77;818.07#7C172.77;848.07#7C142.77;848.07"#3A183#2C"605.778;444.309#7C635.778;444.309#7C635.778;474.309#7C605.778;474.309"#3A246#2C"114.97;284.62#7C172.77;818.07#7C172.77;848.07#7C-6.05;856.26"#3A184#2C"619.29;441.968#7C649.29;441.968#7C649.29;471.968#7C619.29;471.968"#3A247#2C"114.97;284.62#7C802.41;104.62#7C172.77;848.07#7C-6.05;856.26"#3A185#2C"632.779;439.402#7C662.779;439.402#7C662.779;469.402#7C632.779;469.402"#3A248#2C"114.97;284.62#7C802.41;104.62#7C817.13;486.44#7C-6.05;856.26"#3A186#2C"646.085;436.985#7C676.085;436.985#7C676.085;466.985#7C646.085;466.985"#3A249#2C"114.97;284.62#7C802.41;104.62#7C817.13;486.44#7C92.07;610.80"#3A187#2C"659.959;434.601#7C689.959;434.601#7C689.959;464.601#7C659.959;464.601"#3A250#2C"351.073;780.352#7C381.073;780.352#7C381.073;810.352#7C351.073;810.352"#3A130#2C"36.51;305.12#7C676.28;137.59#7C753.11;497.39#7C59.23;616.42"#3A188#2C"244.611;799.21#7C274.611;799.21#7C274.611;829.21#7C244.611;829.21"#3A123#2C"366.918;777.395#7C396.918;777.395#7C396.918;807.395#7C366.918;807.395"#3A131#2C"36.52;305.14#7C797.09;103.20#7C753.12;497.39#7C59.23;616.41"#3A189#2C"259.616;796.537#7C289.616;796.537#7C289.616;826.537#7C259.616;826.537"#3A124#2C"382.591;774.63#7C412.591;774.63#7C412.591;804.63#7C382.591;804.63"#3A132#2C"36.52;305.14#7C797.09;103.20#7C815.52;493.39#7C59.23;616.41"#3A190#2C"274.603;793.843#7C304.603;793.843#7C304.603;823.843#7C274.603;823.843"#3A125#2C"398.411;771.802#7C428.411;771.802#7C428.411;801.802#7C398.411;801.802"#3A133#2C"36.52;305.14#7C797.09;103.20#7C815.52;493.39#7C93.63;611.61"#3A191#2C"289.562;791.228#7C319.562;791.228#7C319.562;821.228#7C289.562;821.228"#3A126#2C"414.355;769.019#7C444.355;769.019#7C444.355;799.019#7C414.355;799.019"#3A134#2C"113.32;291.54#7C797.09;103.20#7C815.52;493.39#7C93.63;611.61"#3A192#2C"304.974;788.487#7C334.974;788.487#7C334.974;818.487#7C304.974;818.487"#3A127#2C"430.569;766.091#7C460.569;766.091#7C460.569;796.091#7C430.569;796.091"#3A135#2C"112.51;291.52#7C797.09;103.17#7C815.52;493.39#7C93.63;611.62"#3A193#2C"320.131;785.799#7C350.131;785.799#7C350.131;815.799#7C320.131;815.799"#3A128#2C"446.82;763.147#7C476.82;763.147#7C476.82;793.147#7C446.82;793.147"#3A136#2C"112.51;291.54#7C797.09;103.21#7C815.52;493.39#7C93.63;611.61"#3A194#2C"335.514;783.063#7C365.514;783.063#7C365.514;813.063#7C335.514;813.063"#3A129#2C"463.096;760.481#7C493.096;760.481#7C493.096;790.481#7C463.096;790.481"#3A137#2C"111.73;291.00#7C796.93;99.81#7C815.54;493.49#7C93.59;612.31"#3A196#2C"479.344;757.488#7C509.344;757.488#7C509.344;787.488#7C479.344;787.488"#3A138#2C"111.73;290.99#7C796.93;99.80#7C815.54;493.49#7C94.44;611.20"#3A197#2C"495.88;754.516#7C525.88;754.516#7C525.88;784.516#7C495.88;784.516"#3A139#2C"111.73;290.98#7C796.93;99.78#7C815.28;494.09#7C94.44;611.20"#3A198#2C"512.527;751.615#7C542.527;751.615#7C542.527;781.615#7C512.527;781.615"#3A140#2C"111.73;290.96#7C798.75;102.19#7C815.28;494.09#7C94.44;611.21"#3A199#2C"529.349;748.643#7C559.349;748.643#7C559.349;778.643#7C529.349;778.643"#3A141#2C"88;539#7C118;539#7C118;569#7C88;569"#3A200#2C"546.465;745.485#7C576.465;745.485#7C576.465;775.485#7C546.465;775.485"#3A142#2C"97.3535;537.135#7C127.353;537.135#7C127.353;567.135#7C97.3535;567.135"#3A201#2C"563.503;742.584#7C593.503;742.584#7C593.503;772.584#7C563.503;772.584"#3A143#2C"106.941;535.594#7C136.941;535.594#7C136.941;565.594#7C106.941;565.594"#3A202#2C"580.618;739.63#7C610.618;739.63#7C610.618;769.63#7C580.618;769.63"#3A144#2C"116.334;533.697#7C146.334;533.697#7C146.334;563.697#7C116.334;563.697"#3A203#2C"597.756;736.405#7C627.756;736.405#7C627.756;766.405#7C597.756;766.405"#3A145#2C"126.269;531.981#7C156.269;531.981#7C156.269;561.981#7C126.269;561.981"#3A204#2C"615.228;733.385#7C645.228;733.385#7C645.228;763.385#7C615.228;763.385"#3A146#2C"527.921;458.546#7C557.921;458.546#7C557.921;488.546#7C527.921;488.546"#3A240#2C"135.991;530.154#7C165.991;530.154#7C165.991;560.154#7C135.991;560.154"#3A205#2C"632.553;730.192#7C662.553;730.192#7C662.553;760.192#7C632.553;760.192"#3A147#2C"145.925;528.132#7C175.925;528.132#7C175.925;558.132#7C145.925;558.132"#3A206#2C"650.203;726.865#7C680.203;726.865#7C680.203;756.865#7C650.203;756.865"#3A148#2C"155.794;526.322#7C185.794;526.322#7C185.794;556.322#7C155.794;556.322"#3A207#2C"668.114;723.658#7C698.114;723.658#7C698.114;753.658#7C668.114;753.658"#3A149#2C"165.714;524.436#7C195.714;524.436#7C195.714;554.436#7C165.714;554.436"#3A208#2C"685.963;720.394#7C715.963;720.394#7C715.963;750.394#7C685.963;750.394"#3A150#2C"175.896;522.66#7C205.896;522.66#7C205.896;552.66#7C175.896;552.66"#3A209#2C"704.099;717.089#7C734.099;717.089#7C734.099;747.089#7C704.099;747.089"#3A151#2C"186.116;520.947#7C216.116;520.947#7C216.116;550.947#7C186.116;550.947"#3A210#2C"722.228;713.98#7C752.228;713.98#7C752.228;743.98#7C722.228;743.98"#3A152#2C"196.537;519.227#7C226.537;519.227#7C226.537;549.227#7C196.537;549.227"#3A211#2C"740.65;710.686#7C770.65;710.686#7C770.65;740.686#7C740.65;740.686"#3A153#2C"206.407;517.506#7C236.407;517.506#7C236.407;547.506#7C206.407;547.506"#3A212#2C"759.147;707.431#7C789.147;707.431#7C789.147;737.431#7C759.147;737.431"#3A154#2C"216.932;515.339#7C246.932;515.339#7C246.932;545.339#7C216.932;545.339"#3A213#2C"777.963;704.125#7C807.963;704.125#7C807.963;734.125#7C777.963;734.125"#3A155#2C"227.499;513.464#7C257.499;513.464#7C257.499;543.464#7C227.499;543.464"#3A214#2C"359.459;489.609#7C389.459;489.609#7C389.459;519.609#7C359.459;519.609"#3A226#2C"673.738;431.934#7C703.738;431.934#7C703.738;461.934#7C673.738;461.934"#3A251#2C"237.939;511.54#7C267.939;511.54#7C267.939;541.54#7C237.939;541.54"#3A215#2C"370.859;487.305#7C400.859;487.305#7C400.859;517.305#7C370.859;517.305"#3A227#2C"687.637;429.364#7C717.637;429.364#7C717.637;459.364#7C687.637;459.364"#3A252#2C"248.511;509.453#7C278.511;509.453#7C278.511;539.453#7C248.511;539.453"#3A216#2C"382.364;485.28#7C412.364;485.28#7C412.364;515.28#7C382.364;515.28"#3A228#2C"834.892;693.978#7C864.892;693.978#7C864.892;723.978#7C834.892;723.978"#3A158#2C"259.145;507.479#7C289.145;507.479#7C289.145;537.479#7C259.145;537.479"#3A217#2C"854.152;690.588#7C884.152;690.588#7C884.152;720.588#7C854.152;720.588"#3A159#2C"269.752;505.664#7C299.752;505.664#7C299.752;535.664#7C269.752;535.664"#3A218#2C"873.634;687.116#7C903.634;687.116#7C903.634;717.116#7C873.634;717.116"#3A160#2C"280.556;503.688#7C310.556;503.688#7C310.556;533.688#7C280.556;533.688"#3A219#2C"893.268;683.558#7C923.268;683.558#7C923.268;713.558#7C893.268;713.558"#3A161#2C"291.721;501.399#7C321.721;501.399#7C321.721;531.398#7C291.721;531.398"#3A220#2C"393.852;483.032#7C423.852;483.032#7C423.852;513.032#7C393.852;513.032"#3A229#2C"913.001;680.099#7C943.001;680.099#7C943.001;710.099#7C913.001;710.099"#3A162#2C"302.719;499.611#7C332.719;499.611#7C332.719;529.611#7C302.719;529.611"#3A221#2C"405.466;481.008#7C435.466;481.008#7C435.466;511.008#7C405.466;511.008"#3A230#2C"932.984;676.557#7C962.984;676.557#7C962.984;706.557#7C932.984;706.557"#3A163#2C"314.054;497.725#7C344.054;497.725#7C344.054;527.725#7C314.054;527.725"#3A222#2C"417.326;479.042#7C447.326;479.042#7C447.326;509.042#7C417.326;509.042"#3A231#2C"953.047;672.966#7C983.047;672.966#7C983.047;702.966#7C953.047;702.966"#3A164#2C"731.402;421.408#7C761.402;421.408#7C761.402;451.408#7C731.402;451.408"#3A256#2C"730.313;421.596#7C760.313;421.596#7C760.313;451.596#7C730.313;451.596"#3A255#2C"325.202;495.61#7C355.202;495.61#7C355.202;525.61#7C325.202;525.61"#3A223#2C"429.356;476.575#7C459.356;476.575#7C459.356;506.575#7C429.356;506.575"#3A232#2C"973.247;669.432#7C1003.25;669.432#7C1003.25;699.432#7C973.247;699.432"#3A165#2C"716.055;424.246#7C746.055;424.246#7C746.055;454.246#7C716.055;454.246"#3A254#2C"701.678;426.947#7C731.678;426.947#7C731.678;456.947#7C701.678;456.947"#3A253#2C"336.235;493.647#7C366.235;493.647#7C366.235;523.647#7C336.235;523.647"#3A224#2C"441.666;474.396#7C471.666;474.396#7C471.666;504.396#7C441.666;504.396"#3A233#2C"993.724;665.802#7C1023.72;665.802#7C1023.72;695.802#7C993.724;695.802"#3A166#2C"540.596;456.298#7C570.596;456.298#7C570.596;486.298#7C540.596;486.298"#3A241#2C"171.239;812.812#7C201.239;812.812#7C201.239;842.812#7C171.239;842.812"#3A118#2C"347.659;491.707#7C377.659;491.707#7C377.659;521.707#7C347.659;521.707"#3A225#2C"453.693;472.417#7C483.693;472.417#7C483.693;502.417#7C453.693;502.417"#3A234#2C"1014.21;662.11#7C1044.21;662.11#7C1044.21;692.11#7C1014.21;692.11"#3A167#2C"229.868;801.856#7C259.868;801.856#7C259.868;831.856#7C229.868;831.856"#3A122#2C"796.9;700.765#7C826.9;700.765#7C826.9;730.765#7C796.9;730.765"#3A156#2C"815.936;697.39#7C845.936;697.39#7C845.936;727.39#7C815.936;727.39"#3A157#2C"465.714;469.986#7C495.714;469.986#7C495.714;499.986#7C465.714;499.986"#3A235#2C"1034.84;658.489#7C1064.84;658.489#7C1064.84;688.489#7C1034.84;688.489"#3A168#2C"214.789;804.787#7C244.789;804.787#7C244.789;834.787#7C214.789;834.787"#3A121#2C"200.305;807.613#7C230.305;807.613#7C230.305;837.613#7C200.305;837.613"#3A120#2C"185.42;810.121#7C215.42;810.121#7C215.42;840.121#7C185.42;840.121"#3A119#2C"477.794;467.805#7C507.794;467.805#7C507.794;497.805#7C477.794;497.805"#3A236#2C"1055.65;654.811#7C1085.65;654.811#7C1085.65;684.811#7C1055.65;684.811"#3A169#2C"156.939;815.21#7C186.939;815.21#7C186.939;845.21#7C156.939;845.21"#3A117#2C"553.442;454.011#7C583.442;454.011#7C583.442;484.011#7C553.442;484.011"#3A242}}#2C"file"#3A"types.ass"#2C"script_info"#3A[{"value"#3A"v4.00+"#2C"key"#3A"ScriptType"#2C"class"#3A"info"}#2C{"value"#3A"3"#2C"key"#3A"WrapStyle"#2C"class"#3A"info"}#2C{"value"#3A"yes"#2C"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"}#2C{"value"#3A"TV.709"#2C"key"#3A"YCbCr Matrix"#2C"class"#3A"info"}#2C{"value"#3A"960"#2C"key"#3A"PlayResX"#2C"class"#3A"info"}#2C{"value"#3A"720"#2C"key"#3A"PlayResY"#2C"class"#3A"info"}]}]
+Data: 60,myaa.MergeScripts,e[{"file"#3A"dialogs.ass"#2C"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"aegisub_garbage"#3A{}#2C"prefix"#3A1#2C"extrakeys"#3A{}}]
+Data: 61,myaa.MergeScripts,e[{"file"#3A"ending.ass"#2C"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"aegisub_garbage"#3A{}#2C"prefix"#3A2#2C"extrakeys"#3A{}}]
+Data: 62,myaa.MergeScripts,e[{"file"#3A"opening.ass"#2C"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"aegisub_garbage"#3A{}#2C"prefix"#3A3#2C"extrakeys"#3A{}}]
+Data: 63,myaa.MergeScripts,e[{"file"#3A"types.ass"#2C"script_info"#3A[{"key"#3A"ScriptType"#2C"class"#3A"info"#2C"value"#3A"v4.00+"}#2C{"key"#3A"WrapStyle"#2C"class"#3A"info"#2C"value"#3A"3"}#2C{"key"#3A"ScaledBorderAndShadow"#2C"class"#3A"info"#2C"value"#3A"yes"}#2C{"key"#3A"YCbCr Matrix"#2C"class"#3A"info"#2C"value"#3A"TV.709"}#2C{"key"#3A"PlayResX"#2C"class"#3A"info"#2C"value"#3A"960"}#2C{"key"#3A"PlayResY"#2C"class"#3A"info"#2C"value"#3A"720"}]#2C"aegisub_garbage"#3A{}#2C"prefix"#3A4#2C"extrakeys"#3A{"_aegi_perspective_ambient_plane"#3A{"615.228;733.385#7C645.228;733.385#7C645.228;763.385#7C615.228;763.385"#3A146#2C"632.553;730.192#7C662.553;730.192#7C662.553;760.192#7C632.553;760.192"#3A147#2C"650.203;726.865#7C680.203;726.865#7C680.203;756.865#7C650.203;756.865"#3A148#2C"668.114;723.658#7C698.114;723.658#7C698.114;753.658#7C668.114;753.658"#3A149#2C"685.963;720.394#7C715.963;720.394#7C715.963;750.394#7C685.963;750.394"#3A150#2C"704.099;717.089#7C734.099;717.089#7C734.099;747.089#7C704.099;747.089"#3A151#2C"722.228;713.98#7C752.228;713.98#7C752.228;743.98#7C722.228;743.98"#3A152#2C"740.65;710.686#7C770.65;710.686#7C770.65;740.686#7C740.65;740.686"#3A153#2C"759.147;707.431#7C789.147;707.431#7C789.147;737.431#7C759.147;737.431"#3A154#2C"142.77;818.075#7C172.77;818.075#7C172.77;848.075#7C142.77;848.075"#3A116#2C"777.963;704.125#7C807.963;704.125#7C807.963;734.125#7C777.963;734.125"#3A155#2C"156.939;815.21#7C186.939;815.21#7C186.939;845.21#7C156.939;845.21"#3A117#2C"796.9;700.765#7C826.9;700.765#7C826.9;730.765#7C796.9;730.765"#3A156#2C"171.239;812.812#7C201.239;812.812#7C201.239;842.812#7C171.239;842.812"#3A118#2C"815.936;697.39#7C845.936;697.39#7C845.936;727.39#7C815.936;727.39"#3A157#2C"185.42;810.121#7C215.42;810.121#7C215.42;840.121#7C185.42;840.121"#3A119#2C"834.892;693.978#7C864.892;693.978#7C864.892;723.978#7C834.892;723.978"#3A158#2C"200.305;807.613#7C230.305;807.613#7C230.305;837.613#7C200.305;837.613"#3A120#2C"854.152;690.588#7C884.152;690.588#7C884.152;720.588#7C854.152;720.588"#3A159#2C"214.789;804.787#7C244.789;804.787#7C244.789;834.787#7C214.789;834.787"#3A121#2C"873.634;687.116#7C903.634;687.116#7C903.634;717.116#7C873.634;717.116"#3A160#2C"229.868;801.856#7C259.868;801.856#7C259.868;831.856#7C229.868;831.856"#3A122#2C"893.268;683.558#7C923.268;683.558#7C923.268;713.558#7C893.268;713.558"#3A161#2C"477.794;467.805#7C507.794;467.805#7C507.794;497.805#7C477.794;497.805"#3A236#2C"244.611;799.21#7C274.611;799.21#7C274.611;829.21#7C244.611;829.21"#3A123#2C"913.001;680.099#7C943.001;680.099#7C943.001;710.099#7C913.001;710.099"#3A162#2C"490.081;465.549#7C520.081;465.549#7C520.081;495.549#7C490.081;495.549"#3A237#2C"259.616;796.537#7C289.616;796.537#7C289.616;826.537#7C259.616;826.537"#3A124#2C"932.984;676.557#7C962.984;676.557#7C962.984;706.557#7C932.984;706.557"#3A163#2C"502.651;463.228#7C532.651;463.228#7C532.651;493.228#7C502.651;493.228"#3A238#2C"274.603;793.843#7C304.603;793.843#7C304.603;823.843#7C274.603;823.843"#3A125#2C"953.047;672.966#7C983.047;672.966#7C983.047;702.966#7C953.047;702.966"#3A164#2C"515.239;460.926#7C545.239;460.926#7C545.239;490.926#7C515.239;490.926"#3A239#2C"289.562;791.228#7C319.562;791.228#7C319.562;821.228#7C289.562;821.228"#3A126#2C"973.247;669.432#7C1003.25;669.432#7C1003.25;699.432#7C973.247;699.432"#3A165#2C"527.921;458.546#7C557.921;458.546#7C557.921;488.546#7C527.921;488.546"#3A240#2C"304.974;788.487#7C334.974;788.487#7C334.974;818.487#7C304.974;818.487"#3A127#2C"993.724;665.802#7C1023.72;665.802#7C1023.72;695.802#7C993.724;695.802"#3A166#2C"1099.11;647.041#7C1129.11;647.041#7C1129.11;677.041#7C1099.11;677.041"#3A172#2C"540.596;456.298#7C570.596;456.298#7C570.596;486.298#7C540.596;486.298"#3A241#2C"320.131;785.799#7C350.131;785.799#7C350.131;815.799#7C320.131;815.799"#3A128#2C"1014.21;662.11#7C1044.21;662.11#7C1044.21;692.11#7C1014.21;692.11"#3A167#2C"1099.24;646.992#7C1129.24;646.992#7C1129.24;676.992#7C1099.24;676.992"#3A173#2C"553.442;454.011#7C583.442;454.011#7C583.442;484.011#7C553.442;484.011"#3A242#2C"335.514;783.063#7C365.514;783.063#7C365.514;813.063#7C335.514;813.063"#3A129#2C"1034.84;658.489#7C1064.84;658.489#7C1064.84;688.489#7C1034.84;688.489"#3A168#2C"142.77;818.07#7C172.77;818.07#7C172.77;848.07#7C142.77;848.07"#3A182#2C"280.556;503.688#7C310.556;503.688#7C310.556;533.688#7C280.556;533.688"#3A219#2C"351.073;780.352#7C381.073;780.352#7C381.073;810.352#7C351.073;810.352"#3A130#2C"1055.65;654.811#7C1085.65;654.811#7C1085.65;684.811#7C1055.65;684.811"#3A169#2C"114.97;284.62#7C172.77;818.07#7C172.77;848.07#7C142.77;848.07"#3A183#2C"291.721;501.399#7C321.721;501.399#7C321.721;531.398#7C291.721;531.398"#3A220#2C"366.918;777.395#7C396.918;777.395#7C396.918;807.395#7C366.918;807.395"#3A131#2C"1076.89;651.007#7C1106.89;651.007#7C1106.89;681.007#7C1076.89;681.007"#3A170#2C"114.97;284.62#7C172.77;818.07#7C172.77;848.07#7C-6.05;856.26"#3A184#2C"302.719;499.611#7C332.719;499.611#7C332.719;529.611#7C302.719;529.611"#3A221#2C"382.591;774.63#7C412.591;774.63#7C412.591;804.63#7C382.591;804.63"#3A132#2C"1097.94;647.18#7C1127.94;647.18#7C1127.94;677.18#7C1097.94;677.18"#3A171#2C"114.97;284.62#7C802.41;104.62#7C172.77;848.07#7C-6.05;856.26"#3A185#2C"605.778;444.309#7C635.778;444.309#7C635.778;474.309#7C605.778;474.309"#3A246#2C"398.411;771.802#7C428.411;771.802#7C428.411;801.802#7C398.411;801.802"#3A133#2C"114.97;284.62#7C802.41;104.62#7C817.13;486.44#7C-6.05;856.26"#3A186#2C"619.29;441.968#7C649.29;441.968#7C649.29;471.968#7C619.29;471.968"#3A247#2C"414.355;769.019#7C444.355;769.019#7C444.355;799.019#7C414.355;799.019"#3A134#2C"114.97;284.62#7C802.41;104.62#7C817.13;486.44#7C92.07;610.80"#3A187#2C"632.779;439.402#7C662.779;439.402#7C662.779;469.402#7C632.779;469.402"#3A248#2C"430.569;766.091#7C460.569;766.091#7C460.569;796.091#7C430.569;796.091"#3A135#2C"36.51;305.12#7C676.28;137.59#7C753.11;497.39#7C59.23;616.42"#3A188#2C"646.085;436.985#7C676.085;436.985#7C676.085;466.985#7C646.085;466.985"#3A249#2C"446.82;763.147#7C476.82;763.147#7C476.82;793.147#7C446.82;793.147"#3A136#2C"36.52;305.14#7C797.09;103.20#7C753.12;497.39#7C59.23;616.41"#3A189#2C"659.959;434.601#7C689.959;434.601#7C689.959;464.601#7C659.959;464.601"#3A250#2C"463.096;760.481#7C493.096;760.481#7C493.096;790.481#7C463.096;790.481"#3A137#2C"36.52;305.14#7C797.09;103.20#7C815.52;493.39#7C59.23;616.41"#3A190#2C"673.738;431.934#7C703.738;431.934#7C703.738;461.934#7C673.738;461.934"#3A251#2C"479.344;757.488#7C509.344;757.488#7C509.344;787.488#7C479.344;787.488"#3A138#2C"36.52;305.14#7C797.09;103.20#7C815.52;493.39#7C93.63;611.61"#3A191#2C"687.637;429.364#7C717.637;429.364#7C717.637;459.364#7C687.637;459.364"#3A252#2C"495.88;754.516#7C525.88;754.516#7C525.88;784.516#7C495.88;784.516"#3A139#2C"359.459;489.609#7C389.459;489.609#7C389.459;519.609#7C359.459;519.609"#3A226#2C"113.32;291.54#7C797.09;103.20#7C815.52;493.39#7C93.63;611.61"#3A192#2C"701.678;426.947#7C731.678;426.947#7C731.678;456.947#7C701.678;456.947"#3A253#2C"512.527;751.615#7C542.527;751.615#7C542.527;781.615#7C512.527;781.615"#3A140#2C"370.859;487.305#7C400.859;487.305#7C400.859;517.305#7C370.859;517.305"#3A227#2C"112.51;291.52#7C797.09;103.17#7C815.52;493.39#7C93.63;611.62"#3A193#2C"716.055;424.246#7C746.055;424.246#7C746.055;454.246#7C716.055;454.246"#3A254#2C"529.349;748.643#7C559.349;748.643#7C559.349;778.643#7C529.349;778.643"#3A141#2C"382.364;485.28#7C412.364;485.28#7C412.364;515.28#7C382.364;515.28"#3A228#2C"112.51;291.54#7C797.09;103.21#7C815.52;493.39#7C93.63;611.61"#3A194#2C"730.313;421.596#7C760.313;421.596#7C760.313;451.596#7C730.313;451.596"#3A255#2C"546.465;745.485#7C576.465;745.485#7C576.465;775.485#7C546.465;775.485"#3A142#2C"393.852;483.032#7C423.852;483.032#7C423.852;513.032#7C393.852;513.032"#3A229#2C"126.269;531.981#7C156.269;531.981#7C156.269;561.981#7C126.269;561.981"#3A204#2C"731.402;421.408#7C761.402;421.408#7C761.402;451.408#7C731.402;451.408"#3A256#2C"563.503;742.584#7C593.503;742.584#7C593.503;772.584#7C563.503;772.584"#3A143#2C"405.466;481.008#7C435.466;481.008#7C435.466;511.008#7C405.466;511.008"#3A230#2C"111.73;290.99#7C796.93;99.80#7C815.54;493.49#7C94.44;611.20"#3A197#2C"580.618;739.63#7C610.618;739.63#7C610.618;769.63#7C580.618;769.63"#3A144#2C"417.326;479.042#7C447.326;479.042#7C447.326;509.042#7C417.326;509.042"#3A231#2C"145.925;528.132#7C175.925;528.132#7C175.925;558.132#7C145.925;558.132"#3A206#2C"597.756;736.405#7C627.756;736.405#7C627.756;766.405#7C597.756;766.405"#3A145#2C"429.356;476.575#7C459.356;476.575#7C459.356;506.575#7C429.356;506.575"#3A232#2C"155.794;526.322#7C185.794;526.322#7C185.794;556.322#7C155.794;556.322"#3A207#2C"165.714;524.436#7C195.714;524.436#7C195.714;554.436#7C165.714;554.436"#3A208#2C"175.896;522.66#7C205.896;522.66#7C205.896;552.66#7C175.896;552.66"#3A209#2C"186.116;520.947#7C216.116;520.947#7C216.116;550.947#7C186.116;550.947"#3A210#2C"196.537;519.227#7C226.537;519.227#7C226.537;549.227#7C196.537;549.227"#3A211#2C"111.73;291.00#7C796.93;99.81#7C815.54;493.49#7C93.59;612.31"#3A196#2C"206.407;517.506#7C236.407;517.506#7C236.407;547.506#7C206.407;547.506"#3A212#2C"269.752;505.664#7C299.752;505.664#7C299.752;535.664#7C269.752;535.664"#3A218#2C"111.73;290.98#7C796.93;99.78#7C815.28;494.09#7C94.44;611.20"#3A198#2C"259.145;507.479#7C289.145;507.479#7C289.145;537.479#7C259.145;537.479"#3A217#2C"88;539#7C118;539#7C118;569#7C88;569"#3A200#2C"248.511;509.453#7C278.511;509.453#7C278.511;539.453#7C248.511;539.453"#3A216#2C"106.941;535.594#7C136.941;535.594#7C136.941;565.594#7C106.941;565.594"#3A202#2C"116.334;533.697#7C146.334;533.697#7C146.334;563.697#7C116.334;563.697"#3A203#2C"237.939;511.54#7C267.939;511.54#7C267.939;541.54#7C237.939;541.54"#3A215#2C"135.991;530.154#7C165.991;530.154#7C165.991;560.154#7C135.991;560.154"#3A205#2C"227.499;513.464#7C257.499;513.464#7C257.499;543.464#7C227.499;543.464"#3A214#2C"216.932;515.339#7C246.932;515.339#7C246.932;545.339#7C216.932;545.339"#3A213#2C"97.3535;537.135#7C127.353;537.135#7C127.353;567.135#7C97.3535;567.135"#3A201#2C"111.73;290.96#7C798.75;102.19#7C815.28;494.09#7C94.44;611.21"#3A199#2C"314.054;497.725#7C344.054;497.725#7C344.054;527.725#7C314.054;527.725"#3A222#2C"325.202;495.61#7C355.202;495.61#7C355.202;525.61#7C325.202;525.61"#3A223#2C"336.235;493.647#7C366.235;493.647#7C366.235;523.647#7C336.235;523.647"#3A224#2C"347.659;491.707#7C377.659;491.707#7C377.659;521.707#7C347.659;521.707"#3A225#2C"441.666;474.396#7C471.666;474.396#7C471.666;504.396#7C441.666;504.396"#3A233#2C"453.693;472.417#7C483.693;472.417#7C483.693;502.417#7C453.693;502.417"#3A234#2C"465.714;469.986#7C495.714;469.986#7C495.714;499.986#7C465.714;499.986"#3A235#2C"566.213;451.511#7C596.213;451.511#7C596.213;481.511#7C566.213;481.511"#3A243#2C"579.348;449.168#7C609.348;449.168#7C609.348;479.168#7C579.348;479.168"#3A244#2C"592.467;446.876#7C622.467;446.876#7C622.467;476.876#7C592.467;476.876"#3A245}}}]
