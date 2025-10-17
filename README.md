@@ -3,13 +3,13 @@
 Repositório destinado à organização dos projetos da **Shadow Fansub**.  
 
 
-## 📺 Projetos
+## Projetos
 
 ### Ultraman
 
 -  **Ultraman Nexus**
 
-## ⚙️ Configuração do Git
+## Configuração do Git
 
 Para garantir a padronização das legendas e evitar commits com inconsistências, o projeto inclui **ganchos Git** (`.githooks`).
 
