@@ -27,5 +27,5 @@ episodes = "1...4"
 "opening_02.ass" = { from = "opsync", to = "sync" }
 "ending_03.ass" = { from = "edsync", to = "sync" }
 
-[extras.merge."37"]
+[extras.merge."37-37"]
 "opening_02.ass" = { from = "opsync", to = "sync" }
