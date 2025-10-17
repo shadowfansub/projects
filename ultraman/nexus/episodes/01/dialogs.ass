@@ -19,6 +19,7 @@ Style: Default - Top Italics,Asap,47,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Introdução} = Intro
 Dialogue: 0,0:00:25.27,0:00:28.41,Default,,0,0,0,,O despertar está próximo.
+Comment: 0,0:00:38.04,0:00:38.09,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:00:29.01,0:00:29.05,Default - Italics,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:07.98,0:02:08.01,Default - Italics,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:02:13.96,0:02:20.36,Default - Italics,,0,0,0,,Achamos que sempre viveremos esses tempos de paz.
@@ -223,6 +224,7 @@ Dialogue: 0,0:21:44.20,0:21:46.90,Default,,0,0,0,,Da próxima vez, proteja-se, n
 Dialogue: 0,0:21:49.36,0:21:56.97,Default - Italics,,0,0,0,,Foi assim que conheci ela e aquele gigante prateado.
 Dialogue: 0,0:22:00.67,0:22:06.44,Default - Top Italics,,0,0,0,,Mas naquela época, não imaginava...
 Dialogue: 0,0:22:07.40,0:22:09.43,Default - Top Italics,,0,0,0,,As surpresas que esta realidade me reservava.
+Comment: 0,0:22:11.00,0:22:11.05,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:22:10.98,0:22:11.01,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:41.00,0:23:41.04,Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 0,0:23:41.88,0:23:44.71,Default - Italics,,0,0,0,,Seu local de trabalho é um campo de batalha.

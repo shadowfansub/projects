@@ -22,6 +22,7 @@ Dialogue: 0,0:00:03.46,0:00:06.09,Default - Italics,,0,0,0,,Foi naquele momento 
 Dialogue: 0,0:00:07.20,0:00:10.46,Default - Italics,,0,0,0,,A realidade que eu conhecia não existia mais.
 Dialogue: 0,0:00:11.50,0:00:12.00,Default - Italics,,0,0,0,,E então...
 Dialogue: 0,0:00:19.90,0:00:24.47,Default - Italics,,0,0,0,,Uma nova realidade surgiu diante de mim.
+Comment: 0,0:00:35.23,0:00:35.28,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:00:26.01,0:00:26.04,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:04.98,0:02:05.01,Default,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:02:06.47,0:02:10.58,Default - Top,,0,0,0,,Fiquei surpreso por estar envolvido no incidente.
@@ -221,6 +222,7 @@ Dialogue: 0,0:21:44.04,0:21:45.39,Default,,0,0,0,,Não creio!
 Dialogue: 0,0:21:45.39,0:21:46.65,Default,,0,0,0,,Resgatem os reféns!
 Dialogue: 0,0:21:46.65,0:21:48.16,Default,,0,0,0,,Entendido.
 Dialogue: 0,0:22:06.07,0:22:08.66,Default - Top,,0,0,0,,Pare!
+Comment: 0,0:22:10.24,0:22:10.29,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:22:10.05,0:22:10.08,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:40.07,0:23:40.10,Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 0,0:23:44.16,0:23:47.44,Default - Italics,,0,0,0,,Que arma é essa? Quem é você?

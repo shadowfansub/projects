@@ -30,6 +30,7 @@ Dialogue: 0,0:00:43.17,0:00:46.95,Default - Italics,,0,0,0,,Naquele momento, est
 Dialogue: 0,0:00:47.84,0:00:50.43,Default - Italics,,0,0,0,,Achei que, voltando para meu lugar seguro,
 Dialogue: 0,0:00:50.43,0:00:55.07,Default - Italics,,0,0,0,,tudo ficaria bem.
 Dialogue: 0,0:00:56.09,0:00:58.45,Default - Italics,,0,0,0,,Mas, na verdade...
+Comment: 0,0:01:08.29,0:01:08.34,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:00:58.98,0:00:59.01,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:38.08,0:02:38.11,Default,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:02:54.79,0:02:58.01,Default - Top,,0,0,0,,O alvo está escondido em um túnel.
@@ -181,6 +182,7 @@ Dialogue: 0,0:22:01.63,0:22:03.21,Default,,0,0,0,,Vocês não viram nada.
 Dialogue: 0,0:22:03.21,0:22:03.71,Default,,0,0,0,,O quê?
 Dialogue: 0,0:22:05.32,0:22:07.19,Default,,0,0,0,,Esqueçam tudo o que viram.
 Dialogue: 0,0:22:07.93,0:22:09.40,Default - Top,,0,0,0,,Essa é a realidade.
+Comment: 0,0:22:11.36,0:22:11.41,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:22:11.11,0:22:11.15,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:41.07,0:23:41.10,Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 0,0:23:42.54,0:23:43.49,Default - Italics,,0,0,0,,O que é isso?

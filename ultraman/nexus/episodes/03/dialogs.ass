@@ -23,6 +23,7 @@ Dialogue: 0,0:00:10.12,0:00:14.30,Default - Italics,,0,0,0,,Eu estava impotente 
 Dialogue: 0,0:00:18.14,0:00:19.64,Default,replay 02,0,0,0,,Não atire!
 Dialogue: 0,0:00:23.94,0:00:25.04,Default,replay 02,0,0,0,,Aquele homem!
 Dialogue: 0,0:00:48.16,0:00:55.47,Default - Italics,,0,0,0,,Eu ainda não entendia a minha nova realidade.
+Comment: 0,0:01:05.07,0:01:05.12,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:00:56.04,0:00:56.07,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:35.01,0:02:35.04,Default,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:02:42.78,0:02:45.15,Default,replay 02,0,0,0,,Aquele é o gigante prateado?!
@@ -211,6 +212,7 @@ Dialogue: 0,0:21:05.55,0:21:10.20,Default - Italics,,0,0,0,,meu coração entend
 Dialogue: 0,0:21:19.44,0:21:21.87,Default,,0,0,0,,Não freie assim, é perigoso!
 Dialogue: 0,0:21:21.87,0:21:24.68,Default,,0,0,0,,Mas não pisei no freio, foi o carro!
 Dialogue: 0,0:21:29.15,0:21:30.84,Default,,0,0,0,,Socorro...
+Comment: 0,0:22:10.07,0:22:10.12,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:22:10.05,0:22:10.08,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:40.00,0:23:40.04,Default,chptr,0,0,0,,{Prévia} = Preview
 Dialogue: 0,0:23:41.70,0:23:45.14,Default - Italics,,0,0,0,,Faremos um ataque na entrada e na saída do túnel,
