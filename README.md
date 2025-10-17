@@ -9,20 +9,6 @@ Repositório destinado à organização dos projetos da **Shadow Fansub**.
 
 -  **Ultraman Nexus**
 
-## 🧰 Ferramentas
-
-### **Fuzzy Text Checker**
-
-Ferramenta interna desenvolvida para auxiliar o processo de revisão textual.  
-Ela recebe uma lista de termos de referência (por exemplo, nomes padronizados, termos técnicos, etc.) e analisa um texto de entrada para identificar **divergências**, como:
-
-- Diferenças de grafia (acentos, capitalização, hífens, etc.);
-- Termos inconsistentes com o guia de tradução;
-- Ocorrências próximas de palavras incorretas via *fuzzy matching*.
-
-Essa ferramenta é especialmente útil para revisar scripts de legendas antes do commit final.
-
-
 ## ⚙️ Configuração do Git
 
 Para garantir a padronização das legendas e evitar commits com inconsistências, o projeto inclui **ganchos Git** (`.githooks`).
