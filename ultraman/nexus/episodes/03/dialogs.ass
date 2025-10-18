@@ -10,10 +10,10 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -76,7 +76,7 @@ Dialogue: 0,0:08:54.00,0:08:56.61,Default,,0,0,0,,Honestamente, não sei.
 Dialogue: 0,0:08:57.95,0:09:01.93,Default,,0,0,0,,No entanto, se ele for nosso inimigo,
 Dialogue: 0,0:09:02.64,0:09:04.23,Default,,0,0,0,,em nosso estado atual,
 Dialogue: 0,0:09:04.23,0:09:05.73,Default,,0,0,0,,não conseguiremos derrotá-lo.
-Dialogue: 0,0:09:06.89,0:09:09.67,Default,,0,0,0,,Precisamos investigar mais sobre a origem dele.
+Dialogue: 0,0:09:06.89,0:09:09.67,Default,,0,0,0,,Precisamos investigar mais sobre sua origem.
 Dialogue: 0,0:09:13.06,0:09:18.45,Default,,0,0,0,,Você não confia no Ultraman, Capitão?
 Dialogue: 0,0:09:19.63,0:09:21.94,Default,,0,0,0,,Ele é um ser desconhecido.
 Dialogue: 0,0:09:21.94,0:09:24.24,Default,,0,0,0,,Ainda é cedo para confiar nele.
@@ -135,7 +135,7 @@ Dialogue: 0,0:13:18.52,0:13:21.52,Default,,0,0,0,,É por isso que destruímos as
 Dialogue: 0,0:13:24.72,0:13:27.92,Default,,0,0,0,,As coisas nem sempre são o que parecem.
 Dialogue: 0,0:13:27.92,0:13:29.13,Default,,0,0,0,,Respondi à sua pergunta?
 Dialogue: 0,0:13:29.50,0:13:31.03,Default,,0,0,0,,Mas e as testemunhas?
-Dialogue: 0,0:13:31.53,0:13:34.53,Default,,0,0,0,,Não podem distorcer o relato das testemunhas.
+Dialogue: 0,0:13:31.53,0:13:34.53,Default,,0,0,0,,Não podem distorcer os relatos delas.
 Dialogue: 0,0:13:34.84,0:13:36.15,Default,,0,0,0,,A verdade sempre—
 Dialogue: 0,0:13:36.15,0:13:39.09,Default,,0,0,0,,As testemunhas nunca dirão a verdade.
 Dialogue: 0,0:13:39.09,0:13:42.71,Default,,0,0,0,,Há uma seção especial para lidar com isso.
@@ -144,7 +144,7 @@ Dialogue: 0,0:13:49.08,0:13:53.47,Default - Italics,flashback 01,0,0,0,,Se esque
 Dialogue: 0,0:13:53.47,0:13:54.15,Default - Italics,flashback 01,0,0,0,,Hã?
 Dialogue: 0,0:13:54.72,0:13:57.62,Default - Italics,flashback 01,0,0,0,,Em outras palavras, sua memória será apagada.
 Dialogue: 0,0:13:59.95,0:14:01.75,Default - Italics,flashback 01,0,0,0,,Isso é alguma brincadeira?
-Dialogue: 0,0:14:01.75,0:14:03.61,Default - Italics,flashback 01,0,0,0,,Não tem como vocês fazerem isso.
+Dialogue: 0,0:14:01.75,0:14:03.61,Default - Italics,flashback 01,0,0,0,,Não tem como fazerem isso.
 Dialogue: 0,0:14:07.76,0:14:12.90,Default,,0,0,0,,Se eu decidisse expor a verdade,\N a minha memória seria apagada?
 Dialogue: 0,0:14:12.90,0:14:14.14,Default,,0,0,0,,A TLT faria isso?
 Dialogue: 0,0:14:23.27,0:14:24.98,Default - Top Italics,,0,0,0,,Nexus.
@@ -172,7 +172,7 @@ Dialogue: 0,0:16:24.34,0:16:25.44,Default,,0,0,0,,Por aqui!
 Dialogue: 0,0:16:55.36,0:16:57.65,Default,preview 02,0,0,0,,Que arma é essa?
 Dialogue: 0,0:16:57.65,0:16:59.25,Default,preview 02,0,0,0,,Quem é você?
 Dialogue: 0,0:17:03.75,0:17:05.07,Default,,0,0,0,,Droga!
-Dialogue: 0,0:17:19.88,0:17:21.27,Default,,0,0,0,,Não! Estou acabado!
+Dialogue: 0,0:17:19.88,0:17:21.27,Default,,0,0,0,,Não! Acabou para mim!
 Dialogue: 0,0:17:21.27,0:17:22.49,Default,replay 01,0,0,0,,Não desista!
 Dialogue: 0,0:17:38.05,0:17:40.94,Default,,0,0,0,,Não pode ser! Era você?
 Dialogue: 0,0:17:50.30,0:17:51.76,Default,,0,0,0,,O que está fazendo?!
@@ -185,7 +185,7 @@ Dialogue: 0,0:18:49.60,0:18:51.68,Default,,0,0,0,,Como um vírus mortal.
 Dialogue: 0,0:18:53.25,0:18:55.55,Default,,0,0,0,,Elas ainda estão por aí.
 Dialogue: 0,0:18:55.55,0:18:59.11,Default,,0,0,0,,E se unirão em uma só criatura para retomar o ataque.
 Dialogue: 0,0:19:00.74,0:19:04.83,Default,,0,0,0,,Antes que isso aconteça, preciso encontrá-las.
-Dialogue: 0,0:19:06.82,0:19:08.10,Default,,0,0,0,,Parado.
+Dialogue: 0,0:19:06.82,0:19:08.10,Default,,0,0,0,,Parado!
 Dialogue: 0,0:19:09.62,0:19:11.90,Default,,0,0,0,,Você não irá a lugar algum.
 Dialogue: 0,0:19:12.59,0:19:13.88,Default,,0,0,0,,Por favor, pare!
 Dialogue: 0,0:19:15.65,0:19:19.36,Default,,0,0,0,,Largue sua arma.\N Iremos escoltá-lo até a base.
@@ -195,8 +195,9 @@ Dialogue: 0,0:19:27.64,0:19:29.96,Default,balas,0,0,0,,Lembre-se sempre de quant
 Dialogue: 0,0:19:35.22,0:19:36.66,Default,,0,0,0,,Por favor, pare.
 Dialogue: 0,0:19:46.67,0:19:47.84,Default,,0,0,0,,Aonde ele foi?
 Dialogue: 0,0:20:02.52,0:20:04.67,Default,,0,0,0,,Apresento-lhes o Chrome Chester Gamma.
-Dialogue: 0,0:20:06.10,0:20:09.20,Default,,0,0,0,,Sua operação é similar à dos modelos que já usamos,
-Dialogue: 0,0:20:09.20,0:20:13.07,Default,,0,0,0,,mas, como a mobilidade aumentou,\N pode ser difícil de pilotar.
+Dialogue: 0,0:20:06.10,0:20:09.22,Default,,0,0,0,,Sua operação é similar à dos modelos que já usamos,
+Dialogue: 0,0:20:09.22,0:20:11.21,Default,,0,0,0,,mas, como a mobilidade aumentou,
+Dialogue: 0,0:20:11.21,0:20:12.98,Default,,0,0,0,,pode ser difícil de pilotar.
 Dialogue: 0,0:20:15.57,0:20:19.40,Default,,0,0,0,,Agora, não ficaremos atrás das Bestas.
 Dialogue: 0,0:20:21.29,0:20:26.30,Default - Italics,,0,0,0,,A Vice-Capitã nunca delatou aquele homem.
 Dialogue: 0,0:20:28.53,0:20:34.28,Default - Italics,,0,0,0,,Eu não sabia mais se aquela realidade era real.
