@@ -52,10 +52,10 @@ Comment: 0,0:01:24.32,0:01:29.14,TR,,0,0,0,karaoke,Seja corajoso e lute pelo que
 Comment: 0,0:01:29.42,0:01:34.48,TR,,0,0,0,karaoke,Se fizer apenas isso, você é um herói!
 Comment: 0,0:01:34.54,0:01:35.34,TR,,0,0,0,karaoke,Isso aí!
 Comment: 0,0:00:00.00,0:00:00.00,RO,,0,0,0,,
-Comment: 0,0:00:25.16,0:00:28.68,RO,,0,0,0,karaoke,{\k34}ka{\k18}kko {\k18}tsu{\k14}ke{\k19}te{\k11}ru {\k19}tsu{\k15}mo{\k14}ri {\k18}de {\k17}to{\k16}ku{\k17}i {\k13}ni {\k29}na{\k80}tte
-Comment: 0,0:00:30.26,0:00:33.68,RO,,0,0,0,karaoke,{\k16}da{\k11}i{\k20}ji {\k15}na {\k15}ko{\k28}to {\k35}zen{\k24}bu {\k9}o{\k15}ki{\k16}za{\k11}ri {\k10}ni {\k13}shi{\k27}cha{\k77}tte
+Comment: 0,0:00:25.16,0:00:28.68,RO,,0,0,0,karaoke,{\k34}ka{\k18}kko {\k18}tsu{\k14}ke{\k19}te{\k11}ru {\k19}tsu{\k15}mo{\k14}ri {\k18}de {\k17}to{\k16}ku{\k17}i {\k13}ni {\k30}na{\k79}tte
+Comment: 0,0:00:30.26,0:00:33.68,RO,,0,0,0,karaoke,{\k16}da{\k11}i{\k20}ji {\k15}na {\k15}ko{\k28}to {\k35}zen{\k24}bu {\k9}o{\k15}ki{\k16}za{\k11}ri {\k9}ni {\k11}shi{\k31}cha{\k76}tte
 Comment: 0,0:00:35.24,0:00:38.70,RO,,0,0,0,karaoke,{\k16}ji{\k33}bun {\k15}de {\k16}ji{\k32}bun {\k16}wo {\k15}ku{\k12}ru{\k17}shi{\k18}me{\k15}te{\k11}i{\k23}ru {\k29}shu{\k78}jin
-Comment: 0,0:00:40.30,0:00:43.93,RO,,0,0,0,karaoke,{\k14}so{\k17}n{\k12}na {\k14}bo{\k17}ku {\k20}ni {\k12}sa{\k19}yo{\k12}na{\k10}ra {\k23}sa {\k30}trans{\k30}for{\k32}ma{\k101}tion
+Comment: 0,0:00:40.30,0:00:43.93,RO,,0,0,0,karaoke,{\k14}so{\k17}n{\k12}na {\k14}bo{\k17}ku {\k20}ni {\k12}sa{\k19}yo{\k12}na{\k14}ra {\k13}sa {\k36}trans{\k30}for{\k32}ma{\k101}tion
 Comment: 0,0:00:44.89,0:00:47.12,RO,,0,0,0,karaoke,{\k16}ya{\k19}mi {\k14}ga {\k15}ko{\k18}wa{\k32}ku{\k18}te {\k32}dou {\k29}su{\k30}ru
 Comment: 0,0:00:47.43,0:00:49.87,RO,,0,0,0,karaoke,{\k15}a{\k12}i{\k21}tsu {\k14}ga {\k18}ko{\k15}wa{\k16}ku{\k18}te {\k30}dou {\k31}su{\k54}ru
 Comment: 0,0:00:50.09,0:00:54.10,RO,,0,0,0,karaoke,{\k23}a{\k30}shi{\k22}bu{\k12}mi {\k21}shi{\k17}te{\k33}ru {\k31}da{\k31}ke {\k19}ja {\k34}su{\k29}su{\k45}ma{\k31}na{\k23}i
@@ -170,10 +170,10 @@ Dialogue: 1,0:00:25.16,0:00:27.46,RO,,0,0,0,fx,{\an5\pos(646.88,101.50)\3c&HAF40
 Dialogue: 2,0:00:27.46,0:00:27.59,RO,,0,0,0,fx,{\an5\pos(646.88,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}ni
 Dialogue: 0,0:00:27.59,0:00:28.68,RO,,0,0,0,fx,{\an5\pos(646.88,101.50)\3c&HAF401E&\blur3}ni
 Dialogue: 1,0:00:25.16,0:00:27.59,RO,,0,0,0,fx,{\an5\pos(679.98,101.50)\3c&HAF401E&\blur3\alpha&HA0&}na
-Dialogue: 2,0:00:27.59,0:00:27.88,RO,,0,0,0,fx,{\an5\pos(679.98,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}na
-Dialogue: 0,0:00:27.88,0:00:28.68,RO,,0,0,0,fx,{\an5\pos(679.98,101.50)\3c&HAF401E&\blur3}na
-Dialogue: 1,0:00:25.16,0:00:27.88,RO,,0,0,0,fx,{\an5\pos(708.94,101.50)\3c&HAF401E&\blur3\alpha&HA0&}tte
-Dialogue: 2,0:00:27.88,0:00:28.68,RO,,0,0,0,fx,{\an5\pos(708.94,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}tte
+Dialogue: 2,0:00:27.59,0:00:27.89,RO,,0,0,0,fx,{\an5\pos(679.98,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}na
+Dialogue: 0,0:00:27.89,0:00:28.68,RO,,0,0,0,fx,{\an5\pos(679.98,101.50)\3c&HAF401E&\blur3}na
+Dialogue: 1,0:00:25.16,0:00:27.89,RO,,0,0,0,fx,{\an5\pos(708.94,101.50)\3c&HAF401E&\blur3\alpha&HA0&}tte
+Dialogue: 2,0:00:27.89,0:00:28.68,RO,,0,0,0,fx,{\an5\pos(708.94,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}tte
 Dialogue: 0,0:00:28.68,0:00:28.68,RO,,0,0,0,fx,{\an5\pos(708.94,101.50)\3c&HAF401E&\blur3}tte
 Dialogue: 1,0:00:29.96,0:00:30.26,RO,,0,0,0,fx,{\an5\move(1920.00,101.50,480.00,101.50,0,300)\3c&HAF401E&\blur3\fad(300,0)\alpha&HA0&}daiji na koto zenbu okizari ni shichatte
 Dialogue: 0,0:00:33.68,0:00:33.98,RO,,0,0,0,fx,{\an5\move(480.00,101.50,-960.00,101.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}daiji na koto zenbu okizari ni shichatte
@@ -214,16 +214,16 @@ Dialogue: 1,0:00:30.26,0:00:32.30,RO,,0,0,0,fx,{\an5\pos(556.88,101.50)\3c&HAF40
 Dialogue: 2,0:00:32.30,0:00:32.41,RO,,0,0,0,fx,{\an5\pos(556.88,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}ri
 Dialogue: 0,0:00:32.41,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(556.88,101.50)\3c&HAF401E&\blur3}ri
 Dialogue: 1,0:00:30.26,0:00:32.41,RO,,0,0,0,fx,{\an5\pos(585.02,101.50)\3c&HAF401E&\blur3\alpha&HA0&}ni
-Dialogue: 2,0:00:32.41,0:00:32.51,RO,,0,0,0,fx,{\an5\pos(585.02,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}ni
-Dialogue: 0,0:00:32.51,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(585.02,101.50)\3c&HAF401E&\blur3}ni
-Dialogue: 1,0:00:30.26,0:00:32.51,RO,,0,0,0,fx,{\an5\pos(621.46,101.50)\3c&HAF401E&\blur3\alpha&HA0&}shi
-Dialogue: 2,0:00:32.51,0:00:32.64,RO,,0,0,0,fx,{\an5\pos(621.46,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}shi
-Dialogue: 0,0:00:32.64,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(621.46,101.50)\3c&HAF401E&\blur3}shi
-Dialogue: 1,0:00:30.26,0:00:32.64,RO,,0,0,0,fx,{\an5\pos(659.52,101.50)\3c&HAF401E&\blur3\alpha&HA0&}cha
-Dialogue: 2,0:00:32.64,0:00:32.91,RO,,0,0,0,fx,{\an5\pos(659.52,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}cha
-Dialogue: 0,0:00:32.91,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(659.52,101.50)\3c&HAF401E&\blur3}cha
-Dialogue: 1,0:00:30.26,0:00:32.91,RO,,0,0,0,fx,{\an5\pos(695.09,101.50)\3c&HAF401E&\blur3\alpha&HA0&}tte
-Dialogue: 2,0:00:32.91,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(695.09,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}tte
+Dialogue: 2,0:00:32.41,0:00:32.50,RO,,0,0,0,fx,{\an5\pos(585.02,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}ni
+Dialogue: 0,0:00:32.50,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(585.02,101.50)\3c&HAF401E&\blur3}ni
+Dialogue: 1,0:00:30.26,0:00:32.50,RO,,0,0,0,fx,{\an5\pos(621.46,101.50)\3c&HAF401E&\blur3\alpha&HA0&}shi
+Dialogue: 2,0:00:32.50,0:00:32.61,RO,,0,0,0,fx,{\an5\pos(621.46,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}shi
+Dialogue: 0,0:00:32.61,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(621.46,101.50)\3c&HAF401E&\blur3}shi
+Dialogue: 1,0:00:30.26,0:00:32.61,RO,,0,0,0,fx,{\an5\pos(659.52,101.50)\3c&HAF401E&\blur3\alpha&HA0&}cha
+Dialogue: 2,0:00:32.61,0:00:32.92,RO,,0,0,0,fx,{\an5\pos(659.52,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}cha
+Dialogue: 0,0:00:32.92,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(659.52,101.50)\3c&HAF401E&\blur3}cha
+Dialogue: 1,0:00:30.26,0:00:32.92,RO,,0,0,0,fx,{\an5\pos(695.09,101.50)\3c&HAF401E&\blur3\alpha&HA0&}tte
+Dialogue: 2,0:00:32.92,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(695.09,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}tte
 Dialogue: 0,0:00:33.68,0:00:33.68,RO,,0,0,0,fx,{\an5\pos(695.09,101.50)\3c&HAF401E&\blur3}tte
 Dialogue: 1,0:00:34.94,0:00:35.24,RO,,0,0,0,fx,{\an5\move(1920.00,101.50,480.00,101.50,0,300)\3c&HAF401E&\blur3\fad(300,0)\alpha&HA0&}jibun de jibun wo kurushimeteiru shujin
 Dialogue: 0,0:00:38.70,0:00:39.00,RO,,0,0,0,fx,{\an5\move(480.00,101.50,-960.00,101.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}jibun de jibun wo kurushimeteiru shujin
@@ -302,13 +302,13 @@ Dialogue: 1,0:00:40.30,0:00:41.55,RO,,0,0,0,fx,{\an5\pos(474.95,101.50)\3c&HAF40
 Dialogue: 2,0:00:41.55,0:00:41.67,RO,,0,0,0,fx,{\an5\pos(474.95,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}na
 Dialogue: 0,0:00:41.67,0:00:43.93,RO,,0,0,0,fx,{\an5\pos(474.95,101.50)\3c&HAF401E&\blur3}na
 Dialogue: 1,0:00:40.30,0:00:41.67,RO,,0,0,0,fx,{\an5\pos(500.58,101.50)\3c&HAF401E&\blur3\alpha&HA0&}ra
-Dialogue: 2,0:00:41.67,0:00:41.77,RO,,0,0,0,fx,{\an5\pos(500.58,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}ra
-Dialogue: 0,0:00:41.77,0:00:43.93,RO,,0,0,0,fx,{\an5\pos(500.58,101.50)\3c&HAF401E&\blur3}ra
-Dialogue: 1,0:00:40.30,0:00:41.77,RO,,0,0,0,fx,{\an5\pos(532.01,101.50)\3c&HAF401E&\blur3\alpha&HA0&}sa
-Dialogue: 2,0:00:41.77,0:00:42.00,RO,,0,0,0,fx,{\an5\pos(532.01,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}sa
-Dialogue: 0,0:00:42.00,0:00:43.93,RO,,0,0,0,fx,{\an5\pos(532.01,101.50)\3c&HAF401E&\blur3}sa
-Dialogue: 1,0:00:40.30,0:00:42.00,RO,,0,0,0,fx,{\an5\pos(580.83,101.50)\3c&HAF401E&\blur3\alpha&HA0&}trans
-Dialogue: 2,0:00:42.00,0:00:42.30,RO,,0,0,0,fx,{\an5\pos(580.83,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}trans
+Dialogue: 2,0:00:41.67,0:00:41.81,RO,,0,0,0,fx,{\an5\pos(500.58,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}ra
+Dialogue: 0,0:00:41.81,0:00:43.93,RO,,0,0,0,fx,{\an5\pos(500.58,101.50)\3c&HAF401E&\blur3}ra
+Dialogue: 1,0:00:40.30,0:00:41.81,RO,,0,0,0,fx,{\an5\pos(532.01,101.50)\3c&HAF401E&\blur3\alpha&HA0&}sa
+Dialogue: 2,0:00:41.81,0:00:41.94,RO,,0,0,0,fx,{\an5\pos(532.01,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}sa
+Dialogue: 0,0:00:41.94,0:00:43.93,RO,,0,0,0,fx,{\an5\pos(532.01,101.50)\3c&HAF401E&\blur3}sa
+Dialogue: 1,0:00:40.30,0:00:41.94,RO,,0,0,0,fx,{\an5\pos(580.83,101.50)\3c&HAF401E&\blur3\alpha&HA0&}trans
+Dialogue: 2,0:00:41.94,0:00:42.30,RO,,0,0,0,fx,{\an5\pos(580.83,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}trans
 Dialogue: 0,0:00:42.30,0:00:43.93,RO,,0,0,0,fx,{\an5\pos(580.83,101.50)\3c&HAF401E&\blur3}trans
 Dialogue: 1,0:00:40.30,0:00:42.30,RO,,0,0,0,fx,{\an5\pos(627.16,101.50)\3c&HAF401E&\blur3\alpha&HA0&}for
 Dialogue: 2,0:00:42.30,0:00:42.60,RO,,0,0,0,fx,{\an5\pos(627.16,101.50)\3c&HAF401E&\blur3\alpha&HA0&\t(0,80,1,\blur5\fscx150\fscy150\alpha&H00&)\t(80,0,1,\blur3\fscx100\fscy100)}for
