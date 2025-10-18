@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -184,7 +184,7 @@ Dialogue: 0,0:16:00.78,0:16:03.02,Default - Italics,,0,0,0,,faremos um inesquec�
 Dialogue: 0,0:16:03.60,0:16:06.68,Default - Italics,,0,0,0,,Então, como é seu novo trabalho?
 Dialogue: 0,0:16:08.52,0:16:09.99,Default,,0,0,0,,Sobre isso...
 Dialogue: 0,0:16:09.99,0:16:12.22,Default - Italics,flashback 01,0,0,0,,Sua transferência é ultrassecreta.
-Dialogue: 0,0:16:12.51,0:16:15.51,Default - Italics,,0,0,0,,É um trabalho que envolve salvar pessoas?
+Dialogue: 0,0:16:12.51,0:16:15.51,Default - Italics,,0,0,0,,É um trabalho que envolve salvar vidas?
 Dialogue: 0,0:16:18.67,0:16:19.56,Default,,0,0,0,,Parece que sim.
 Dialogue: 0,0:16:21.10,0:16:22.07,Default,,0,0,0,,Ainda bem!
 Dialogue: 0,0:16:22.07,0:16:27.33,Default,,0,0,0,,Afinal, só virou socorrista por causa disso.
@@ -225,7 +225,7 @@ Dialogue: 0,0:21:13.59,0:21:15.46,Default,,0,0,0,,Estou perguntando o que aconte
 Dialogue: 0,0:21:15.70,0:21:16.74,Default,,0,0,0,,Não sei...
 Dialogue: 0,0:21:26.92,0:21:28.70,Default,,0,0,0,,Então, é você?
 Dialogue: 0,0:21:29.04,0:21:29.84,Default,,0,0,0,,O quê?
-Dialogue: 0,0:21:31.48,0:21:33.54,Default,,0,0,0,,Vou logo te avisar uma coisa...
+Dialogue: 0,0:21:31.48,0:21:33.54,Default,,0,0,0,,Vou só te avisar uma coisa...
 Dialogue: 0,0:21:44.20,0:21:46.90,Default,,0,0,0,,Da próxima vez, proteja-se, não somos sua babá.
 Dialogue: 0,0:21:49.36,0:21:56.97,Default - Italics,,0,0,0,,Foi assim que conheci ela e aquele gigante prateado.
 Dialogue: 0,0:22:00.67,0:22:06.44,Default - Top Italics,,0,0,0,,Mas naquela época, não imaginava...
