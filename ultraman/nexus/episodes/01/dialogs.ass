@@ -10,10 +10,10 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -32,15 +32,16 @@ Dialogue: 0,0:02:58.90,0:02:59.73,Default,,0,0,0,,O que disse?
 Dialogue: 0,0:03:00.80,0:03:01.93,Default,,0,0,0,,Bem-vindo!
 Dialogue: 0,0:03:07.33,0:03:09.45,Default,,0,0,0,,Amigo, está de brincadeira comigo?
 Dialogue: 0,0:03:09.45,0:03:10.19,Default,,0,0,0,,Hã?
-Dialogue: 0,0:03:10.19,0:03:11.19,Default,,0,0,0,,Nem vem com essa!
-Dialogue: 0,0:03:11.19,0:03:14.79,Default,,0,0,0,,Veja o medidor da bomba!\N Meu tanque já deveria estar cheio!
+Dialogue: 0,0:03:10.19,0:03:11.21,Default,,0,0,0,,Nem vem com essa!
+Dialogue: 0,0:03:11.21,0:03:13.12,Default,,0,0,0,,Veja o medidor da bomba!
+Dialogue: 0,0:03:13.12,0:03:14.79,Default,,0,0,0,,Meu tanque já deveria estar cheio!
 Dialogue: 0,0:03:14.79,0:03:15.95,Default,,0,0,0,,Não é possível—
 Dialogue: 0,0:03:16.58,0:03:17.38,Default,,0,0,0,,O quê?!
 Dialogue: 0,0:03:23.31,0:03:24.96,Default,,0,0,0,,Uma oscilação foi detectada.
 Dialogue: 0,0:03:28.83,0:03:30.99,Default,,0,0,0,,Será que tem algum vazamento?
 Dialogue: 0,0:03:33.80,0:03:34.60,Default,,0,0,0,,Hã?
 Dialogue: 0,0:03:35.60,0:03:36.97,Default,,0,0,0,,O que é isso?
-Dialogue: 0,0:04:12.14,0:04:14.81,Default - Italics,,0,0,0,,Aqui são os Night Raiders.\N Alvo localizado.
+Dialogue: 0,0:04:12.14,0:04:14.81,Default - Italics,,0,0,0,,Aqui são os Night Raiders.\N Localizamos o alvo.
 Dialogue: 0,0:04:14.81,0:04:19.21,Default - Italics,,0,0,0,,Aqui é o CIC. Nível de Ataque C3.\N Iniciem a operação.
 Dialogue: 0,0:04:31.49,0:04:33.49,Default,,0,0,0,,O que foi isso?
 Dialogue: 0,0:04:39.92,0:04:42.47,Default - Italics,,0,0,0,,O alvo está indo para o local planejado.
@@ -64,7 +65,8 @@ Dialogue: 0,0:07:09.11,0:07:11.89,Default,,0,0,0,,Eu realmente odeio bebuns!
 Dialogue: 0,0:07:13.36,0:07:15.73,Default,,0,0,0,,Também está presente na gasolina e no diesel.
 Dialogue: 0,0:07:16.65,0:07:17.75,Default,,0,0,0,,Por isso atacou o posto—
 Dialogue: 0,0:07:17.75,0:07:19.15,Default,,0,0,0,,E devorou uma pessoa.
-Dialogue: 0,0:07:27.12,0:07:30.65,Default,,0,0,0,,Monstros são monstros.\N São todos iguais.
+Dialogue: 0,0:07:27.13,0:07:28.75,Default,,0,0,0,,Monstros não passam disso.
+Dialogue: 0,0:07:29.34,0:07:30.64,Default,,0,0,0,,São todos iguais.
 Dialogue: 0,0:07:33.40,0:07:34.87,Default,,0,0,0,,Vice-Capitã!
 Dialogue: 0,0:07:36.08,0:07:38.63,Default,,0,0,0,,É verdade que irão recrutar um novo membro?
 Dialogue: 0,0:07:38.63,0:07:39.58,Default,,0,0,0,,Parece que sim.
@@ -109,7 +111,7 @@ Dialogue: 0,0:10:50.65,0:10:52.58,Default,,0,0,0,,Não é como se fosse me apres
 Dialogue: 0,0:10:52.58,0:10:55.29,Default,,0,0,0,,Só queria poder conhecê-los.
 Dialogue: 0,0:10:57.57,0:10:59.84,Default,,0,0,0,,Certo. Vou pensar.
 Dialogue: 0,0:10:59.84,0:11:02.63,Default,,0,0,0,,Sério? Ótimo!
-Dialogue: 0,0:11:03.39,0:11:05.97,Default,,0,0,0,,Nossa!\N Já está tarde.
+Dialogue: 0,0:11:04.42,0:11:05.76,Default,,0,0,0,,Já está tarde.
 Dialogue: 0,0:11:05.97,0:11:08.04,Default,,0,0,0,,Tenho que fazer o exame físico de que falei.
 Dialogue: 0,0:11:09.95,0:11:11.47,Default,,0,0,0,,Te vejo depois.
 Dialogue: 0,0:11:11.47,0:11:12.61,Default,,0,0,0,,Cuide-se.
@@ -124,7 +126,7 @@ Dialogue: 0,0:12:14.06,0:12:15.56,Default,,0,0,0,,Meu nome é Matsunaga.
 Dialogue: 0,0:12:16.42,0:12:17.52,Default,,0,0,0,,Por favor, entre.
 Dialogue: 0,0:12:20.38,0:12:21.29,Default,,0,0,0,,Por aqui!
 Dialogue: 0,0:12:21.29,0:12:21.82,Default,,0,0,0,,Por aqui.
-Dialogue: 0,0:12:21.82,0:12:23.41,Default,,0,0,0,,Por aqui?\N Como assim?
+Dialogue: 0,0:12:21.82,0:12:23.41,Default,,0,0,0,,Por aqui? Como assim?
 Dialogue: 0,0:12:26.55,0:12:27.67,Default,,0,0,0,,Esperem!
 Dialogue: 0,0:12:28.48,0:12:32.35,Default,,0,0,0,,Por gentileza, coloque esta venda.
 Dialogue: 0,0:12:32.35,0:12:34.41,Default,,0,0,0,,Por gentileza? Tá bom!
@@ -136,12 +138,15 @@ Dialogue: 0,0:12:58.96,0:13:02.43,Default,,0,0,0,,Todas as leituras de K02 a K55
 Dialogue: 0,0:13:03.17,0:13:11.19,Default,,0,0,0,,A análise do fator tipo R7 indica +87 e -0.
 Dialogue: 0,0:13:08.44,0:13:10.01,Default - Top,,0,0,0,,Esperem...
 Dialogue: 0,0:13:10.46,0:13:11.57,Default - Top,,0,0,0,,Esperem!
-Dialogue: 0,0:13:12.08,0:13:14.85,Default,,0,0,0,,O que foi?\N O cinto está apertado?
+Dialogue: 0,0:13:12.18,0:13:13.05,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:13:13.76,0:13:14.85,Default,,0,0,0,,O cinto está apertado?
 Dialogue: 0,0:13:14.85,0:13:16.68,Default,,0,0,0,,Não é isso!
 Dialogue: 0,0:13:17.27,0:13:21.15,Default,,0,0,0,,Quem são vocês? Onde estou? Que lugar é esse?
-Dialogue: 0,0:13:21.15,0:13:24.58,Default,,0,0,0,,Não se preocupe.\N O exame terminará em breve.
+Dialogue: 0,0:13:21.15,0:13:22.38,Default,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:13:22.98,0:13:24.55,Default,,0,0,0,,O exame terminará em breve.
 Dialogue: 0,0:13:24.58,0:13:26.04,Default,,0,0,0,,Exame de quê?
-Dialogue: 0,0:13:28.00,0:13:31.06,Default,,0,0,0,,O que é isso?\N O que estão fazendo?
+Dialogue: 0,0:13:28.01,0:13:28.49,Default,,0,0,0,,O que é isso?
+Dialogue: 0,0:13:29.89,0:13:31.30,Default,,0,0,0,,O que estão fazendo?
 Dialogue: 0,0:13:32.76,0:13:33.85,Default,,0,0,0,,Hã?!
 Dialogue: 0,0:14:07.20,0:14:13.11,Default - Italics,,0,0,0,,Hoje faz uma semana desde que Tadashi Iwata,\N funcionário deste posto de gasolina, desapareceu.
 Dialogue: 0,0:14:13.11,0:14:15.53,Default - Italics,,0,0,0,,Seu paradeiro ainda é desconhecido.
@@ -154,8 +159,8 @@ Dialogue: 0,0:14:37.65,0:14:40.17,Default,,0,0,0,,Acredito que o comissário já
 Dialogue: 0,0:14:40.17,0:14:46.23,Default,,0,0,0,,A partir de hoje, você trabalhará em outro posto.
 Dialogue: 0,0:14:47.35,0:14:49.24,Default,,0,0,0,,Estas são suas novas atribuições.
 Dialogue: 0,0:14:53.07,0:14:54.80,Default,,0,0,0,,TLT?
-Dialogue: 0,0:14:54.80,0:14:58.22,Default,,0,0,0,,Leia-se "Tilt".\N É uma organização secreta global,
-Dialogue: 0,0:14:58.22,0:15:01.36,Default,,0,0,0,,cuja missão é preservar a paz.
+Dialogue: 0,0:14:54.80,0:14:55.85,Default,,0,0,0,,Leia-se "Tilt".
+Dialogue: 0,0:14:56.01,0:15:01.36,Default,,0,0,0,,É uma organização secreta global que protege a paz.
 Dialogue: 0,0:15:01.36,0:15:05.16,Default,,0,0,0,,Você foi escolhido como novo membro da força-tarefa.
 Dialogue: 0,0:15:06.04,0:15:07.16,Default,,0,0,0,,Escolhido?
 Dialogue: 0,0:15:07.46,0:15:10.87,Default,,0,0,0,,É uma organização poderosa,\N que reúne os melhores talentos

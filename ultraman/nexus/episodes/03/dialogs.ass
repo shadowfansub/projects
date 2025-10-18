@@ -10,10 +10,10 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -205,8 +205,10 @@ Dialogue: 0,0:20:38.48,0:20:39.83,Default - Italics,,0,0,0,,Komon?
 Dialogue: 0,0:20:40.67,0:20:43.99,Default - Italics,,0,0,0,,É incomum me ligar tão cedo.
 Dialogue: 0,0:20:43.99,0:20:45.12,Default,,0,0,0,,Desculpe.
 Dialogue: 0,0:20:45.66,0:20:49.50,Default,,0,0,0,,Só queria ouvir sua voz.
-Dialogue: 0,0:20:50.46,0:20:53.75,Default - Italics,,0,0,0,,O que houve?\N Aconteceu algo no trabalho?
-Dialogue: 0,0:20:54.53,0:20:59.74,Default,,0,0,0,,Não, nada.\N Só estava precisando ouvir sua voz.
+Dialogue: 0,0:20:50.48,0:20:51.62,Default - Italics,,0,0,0,,O que houve?
+Dialogue: 0,0:20:52.20,0:20:53.75,Default - Italics,,0,0,0,,Aconteceu algo no trabalho?
+Dialogue: 0,0:20:54.56,0:20:55.64,Default,,0,0,0,,Não, nada.
+Dialogue: 0,0:20:56.37,0:20:59.28,Default,,0,0,0,,Só estava precisando ouvir sua voz.
 Dialogue: 0,0:21:01.50,0:21:05.55,Default - Italics,,0,0,0,,Mas, na breve conversa que tive com a Riko,
 Dialogue: 0,0:21:05.55,0:21:10.20,Default - Italics,,0,0,0,,meu coração entendeu que aquela realidade era real.
 Dialogue: 0,0:21:19.44,0:21:21.87,Default,,0,0,0,,Não freie assim, é perigoso!

@@ -10,10 +10,10 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -32,7 +32,8 @@ Dialogue: 0,0:02:17.47,0:02:22.47,Default,,0,0,0,,Mas agora, fica fácil explica
 Dialogue: 0,0:02:23.07,0:02:24.92,Default,,0,0,0,,Bestas Espaciais?
 Dialogue: 0,0:02:25.85,0:02:29.40,Default,,0,0,0,,É assim que chamamos aqueles monstros.
 Dialogue: 0,0:02:30.30,0:02:33.75,Default,,0,0,0,,São organismos desconhecidos que vieram do espaço.
-Dialogue: 0,0:02:35.76,0:02:41.45,Default,,0,0,0,,Uma das missões do Ministério da Defesa e da TLT\N é exterminá-las em segredo.
+Dialogue: 0,0:02:35.84,0:02:38.11,Default,,0,0,0,,Uma das missões do Ministério da Defesa e da TLT
+Dialogue: 0,0:02:38.73,0:02:41.45,Default,,0,0,0,,é exterminá-las em segredo.
 Dialogue: 0,0:02:43.84,0:02:46.61,Default,,0,0,0,,Pronto, chegamos.
 Dialogue: 0,0:02:57.10,0:02:58.93,Default,,0,0,0,,Parece uma represa comum,
 Dialogue: 0,0:02:59.48,0:03:02.98,Default,,0,0,0,,mas fizemos uma instalação de segurança ao redor.
@@ -134,7 +135,7 @@ Dialogue: 0,0:11:29.59,0:11:30.89,Default,,0,0,0,,Levem a sobrevivente.
 Dialogue: 0,0:11:30.89,0:11:31.78,Default,,0,0,0,,Entendido.
 Dialogue: 0,0:12:14.64,0:12:17.11,Default,,0,0,0,,Alô? Komon?
 Dialogue: 0,0:12:18.02,0:12:21.63,Default - Italics,,0,0,0,,Sinto muito por não ter ligado antes.
-Dialogue: 0,0:12:22.28,0:12:25.68,Default,,0,0,0,,Onde está agora?\N Está no seu trabalho?
+Dialogue: 0,0:12:22.30,0:12:25.67,Default,,0,0,0,,Onde está agora? No trabalho?
 Dialogue: 0,0:12:25.68,0:12:29.17,Default - Italics,,0,0,0,,Estou pertinho de você, Riko.
 Dialogue: 0,0:12:31.09,0:12:32.73,Default,,0,0,0,,Pertinho quanto?
 Dialogue: 0,0:12:32.73,0:12:35.24,Default - Italics,,0,0,0,,Atrás de você!
@@ -155,7 +156,7 @@ Dialogue: 0,0:13:34.63,0:13:37.43,Default,,0,0,0,,Fui designado para a Unidade A
 Dialogue: 0,0:13:38.40,0:13:39.82,Default,,0,0,0,,Sou Wakura, o capitão da unidade.
 Dialogue: 0,0:13:40.78,0:13:42.11,Default,,0,0,0,,Deixe-me apresentar os membros da equipe.
 Dialogue: 0,0:13:43.03,0:13:45.00,Default,,0,0,0,,Este é Ishibori Mitsuhiko.
-Dialogue: 0,0:13:45.00,0:13:47.14,Default,,0,0,0,,Além de atuar no campo de batalha,\N ele também é um analista.
+Dialogue: 0,0:13:45.00,0:13:47.14,Default,,0,0,0,,Além de atuar em campo,\N ele também é um analista.
 Dialogue: 0,0:13:47.79,0:13:48.45,Default,,0,0,0,,Prazer.
 Dialogue: 0,0:13:50.31,0:13:52.55,Default,,0,0,0,,Você já deve conhecer a Shiori.
 Dialogue: 0,0:13:53.21,0:13:55.12,Default,,0,0,0,,Apesar do jeito, ela é boa com armas.
