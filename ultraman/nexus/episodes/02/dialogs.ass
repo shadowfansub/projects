@@ -10,10 +10,10 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -25,7 +25,7 @@ Dialogue: 0,0:00:19.90,0:00:24.47,Default - Italics,,0,0,0,,Uma nova realidade s
 Comment: 0,0:00:35.23,0:00:35.28,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:00:26.01,0:00:26.04,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:04.98,0:02:05.01,Default,chptr,0,0,0,,{Parte A} = Part A
-Dialogue: 0,0:02:06.47,0:02:10.58,Default - Top,,0,0,0,,Fiquei surpreso por estar envolvido no incidente.
+Dialogue: 0,0:02:06.47,0:02:10.58,Default - Top,,0,0,0,,Fiquei surpreso por você estar envolvido no incidente.
 Dialogue: 0,0:02:11.35,0:02:15.52,Default,,0,0,0,,Ainda não consigo acreditar no que passei.
 Dialogue: 0,0:02:15.52,0:02:16.56,Default,,0,0,0,,É compreensível.
 Dialogue: 0,0:02:17.47,0:02:22.47,Default,,0,0,0,,Mas agora, fica fácil explicar sobre as Bestas Espaciais.
@@ -55,7 +55,7 @@ Dialogue: 0,0:04:05.66,0:04:07.40,Default,,0,0,0,,Por que fui escolhido?
 Dialogue: 0,0:04:07.40,0:04:09.34,Default,,0,0,0,,Eventualmente, saberá o motivo.
 Dialogue: 0,0:04:10.24,0:04:11.87,Default,,0,0,0,,Mas quero que entenda uma coisa...
 Dialogue: 0,0:04:15.18,0:04:20.64,Default,,0,0,0,,Proteger o futuro da humanidade é o nosso trabalho.
-Dialogue: 0,0:04:24.11,0:04:25.25,Default,,0,0,0,,Como vai ser?
+Dialogue: 0,0:04:24.11,0:04:25.25,Default,,0,0,0,,O que me diz?
 Dialogue: 0,0:04:25.73,0:04:27.88,Default,,0,0,0,,Ainda pode voltar à sua vida normal.
 Dialogue: 0,0:04:34.06,0:04:37.09,Default - Italics,,0,0,0,,Notícias sobre o acidente de ônibus da noite passada.
 Dialogue: 0,0:04:37.93,0:04:40.80,Default - Italics,,0,0,0,,Os investigadores acreditam que o motorista errou
@@ -65,8 +65,7 @@ Dialogue: 0,0:04:47.66,0:04:49.58,Default,,0,0,0,,É o pior número de baixas qu
 Dialogue: 0,0:04:50.19,0:04:52.39,Default,,0,0,0,,Quando chegamos, era tarde demais.
 Dialogue: 0,0:04:52.94,0:04:55.28,Default,,0,0,0,,A tragédia já havia acontecido.
 Dialogue: 0,0:04:55.28,0:04:58.00,Default,,0,0,0,,Além disso, o alvo desapareceu.
-Dialogue: 0,0:04:59.45,0:05:01.51,Default,,0,0,0,,Só encontramos alguns destroços
-Dialogue: 0,0:05:01.51,0:05:04.28,Default,,0,0,0,,e uma cratera de 5 metros de comprimento.
+Dialogue: 0,0:04:59.45,0:05:04.28,Default,,0,0,0,,Só encontramos destroços e uma cratera de 5 metros.
 Dialogue: 0,0:05:04.93,0:05:07.78,Default,,0,0,0,,E uma testemunha.
 Dialogue: 0,0:05:08.59,0:05:10.18,Default,,0,0,0,,Está falando do novo membro da equipe?
 Dialogue: 0,0:05:10.92,0:05:15.37,Default,,0,0,0,,Ele disse que foi salvo por um gigante prateado—
@@ -76,7 +75,7 @@ Dialogue: 0,0:05:21.07,0:05:22.91,Default,,0,0,0,,é impossível ela ter salvado
 Dialogue: 0,0:05:24.86,0:05:27.51,Default - Italics,preview 01,0,0,0,,Seu local de trabalho é um campo de batalha.
 Dialogue: 0,0:05:27.78,0:05:30.68,Default - Italics,,0,0,0,,Precisamos treinar sua força, sabedoria,
 Dialogue: 0,0:05:30.68,0:05:33.99,Default - Italics,,0,0,0,,a capacidade de tomar decisões, tudo ao máximo.
-Dialogue: 0,0:05:35.33,0:05:39.66,Default - Italics,,0,0,0,,Este é o básico para ter sucesso em nossa missão.
+Dialogue: 0,0:05:35.33,0:05:39.66,Default - Italics,,0,0,0,,Esse é o básico para ter sucesso em nossa missão.
 Dialogue: 0,0:05:45.45,0:05:47.70,Default,,0,0,0,,Começaremos seu treinamento com táticas de guerra.
 Dialogue: 0,0:05:48.02,0:05:49.43,Default,,0,0,0,,Deixe-me apresentar sua instrutora.
 Dialogue: 0,0:06:01.71,0:06:03.55,Default,,0,0,0,,Sou Hiraki Shiori. Prazer!
@@ -90,8 +89,8 @@ Dialogue: 0,0:06:37.11,0:06:45.09,Default - Italics,,0,0,0,,O número que ligou 
 Dialogue: 0,0:06:46.11,0:06:47.41,Default,,0,0,0,,Komon...
 Dialogue: 0,0:06:57.79,0:07:00.83,Default,,0,0,0,,O que está fazendo?\N Você é uma vergonha.
 Dialogue: 0,0:07:01.96,0:07:03.46,Default,,0,0,0,,Como vai o treinamento?
-Dialogue: 0,0:07:05.58,0:07:08.21,Default,,0,0,0,,Está indo aos trancos e barrancos.
-Dialogue: 0,0:07:08.96,0:07:13.38,Default,,0,0,0,,Ele não tem nada de excepcional,\N mas acho que tem jeito para a coisa.
+Dialogue: 0,0:07:05.58,0:07:08.21,Default,,0,0,0,,Aos trancos e barrancos.
+Dialogue: 0,0:07:08.96,0:07:13.38,Default,,0,0,0,,Ele não tem nada de excepcional,\N mas acho que tem jeito pra coisa.
 Dialogue: 0,0:07:13.96,0:07:15.10,Default,,0,0,0,,É mesmo?
 Dialogue: 0,0:07:15.65,0:07:17.11,Default,,0,0,0,,Você tem alguma objeção?
 Dialogue: 0,0:07:18.18,0:07:21.76,Default,,0,0,0,,Como socorrista, ele cometeu um erro grave.
@@ -113,7 +112,7 @@ Dialogue: 0,0:08:49.99,0:08:50.85,Default,,0,0,0,,Vamos!
 Dialogue: 0,0:09:07.08,0:09:08.27,Default,,0,0,0,,Incrível...
 Dialogue: 0,0:09:17.31,0:09:20.91,Default,,0,0,0,,Em alguns dias, voará em um desses também.
 Dialogue: 0,0:09:22.84,0:09:26.05,Default,,0,0,0,,Você completou nosso programa de treinamento.
-Dialogue: 0,0:09:26.05,0:09:27.39,Default,,0,0,0,,Completei? Então...
+Dialogue: 0,0:09:26.05,0:09:27.39,Default,,0,0,0,,Completei? Então—
 Dialogue: 0,0:09:27.39,0:09:30.99,Default,,0,0,0,,O desafio de verdade começa agora.
 Dialogue: 0,0:09:32.39,0:09:34.86,Default,,0,0,0,,Ao contrário dos alvos que atirou no treinamento,
 Dialogue: 0,0:09:35.86,0:09:38.51,Default,,0,0,0,,aquelas Bestas tentarão devorá-lo a todo custo.
@@ -121,6 +120,7 @@ Dialogue: 0,0:09:42.43,0:09:44.03,Default - Top Italics,,0,0,0,,Nexus.
 Dialogue: 0,0:09:45.88,0:09:47.04,Default - Top Italics,,0,0,0,,Nexus.
 Comment: 0,0:09:47.04,0:09:47.07,Default,chptr,0,0,0,,{Parte B} = Part B
 Dialogue: 0,0:09:51.27,0:09:52.11,Default,,0,0,0,,Matchan!
+Dialogue: 0,0:09:54.14,0:09:55.87,Default,,0,0,0,,Não me machuque!
 Dialogue: 0,0:09:58.32,0:09:59.48,Default,,0,0,0,,Não!
 Dialogue: 0,0:10:07.74,0:10:08.63,Default,,0,0,0,,Ryuhei!
 Dialogue: 0,0:10:45.74,0:10:46.64,Default,,0,0,0,,Não atirem!
@@ -151,10 +151,10 @@ Dialogue: 0,0:13:14.15,0:13:16.75,Default,,0,0,0,,Foi você quem fez, Riko?
 Dialogue: 0,0:13:16.75,0:13:18.78,Default,,0,0,0,,É um amuleto.\N "Dê seu melhor, Kuina!"
 Dialogue: 0,0:13:19.91,0:13:22.55,Default,preview 01,0,0,0,,Dê o seu melhor no novo trabalho.
 Dialogue: 0,0:13:24.43,0:13:25.44,Default,,0,0,0,,Obrigado.
-Dialogue: 0,0:13:33.50,0:13:34.63,Default,,0,0,0,,Komon Kazuki.
+Dialogue: 0,0:13:33.50,0:13:34.63,Default,,0,0,0,,Sou Komon Kazuki!
 Dialogue: 0,0:13:34.63,0:13:37.43,Default,,0,0,0,,Fui designado para a Unidade A dos Night Raiders.
 Dialogue: 0,0:13:38.40,0:13:39.82,Default,,0,0,0,,Sou Wakura, o capitão da unidade.
-Dialogue: 0,0:13:40.78,0:13:42.11,Default,,0,0,0,,Deixe-me apresentar os membros da equipe.
+Dialogue: 0,0:13:40.78,0:13:42.11,Default,,0,0,0,,Deixe-me apresentar os outros membros.
 Dialogue: 0,0:13:43.03,0:13:45.00,Default,,0,0,0,,Este é Ishibori Mitsuhiko.
 Dialogue: 0,0:13:45.00,0:13:47.14,Default,,0,0,0,,Além de atuar em campo,\N ele também é um analista.
 Dialogue: 0,0:13:47.79,0:13:48.45,Default,,0,0,0,,Prazer.
@@ -170,7 +170,7 @@ Dialogue: 0,0:14:14.94,0:14:15.88,Default,,0,0,0,,Certo.
 Dialogue: 0,0:14:18.19,0:14:20.77,Default,,0,0,0,,É por aqui. Nesta área.
 Dialogue: 0,0:14:22.65,0:14:24.22,Default,,0,0,0,,Estão ouvindo esse som estranho?
 Dialogue: 0,0:14:25.88,0:14:28.98,Default,,0,0,0,,Realmente. Estou ouvindo.
-Dialogue: 0,0:14:28.98,0:14:31.15,Default,,0,0,0,,É bem assustador.
+Dialogue: 0,0:14:28.98,0:14:31.15,Default,,0,0,0,,É bem assustador, não acham?
 Dialogue: 0,0:14:43.63,0:14:44.97,Default,,0,0,0,,Ondas de Bestas detectadas.
 Dialogue: 0,0:14:48.28,0:14:50.34,Default,,0,0,0,,As oscilações estão altas...
 Dialogue: 0,0:14:52.83,0:14:55.08,Default - Italics,,0,0,0,,Alerta de Comando Nível 3.
@@ -181,15 +181,15 @@ Dialogue: 0,0:15:03.89,0:15:04.92,Default,,0,0,0,,Claro que não!
 Dialogue: 0,0:15:04.92,0:15:06.55,Default,,0,0,0,,Ande logo com isso! Rápido!
 Dialogue: 0,0:15:06.55,0:15:07.79,Default,,0,0,0,,Certo.
 Dialogue: 0,0:15:17.66,0:15:18.70,Default,,0,0,0,,Partir!
-Dialogue: 0,0:15:49.59,0:15:53.40,Default - Italics,,0,0,0,,Chester Alpha, Beta, preparando-se para decolar.
-Dialogue: 0,0:15:53.90,0:15:57.77,Default - Italics,,0,0,0,,Chester Alpha, Beta, preparando-se para decolar.
+Dialogue: 0,0:15:49.59,0:15:53.40,Default - Italics,,0,0,0,,Chester Alpha, Beta, prepare-se para decolar.
+Dialogue: 0,0:15:53.90,0:15:57.77,Default - Italics,,0,0,0,,Chester Alpha, Beta, prepare-se para decolar.
 Dialogue: 0,0:16:24.60,0:16:28.97,Default,,0,0,0,,Será que conseguirei pilotar este jato de combate?
 Dialogue: 0,0:16:37.29,0:16:38.14,Default,,0,0,0,,Vamos dar o nosso melhor.
 Dialogue: 0,0:17:23.64,0:17:24.83,Default,,0,0,0,,Sato!
 Dialogue: 0,0:17:27.18,0:17:28.93,Default,,0,0,0,,Outra oscilação foi detectada.
 Dialogue: 0,0:17:30.05,0:17:31.83,Default,,0,0,0,,Então, você veio?
-Dialogue: 0,0:18:04.96,0:18:06.11,Default,,0,0,0,,É enorme.
-Dialogue: 0,0:18:06.11,0:18:08.91,Default,,0,0,0,,Deve ser composto por várias Bestas.
+Dialogue: 0,0:18:04.96,0:18:06.11,Default,,0,0,0,,É enorme!
+Dialogue: 0,0:18:06.11,0:18:08.91,Default,,0,0,0,,Deve ser composta por várias Bestas.
 Dialogue: 0,0:18:13.59,0:18:14.86,Default,,0,0,0,,O alvo é gigante.
 Dialogue: 0,0:18:14.86,0:18:16.45,Default,,0,0,0,,Destrua-o com o Divait Launcher.
 Dialogue: 0,0:18:17.21,0:18:18.10,Default,,0,0,0,,Entendido!
@@ -197,7 +197,7 @@ Dialogue: 0,0:18:18.95,0:18:20.25,Default,,0,0,0,,Primeira formação de combate
 Dialogue: 0,0:18:26.22,0:18:27.91,Default,,0,0,0,,Komon!\NO que está fazendo?
 Dialogue: 0,0:18:27.91,0:18:28.93,Default,,0,0,0,,Já vou!
 Dialogue: 0,0:18:37.79,0:18:40.67,Default,,0,0,0,,O fluido corporal dela é altamente inflamável.
-Dialogue: 0,0:18:40.67,0:18:40.97,Default,,0,0,0,,Então...
+Dialogue: 0,0:18:40.67,0:18:40.97,Default,,0,0,0,,Logo—
 Dialogue: 0,0:18:41.21,0:18:43.94,Default,,0,0,0,,Um tiro no corpo será suficiente para destruí-la.
 Dialogue: 0,0:18:56.77,0:18:57.52,Default,,0,0,0,,Não atirem!
 Dialogue: 0,0:19:01.51,0:19:04.09,Default,,0,0,0,,Fazê-los de reféns não é justo!
@@ -205,7 +205,8 @@ Dialogue: 0,0:19:04.09,0:19:05.26,Default,,0,0,0,,Ela aprendeu algo novo.
 Dialogue: 0,0:19:05.96,0:19:07.38,Default,,0,0,0,,Aprendeu?
 Dialogue: 0,0:19:07.38,0:19:08.78,Default - Italics,,0,0,0,,No outro dia,
 Dialogue: 0,0:19:08.78,0:19:11.35,Default - Italics,,0,0,0,,demos prioridade aos reféns ao invés de eliminá-la.
-Dialogue: 0,0:19:16.34,0:19:20.44,Default - Italics,,0,0,0,,Usando esses dados,\N ela aumentou seu instinto de defesa.
+Dialogue: 0,0:19:16.36,0:19:17.86,Default - Italics,,0,0,0,,Usando esses dados,
+Dialogue: 0,0:19:17.86,0:19:20.44,Default - Italics,,0,0,0,,ela aumentou seu instinto de defesa.
 Dialogue: 0,0:19:27.90,0:19:31.22,Default,,0,0,0,,Se atacarmos nessas condições,\N aquelas pessoas serão atingidas!
 Dialogue: 0,0:19:31.66,0:19:35.78,Default,,0,0,0,,CIC. Houve um imprevisto.\N Solicitamos um novo plano.
 Dialogue: 0,0:19:35.78,0:19:37.26,Default - Italics,,0,0,0,,Não tem novo plano.
