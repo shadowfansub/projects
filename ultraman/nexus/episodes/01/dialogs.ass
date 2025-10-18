@@ -120,7 +120,8 @@ Dialogue: 0,0:11:45.09,0:11:46.69,Default,,0,0,0,,Cheguei no horário e local co
 Dialogue: 0,0:11:47.57,0:11:49.82,Default,,0,0,0,,Isso é bem esquisito.
 Dialogue: 0,0:12:09.81,0:12:11.95,Default,,0,0,0,,Komon Kazuki?
 Dialogue: 0,0:12:12.89,0:12:13.72,Default,,0,0,0,,Isso.
-Dialogue: 0,0:12:14.05,0:12:17.53,Default,,0,0,0,,Meu nome é Matsunaga.\N Por favor, entre.
+Dialogue: 0,0:12:14.06,0:12:15.56,Default,,0,0,0,,Meu nome é Matsunaga.
+Dialogue: 0,0:12:16.42,0:12:17.52,Default,,0,0,0,,Por favor, entre.
 Dialogue: 0,0:12:20.38,0:12:21.29,Default,,0,0,0,,Por aqui!
 Dialogue: 0,0:12:21.29,0:12:21.82,Default,,0,0,0,,Por aqui.
 Dialogue: 0,0:12:21.82,0:12:23.41,Default,,0,0,0,,Por aqui?\N Como assim?
@@ -170,7 +171,7 @@ Dialogue: 0,0:15:41.33,0:15:42.71,Default,,0,0,0,,Lembre-se disso.
 Dialogue: 0,0:15:46.15,0:15:47.80,Default,,0,0,0,,Vai sair da equipe de resgate?
 Dialogue: 0,0:15:47.80,0:15:49.63,Default,,0,0,0,,Estou sendo transferido de posto.
 Dialogue: 0,0:15:49.63,0:15:51.50,Default,,0,0,0,,É tipo ser transferido de filial.
-Dialogue: 0,0:15:52.00,0:15:52.99,Default - Italics,,0,0,0,,Sei...
+Dialogue: 0,0:15:52.00,0:15:52.99,Default - Italics,,0,0,0,,Entendi.
 Dialogue: 0,0:15:53.66,0:15:57.26,Default,,0,0,0,,Foi tudo tão rápido, terei de partir ainda hoje.
 Dialogue: 0,0:15:57.80,0:15:59.38,Default,,0,0,0,,Então...
 Dialogue: 0,0:15:59.38,0:16:00.78,Default - Italics,,0,0,0,,Se for sobre nosso encontro,
