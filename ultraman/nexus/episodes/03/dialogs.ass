@@ -10,10 +10,10 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,47,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,40,40,43,1
-Style: Default - Italics,Asap,47,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,2.5,1.5,2,40,40,43,1
-Style: Default - Top,Asap,47,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,8,40,40,43,1
-Style: Default - Top Italics,Asap,47,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,2.5,1.5,8,40,40,43,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,-1,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
