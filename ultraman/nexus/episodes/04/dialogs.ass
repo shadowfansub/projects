@@ -10,10 +10,10 @@ PlayResY: 720
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
-Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
-Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,0,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,2,40,40,40,1
+Style: Default - Top,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,0,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
+Style: Default - Top Italics,Asap,45,&H00FFFFFF,&H00FFFFFF,&H001F1A1A,&HA0120D0D,-1,-1,0,0,100,100,0,0,1,2.5,1,8,40,40,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -89,7 +89,7 @@ Dialogue: 0,0:05:40.08,0:05:42.15,Default,,0,0,0,,quero que proteja a cidade.
 Dialogue: 0,0:05:42.87,0:05:43.43,Default,,0,0,0,,Certo!
 Dialogue: 0,0:05:44.08,0:05:46.44,Default,,0,0,0,,Desta vez, garantam que o alvo seja eliminado.
 Dialogue: 0,0:05:46.44,0:05:49.40,Default,,0,0,0,,Não sabemos se o gigante aparecerá novamente.
-Dialogue: 0,0:05:57.11,0:06:00.07,Default - Italics,,0,0,0,,Chester Gamma, preparando-se para decolar.
+Dialogue: 0,0:05:57.11,0:06:00.07,Default - Italics,,0,0,0,,Chester Gamma, prepare-se para decolar.
 Dialogue: 0,0:06:00.07,0:06:01.75,Default - Italics,,0,0,0,,Decolagem em 10 minutos.
 Dialogue: 0,0:06:17.16,0:06:21.89,Default - Italics,flashback,0,0,0,,Mãe! Mãe!\N Onde você está?
 Dialogue: 0,0:06:21.89,0:06:25.29,Default - Italics,flashback,0,0,0,,Mãe! Mãe!
@@ -183,7 +183,7 @@ Dialogue: 0,0:21:59.24,0:22:01.63,Default,,0,0,0,,De todo modo, por favor, retor
 Dialogue: 0,0:22:01.63,0:22:03.21,Default,,0,0,0,,Vocês não viram nada.
 Dialogue: 0,0:22:03.21,0:22:03.71,Default,,0,0,0,,O quê?
 Dialogue: 0,0:22:05.32,0:22:07.19,Default,,0,0,0,,Esqueçam tudo o que viram.
-Dialogue: 0,0:22:07.93,0:22:09.40,Default - Top,,0,0,0,,Essa é a realidade.
+Dialogue: 0,0:22:07.93,0:22:09.40,Default - Top,,0,0,0,,Essa é a realidade de verdade.
 Comment: 0,0:22:11.36,0:22:11.41,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:22:11.11,0:22:11.15,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:23:41.07,0:23:41.10,Default,chptr,0,0,0,,{Prévia} = Preview
