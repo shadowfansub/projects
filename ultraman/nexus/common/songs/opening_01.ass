@@ -11,7 +11,7 @@ PlayResY: 720
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: RO,Times Sans Serif,33,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0.5,0,8,10,10,85,1
-Style: TR,FOT-Skip Std E,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,0,0,0,0,100,105,0.5,0,1,1,0,8,10,10,30,1
+Style: TR,TT Rounds Neue Trial,45,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,105,0.5,0,1,1,0,8,10,10,33,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -71,60 +71,60 @@ Comment: 0,0:01:24.32,0:01:29.14,RO,,0,0,0,karaoke,{\k13}ko{\k16}re {\k14}ga {\k
 Comment: 0,0:01:29.42,0:01:34.48,RO,,0,0,0,karaoke,{\k37}ta{\k14}da {\k15}so{\k21}re {\k27}da{\k65}ke {\k13}de{\k20}ki{\k28}re{\k75}ba {\k57}ei{\k50}yuu {\k84}sa
 Comment: 0,0:01:34.54,0:01:35.34,RO,,0,0,0,karaoke,{\k25}Al{\k55}right
 Comment: 0,0:00:00.00,0:00:00.00,RO,,0,0,0,,
-Dialogue: 0,0:00:24.86,0:00:25.16,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Mergulhei de cabeça para mostrar minha força
-Dialogue: 1,0:00:25.16,0:00:28.68,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Mergulhei de cabeça para mostrar minha força
-Dialogue: 0,0:00:28.68,0:00:28.98,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Mergulhei de cabeça para mostrar minha força
-Dialogue: 0,0:00:29.96,0:00:30.26,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Nem lembro por que dei importância a isso
-Dialogue: 1,0:00:30.26,0:00:33.68,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Nem lembro por que dei importância a isso
-Dialogue: 0,0:00:33.68,0:00:33.98,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Nem lembro por que dei importância a isso
-Dialogue: 0,0:00:34.94,0:00:35.24,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Acabei me afundando na dor que causei
-Dialogue: 1,0:00:35.24,0:00:38.70,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Acabei me afundando na dor que causei
-Dialogue: 0,0:00:38.70,0:00:39.00,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Acabei me afundando na dor que causei
-Dialogue: 0,0:00:40.00,0:00:40.30,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Mas isso acaba agora, está na hora de mudar!
-Dialogue: 1,0:00:40.30,0:00:43.93,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Mas isso acaba agora, está na hora de mudar!
-Dialogue: 0,0:00:43.93,0:00:44.23,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Mas isso acaba agora, está na hora de mudar!
-Dialogue: 0,0:00:44.59,0:00:44.89,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}De que adianta temer o escuro?
-Dialogue: 1,0:00:44.89,0:00:47.12,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}De que adianta temer o escuro?
-Dialogue: 0,0:00:47.12,0:00:47.42,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}De que adianta temer o escuro?
-Dialogue: 0,0:00:47.13,0:00:47.43,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}De que adianta temer o desconhecido?
-Dialogue: 1,0:00:47.43,0:00:49.87,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}De que adianta temer o desconhecido?
-Dialogue: 0,0:00:49.87,0:00:50.17,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}De que adianta temer o desconhecido?
-Dialogue: 0,0:00:49.79,0:00:50.09,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se quer seguir em frente, precisa agir!
-Dialogue: 1,0:00:50.09,0:00:54.10,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Se quer seguir em frente, precisa agir!
-Dialogue: 0,0:00:54.10,0:00:54.40,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se quer seguir em frente, precisa agir!
-Dialogue: 0,0:00:54.00,0:00:54.30,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se for homem de verdade
-Dialogue: 1,0:00:54.30,0:00:56.10,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Se for homem de verdade
-Dialogue: 0,0:00:56.10,0:00:56.40,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se for homem de verdade
-Dialogue: 0,0:00:55.95,0:00:56.25,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Erga-se em defesa dos mais fracos!
-Dialogue: 1,0:00:56.25,0:00:59.14,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Erga-se em defesa dos mais fracos!
-Dialogue: 0,0:00:59.14,0:00:59.44,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Erga-se em defesa dos mais fracos!
-Dialogue: 0,0:00:59.00,0:00:59.30,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Vença seus temores e lute para protegê-los!
-Dialogue: 1,0:00:59.30,0:01:04.11,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Vença seus temores e lute para protegê-los!
-Dialogue: 0,0:01:04.11,0:01:04.41,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Vença seus temores e lute para protegê-los!
-Dialogue: 0,0:01:04.02,0:01:04.32,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se um dia tropeçar, levante-se e não ceda!
-Dialogue: 1,0:01:04.32,0:01:09.16,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Se um dia tropeçar, levante-se e não ceda!
-Dialogue: 0,0:01:09.16,0:01:09.46,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se um dia tropeçar, levante-se e não ceda!
-Dialogue: 0,0:01:09.11,0:01:09.41,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se fizer apenas isso, você é um herói!
-Dialogue: 1,0:01:09.41,0:01:14.12,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Se fizer apenas isso, você é um herói!
-Dialogue: 0,0:01:14.12,0:01:14.42,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se fizer apenas isso, você é um herói!
-Dialogue: 0,0:01:14.00,0:01:14.30,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se for homem de verdade
-Dialogue: 1,0:01:14.30,0:01:15.99,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Se for homem de verdade
-Dialogue: 0,0:01:15.99,0:01:16.29,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se for homem de verdade
-Dialogue: 0,0:01:16.02,0:01:16.32,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Erga-se em defesa dos mais fracos!
-Dialogue: 1,0:01:16.32,0:01:19.14,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Erga-se em defesa dos mais fracos!
-Dialogue: 0,0:01:19.14,0:01:19.44,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Erga-se em defesa dos mais fracos!
-Dialogue: 0,0:01:19.02,0:01:19.32,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}As mulheres também, não fiquem só olhando!
-Dialogue: 1,0:01:19.32,0:01:24.20,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}As mulheres também, não fiquem só olhando!
-Dialogue: 0,0:01:24.20,0:01:24.50,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}As mulheres também, não fiquem só olhando!
-Dialogue: 0,0:01:24.02,0:01:24.32,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Seja corajoso e lute pelo que é certo!
-Dialogue: 1,0:01:24.32,0:01:29.14,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Seja corajoso e lute pelo que é certo!
-Dialogue: 0,0:01:29.14,0:01:29.44,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Seja corajoso e lute pelo que é certo!
-Dialogue: 0,0:01:29.12,0:01:29.42,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se fizer apenas isso, você é um herói!
-Dialogue: 1,0:01:29.42,0:01:34.48,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Se fizer apenas isso, você é um herói!
-Dialogue: 0,0:01:34.48,0:01:34.78,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se fizer apenas isso, você é um herói!
-Dialogue: 0,0:01:34.24,0:01:34.54,TR,,0,0,0,fx,{\an5\move(1920.00,51.00,480.00,51.00,0,300)\3c&HAF401E&\blur3\fad(300,0)}Isso aí!
-Dialogue: 1,0:01:34.54,0:01:35.34,TR,,0,0,0,fx,{\an5\pos(480.00,51.00)\3c&HAF401E&\blur3}Isso aí!
-Dialogue: 0,0:01:35.34,0:01:35.64,TR,,0,0,0,fx,{\an5\move(480.00,51.00,-960.00,51.00,0,300)\3c&HAF401E&\blur3\fad(0,300)}Isso aí!
+Dialogue: 0,0:00:24.86,0:00:25.16,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Mergulhei de cabeça para mostrar minha força
+Dialogue: 1,0:00:25.16,0:00:28.68,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Mergulhei de cabeça para mostrar minha força
+Dialogue: 0,0:00:28.68,0:00:28.98,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Mergulhei de cabeça para mostrar minha força
+Dialogue: 0,0:00:29.96,0:00:30.26,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Nem lembro por que dei importância a isso
+Dialogue: 1,0:00:30.26,0:00:33.68,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Nem lembro por que dei importância a isso
+Dialogue: 0,0:00:33.68,0:00:33.98,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Nem lembro por que dei importância a isso
+Dialogue: 0,0:00:34.94,0:00:35.24,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Acabei me afundando na dor que causei
+Dialogue: 1,0:00:35.24,0:00:38.70,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Acabei me afundando na dor que causei
+Dialogue: 0,0:00:38.70,0:00:39.00,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Acabei me afundando na dor que causei
+Dialogue: 0,0:00:40.00,0:00:40.30,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Mas isso acaba agora, está na hora de mudar!
+Dialogue: 1,0:00:40.30,0:00:43.93,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Mas isso acaba agora, está na hora de mudar!
+Dialogue: 0,0:00:43.93,0:00:44.23,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Mas isso acaba agora, está na hora de mudar!
+Dialogue: 0,0:00:44.59,0:00:44.89,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}De que adianta temer o escuro?
+Dialogue: 1,0:00:44.89,0:00:47.12,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}De que adianta temer o escuro?
+Dialogue: 0,0:00:47.12,0:00:47.42,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}De que adianta temer o escuro?
+Dialogue: 0,0:00:47.13,0:00:47.43,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}De que adianta temer o desconhecido?
+Dialogue: 1,0:00:47.43,0:00:49.87,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}De que adianta temer o desconhecido?
+Dialogue: 0,0:00:49.87,0:00:50.17,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}De que adianta temer o desconhecido?
+Dialogue: 0,0:00:49.79,0:00:50.09,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se quer seguir em frente, precisa agir!
+Dialogue: 1,0:00:50.09,0:00:54.10,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Se quer seguir em frente, precisa agir!
+Dialogue: 0,0:00:54.10,0:00:54.40,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se quer seguir em frente, precisa agir!
+Dialogue: 0,0:00:54.00,0:00:54.30,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se for homem de verdade
+Dialogue: 1,0:00:54.30,0:00:56.10,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Se for homem de verdade
+Dialogue: 0,0:00:56.10,0:00:56.40,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se for homem de verdade
+Dialogue: 0,0:00:55.95,0:00:56.25,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Erga-se em defesa dos mais fracos!
+Dialogue: 1,0:00:56.25,0:00:59.14,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Erga-se em defesa dos mais fracos!
+Dialogue: 0,0:00:59.14,0:00:59.44,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Erga-se em defesa dos mais fracos!
+Dialogue: 0,0:00:59.00,0:00:59.30,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Vença seus temores e lute para protegê-los!
+Dialogue: 1,0:00:59.30,0:01:04.11,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Vença seus temores e lute para protegê-los!
+Dialogue: 0,0:01:04.11,0:01:04.41,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Vença seus temores e lute para protegê-los!
+Dialogue: 0,0:01:04.02,0:01:04.32,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se um dia tropeçar, levante-se e não ceda!
+Dialogue: 1,0:01:04.32,0:01:09.16,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Se um dia tropeçar, levante-se e não ceda!
+Dialogue: 0,0:01:09.16,0:01:09.46,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se um dia tropeçar, levante-se e não ceda!
+Dialogue: 0,0:01:09.11,0:01:09.41,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se fizer apenas isso, você é um herói!
+Dialogue: 1,0:01:09.41,0:01:14.12,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Se fizer apenas isso, você é um herói!
+Dialogue: 0,0:01:14.12,0:01:14.42,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se fizer apenas isso, você é um herói!
+Dialogue: 0,0:01:14.00,0:01:14.30,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se for homem de verdade
+Dialogue: 1,0:01:14.30,0:01:15.99,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Se for homem de verdade
+Dialogue: 0,0:01:15.99,0:01:16.29,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se for homem de verdade
+Dialogue: 0,0:01:16.02,0:01:16.32,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Erga-se em defesa dos mais fracos!
+Dialogue: 1,0:01:16.32,0:01:19.14,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Erga-se em defesa dos mais fracos!
+Dialogue: 0,0:01:19.14,0:01:19.44,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Erga-se em defesa dos mais fracos!
+Dialogue: 0,0:01:19.02,0:01:19.32,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}As mulheres também, não fiquem só olhando!
+Dialogue: 1,0:01:19.32,0:01:24.20,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}As mulheres também, não fiquem só olhando!
+Dialogue: 0,0:01:24.20,0:01:24.50,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}As mulheres também, não fiquem só olhando!
+Dialogue: 0,0:01:24.02,0:01:24.32,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Seja corajoso e lute pelo que é certo!
+Dialogue: 1,0:01:24.32,0:01:29.14,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Seja corajoso e lute pelo que é certo!
+Dialogue: 0,0:01:29.14,0:01:29.44,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Seja corajoso e lute pelo que é certo!
+Dialogue: 0,0:01:29.12,0:01:29.42,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Se fizer apenas isso, você é um herói!
+Dialogue: 1,0:01:29.42,0:01:34.48,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Se fizer apenas isso, você é um herói!
+Dialogue: 0,0:01:34.48,0:01:34.78,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Se fizer apenas isso, você é um herói!
+Dialogue: 0,0:01:34.24,0:01:34.54,TR,,0,0,0,fx,{\an5\move(1920.00,56.63,480.00,56.63,0,300)\3c&HAF401E&\blur3\fad(300,0)}Isso aí!
+Dialogue: 1,0:01:34.54,0:01:35.34,TR,,0,0,0,fx,{\an5\pos(480.00,56.63)\3c&HAF401E&\blur3}Isso aí!
+Dialogue: 0,0:01:35.34,0:01:35.64,TR,,0,0,0,fx,{\an5\move(480.00,56.63,-960.00,56.63,0,300)\3c&HAF401E&\blur3\fad(0,300)}Isso aí!
 Dialogue: 1,0:00:24.86,0:00:25.16,RO,,0,0,0,fx,{\an5\move(1920.00,101.50,480.00,101.50,0,300)\3c&HAF401E&\blur3\fad(300,0)\alpha&HA0&}kakko tsuketeru tsumori de tokui ni natte
 Dialogue: 0,0:00:28.68,0:00:28.98,RO,,0,0,0,fx,{\an5\move(480.00,101.50,-960.00,101.50,0,300)\3c&HAF401E&\blur3\fad(0,300)}kakko tsuketeru tsumori de tokui ni natte
 Dialogue: 1,0:00:25.16,0:00:25.16,RO,,0,0,0,fx,{\an5\pos(250.23,101.50)\3c&HAF401E&\blur3\alpha&HA0&}ka
