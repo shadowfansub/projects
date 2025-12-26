@@ -1,0 +1,11 @@
+# Encode to 720p
+
+ffmpeg -i raw.mkv -c:v libx264 -preset slow -crf 21 -pix_fmt yuv420p -vf "scale=-2:720" -c:a aac -b:a 192k raw_output.mkv
+
+# Encode to 480p
+
+ffmpeg -i input.mkv -vf "subtitles=input.mkv,scale=-2:480" -c:v libx264 -preset slow -crf 21 -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart output_480p.mp4
+
+# Audio
+
+vspipe -o 1 -c wav encode.vpy - | qaac64 -V 91 -o 01audio.m4a -

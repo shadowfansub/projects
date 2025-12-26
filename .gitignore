@@ -1,0 +1,5 @@
+*.mkv
+*.mp4
+*.aac
+*.eac3
+__pycache__/

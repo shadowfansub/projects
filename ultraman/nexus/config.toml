@@ -1,0 +1,38 @@
+show_name = "Ultraman Nexus"
+fansub_group = "Shadow Fansub"
+video_source = "TV-Rip"
+audio_language = "Japanese"
+audio_lang_code = "jpn"
+sub_language = "Portuguese"
+sub_lang_code = "pt"
+tmdb_id = 1281
+ycbcr_matrix = "TV.709"
+resolution = [960, 720]
+
+translation = "Akuse Jou"
+editing = "Akuse Jou"
+translation_checking = "Akuse Jou"
+timing = "Akuse Jou"
+typesetting = "Akuse Jou"
+quality_checking = "Akuse Jou"
+
+episodes_path = "./episodes"
+extras_path = "./common/songs"
+output_path = "./muxed"
+
+episodes = "1...5"
+
+[extras.merge."1-13"]
+"opening_01.ass" = { from = "opsync", to = "sync" }
+"ending_01.ass" = { from = "edsync", to = "sync" }
+
+[extras.merge."14-25"]
+"opening_01.ass" = { from = "opsync", to = "sync" }
+"ending_02.ass" = { from = "edsync", to = "sync" }
+
+[extras.merge."26-36"]
+"opening_02.ass" = { from = "opsync", to = "sync" }
+"ending_03.ass" = { from = "edsync", to = "sync" }
+
+[extras.merge."37-37"]
+"opening_02.ass" = { from = "opsync", to = "sync" }

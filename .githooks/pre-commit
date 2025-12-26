@@ -1,0 +1,51 @@
+#!/bin/bash
+
+# Pre-commit hook to remove [Aegisub Project Garbage] and metadata from .ass files
+# and set WrapStyle to 0
+
+# Find all .ass files that are staged for commit
+ass_files=$(git diff --cached --name-only -- '*.ass')
+
+if [ -z "$ass_files" ]; then
+    exit 0
+fi
+
+for file in $ass_files; do
+    # Check if file exists
+    if [ ! -f "$file" ]; then
+        continue
+    fi
+    
+    # Create a temporary file
+    tmp_file="${file}.tmp"
+    
+    # Remove [Aegisub Project Garbage] section and metadata lines
+    # Also replace WrapStyle with any numeric value to WrapStyle: 0
+    awk '
+        /^\[Aegisub Project Garbage\]$/ {
+            in_garbage = 1
+            next
+        }
+        /^\[/ && in_garbage {
+            in_garbage = 0
+        }
+        !in_garbage && !/^Title:/ && !/^Original Script:/ && !/^Original Translation:/ && !/^Original Editing:/ && !/^Original Timing:/ && !/^Synch Point:/ && !/^Script Updated By:/ {
+            # Replace WrapStyle with any numeric value to WrapStyle: 0
+            if (/^WrapStyle:[ \t]*[0-9]+/) {
+                print "WrapStyle: 0"
+            } else {
+                print
+            }
+        }
+    ' "$file" > "$tmp_file"
+    
+    # Replace original file with cleaned version
+    mv "$tmp_file" "$file"
+    
+    # Add modified file back to stage
+    git add "$file"
+    
+    echo "✓ Cleaned metadata from: $file"
+done
+
+exit 0
