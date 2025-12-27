@@ -72,7 +72,7 @@ Dialogue: 0,0:05:10.92,0:05:15.37,Default,,0,0,0,,Ele disse que foi salvo por um
 Dialogue: 0,0:05:14.63,0:05:16.60,Default - Top,,0,0,0,,É coisa da cabeça dele!
 Dialogue: 0,0:05:18.76,0:05:21.07,Default,,0,0,0,,Se ele viu outra Besta,
 Dialogue: 0,0:05:21.07,0:05:22.91,Default,,0,0,0,,é impossível ela ter salvado uma pessoa.
-Dialogue: 0,0:05:24.86,0:05:27.51,Default - Italics,preview 01,0,0,0,,Seu local de trabalho é um campo de batalha.
+Dialogue: 0,0:05:24.86,0:05:27.51,Default - Italics,CR-01-[218],0,0,0,,Seu local de trabalho é um campo de batalha.
 Dialogue: 0,0:05:27.78,0:05:30.68,Default - Italics,,0,0,0,,Precisamos treinar sua força, sabedoria,
 Dialogue: 0,0:05:30.68,0:05:33.99,Default - Italics,,0,0,0,,a capacidade de tomar decisões, tudo ao máximo.
 Dialogue: 0,0:05:35.33,0:05:39.66,Default - Italics,,0,0,0,,Esse é o básico para ter sucesso em suas missões.
@@ -149,7 +149,7 @@ Dialogue: 0,0:13:01.10,0:13:04.70,Default,,0,0,0,,Sabia que iríamos nos encontr
 Dialogue: 0,0:13:10.37,0:13:10.81,Default,,0,0,0,,Pra você!
 Dialogue: 0,0:13:14.15,0:13:16.75,Default,,0,0,0,,Foi você quem fez, Riko?
 Dialogue: 0,0:13:16.75,0:13:18.78,Default,,0,0,0,,É um amuleto.\N "Dê seu melhor, Kuina!"
-Dialogue: 0,0:13:19.91,0:13:22.55,Default,preview 01,0,0,0,,Dê o seu melhor no novo trabalho.
+Dialogue: 0,0:13:19.91,0:13:22.55,Default,CR-01-[221],0,0,0,,Dê o seu melhor no novo trabalho.
 Dialogue: 0,0:13:24.43,0:13:25.44,Default,,0,0,0,,Obrigado.
 Dialogue: 0,0:13:33.50,0:13:34.63,Default,,0,0,0,,Sou Komon Kazuki!
 Dialogue: 0,0:13:34.63,0:13:37.43,Default,,0,0,0,,Fui designado para a Unidade A dos Night Raiders.
@@ -164,9 +164,9 @@ Dialogue: 0,0:13:56.07,0:13:58.90,Default,,0,0,0,,O que quer dizer com isso, Cap
 Dialogue: 0,0:14:00.33,0:14:01.99,Default,,0,0,0,,Bem-vindo de novo.
 Dialogue: 0,0:14:03.63,0:14:04.50,Default,,0,0,0,,E...
 Dialogue: 0,0:14:04.50,0:14:05.78,Default,,0,0,0,,Eu sou Saijyo Nagi.
-Dialogue: 0,0:14:08.50,0:14:10.16,Default,preview 01,0,0,0,,Vou te avisar só mais uma vez...
-Dialogue: 0,0:14:10.16,0:14:12.05,Default,preview 01,0,0,0,,Não seremos suas babás.
-Dialogue: 0,0:14:14.94,0:14:15.88,Default,,0,0,0,,Certo.
+Dialogue: 0,0:14:08.50,0:14:10.16,Default,CR-01-[219],0,0,0,,Vou te avisar só mais uma vez...
+Dialogue: 0,0:14:10.16,0:14:12.05,Default,CR-01-[220],0,0,0,,Não seremos suas babás.
+Dialogue: 0,0:14:14.94,0:14:15.88,Default,,0,0,0,,Entendi...
 Dialogue: 0,0:14:18.19,0:14:20.77,Default,,0,0,0,,É por aqui. Nesta área.
 Dialogue: 0,0:14:22.65,0:14:24.22,Default,,0,0,0,,Estão ouvindo esse som estranho?
 Dialogue: 0,0:14:25.88,0:14:28.98,Default,,0,0,0,,Realmente. Estou ouvindo.

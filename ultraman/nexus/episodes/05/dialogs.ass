@@ -43,11 +43,11 @@ Dialogue: 0,0:04:19.41,0:04:21.63,Default,,0,0,0,,Vai! Joga logo!
 Dialogue: 0,0:04:21.63,0:04:22.57,Default,,0,0,0,,Aqui vai!
 Dialogue: 0,0:04:44.13,0:04:45.70,Default - Italics,,0,0,0,,Jun!
 Dialogue: 0,0:04:48.61,0:04:49.75,Default - Italics,,0,0,0,,Jun!
-Dialogue: 0,0:05:12.31,0:05:14.87,Default,preview 04,0,0,0,,Codinome: Ultraman.
-Dialogue: 0,0:05:16.03,0:05:18.17,Default,preview 04,0,0,0,,Agora, chamaremos o gigante de Ultraman.
+Dialogue: 0,0:05:12.31,0:05:14.87,Default,CR-04-[174],0,0,0,,Codinome: Ultraman.
+Dialogue: 0,0:05:16.03,0:05:18.17,Default,CR-04-[175],0,0,0,,Agora, chamaremos o gigante de Ultraman.
 Dialogue: 0,0:05:20.49,0:05:23.07,Default,,0,0,0,,Você inventou esse nome.\N O que acha disso?
 Dialogue: 0,0:05:23.07,0:05:24.74,Default,,0,0,0,,Não inventei.
-Dialogue: 0,0:05:24.74,0:05:27.20,Default,,0,0,0,,Essa palavra simplesmente veio à mente.
+Dialogue: 0,0:05:24.74,0:05:27.20,Default,,0,0,0,,Esse nome simplesmente me veio à mente.
 Dialogue: 0,0:05:27.20,0:05:28.45,Default,,0,0,0,,Prestem atenção!
 Dialogue: 0,0:05:30.77,0:05:32.85,Default,,0,0,0,,Esta gravação foi feita no Chester Alpha do Komon,
 Dialogue: 0,0:05:32.85,0:05:34.42,Default,,0,0,0,,enquanto estava no Meta Field.
@@ -71,9 +71,9 @@ Dialogue: 0,0:06:14.37,0:06:15.59,Default,,0,0,0,,Essa seria a única razão?
 Dialogue: 0,0:06:17.05,0:06:18.20,Default,,0,0,0,,A meu ver, sim.
 Dialogue: 0,0:06:18.80,0:06:23.13,Default,,0,0,0,,Então, por que ele luta contra as Bestas?
 Dialogue: 0,0:06:23.13,0:06:24.40,Default,,0,0,0,,Mesmo correndo risco?
-Dialogue: 0,0:06:24.87,0:06:26.35,Default,,0,0,0,,Para se alimentar, talvez.
+Dialogue: 0,0:06:24.87,0:06:26.35,Default,,0,0,0,,Para se alimentar, talvez?
 Dialogue: 0,0:06:27.44,0:06:30.14,Default,,0,0,0,,Assim como as Bestas atacam humanos por alimento.
-Dialogue: 0,0:06:30.55,0:06:33.41,Default,preview 04,0,0,0,,Ele é um perigo em potencial que deve ser eliminado.
+Dialogue: 0,0:06:30.55,0:06:33.41,Default,CR-04-[173],0,0,0,,Ele é um perigo em potencial que deve ser eliminado.
 Dialogue: 0,0:06:33.41,0:06:36.23,Default,,0,0,0,,Eu fui salvo por ele. Duas vezes!
 Dialogue: 0,0:06:36.25,0:06:37.43,Default,,0,0,0,,Oficial Komon.
 Dialogue: 0,0:06:40.07,0:06:43.65,Default - Italics,,0,0,0,,Como falei, o Ultraman é um ser desconhecido.
@@ -96,23 +96,23 @@ Dialogue: 0,0:09:15.57,0:09:16.45,Default,,0,0,0,,Escuta!
 Dialogue: 0,0:09:16.45,0:09:17.17,Default,,0,0,0,,O quê?
 Dialogue: 0,0:09:18.97,0:09:19.69,Default,,0,0,0,,Ouviu?
 Dialogue: 0,0:09:21.30,0:09:22.93,Default,,0,0,0,,Que som é esse?
-Dialogue: 0,0:09:29.65,0:09:30.67,Default,preview 04,0,0,0,,O que é isso?
-Dialogue: 0,0:09:37.84,0:09:39.34,Default,preview 04,0,0,0,,O que está havendo?!
+Dialogue: 0,0:09:29.65,0:09:30.67,Default,CR-04-[171],0,0,0,,O que é isso?
+Dialogue: 0,0:09:37.84,0:09:39.34,Default,CR-04-[172],0,0,0,,O que está havendo?!
 Dialogue: 0,0:10:18.90,0:10:21.69,Default,,0,0,0,,As Bestas não dormiam durante o dia?!
 Dialogue: 0,0:10:22.67,0:10:25.81,Default,,0,0,0,,Vai saber...\N Quando chegarmos, pergunte a ela!
 Dialogue: 0,0:10:25.81,0:10:27.11,Default,,0,0,0,,Vamos!
 Dialogue: 0,0:10:37.01,0:10:42.83,Default - Italics,,0,0,0,,Chester Alpha, Chester Beta, Chester Gamma,\N preparem-se para decolar.
 Dialogue: 0,0:10:45.11,0:10:48.53,Default - Italics,,0,0,0,,O Portão 1 abrirá em 30 segundos.
-Dialogue: 0,0:10:49.53,0:10:51.21,Default,,0,0,0,,Trava de segurança verificada.
+Dialogue: 0,0:10:49.53,0:10:51.21,Default,,0,0,0,,Trava de segurança, verificada.
 Dialogue: 0,0:10:51.21,0:10:54.07,Default,,0,0,0,,Sistema de camuflagem óptica ativado.
 Dialogue: 0,0:10:58.74,0:11:01.33,Default,,0,0,0,,Desconectar equipamentos terrestres.
-Dialogue: 0,0:11:02.04,0:11:03.29,Default,,0,0,0,,Sistemas funcionais.
+Dialogue: 0,0:11:02.04,0:11:03.29,Default,,0,0,0,,Sistemas funcionais!
 Dialogue: 0,0:11:07.64,0:11:12.60,Default,,0,0,0,,Todos os sistemas funcionais.\N Chrome Chester, decolar.
 Dialogue: 0,0:11:24.17,0:11:25.40,Default,,0,0,0,,Como ainda é dia,
 Dialogue: 0,0:11:25.40,0:11:29.41,Default,,0,0,0,,amplie a área da missão para 5 quilômetros.
 Dialogue: 0,0:11:29.41,0:11:32.29,Default,,0,0,0,,Reforce especialmente o controle aéreo.
 Dialogue: 0,0:11:38.13,0:11:41.34,Default,,0,0,0,,Desculpe o inconveniente, esta área está fechada.
-Dialogue: 0,0:11:41.34,0:11:43.42,Default,,0,0,0,,Um táxi acabou de passar por aqui.
+Dialogue: 0,0:11:41.34,0:11:43.42,Default,,0,0,0,,Um táxi acabou de passar por aqui!
 Dialogue: 0,0:11:43.42,0:11:45.45,Default,,0,0,0,,Não, nenhum veículo passou.
 Dialogue: 0,0:11:45.45,0:11:46.85,Default,,0,0,0,,Por favor, retornem.
 Dialogue: 0,0:11:47.67,0:11:49.53,Default,,0,0,0,,Ele escapou!
@@ -121,7 +121,7 @@ Dialogue: 0,0:11:50.49,0:11:51.32,Default,,0,0,0,,Certo.
 Dialogue: 0,0:12:00.83,0:12:03.37,Default,,0,0,0,,Desculpe o inconveniente, esta área está fechada.
 Dialogue: 0,0:12:04.11,0:12:06.23,Default,,0,0,0,,Por favor, retornem.
 Dialogue: 0,0:12:09.51,0:12:10.51,Default,,0,0,0,,Desculpe-me!
-Dialogue: 0,0:12:10.83,0:12:12.12,Default,,0,0,0,,Depressa! Abra a cancela!
+Dialogue: 0,0:12:10.83,0:12:12.12,Default,,0,0,0,,Depressa! Abra caminho!
 Dialogue: 0,0:12:30.76,0:12:32.93,Default,,0,0,0,,Quem está causando esses incidentes?
 Dialogue: 0,0:12:32.93,0:12:34.48,Default,,0,0,0,,Estão abafando os casos?!
 Dialogue: 0,0:12:38.39,0:12:40.21,Default,,0,0,0,,Outra oscilação foi detectada...
@@ -136,9 +136,9 @@ Dialogue: 0,0:17:12.80,0:17:14.98,Default - Italics,,0,0,0,,Temos uma pequena mu
 Dialogue: 0,0:17:15.25,0:17:18.69,Default,,0,0,0,,Chester Beta e Gamma, por favor,\N ataquem a Besta como planejado.
 Dialogue: 0,0:17:18.96,0:17:19.89,Default,,0,0,0,,Entendido.
 Dialogue: 0,0:17:20.27,0:17:21.09,Default,,0,0,0,,Entendido.
-Dialogue: 0,0:17:21.09,0:17:24.59,Default,preview 04,0,0,0,,Chester Alpha, por favor, ataque o Ultraman.
-Dialogue: 0,0:17:24.59,0:17:26.05,Default,preview 04,0,0,0,,O que está dizendo?!
-Dialogue: 0,0:17:26.05,0:17:28.70,Default,preview 04,0,0,0,,Entendido.\N Atacaremos o Ultraman.
+Dialogue: 0,0:17:21.09,0:17:24.59,Default,CR-04-[176],0,0,0,,Chester Alpha, por favor, ataque o Ultraman.
+Dialogue: 0,0:17:24.59,0:17:26.05,Default,CR-04-[177],0,0,0,,O que está dizendo?!
+Dialogue: 0,0:17:26.05,0:17:28.70,Default,CR-04-[178],0,0,0,,Entendido.\N Atacaremos o Ultraman.
 Dialogue: 0,0:17:28.70,0:17:30.76,Default,,0,0,0,,Beta e Gamma, 5 graus à direita.
 Dialogue: 0,0:17:30.76,0:17:34.65,Default,,0,0,0,,Alpha, ataque a 45 graus à esquerda.
 Dialogue: 0,0:17:34.65,0:17:35.29,Default - Italics,,0,0,0,,Entendido.

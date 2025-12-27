@@ -18,27 +18,28 @@ Style: Default - Top Italics,Source Sans Pro,45,&H00FFFFFF,&H00FFFFFF,&H00120703
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:04.46,Default,chptr,0,0,0,,{Introdução} = Intro
-Dialogue: 0,0:00:04.34,0:00:07.66,Default,replay 02,0,0,0,,Se atacarmos nessas condições,\N aquelas pessoas serão atingidas!
+Dialogue: 0,0:00:04.34,0:00:07.66,Default,CR-02-[191],0,0,0,,Se atacarmos nessas condições,\N aquelas pessoas serão atingidas!
 Dialogue: 0,0:00:10.12,0:00:14.30,Default - Italics,,0,0,0,,Eu estava impotente naquele momento.
-Dialogue: 0,0:00:18.14,0:00:19.64,Default,replay 02,0,0,0,,Não atire!
-Dialogue: 0,0:00:23.94,0:00:25.04,Default,replay 02,0,0,0,,Aquele homem!
+Dialogue: 0,0:00:18.14,0:00:19.64,Default,CR-02-[200],0,0,0,,Não atire!
+Dialogue: 0,0:00:23.94,0:00:25.04,Default,CR-02-[202],0,0,0,,Aquele homem!
 Dialogue: 0,0:00:48.16,0:00:55.47,Default - Italics,,0,0,0,,Eu ainda não entendia a minha nova realidade.
 Comment: 0,0:01:05.07,0:01:05.12,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:00:56.04,0:00:56.07,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:35.01,0:02:35.04,Default,chptr,0,0,0,,{Parte A} = Part A
-Dialogue: 0,0:02:42.78,0:02:45.15,Default,replay 02,0,0,0,,Aquele é o gigante prateado?!
+Dialogue: 0,0:02:42.78,0:02:45.15,Default,CR-02-[203],0,0,0,,Aquele é o gigante prateado?!
 Dialogue: 0,0:03:12.20,0:03:14.01,Default,,0,0,0,,Aquele gigante não é nosso inimigo!
 Dialogue: 0,0:04:07.71,0:04:09.31,Default,,0,0,0,,Que gás é esse?
 Dialogue: 0,0:04:09.31,0:04:10.85,Default,,0,0,0,,Ishibori, analise.
 Dialogue: 0,0:04:10.85,0:04:11.83,Default,,0,0,0,,Entendido!
 Dialogue: 0,0:04:15.74,0:04:17.99,Default,,0,0,0,,Droga! É gás combustível!
-Dialogue: 0,0:04:22.88,0:04:25.72,Default,preview 02,0,0,0,,Nagi! Não atire!\N É gás combustível!
+Dialogue: 0,0:04:22.89,0:04:23.75,Default,,0,0,0,,Nagi!
+Dialogue: 0,0:04:23.75,0:04:25.72,Default,CR-02-[213],0,0,0,,Não atire!\N É gás combustível!
 Dialogue: 0,0:04:46.97,0:04:48.41,Default,,0,0,0,,O alvo está fugindo!
 Dialogue: 0,0:04:49.04,0:04:50.36,Default,,0,0,0,,Por favor, vão atrás dele.
 Dialogue: 0,0:04:50.36,0:04:53.58,Default,,0,0,0,,Ele está indo para um grande centro populacional.
-Dialogue: 0,0:05:14.80,0:05:17.51,Default,preview 02,0,0,0,,A distância entre o alvo e a cidade é de 4.000 unidades.
-Dialogue: 0,0:05:19.31,0:05:21.11,Default,preview 02,0,0,0,,Levaremos 30 segundos para chegar até ele.
-Dialogue: 0,0:05:22.00,0:05:23.47,Default,preview 02,0,0,0,,Não vamos conseguir!
+Dialogue: 0,0:05:14.80,0:05:17.51,Default,CR-02-[214],0,0,0,,A distância entre o alvo e a cidade é de 4.000 unidades.
+Dialogue: 0,0:05:19.31,0:05:21.11,Default,CR-02-[215],0,0,0,,Levaremos 30 segundos para chegar até ele.
+Dialogue: 0,0:05:22.00,0:05:23.47,Default,CR-02-[216],0,0,0,,Não vamos conseguir!
 Dialogue: 0,0:05:59.52,0:06:01.34,Default,,0,0,0,,Perdemos o alvo.
 Dialogue: 0,0:06:10.77,0:06:12.16,Default,,0,0,0,,Para onde ele foi?
 Dialogue: 0,0:06:19.66,0:06:20.91,Default,,0,0,0,,Fogos de artifício?
@@ -47,8 +48,8 @@ Dialogue: 0,0:06:44.72,0:06:45.92,Default - Italics,,0,0,0,,Perdemos o sinal del
 Dialogue: 0,0:06:47.15,0:06:50.26,Default - Italics,,0,0,0,,O alvo desapareceu.\NPor favor, retornem.
 Dialogue: 0,0:06:52.29,0:06:53.20,Default,,0,0,0,,Entendido.
 Dialogue: 0,0:06:55.53,0:06:57.58,Default,,0,0,0,,Ele destruiu a Besta?
-Dialogue: 0,0:06:59.63,0:07:01.47,Default,preview 02,0,0,0,,O que é aquele gigante?
-Dialogue: 0,0:07:03.04,0:07:04.23,Default,preview 02,0,0,0,,Ultraman.
+Dialogue: 0,0:06:59.63,0:07:01.47,Default,CR-02-[217],0,0,0,,O que é aquele gigante?
+Dialogue: 0,0:07:03.04,0:07:04.23,Default,CR-02-[218],0,0,0,,Ultraman.
 Dialogue: 0,0:07:21.22,0:07:25.54,Default,,0,0,0,,Um distúrbio no espaço? Legal.
 Dialogue: 0,0:07:35.38,0:07:37.65,Default,,0,0,0,,Não consegui destruí-la completamente.
 Dialogue: 0,0:07:49.32,0:07:53.82,Default,,0,0,0,,Ontem à noite, uma pessoa faleceu\N num incêndio na fábrica de cerveja.
@@ -100,7 +101,7 @@ Dialogue: 0,0:10:25.81,0:10:28.20,Default,,0,0,0,,Saijyo também pensa o mesmo.
 Dialogue: 0,0:10:28.20,0:10:31.19,Default,,0,0,0,,Claro, concordo plenamente.
 Dialogue: 0,0:10:32.20,0:10:33.31,Default,,0,0,0,,Com licença.
 Dialogue: 0,0:10:38.03,0:10:39.80,Default,,0,0,0,,Por favor, me diga!
-Dialogue: 0,0:10:39.80,0:10:42.29,Default,,0,0,0,,"As coisas nem sempre são o que parecem."
+Dialogue: 0,0:10:39.80,0:10:42.29,Default,CR-03-[70],0,0,0,,"As coisas nem sempre são o que parecem."
 Dialogue: 0,0:10:42.29,0:10:43.75,Default,,0,0,0,,O que quer dizer?!
 Dialogue: 0,0:11:06.59,0:11:08.32,Default,,0,0,0,,Incrível.
 Dialogue: 0,0:11:09.05,0:11:10.82,Default,,0,0,0,,O que está fazendo?
@@ -111,10 +112,10 @@ Dialogue: 0,0:11:24.72,0:11:29.71,Default,,0,0,0,,Um NR não deveria atirar em o
 Dialogue: 0,0:11:33.06,0:11:35.58,Default,,0,0,0,,Por que confia nas pessoas tão facilmente?
 Dialogue: 0,0:11:36.72,0:11:40.22,Default,,0,0,0,,Só saberá se alguém é aliado ou inimigo na hora H.
 Dialogue: 0,0:11:50.43,0:11:51.87,Default - Italics,,0,0,0,,Sem balas.
-Dialogue: 0,0:11:53.11,0:11:55.60,Default,balas,0,0,0,,Lembre-se sempre de quantas balas restam.
+Dialogue: 0,0:11:53.11,0:11:55.60,Default,,0,0,0,,Lembre-se sempre de quantas balas restam.
 Dialogue: 0,0:11:58.54,0:11:59.94,Default,,0,0,0,,Espere!
 Dialogue: 0,0:11:59.94,0:12:02.51,Default,,0,0,0,,Ainda não respondeu à minha pergunta!
-Dialogue: 0,0:12:02.51,0:12:05.02,Default,,0,0,0,,"As coisas nem sempre são o que parecem."
+Dialogue: 0,0:12:02.51,0:12:05.02,Default,CR-03-[70],0,0,0,,"As coisas nem sempre são o que parecem."
 Dialogue: 0,0:12:05.02,0:12:06.64,Default,,0,0,0,,O que quer dizer com isso?!
 Dialogue: 0,0:12:18.67,0:12:22.11,Default,,0,0,0,,Hã? Me lembro deste lugar.
 Dialogue: 0,0:12:38.31,0:12:39.79,Default,,0,0,0,,Por que me trouxe aqui?
@@ -132,19 +133,19 @@ Dialogue: 0,0:13:09.74,0:13:12.71,Default,,0,0,0,,Está dizendo que a verdade es
 Dialogue: 0,0:13:13.12,0:13:14.88,Default,,0,0,0,,Claro.
 Dialogue: 0,0:13:14.88,0:13:17.81,Default,,0,0,0,,Se as pessoas soubessem, haveria pânico generalizado.
 Dialogue: 0,0:13:18.52,0:13:21.52,Default,,0,0,0,,É por isso que destruímos as Bestas em segredo.
-Dialogue: 0,0:13:24.72,0:13:27.92,Default,,0,0,0,,As coisas nem sempre são o que parecem.
+Dialogue: 0,0:13:24.72,0:13:27.92,Default,CR-03-[70],0,0,0,,As coisas nem sempre são o que parecem.
 Dialogue: 0,0:13:27.92,0:13:29.13,Default,,0,0,0,,Respondi à sua pergunta?
 Dialogue: 0,0:13:29.50,0:13:31.03,Default,,0,0,0,,Mas e as testemunhas?
 Dialogue: 0,0:13:31.53,0:13:34.53,Default,,0,0,0,,Não podem distorcer os relatos delas.
 Dialogue: 0,0:13:34.84,0:13:36.15,Default,,0,0,0,,A verdade sempre...
 Dialogue: 0,0:13:36.15,0:13:39.09,Default,,0,0,0,,As testemunhas nunca dirão a verdade.
 Dialogue: 0,0:13:39.09,0:13:42.71,Default,,0,0,0,,Há uma seção especial para lidar com isso.
-Dialogue: 0,0:13:47.01,0:13:48.36,Default - Italics,flashback 01,0,0,0,,Não se preocupe.
-Dialogue: 0,0:13:49.08,0:13:53.47,Default - Italics,flashback 01,0,0,0,,Se esquecer tudo, poderá retornar à sua vida normal.
-Dialogue: 0,0:13:53.47,0:13:54.15,Default - Italics,flashback 01,0,0,0,,Hã?
-Dialogue: 0,0:13:54.72,0:13:57.62,Default - Italics,flashback 01,0,0,0,,Em outras palavras, é só apagarmos a sua memória.
-Dialogue: 0,0:13:59.95,0:14:01.75,Default - Italics,flashback 01,0,0,0,,Isso é alguma brincadeira?
-Dialogue: 0,0:14:01.75,0:14:03.61,Default - Italics,flashback 01,0,0,0,,Não tem como fazerem isso.
+Dialogue: 0,0:13:47.01,0:13:48.36,Default - Italics,,0,0,0,,Não se preocupe.
+Dialogue: 0,0:13:49.08,0:13:53.47,Default - Italics,,0,0,0,,Se esquecer tudo, poderá retornar à sua vida normal.
+Dialogue: 0,0:13:53.47,0:13:54.15,Default - Italics,,0,0,0,,Hã?
+Dialogue: 0,0:13:54.72,0:13:57.62,Default - Italics,,0,0,0,,Em outras palavras, é só apagarmos a sua memória.
+Dialogue: 0,0:13:59.95,0:14:01.75,Default - Italics,,0,0,0,,Isso é alguma brincadeira?
+Dialogue: 0,0:14:01.75,0:14:03.61,Default - Italics,,0,0,0,,Não tem como fazerem isso.
 Dialogue: 0,0:14:07.76,0:14:12.90,Default,,0,0,0,,Se eu decidisse expor a verdade,\N a minha memória seria apagada?
 Dialogue: 0,0:14:12.90,0:14:14.14,Default,,0,0,0,,A TLT faria isso?
 Dialogue: 0,0:14:23.27,0:14:24.98,Default - Top Italics,,0,0,0,,Nexus.
@@ -169,11 +170,11 @@ Dialogue: 0,0:16:05.55,0:16:09.33,Default,,0,0,0,,Ondas de Bestas detectadas na 
 Dialogue: 0,0:16:10.77,0:16:13.14,Default,,0,0,0,,Há Night Raiders no local?
 Dialogue: 0,0:16:20.61,0:16:22.54,Default,,0,0,0,,Aquele homem está com eles.
 Dialogue: 0,0:16:24.34,0:16:25.44,Default,,0,0,0,,Por aqui!
-Dialogue: 0,0:16:55.36,0:16:57.65,Default,preview 02,0,0,0,,Que arma é essa?
-Dialogue: 0,0:16:57.65,0:16:59.25,Default,preview 02,0,0,0,,Quem é você?
+Dialogue: 0,0:16:55.36,0:16:57.65,Default,CR-02-[211],0,0,0,,Que arma é essa?
+Dialogue: 0,0:16:57.65,0:16:59.25,Default,CR-02-[212],0,0,0,,Quem é você?
 Dialogue: 0,0:17:03.75,0:17:05.07,Default,,0,0,0,,Droga!
 Dialogue: 0,0:17:19.88,0:17:21.27,Default,,0,0,0,,Não! É o meu fim!
-Dialogue: 0,0:17:21.27,0:17:22.49,Default,replay 01,0,0,0,,Não desista!
+Dialogue: 0,0:17:21.27,0:17:22.49,Default,CR-01-[196],0,0,0,,Não desista!
 Dialogue: 0,0:17:38.05,0:17:40.94,Default,,0,0,0,,Não pode ser! Era você?
 Dialogue: 0,0:17:50.30,0:17:51.76,Default,,0,0,0,,O que está fazendo?!
 Dialogue: 0,0:17:52.97,0:17:53.91,Default,,0,0,0,,Maldição!
@@ -191,7 +192,7 @@ Dialogue: 0,0:19:12.59,0:19:13.88,Default,,0,0,0,,Por favor, pare!
 Dialogue: 0,0:19:15.65,0:19:19.36,Default,,0,0,0,,Largue sua arma.\N Iremos escoltá-lo até a base.
 Dialogue: 0,0:19:19.36,0:19:20.37,Default,,0,0,0,,Eu me recuso.
 Dialogue: 0,0:19:23.92,0:19:24.91,Default - Italics,,0,0,0,,Sem balas.
-Dialogue: 0,0:19:27.64,0:19:29.96,Default,balas,0,0,0,,Lembre-se sempre de quantas balas restam.
+Dialogue: 0,0:19:27.64,0:19:29.96,Default,CR-03-[96],0,0,0,,Lembre-se sempre de quantas balas restam.
 Dialogue: 0,0:19:35.22,0:19:36.66,Default,,0,0,0,,Por favor, pare.
 Dialogue: 0,0:19:46.67,0:19:47.84,Default,,0,0,0,,Aonde ele foi?
 Dialogue: 0,0:20:02.52,0:20:04.67,Default,,0,0,0,,Apresento-lhes o Chrome Chester Gamma.

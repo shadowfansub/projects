@@ -18,15 +18,15 @@ Style: Default - Top Italics,Source Sans Pro,45,&H00FFFFFF,&H00FFFFFF,&H00120703
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Introdução} = Intro
-Dialogue: 0,0:00:18.02,0:00:20.65,Default,replay 03,0,0,0,,Vocês foram atraídos para um matadouro.
-Dialogue: 0,0:00:21.29,0:00:25.44,Default,replay 03,0,0,0,,Elas absorvem dados lutando com seres mais fortes
-Dialogue: 0,0:00:26.00,0:00:27.98,Default,replay 03,0,0,0,,e usam isso para evoluir.
-Dialogue: 0,0:00:28.69,0:00:30.58,Default,replay 03,0,0,0,,Como um vírus mortal.
-Dialogue: 0,0:00:32.91,0:00:34.38,Default,replay 03,0,0,0,,Desculpe.
-Dialogue: 0,0:00:34.38,0:00:38.92,Default,replay 03,0,0,0,,Só queria ouvir sua voz.
-Dialogue: 0,0:00:38.92,0:00:39.87,Default - Italics,replay 03,0,0,0,,O que houve?
-Dialogue: 0,0:00:40.44,0:00:41.76,Default - Italics,replay 03,0,0,0,,Aconteceu algo no trabalho?
-Dialogue: 0,0:00:42.64,0:00:43.17,Default - Italics,,0,0,0,,Não, nada.
+Dialogue: 0,0:00:18.02,0:00:20.65,Default,CR-03-[163],0,0,0,,Vocês foram atraídos para um matadouro.
+Dialogue: 0,0:00:21.29,0:00:25.44,Default,CR-03-[164],0,0,0,,Elas absorvem dados lutando com seres mais fortes
+Dialogue: 0,0:00:26.00,0:00:27.98,Default,CR-03-[165],0,0,0,,e usam isso para evoluir.
+Dialogue: 0,0:00:28.69,0:00:30.58,Default,CR-03-[166],0,0,0,,Como um vírus mortal.
+Dialogue: 0,0:00:32.91,0:00:34.38,Default,CR-03-[189],0,0,0,,Desculpe.
+Dialogue: 0,0:00:34.38,0:00:38.92,Default,CR-03-[190],0,0,0,,Só queria ouvir sua voz.
+Dialogue: 0,0:00:38.92,0:00:39.87,Default - Italics,CR-03-[191],0,0,0,,O que houve?
+Dialogue: 0,0:00:40.44,0:00:41.76,Default - Italics,CR-03-[192],0,0,0,,Aconteceu algo no trabalho?
+Dialogue: 0,0:00:42.64,0:00:43.17,Default - Italics,CR-03-[193],0,0,0,,Não, nada.
 Dialogue: 0,0:00:43.17,0:00:46.95,Default - Italics,,0,0,0,,Naquele momento, estava completamente confuso.
 Dialogue: 0,0:00:47.84,0:00:50.43,Default - Italics,,0,0,0,,Achei que, voltando para meu lugar seguro,
 Dialogue: 0,0:00:50.43,0:00:55.07,Default - Italics,,0,0,0,,tudo ficaria bem.
@@ -66,13 +66,13 @@ Dialogue: 0,0:04:21.54,0:04:24.60,Default,,0,0,0,,Dizem que o Yu é vidente.
 Dialogue: 0,0:04:24.60,0:04:25.83,Default,,0,0,0,,O quê?
 Dialogue: 0,0:04:25.83,0:04:29.32,Default,,0,0,0,,Ele consegue sentir onde as Bestas irão aparecer.
 Dialogue: 0,0:04:30.71,0:04:34.41,Default,,0,0,0,,O poder de sentir as Bestas?
-Dialogue: 0,0:04:36.33,0:04:36.72,Default - Italics,flashback 03,0,0,0,,Fujam!
-Dialogue: 0,0:04:37.31,0:04:37.63,Default - Italics,flashback 03,0,0,0,,Hã?
-Dialogue: 0,0:04:38.09,0:04:40.13,Default - Italics,flashback 03,0,0,0,,Depressa!\N Seremos cercados!
+Dialogue: 0,0:04:36.33,0:04:36.72,Default - Italics,CR-03-[147],0,0,0,,Fujam!
+Dialogue: 0,0:04:37.31,0:04:37.63,Default - Italics,CR-03-[148],0,0,0,,Hã?
+Dialogue: 0,0:04:38.09,0:04:40.13,Default - Italics,CR-03-[149],0,0,0,,Depressa!\N Seremos cercados!
 Dialogue: 0,0:04:56.35,0:04:58.75,Default,,0,0,0,,O fluido corporal do monstro é altamente inflamável.
 Dialogue: 0,0:04:58.75,0:05:00.38,Default,,0,0,0,,Ou seja, é como pólvora.
-Dialogue: 0,0:05:01.51,0:05:04.70,Default,preview 03,0,0,0,,Faremos um ataque na entrada e na saída do túnel,
-Dialogue: 0,0:05:04.70,0:05:07.86,Default,preview 03,0,0,0,,usando o Chester Beta e Gamma.
+Dialogue: 0,0:05:01.51,0:05:04.70,Default,CR-03-[203],0,0,0,,Faremos um ataque na entrada e na saída do túnel,
+Dialogue: 0,0:05:04.70,0:05:07.86,Default,CR-03-[204],0,0,0,,usando o Chester Beta e Gamma.
 Dialogue: 0,0:05:09.30,0:05:10.61,Default,,0,0,0,,Quem irá nesta missão?
 Dialogue: 0,0:05:11.27,0:05:14.18,Default,,0,0,0,,Pilotando o Beta, Capitão Wakura e Oficial Ishibori.
 Dialogue: 0,0:05:14.18,0:05:17.28,Default,,0,0,0,,A Vice-Capitã Saijyo pilotará o novo Gamma.
@@ -91,9 +91,9 @@ Dialogue: 0,0:05:44.08,0:05:46.44,Default,,0,0,0,,Desta vez, garantam que o alvo
 Dialogue: 0,0:05:46.44,0:05:49.40,Default,,0,0,0,,Não sabemos se o gigante aparecerá novamente.
 Dialogue: 0,0:05:57.11,0:06:00.07,Default - Italics,,0,0,0,,Chester Gamma, prepare-se para decolar.
 Dialogue: 0,0:06:00.07,0:06:01.75,Default - Italics,,0,0,0,,Decolagem em 10 minutos.
-Dialogue: 0,0:06:17.16,0:06:21.89,Default - Italics,flashback,0,0,0,,Mãe! Mãe!\N Onde você está?
-Dialogue: 0,0:06:21.89,0:06:25.29,Default - Italics,flashback,0,0,0,,Mãe! Mãe!
-Dialogue: 0,0:06:30.98,0:06:32.91,Default - Italics,flashback,0,0,0,,Cadê a minha mãe?
+Dialogue: 0,0:06:17.16,0:06:21.89,Default - Italics,,0,0,0,,Mãe! Mãe!\N Onde você está?!
+Dialogue: 0,0:06:21.89,0:06:25.29,Default - Italics,,0,0,0,,Mãe! Mãe!
+Dialogue: 0,0:06:30.98,0:06:32.91,Default - Italics,,0,0,0,,Cadê a minha mãe?
 Dialogue: 0,0:06:49.85,0:06:50.96,Default,,0,0,0,,Vice-Capitã.
 Dialogue: 0,0:06:54.53,0:06:55.47,Default,,0,0,0,,O que foi?
 Dialogue: 0,0:06:57.72,0:07:01.61,Default,,0,0,0,,Por que não delatou aquele homem?
@@ -108,11 +108,11 @@ Dialogue: 0,0:07:35.83,0:07:41.28,Default,,0,0,0,,nossa situação mudou um pouc
 Dialogue: 0,0:07:41.88,0:07:45.98,Default,,0,0,0,,Aquele gigante deverá ser mantido em sigilo?
 Dialogue: 0,0:07:48.23,0:07:49.83,Default,,0,0,0,,Sinceramente,
 Dialogue: 0,0:07:49.83,0:07:52.25,Default,,0,0,0,,não sabemos se ele é aliado ou inimigo.
-Dialogue: 0,0:07:53.87,0:08:00.73,Default,,0,0,0,,O envolvimento dele afetará suas obrigações.
+Dialogue: 0,0:07:53.87,0:08:00.73,Default,,0,0,0,,O envolvimento dele afetará as suas obrigações.
 Dialogue: 0,0:08:01.34,0:08:03.04,Default,,0,0,0,,Não se preocupe.
 Dialogue: 0,0:08:03.04,0:08:05.37,Default,,0,0,0,,Não falhamos antes, nem falharemos agora.
-Dialogue: 0,0:08:06.11,0:08:08.11,Default,,0,0,0,,Nós cumpriremos com o nosso trabalho.
-Dialogue: 0,0:08:24.36,0:08:25.22,Default,,0,0,0,,Chegou a hora!
+Dialogue: 0,0:08:06.11,0:08:08.11,Default,,0,0,0,,Nós cumpriremos com o nosso dever.
+Dialogue: 0,0:08:24.36,0:08:25.22,Default,,0,0,0,,Está na hora!
 Dialogue: 0,0:08:36.31,0:08:36.97,Default,,0,0,0,,Vamos!
 Dialogue: 0,0:08:42.78,0:08:47.29,Default,,0,0,0,,Será que aquele gigante aparecerá de novo?
 Dialogue: 0,0:08:48.91,0:08:52.81,Default - Italics,,0,0,0,,O Portão 1 abrirá em 30 segundos.
@@ -126,7 +126,7 @@ Dialogue: 0,0:09:57.74,0:09:58.84,Default,,0,0,0,,Aqui é o Komon.
 Dialogue: 0,0:09:58.84,0:10:01.75,Default,,0,0,0,,Estou em posição.\N Nenhum problema detectado.
 Dialogue: 0,0:10:05.65,0:10:08.70,Default,,0,0,0,,A localização do alvo foi confirmada.
 Dialogue: 0,0:10:08.70,0:10:09.39,Default - Italics,,0,0,0,,Entendido.
-Dialogue: 0,0:10:10.25,0:10:13.16,Default,,0,0,0,,Nível de Ataque A-3-Max.\N Iniciem a operação.
+Dialogue: 0,0:10:10.25,0:10:13.16,Default,,0,0,0,,Nível de Ataque A-3 Máximo.\N Iniciem a operação.
 Dialogue: 0,0:10:13.78,0:10:15.47,Default,,0,0,0,,Chester Beta, fogo!
 Dialogue: 0,0:10:18.33,0:10:19.47,Default,,0,0,0,,Chester Gamma, fogo!
 Dialogue: 0,0:10:32.42,0:10:34.25,Default,,0,0,0,,Que barulho foi esse?
@@ -143,8 +143,8 @@ Comment: 0,0:11:31.07,0:11:31.11,Default,chptr,0,0,0,,{Parte B} = Part B
 Dialogue: 0,0:11:44.99,0:11:46.39,Default,,0,0,0,,Seu monstro maldito!
 Dialogue: 0,0:11:50.99,0:11:51.87,Default,,0,0,0,,Ela voou!
 Dialogue: 0,0:11:57.47,0:11:59.37,Default,,0,0,0,,Com este jato, podemos alcançá-la!
-Dialogue: 0,0:12:03.29,0:12:05.11,Default,preview 03,0,0,0,,Ela não para de se mexer! Que saco!
-Dialogue: 0,0:12:14.23,0:12:15.41,Default,preview 03,0,0,0,,Não vou deixá-la escapar!
+Dialogue: 0,0:12:03.29,0:12:05.11,Default,CR-03-[205],0,0,0,,Ela não para de se mexer! Que saco!
+Dialogue: 0,0:12:14.23,0:12:15.41,Default,CR-03-[206],0,0,0,,Não vou deixá-la escapar!
 Dialogue: 0,0:12:26.24,0:12:27.20,Default,,0,0,0,,Boa!
 Dialogue: 0,0:12:31.40,0:12:33.06,Default,,0,0,0,,Shiori, dispare mais uma vez!
 Dialogue: 0,0:12:41.45,0:12:42.98,Default,,0,0,0,,O que diabos é isso?!
@@ -168,8 +168,8 @@ Dialogue: 0,0:15:22.25,0:15:23.37,Default,,0,0,0,,Ele veio!
 Dialogue: 0,0:16:40.37,0:16:42.37,Default,,0,0,0,,O gigante e a Besta...
 Dialogue: 0,0:16:42.37,0:16:43.44,Default,,0,0,0,,Sumiram!
 Dialogue: 0,0:16:45.40,0:16:47.46,Default,,0,0,0,,Igual àquela vez!
-Dialogue: 0,0:17:09.06,0:17:10.19,Default,preview 03,0,0,0,,Que lugar é este?
-Dialogue: 0,0:17:11.49,0:17:12.98,Default,preview 03,0,0,0,,Aonde eu vim parar?
+Dialogue: 0,0:17:09.06,0:17:10.19,Default,CR-03-[207],0,0,0,,Que lugar é este?
+Dialogue: 0,0:17:11.49,0:17:12.98,Default,CR-03-[208],0,0,0,,Aonde eu vim parar?
 Dialogue: 0,0:20:19.39,0:20:21.28,Default,,0,0,0,,Incrível!
 Dialogue: 0,0:20:53.49,0:20:56.41,Default - Italics,,0,0,0,,Ele salvou minha vida mais uma vez.
 Dialogue: 0,0:20:58.27,0:21:03.37,Default - Italics,,0,0,0,,Não só isso, o Ultraman salvou dezenas de vidas.
