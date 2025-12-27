@@ -3,7 +3,7 @@ import re
 import sys
 import argparse
 from pathlib import Path
-from difflib import ndiff
+from difflib import ndiff, SequenceMatcher
 
 
 class Colors:
@@ -17,6 +17,13 @@ class Colors:
     RESET = "\033[0m"
     BOLD = "\033[1m"
     DIM = "\033[2m"
+
+
+class MatchStatus:
+    EXACT = "EXACT MATCH"
+    SIMILAR = "SIMILAR"
+    DIFFERENT = "DIFFERENT"
+    NOT_FOUND = "NOT FOUND"
 
 
 def is_redirected():
@@ -44,6 +51,26 @@ def normalize_text(text):
     text = re.sub(r"\\N", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
+
+
+def calculate_similarity(text1, text2):
+    normalized1 = normalize_text(text1)
+    normalized2 = normalize_text(text2)
+    return SequenceMatcher(None, normalized1, normalized2).ratio() * 100
+
+
+def get_match_status(text1, text2, fuzzy_threshold):
+    if not text1 or not text2:
+        return MatchStatus.NOT_FOUND
+
+    if normalize_text(text1) == normalize_text(text2):
+        return MatchStatus.EXACT
+
+    similarity = calculate_similarity(text1, text2)
+    if similarity >= fuzzy_threshold:
+        return MatchStatus.SIMILAR
+    else:
+        return MatchStatus.DIFFERENT
 
 
 def find_cross_reference_pattern(line):
@@ -141,13 +168,7 @@ def generate_colored_diff(text1, text2, use_colors=True):
     return "\n".join(result) if result else None
 
 
-def has_difference(result):
-    if not result["target_file"] or not result["target_text"]:
-        return False
-    return normalize_text(result["text"]) != normalize_text(result["target_text"])
-
-
-def process_files(base_path, folder_range):
+def process_files(base_path, folder_range, fuzzy_threshold):
     base_dir = Path(base_path)
     if not base_dir.exists():
         print(f"Error: Path '{base_path}' does not exist")
@@ -183,6 +204,13 @@ def process_files(base_path, folder_range):
                     target_folder, target_line_numbers
                 )
 
+                similarity = None
+                status = MatchStatus.NOT_FOUND
+
+                if target_file and target_text:
+                    similarity = calculate_similarity(text, target_text)
+                    status = get_match_status(text, target_text, fuzzy_threshold)
+
                 results.append(
                     {
                         "folder": folder_name,
@@ -194,6 +222,8 @@ def process_files(base_path, folder_range):
                         "text": text,
                         "target_file": target_file,
                         "target_text": target_text,
+                        "similarity": similarity,
+                        "status": status,
                     }
                 )
 
@@ -205,14 +235,29 @@ def filter_results(results, filter_type):
         return [
             r
             for r in results
-            if r["target_file"]
-            and normalize_text(r["text"]) == normalize_text(r["target_text"])
+            if r["status"] in [MatchStatus.EXACT, MatchStatus.SIMILAR]
         ]
     elif filter_type == "not-found":
-        return [r for r in results if not r["target_file"]]
+        return [r for r in results if r["status"] == MatchStatus.NOT_FOUND]
     elif filter_type == "different":
-        return [r for r in results if has_difference(r)]
+        return [r for r in results if r["status"] == MatchStatus.DIFFERENT]
+    elif filter_type == "similar":
+        return [r for r in results if r["status"] == MatchStatus.SIMILAR]
+    elif filter_type == "exact":
+        return [r for r in results if r["status"] == MatchStatus.EXACT]
     return results
+
+
+def get_status_color(status):
+    if status == MatchStatus.EXACT:
+        return Colors.GREEN
+    elif status == MatchStatus.SIMILAR:
+        return Colors.CYAN
+    elif status == MatchStatus.DIFFERENT:
+        return Colors.YELLOW
+    elif status == MatchStatus.NOT_FOUND:
+        return Colors.RED
+    return Colors.WHITE
 
 
 def print_header_terminal():
@@ -234,6 +279,8 @@ def print_header_file():
 
 
 def print_result_terminal(idx, result, total):
+    status_color = get_status_color(result["status"])
+
     print(
         f"{Colors.BOLD}{Colors.WHITE}┌─ Entry {idx}/{total} {('─' * (88 - len(str(idx)) - len(str(total))))}┐{Colors.RESET}"
     )
@@ -264,7 +311,7 @@ def print_result_terminal(idx, result, total):
     )
     print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
 
-    if result["target_file"] and result["target_text"]:
+    if result["status"] != MatchStatus.NOT_FOUND:
         print(
             f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.GREEN}Found:{Colors.RESET}"
         )
@@ -277,6 +324,10 @@ def print_result_terminal(idx, result, total):
         print(
             f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Lines:  {Colors.CYAN}{result['target_line_numbers']}{Colors.RESET}"
         )
+        if result["similarity"] is not None:
+            print(
+                f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Similarity: {status_color}{result['similarity']:.2f}%{Colors.RESET}"
+            )
         print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
         print(
             f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.BLUE}Target Text:{Colors.RESET}"
@@ -286,23 +337,22 @@ def print_result_terminal(idx, result, total):
         )
         print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
 
-        diff = generate_colored_diff(result["text"], result["target_text"], True)
-        if diff:
-            print(
-                f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.YELLOW}Differences:{Colors.RESET}"
-            )
-            for line in diff.split("\n"):
-                print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {line}")
-        else:
-            print(
-                f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.GREEN}{Colors.BOLD}  EXACT MATCH{Colors.RESET}"
-            )
+        print(
+            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {status_color}Status: {result['status']}{Colors.RESET}"
+        )
+
+        if result["status"] in [MatchStatus.SIMILAR, MatchStatus.DIFFERENT]:
+            diff = generate_colored_diff(result["text"], result["target_text"], True)
+            if diff:
+                print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
+                print(
+                    f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.YELLOW}Differences:{Colors.RESET}"
+                )
+                for line in diff.split("\n"):
+                    print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {line}")
     else:
         print(
-            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.RED}Status:{Colors.RESET}"
-        )
-        print(
-            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     {Colors.RED}{Colors.BOLD}NOT FOUND in folder {result['target_folder']}{Colors.RESET}"
+            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {status_color}Status: {result['status']} in folder {result['target_folder']}{Colors.RESET}"
         )
 
     print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
@@ -325,48 +375,49 @@ def print_result_file(idx, result, total):
     print(f"     \"{result['text']}\"")
     print()
 
-    if result["target_file"] and result["target_text"]:
+    if result["status"] != MatchStatus.NOT_FOUND:
         print(f"  Found:")
         print(f"     Folder: {result['target_folder']}")
         print(f"     File:   {result['target_file']}")
         print(f"     Lines:  {result['target_line_numbers']}")
+        if result["similarity"] is not None:
+            print(f"     Similarity: {result['similarity']:.2f}%")
         print()
         print(f"  Target Text:")
         print(f"     \"{result['target_text']}\"")
         print()
 
-        diff = generate_colored_diff(result["text"], result["target_text"], False)
-        if diff:
-            print(f"  Differences:")
-            for line in diff.split("\n"):
-                print(f"  {line}")
-        else:
-            print(f"  Status: EXACT MATCH")
+        print(f"  Status: {result['status']}")
+
+        if result["status"] in [MatchStatus.SIMILAR, MatchStatus.DIFFERENT]:
+            diff = generate_colored_diff(result["text"], result["target_text"], False)
+            if diff:
+                print()
+                print(f"  Differences:")
+                for line in diff.split("\n"):
+                    print(f"  {line}")
     else:
-        print(f"  Status:")
-        print(f"     NOT FOUND in folder {result['target_folder']}")
+        print(f"  Status: {result['status']} in folder {result['target_folder']}")
 
     print()
     print("-" * 100)
     print()
 
 
-def print_summary_terminal(results, all_results):
+def print_summary_terminal(results, all_results, fuzzy_threshold):
     total = len(all_results)
     displayed = len(results)
-    found = sum(1 for r in all_results if r["target_file"])
-    not_found = total - found
-    exact_matches = sum(
-        1
-        for r in all_results
-        if r["target_file"]
-        and normalize_text(r["text"]) == normalize_text(r["target_text"])
-    )
-    different = sum(1 for r in all_results if has_difference(r))
+    exact = sum(1 for r in all_results if r["status"] == MatchStatus.EXACT)
+    similar = sum(1 for r in all_results if r["status"] == MatchStatus.SIMILAR)
+    different = sum(1 for r in all_results if r["status"] == MatchStatus.DIFFERENT)
+    not_found = sum(1 for r in all_results if r["status"] == MatchStatus.NOT_FOUND)
 
     print(f"{Colors.BOLD}{Colors.CYAN}╔{'═' * 98}╗{Colors.RESET}")
     print(f"{Colors.BOLD}{Colors.CYAN}║{' ' * 42}SUMMARY{' ' * 50}║{Colors.RESET}")
     print(f"{Colors.BOLD}{Colors.CYAN}╠{'═' * 98}╣{Colors.RESET}")
+    print(
+        f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  Fuzzy Threshold:   {Colors.WHITE}{fuzzy_threshold:>4.0f}%{Colors.RESET}{' ' * 74}║"
+    )
     print(
         f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  Total Entries:     {Colors.WHITE}{total:>4}{Colors.RESET}{' ' * 76}║"
     )
@@ -374,7 +425,10 @@ def print_summary_terminal(results, all_results):
         f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  Displayed:         {Colors.WHITE}{displayed:>4}{Colors.RESET}{' ' * 76}║"
     )
     print(
-        f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  {Colors.GREEN}Exact Matches:{Colors.RESET}     {Colors.GREEN}{exact_matches:>4}{Colors.RESET}{' ' * 76}║"
+        f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  {Colors.GREEN}Exact Match:{Colors.RESET}       {Colors.GREEN}{exact:>4}{Colors.RESET}{' ' * 76}║"
+    )
+    print(
+        f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  {Colors.CYAN}Similar:{Colors.RESET}           {Colors.CYAN}{similar:>4}{Colors.RESET}{' ' * 76}║"
     )
     print(
         f"{Colors.BOLD}{Colors.CYAN}║{Colors.RESET}  {Colors.YELLOW}Different:{Colors.RESET}         {Colors.YELLOW}{different:>4}{Colors.RESET}{' ' * 76}║"
@@ -386,32 +440,29 @@ def print_summary_terminal(results, all_results):
     print()
 
 
-def print_summary_file(results, all_results):
+def print_summary_file(results, all_results, fuzzy_threshold):
     total = len(all_results)
     displayed = len(results)
-    found = sum(1 for r in all_results if r["target_file"])
-    not_found = total - found
-    exact_matches = sum(
-        1
-        for r in all_results
-        if r["target_file"]
-        and normalize_text(r["text"]) == normalize_text(r["target_text"])
-    )
-    different = sum(1 for r in all_results if has_difference(r))
+    exact = sum(1 for r in all_results if r["status"] == MatchStatus.EXACT)
+    similar = sum(1 for r in all_results if r["status"] == MatchStatus.SIMILAR)
+    different = sum(1 for r in all_results if r["status"] == MatchStatus.DIFFERENT)
+    not_found = sum(1 for r in all_results if r["status"] == MatchStatus.NOT_FOUND)
 
     print("=" * 100)
     print(" " * 42 + "SUMMARY")
     print("=" * 100)
+    print(f"  Fuzzy Threshold:   {fuzzy_threshold:.0f}%")
     print(f"  Total Entries:     {total:>4}")
     print(f"  Displayed:         {displayed:>4}")
-    print(f"  Exact Matches:     {exact_matches:>4}")
+    print(f"  Exact Match:       {exact:>4}")
+    print(f"  Similar:           {similar:>4}")
     print(f"  Different:         {different:>4}")
     print(f"  Not Found:         {not_found:>4}")
     print("=" * 100)
     print()
 
 
-def generate_report(results, all_results):
+def generate_report(results, all_results, fuzzy_threshold):
     redirected = is_redirected()
 
     if redirected:
@@ -427,9 +478,9 @@ def generate_report(results, all_results):
             print_result_terminal(idx, result, total)
 
     if redirected:
-        print_summary_file(results, all_results)
+        print_summary_file(results, all_results, fuzzy_threshold)
     else:
-        print_summary_terminal(results, all_results)
+        print_summary_terminal(results, all_results, fuzzy_threshold)
 
 
 def main():
@@ -438,18 +489,33 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python report.py /path/to/episodes 1
-  python report.py /path/to/episodes 1-5
-  python report.py /path/to/episodes 1-10 --matched
-  python report.py /path/to/episodes 1-10 --not-found
-  python report.py /path/to/episodes 1-10 --different
-  python report.py /path/to/episodes 1-10 --matched > matches.txt
+  python report.py episodes/ 1
+  python report.py episodes/ 1-5
+  python report.py episodes/ 1-10 --threshold 95
+  python report.py episodes/ 1-10 --filter matched
+  python report.py episodes/ 1-10 --filter exact
+  python report.py episodes/ 1-10 --filter similar --threshold 90
+  python report.py episodes/ 1-10 --filter different
+  python report.py episodes/ 1-10 --filter not-found
+  python report.py episodes/ 1-10 --filter matched > matches.txt
+  python report.py episodes/ 1-10 --fail-on-issues
   
 Cross Reference Pattern:
   CR-XXXX-[YYY,...]
   Where XXXX is the target folder number (e.g., 01, 02)
   And [YYY,...] are line numbers after Format in [Events] section
   Line counting includes both Dialogue and Comment lines
+  
+Status Types:
+  exact      - EXACT MATCH: Texts are identical
+  similar    - SIMILAR: Similarity >= threshold (default 95%)
+  different  - DIFFERENT: Similarity < threshold
+  not-found  - NOT FOUND: Target lines not found in target folder
+  matched    - Shows both exact and similar (all successful matches)
+  
+Exit Codes:
+  0 - Success (no issues or --fail-on-issues not set)
+  1 - Failure (found DIFFERENT or NOT FOUND entries when --fail-on-issues is set)
         """,
     )
 
@@ -459,36 +525,66 @@ Cross Reference Pattern:
 
     parser.add_argument("range", help='Folder range to analyze (e.g., "1" or "1-5")')
 
-    filter_group = parser.add_mutually_exclusive_group()
-    filter_group.add_argument(
-        "--matched", action="store_true", help="Show only exact matches"
+    parser.add_argument(
+        "-t",
+        "--threshold",
+        type=float,
+        default=95.0,
+        metavar="PERCENT",
+        help="Similarity threshold for fuzzy matching (default: 95.0)",
     )
-    filter_group.add_argument(
-        "--not-found",
-        action="store_true",
-        help="Show only entries where target text was not found",
+
+    parser.add_argument(
+        "-f",
+        "--filter",
+        choices=["all", "matched", "exact", "similar", "different", "not-found"],
+        default="all",
+        help="Filter results by status (default: all)",
     )
-    filter_group.add_argument(
-        "--different",
+
+    parser.add_argument(
+        "--fail-on-issues",
         action="store_true",
-        help="Show only entries where source and target text differ",
+        help="Exit with code 1 if DIFFERENT or NOT FOUND entries exist",
     )
 
     args = parser.parse_args()
 
+    if not 0 <= args.threshold <= 100:
+        print("Error: Threshold must be between 0 and 100")
+        sys.exit(1)
+
     folder_range = parse_range(args.range)
-    all_results = process_files(args.path, folder_range)
+    all_results = process_files(args.path, folder_range, args.threshold)
 
-    if args.matched:
-        filtered_results = filter_results(all_results, "matched")
-    elif args.not_found:
-        filtered_results = filter_results(all_results, "not-found")
-    elif args.different:
-        filtered_results = filter_results(all_results, "different")
-    else:
+    if args.filter == "all":
         filtered_results = all_results
+    else:
+        filtered_results = filter_results(all_results, args.filter)
 
-    generate_report(filtered_results, all_results)
+    generate_report(filtered_results, all_results, args.threshold)
+
+    if args.fail_on_issues:
+        different_count = sum(
+            1 for r in all_results if r["status"] == MatchStatus.DIFFERENT
+        )
+        not_found_count = sum(
+            1 for r in all_results if r["status"] == MatchStatus.NOT_FOUND
+        )
+
+        if different_count > 0 or not_found_count > 0:
+            if not is_redirected():
+                print(f"{Colors.RED}{Colors.BOLD}✗ Validation failed:{Colors.RESET}")
+                print(f"  {Colors.YELLOW}Different:{Colors.RESET} {different_count}")
+                print(f"  {Colors.RED}Not Found:{Colors.RESET} {not_found_count}")
+                print()
+            sys.exit(1)
+        else:
+            if not is_redirected():
+                print(
+                    f"{Colors.GREEN}{Colors.BOLD}✓ Validation passed: All entries matched successfully{Colors.RESET}"
+                )
+                print()
 
 
 if __name__ == "__main__":
