@@ -23,7 +23,15 @@ def is_redirected():
     return not sys.stdout.isatty()
 
 
-def extract_text_from_dialogue(line):
+def parse_range(range_str):
+    if "-" in range_str:
+        start, end = range_str.split("-")
+        return list(range(int(start), int(end) + 1))
+    else:
+        return [int(range_str)]
+
+
+def extract_text_from_line(line):
     parts = line.split(",,")
     if len(parts) >= 2:
         return parts[-1].strip()
@@ -38,10 +46,12 @@ def normalize_text(text):
     return text.strip()
 
 
-def find_pattern_in_line(line):
-    match = re.search(r"(replay|preview)\s+(\d{1,3})", line, re.IGNORECASE)
+def find_cross_reference_pattern(line):
+    match = re.search(r"CR-(\d+)-\[([0-9,\s]+)\]", line)
     if match:
-        return match.group(1).lower(), match.group(2)
+        folder = match.group(1).zfill(2)
+        line_numbers = [int(x.strip()) for x in match.group(2).split(",")]
+        return folder, line_numbers
     return None, None
 
 
@@ -56,52 +66,55 @@ def read_ass_file(file_path):
     return []
 
 
-def find_text_in_folder(target_folder, search_text):
-    normalized_search = normalize_text(search_text)
+def get_event_lines(file_path):
+    lines = read_ass_file(file_path)
+    event_lines = []
+    in_events = False
+    found_format = False
 
+    for line in lines:
+        if "[Events]" in line:
+            in_events = True
+            continue
+
+        if in_events:
+            if line.startswith("Format:"):
+                found_format = True
+                continue
+
+            if found_format and (
+                line.startswith("Dialogue:") or line.startswith("Comment:")
+            ):
+                event_lines.append(line)
+
+    return event_lines
+
+
+def get_text_from_lines(file_path, line_numbers):
+    event_lines = get_event_lines(file_path)
+    texts = []
+
+    for line_num in line_numbers:
+        if 1 <= line_num <= len(event_lines):
+            text = extract_text_from_line(event_lines[line_num - 1])
+            if text:
+                texts.append(text)
+
+    return " ".join(texts) if texts else None
+
+
+def find_text_in_folder(target_folder, line_numbers):
     if not target_folder.exists() or not target_folder.is_dir():
         return None, None, None
 
     target_ass_files = list(target_folder.glob("*.ass"))
 
-    best_match = None
-    best_match_file = None
-    best_match_line = None
-    best_match_score = 0
-
     for target_ass in target_ass_files:
-        target_lines = read_ass_file(target_ass)
+        text = get_text_from_lines(target_ass, line_numbers)
+        if text:
+            return target_ass.name, text, line_numbers
 
-        for line_num, target_line in enumerate(target_lines, 1):
-            if "Dialogue:" not in target_line:
-                continue
-
-            extracted_text = extract_text_from_dialogue(target_line)
-            if not extracted_text:
-                continue
-
-            normalized_target = normalize_text(extracted_text)
-
-            if normalized_target == normalized_search:
-                return target_ass.name, extracted_text, line_num
-
-            if normalized_search in normalized_target:
-                score = len(normalized_search) / len(normalized_target)
-                if score > best_match_score:
-                    best_match_score = score
-                    best_match = extracted_text
-                    best_match_file = target_ass.name
-                    best_match_line = line_num
-
-            if normalized_target in normalized_search:
-                score = len(normalized_target) / len(normalized_search)
-                if score > best_match_score:
-                    best_match_score = score
-                    best_match = extracted_text
-                    best_match_file = target_ass.name
-                    best_match_line = line_num
-
-    return best_match_file, best_match, best_match_line
+    return None, None, None
 
 
 def generate_colored_diff(text1, text2, use_colors=True):
@@ -134,50 +147,53 @@ def has_difference(result):
     return normalize_text(result["text"]) != normalize_text(result["target_text"])
 
 
-def process_files(base_path):
+def process_files(base_path, folder_range):
     base_dir = Path(base_path)
     if not base_dir.exists():
         print(f"Error: Path '{base_path}' does not exist")
         sys.exit(1)
 
-    folders = sorted([f for f in base_dir.iterdir() if f.is_dir() and f.name.isdigit()])
-
+    folders_to_process = [str(f).zfill(2) for f in folder_range]
     results = []
 
-    for folder in folders:
+    for folder_name in folders_to_process:
+        folder = base_dir / folder_name
+        if not folder.exists():
+            continue
+
         ass_files = list(folder.glob("*.ass"))
 
         for ass_file in ass_files:
-            lines = read_ass_file(ass_file)
+            event_lines = get_event_lines(ass_file)
 
-            for line_num, line in enumerate(lines, 1):
-                if "Dialogue:" not in line:
+            for line_num, line in enumerate(event_lines, 1):
+                target_folder_num, target_line_numbers = find_cross_reference_pattern(
+                    line
+                )
+
+                if not target_folder_num or not target_line_numbers:
                     continue
 
-                pattern_type, number = find_pattern_in_line(line)
-                if not pattern_type or not number:
-                    continue
-
-                text = extract_text_from_dialogue(line)
+                text = extract_text_from_line(line)
                 if not text:
                     continue
 
-                target_folder = base_dir / number.zfill(2)
-                target_file, target_text, target_line_num = find_text_in_folder(
-                    target_folder, text
+                target_folder = base_dir / target_folder_num
+                target_file, target_text, target_lines = find_text_in_folder(
+                    target_folder, target_line_numbers
                 )
 
                 results.append(
                     {
-                        "folder": folder.name,
+                        "folder": folder_name,
                         "file": ass_file.name,
                         "line_num": line_num,
-                        "pattern_type": pattern_type,
-                        "pattern_number": number.zfill(2),
+                        "cross_ref": f"CR-{target_folder_num}-{target_line_numbers}",
+                        "target_folder": target_folder_num,
+                        "target_line_numbers": target_line_numbers,
                         "text": text,
                         "target_file": target_file,
                         "target_text": target_text,
-                        "target_line_num": target_line_num,
                     }
                 )
 
@@ -236,7 +252,7 @@ def print_result_terminal(idx, result, total):
         f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Line:   {Colors.CYAN}{result['line_num']}{Colors.RESET}"
     )
     print(
-        f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Pattern: {Colors.YELLOW}{result['pattern_type']} {result['pattern_number']}{Colors.RESET}"
+        f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Cross Reference: {Colors.YELLOW}{result['cross_ref']}{Colors.RESET}"
     )
     print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
 
@@ -253,13 +269,13 @@ def print_result_terminal(idx, result, total):
             f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.GREEN}Found:{Colors.RESET}"
         )
         print(
-            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Folder: {Colors.CYAN}{result['pattern_number']}{Colors.RESET}"
+            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Folder: {Colors.CYAN}{result['target_folder']}{Colors.RESET}"
         )
         print(
             f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     File:   {Colors.CYAN}{result['target_file']}{Colors.RESET}"
         )
         print(
-            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Line:   {Colors.CYAN}{result['target_line_num']}{Colors.RESET}"
+            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     Lines:  {Colors.CYAN}{result['target_line_numbers']}{Colors.RESET}"
         )
         print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
         print(
@@ -286,7 +302,7 @@ def print_result_terminal(idx, result, total):
             f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}  {Colors.RED}Status:{Colors.RESET}"
         )
         print(
-            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     {Colors.RED}{Colors.BOLD}NOT FOUND in folder {result['pattern_number']}{Colors.RESET}"
+            f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}     {Colors.RED}{Colors.BOLD}NOT FOUND in folder {result['target_folder']}{Colors.RESET}"
         )
 
     print(f"{Colors.BOLD}{Colors.WHITE}│{Colors.RESET}")
@@ -302,7 +318,7 @@ def print_result_file(idx, result, total):
     print(f"     Folder: {result['folder']}")
     print(f"     File:   {result['file']}")
     print(f"     Line:   {result['line_num']}")
-    print(f"     Pattern: {result['pattern_type']} {result['pattern_number']}")
+    print(f"     Cross Reference: {result['cross_ref']}")
     print()
 
     print(f"  Text:")
@@ -311,9 +327,9 @@ def print_result_file(idx, result, total):
 
     if result["target_file"] and result["target_text"]:
         print(f"  Found:")
-        print(f"     Folder: {result['pattern_number']}")
+        print(f"     Folder: {result['target_folder']}")
         print(f"     File:   {result['target_file']}")
-        print(f"     Line:   {result['target_line_num']}")
+        print(f"     Lines:  {result['target_line_numbers']}")
         print()
         print(f"  Target Text:")
         print(f"     \"{result['target_text']}\"")
@@ -328,7 +344,7 @@ def print_result_file(idx, result, total):
             print(f"  Status: EXACT MATCH")
     else:
         print(f"  Status:")
-        print(f"     NOT FOUND in folder {result['pattern_number']}")
+        print(f"     NOT FOUND in folder {result['target_folder']}")
 
     print()
     print("-" * 100)
@@ -418,24 +434,30 @@ def generate_report(results, all_results):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Cross-reference report for .ass files with replay/preview patterns",
+        description="Cross-reference report for .ass files with CR-XXXX-[YYY,...] patterns",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python report.py /path/to/episodes
-  python report.py /path/to/episodes --matched
-  python report.py /path/to/episodes --not-found
-  python report.py /path/to/episodes --different
-  python report.py /path/to/episodes --matched > matches.txt
+  python report.py /path/to/episodes 1
+  python report.py /path/to/episodes 1-5
+  python report.py /path/to/episodes 1-10 --matched
+  python report.py /path/to/episodes 1-10 --not-found
+  python report.py /path/to/episodes 1-10 --different
+  python report.py /path/to/episodes 1-10 --matched > matches.txt
+  
+Cross Reference Pattern:
+  CR-XXXX-[YYY,...]
+  Where XXXX is the target folder number (e.g., 01, 02)
+  And [YYY,...] are line numbers after Format in [Events] section
+  Line counting includes both Dialogue and Comment lines
         """,
     )
 
     parser.add_argument(
-        "path",
-        nargs="?",
-        default=".",
-        help="Path to the folder containing numbered episode folders (default: current directory)",
+        "path", help="Path to the folder containing numbered episode folders"
     )
+
+    parser.add_argument("range", help='Folder range to analyze (e.g., "1" or "1-5")')
 
     filter_group = parser.add_mutually_exclusive_group()
     filter_group.add_argument(
@@ -454,7 +476,8 @@ Examples:
 
     args = parser.parse_args()
 
-    all_results = process_files(args.path)
+    folder_range = parse_range(args.range)
+    all_results = process_files(args.path, folder_range)
 
     if args.matched:
         filtered_results = filter_results(all_results, "matched")
