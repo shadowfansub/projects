@@ -20,7 +20,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Default,chptr,0,0,0,,{Introdução} = Intro
 Dialogue: 0,0:00:02.52,0:00:06.16,Default,,0,0,0,,O paradeiro da Vice-Capitã Saijyo é desconhecido.
 Dialogue: 0,0:00:06.75,0:00:08.94,Default,,0,0,0,,Diferente do caso do Oficial Komon,
-Dialogue: 0,0:00:08.94,0:00:12.06,Default,,0,0,0,,ela escapou da vigilância do MP intencionalmente.
+Dialogue: 0,0:00:08.94,0:00:12.06,Default,,0,0,0,,ela escapou da vigilância da MP intencionalmente.
 Dialogue: 0,0:00:13.46,0:00:16.03,Default,,0,0,0,,Se ela for presa por fugir...
 Dialogue: 0,0:00:16.03,0:00:18.87,Default,,0,0,0,,Podem apagar a memória dela?
 Dialogue: 0,0:00:19.20,0:00:20.27,Default,,0,0,0,,Provavelmente.
