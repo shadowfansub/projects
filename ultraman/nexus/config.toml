@@ -20,7 +20,7 @@ episodes_path = "./episodes"
 extras_path = "./common/songs"
 output_path = "./muxed"
 
-episodes = "1...5"
+episodes = "1...10"
 
 [extras.merge."1-13"]
 "opening_01.ass" = { from = "opsync", to = "sync" }
