@@ -27,10 +27,10 @@ Dialogue: 0,0:00:19.48,0:00:25.71,Default,CR-12-[132],0,0,0,,Vou te derrotar e t
 Dialogue: 0,0:00:26.32,0:00:27.65,Default,CR-12-[135],0,0,0,,Pare com isso!
 Dialogue: 0,0:00:33.88,0:00:34.85,Default,CR-12-[137],0,0,0,,Komon.
 Dialogue: 0,0:00:50.16,0:00:54.35,Default,CR-12-[169],0,0,0,,Riko!
-Dialogue: 0,0:00:57.22,0:01:02.29,Default - Italics,,0,0,0,,Há coisas no mundo que estão além do nosso alcance.
+Dialogue: 0,0:00:57.22,0:01:02.29,Default - Italics,,0,0,0,,Há coisas no mundo que estão além do nosso controle.
 Dialogue: 0,0:01:03.97,0:01:08.89,Default - Italics,,0,0,0,,Não deixo de enfrentar essa dura realidade.
 Dialogue: 0,0:01:10.93,0:01:14.87,Default - Italics,,0,0,0,,Mas, naquela época, ainda não sabia de tudo.
-Dialogue: 0,0:01:15.95,0:01:21.81,Default - Italics,,0,0,0,,Isso foi só o começo desse jogo infernal.
+Dialogue: 0,0:01:15.95,0:01:21.81,Default - Italics,,0,0,0,,Aquilo foi apenas o começo desse jogo infernal.
 Dialogue: 0,0:01:36.48,0:01:40.90,Default,,0,0,0,,O brilho dessa luz sempre me acalma.
 Dialogue: 0,0:01:41.72,0:01:44.54,Default,,0,0,0,,Sinto que posso ouvir as partículas sussurrando,
 Dialogue: 0,0:01:44.54,0:01:46.50,Default,,0,0,0,,e isso me deixa tranquilo.
@@ -41,7 +41,7 @@ Dialogue: 0,0:02:02.84,0:02:03.69,Default,,0,0,0,,Eles?
 Dialogue: 0,0:02:04.81,0:02:08.11,Default,,0,0,0,,Está falando dos visitantes?
 Dialogue: 0,0:02:14.62,0:02:17.39,Default,,0,0,0,,Oi. Sou eu, Kazuki.
 Dialogue: 0,0:02:18.03,0:02:18.96,Default - Italics,,0,0,0,,Kazuki!
-Dialogue: 0,0:02:19.82,0:02:25.15,Default - Italics,,0,0,0,,Desde que foi transferido,\N nunca mais ligou para mim.
+Dialogue: 0,0:02:19.82,0:02:25.15,Default - Italics,,0,0,0,,Desde que foi transferido, nunca mais ligou.
 Dialogue: 0,0:02:25.15,0:02:27.77,Default - Italics,,0,0,0,,Você está bem?\N Tem se alimentado direito?
 Dialogue: 0,0:02:28.61,0:02:29.33,Default,,0,0,0,,Estou.
 Dialogue: 0,0:02:30.14,0:02:34.21,Default - Italics,,0,0,0,,Aquela garota de quem falou antes, a Riko,\Nela tem cozinhado para você?
@@ -57,11 +57,12 @@ Dialogue: 0,0:03:01.81,0:03:05.40,Default,,0,0,0,,Esta é a nova arma para comba
 Dialogue: 0,0:03:06.15,0:03:07.44,Default,,0,0,0,,Isso mesmo.
 Dialogue: 0,0:03:07.44,0:03:10.91,Default,,0,0,0,,É a nova formação Chester, o Mega Cannon Chester.
 Dialogue: 0,0:03:11.93,0:03:14.02,Default,,0,0,0,,Conectando o Mega Cannon do Beta
-Dialogue: 0,0:03:14.02,0:03:17.02,Default,,0,0,0,,com o Gerador Meta Gamma,
-Dialogue: 0,0:03:17.02,0:03:21.55,Default,,0,0,0,,a força do Vanisher aumenta 25% em relação ao Strike Chester.
+Dialogue: 0,0:03:14.02,0:03:17.03,Default,,0,0,0,,com o Gerador Meta do Gamma,
+Dialogue: 0,0:03:17.03,0:03:18.57,Default,,0,0,0,,a força do Vanisher aumenta 25%
+Dialogue: 0,0:03:18.57,0:03:21.55,Default,,0,0,0,,em relação ao Strike Chester.
 Dialogue: 0,0:03:21.88,0:03:24.52,Default,,0,0,0,,Mas, sendo um tanque, a agilidade não seria reduzida?
 Dialogue: 0,0:03:25.12,0:03:27.09,Default,,0,0,0,,Depende de como é usado.
-Dialogue: 0,0:03:27.09,0:03:30.83,Default,,0,0,0,,Com a evolução das Bestas,\N precisamos de arsenais diferentes.
+Dialogue: 0,0:03:27.09,0:03:30.83,Default,,0,0,0,,Diante da evolução das Bestas,\N são necessários novos arsenais.
 Dialogue: 0,0:03:30.83,0:03:32.45,Default,,0,0,0,,Entendi.
 Dialogue: 0,0:03:33.16,0:03:34.77,Default,,0,0,0,,Aliás, onde está o Komon?
 Dialogue: 0,0:03:36.40,0:03:37.86,Default,,0,0,0,,Aconteceu algo com ele?
@@ -72,7 +73,7 @@ Dialogue: 0,0:03:55.36,0:03:56.11,Default,,0,0,0,,Nagi.
 Dialogue: 0,0:03:57.15,0:03:59.64,Default,,0,0,0,,Nem todo mundo tem um coração forte.
 Dialogue: 0,0:04:01.52,0:04:06.13,Default,,0,0,0,,Alguns precisam de tempo para processar o luto.
 Dialogue: 0,0:04:06.13,0:04:09.27,Default,,0,0,0,,Mas o Mizorogi ataca essas pessoas fragilizadas!
-Dialogue: 0,0:04:09.65,0:04:14.04,Default,,0,0,0,,Mesmo com toda nossa investigação,\N não temos certeza de como Mizorogi
+Dialogue: 0,0:04:09.65,0:04:14.04,Default,,0,0,0,,Mesmo com toda nossa investigação,\N não temos certeza de como o Mizorogi
 Dialogue: 0,0:04:14.04,0:04:15.84,Default,,0,0,0,,está envolvido no incidente da Riko.
 Dialogue: 0,0:04:16.11,0:04:18.88,Default,,0,0,0,,É por isso que quero falar com o Oficial Komon!
 Dialogue: 0,0:04:20.64,0:04:21.38,Default,,0,0,0,,Além disso...
@@ -84,12 +85,12 @@ Dialogue: 0,0:06:36.05,0:06:39.67,Default - Italics,CR-02-[132],0,0,0,,É um amu
 Dialogue: 0,0:06:39.67,0:06:40.62,Default,,0,0,0,,Riko.
 Dialogue: 0,0:06:41.95,0:06:43.28,Default,,0,0,0,,Riko!
 Dialogue: 0,0:06:45.02,0:06:47.76,Default,,0,0,0,,Espere por nós, Riko!
-Dialogue: 0,0:06:49.73,0:06:51.31,Default,,0,0,0,,Cheguei primeiro.
-Dialogue: 0,0:06:51.31,0:06:53.73,Default,,0,0,0,,Não precisa ter tanta pressa!
-Dialogue: 0,0:06:54.07,0:06:57.21,Default,,0,0,0,,Mas quero ver todos os animais!\N Não posso perder tempo!
-Dialogue: 0,0:06:58.18,0:07:01.50,Default,,0,0,0,,Vamos tirar uma foto.\N Fiquem aí. A mamãe também.
+Dialogue: 0,0:06:49.73,0:06:51.31,Default,,0,0,0,,Cheguei primeiro!
+Dialogue: 0,0:06:51.31,0:06:53.73,Default,,0,0,0,,Não precisa ter tanta pressa, Riko.
+Dialogue: 0,0:06:54.07,0:06:57.21,Default,,0,0,0,,Se quero ver todos os animais, não posso perder tempo!
+Dialogue: 0,0:06:58.18,0:07:01.50,Default,,0,0,0,,Certo! Vamos tirar uma foto!\N Fiquem aí. A mamãe também!
 Dialogue: 0,0:07:01.50,0:07:02.57,Default,,0,0,0,,Certo! Claro!
-Dialogue: 0,0:07:02.57,0:07:06.74,Default,,0,0,0,,Vou tirar a foto. Digam "X".
+Dialogue: 0,0:07:02.57,0:07:06.74,Default,,0,0,0,,Certo! Vou tirar a foto! Digam "X".
 Dialogue: 0,0:07:09.24,0:07:13.18,Default,,0,0,0,,Com licença, poderia tirar uma foto nossa?
 Dialogue: 0,0:07:15.28,0:07:16.07,Default,,0,0,0,,Claro.
 Dialogue: 0,0:07:17.62,0:07:19.53,Default,,0,0,0,,Certo! X!
@@ -108,7 +109,8 @@ Dialogue: 0,0:07:55.71,0:07:57.06,Default - Italics,CR-01-[90],0,0,0,,Hã?
 Dialogue: 0,0:07:59.36,0:08:01.59,Default,,0,0,0,,Mesmo se eu quisesse, não posso apresentá-lo a eles.
 Dialogue: 0,0:08:04.10,0:08:08.49,Default,,0,0,0,,Por sua causa, eles estão mortos.
 Dialogue: 0,0:08:10.11,0:08:11.11,Default,,0,0,0,,Riko!
-Dialogue: 0,0:08:19.81,0:08:22.60,Default,,0,0,0,,Riko. Riko!
+Dialogue: 0,0:08:19.81,0:08:20.98,Default,,0,0,0,,Riko!
+Dialogue: 0,0:08:21.82,0:08:22.61,Default,,0,0,0,,Riko!
 Dialogue: 0,0:08:43.73,0:08:49.00,Default,CR-12-[173],0,0,0,,Naquele dia, há seis meses, minha família foi morta.
 Dialogue: 0,0:09:02.53,0:09:04.43,Default,,0,0,0,,Foi no mesmo dia que te encontrei aqui.
 Dialogue: 0,0:09:05.25,0:09:08.30,Default,,0,0,0,,Naquela noite, fomos mortos pela Besta.
@@ -125,10 +127,12 @@ Dialogue: 0,0:10:07.34,0:10:10.80,Default,,0,0,0,,O que fez com a Riko?
 Dialogue: 0,0:10:10.80,0:10:15.23,Default,,0,0,0,,Foi divertido vê-los brincando de namorados.
 Dialogue: 0,0:10:16.20,0:10:17.65,Default,,0,0,0,,Desgraçado!
 Dialogue: 0,0:10:34.11,0:10:35.74,Default,,0,0,0,,Maldito.
-Dialogue: 0,0:11:22.38,0:11:26.11,Default,,0,0,0,,Komon! Você veio.
-Dialogue: 0,0:11:26.83,0:11:28.10,Default,,0,0,0,,Estou tão feliz.
+Dialogue: 0,0:11:22.41,0:11:23.75,Default,,0,0,0,,Komon!
+Dialogue: 0,0:11:24.59,0:11:26.16,Default,,0,0,0,,Você veio!
+Dialogue: 0,0:11:26.83,0:11:28.10,Default,,0,0,0,,Estou tão feliz!
 Dialogue: 0,0:11:31.97,0:11:33.07,Default,,0,0,0,,Onde estamos?
-Dialogue: 0,0:11:34.13,0:11:38.28,Default,,0,0,0,,O que foi?\N Você teve um pesadelo?
+Dialogue: 0,0:11:34.10,0:11:36.11,Default,,0,0,0,,Por que estava tão assustado?
+Dialogue: 0,0:11:36.55,0:11:38.28,Default,,0,0,0,,Você teve um pesadelo?
 Dialogue: 0,0:11:39.98,0:11:40.82,Default,,0,0,0,,Pesadelo?
 Dialogue: 0,0:11:41.45,0:11:42.32,Default,,0,0,0,,Isso.
 Dialogue: 0,0:11:56.09,0:11:57.05,Default,,0,0,0,,Riko.
@@ -137,23 +141,27 @@ Dialogue: 0,0:12:01.23,0:12:02.37,Default,,0,0,0,,Você está viva!
 Dialogue: 0,0:12:03.07,0:12:04.87,Default,,0,0,0,,Que alívio!
 Dialogue: 0,0:12:06.75,0:12:10.38,Default,,0,0,0,,Mãe. Pai. Este é o namorado de quem sempre falei.
 Dialogue: 0,0:12:11.37,0:12:12.27,Default,,0,0,0,,Olá!
-Dialogue: 0,0:12:16.71,0:12:20.46,Default,,0,0,0,,Prazer em conhecê-los.\N Meu nome é Komon Kazuki.
+Dialogue: 0,0:12:16.73,0:12:18.09,Default,,0,0,0,,Prazer em conhecê-los.
+Dialogue: 0,0:12:18.09,0:12:20.55,Default,,0,0,0,,Meu nome é Komon Kazuki.
 Dialogue: 0,0:12:42.29,0:12:43.95,Default,,0,0,0,,Riko!
-Dialogue: 0,0:12:45.67,0:12:49.93,Default,,0,0,0,,Riko. Riko. Riko!
+Dialogue: 0,0:12:45.65,0:12:47.15,Default,,0,0,0,,Riko!
+Dialogue: 0,0:12:47.15,0:12:48.17,Default,,0,0,0,,Riko!
+Dialogue: 0,0:12:48.85,0:12:49.44,Default,,0,0,0,,Riko!
 Dialogue: 0,0:12:58.35,0:13:00.22,Default,,0,0,0,,Desculpe.
 Dialogue: 0,0:13:05.12,0:13:06.12,Default,,0,0,0,,Riko.
 Dialogue: 0,0:13:08.93,0:13:09.74,Default,,0,0,0,,Riko.
-Dialogue: 0,0:13:11.46,0:13:15.51,Default,,0,0,0,,Não! Isso de novo não!
-Dialogue: 0,0:13:15.51,0:13:20.04,Default,,0,0,0,,Não morra!\N Por favor, não morra.
+Dialogue: 0,0:13:11.46,0:13:15.51,Default,,0,0,0,,Não! De novo, não!
+Dialogue: 0,0:13:15.51,0:13:17.47,Default,,0,0,0,,Não morra!
+Dialogue: 0,0:13:17.47,0:13:20.05,Default,,0,0,0,,Por favor, não morra.
 Dialogue: 0,0:13:21.47,0:13:22.31,Default,,0,0,0,,Riko.
 Dialogue: 0,0:13:23.18,0:13:25.12,Default,,0,0,0,,Riko!
 Dialogue: 0,0:13:28.30,0:13:30.05,Default - Italics,CR-12-[174],0,0,0,,Não, Komon!
-Dialogue: 0,0:13:30.05,0:13:31.99,Default - Italics,CR-12-[175],0,0,0,,Não se deixe levar pela escuridão.
+Dialogue: 0,0:13:30.05,0:13:31.99,Default - Italics,CR-12-[175],0,0,0,,Não caia nas garras da escuridão.
 Dialogue: 0,0:13:49.27,0:13:50.77,Default,,0,0,0,,Riko.
 Dialogue: 0,0:13:53.81,0:13:55.40,Default,,0,0,0,,Riko!
 Dialogue: 0,0:13:58.38,0:13:59.77,Default,,0,0,0,,Riko...
-Dialogue: 0,0:14:12.32,0:14:13.80,Default,,0,0,0,,Fracote!
-Dialogue: 0,0:14:29.92,0:14:35.51,Default,,0,0,0,,Não notou que ela estava morta? Que burro.
+Dialogue: 0,0:14:12.32,0:14:13.80,Default,,0,0,0,,Que fracote!
+Dialogue: 0,0:14:29.92,0:14:35.51,Default,,0,0,0,,Não notou que ela estava morta? Que burro!
 Dialogue: 0,0:14:35.51,0:14:37.90,Default,,0,0,0,,O que estava fazendo nesses seis meses?
 Dialogue: 0,0:14:45.50,0:14:48.78,Default,,0,0,0,,Mizorogi inventou um joguinho interessante.
 Dialogue: 0,0:14:50.18,0:14:51.25,Default,,0,0,0,,Certo, Nagi?
@@ -166,7 +174,7 @@ Dialogue: 0,0:15:20.61,0:15:22.22,Default,,0,0,0,,Que monstros patéticos...
 Dialogue: 0,0:15:23.76,0:15:28.87,Default,,0,0,0,,Tudo começou quando essa luz chegou até nós.
 Dialogue: 0,0:15:29.92,0:15:32.42,Default,,0,0,0,,A 28 mil anos-luz da Terra,
 Dialogue: 0,0:15:32.42,0:15:35.95,Default,,0,0,0,,o M80, aglomerado globular de Escorpião, explodiu.
-Dialogue: 0,0:15:35.95,0:15:37.81,Default,,0,0,0,,E tornou-se uma supernova.
+Dialogue: 0,0:15:35.95,0:15:37.81,Default,,0,0,0,,Tornando-se uma supernova.
 Dialogue: 0,0:15:42.47,0:15:46.90,Default,,0,0,0,,Com a luz, as Bestas começaram a aparecer.
 Dialogue: 0,0:15:48.61,0:15:52.84,Default,,0,0,0,,As Ondas de Bestas,\N quando estão ativas,
 Dialogue: 0,0:15:53.69,0:16:00.94,Default,,0,0,0,,reagem a esses neutrinos especiais\N que caem dos restos da supernova.
@@ -187,22 +195,24 @@ Dialogue: 0,0:16:57.67,0:17:02.30,Default,,0,0,0,,Sou uma péssima pessoa!
 Dialogue: 0,0:17:04.18,0:17:06.03,Default,,0,0,0,,Não consigo salvar ninguém.
 Dialogue: 0,0:17:29.90,0:17:34.21,Default,,0,0,0,,Não dá. Não consigo.
 Dialogue: 0,0:17:36.66,0:17:40.27,Default,,0,0,0,,Não aguento mais...
-Dialogue: 0,0:17:42.64,0:17:44.58,Default - Italics,,0,0,0,,Não caia nas garras da escuridão.
+Dialogue: 0,0:17:42.64,0:17:44.58,Default - Italics,,0,0,0,,Não se deixe levar pela escuridão!
 Dialogue: 0,0:18:30.08,0:18:32.62,Default - Italics,,0,0,0,,Não perca sua luz, Komon!
 Dialogue: 0,0:18:37.68,0:18:39.80,Default,,0,0,0,,Chega de interferência no meu campo dimensional.
 Dialogue: 0,0:19:14.67,0:19:15.81,Default,,0,0,0,,Komon.
-Dialogue: 0,0:19:17.94,0:19:23.78,Default - Italics,,0,0,0,,Vou te devolver o Komon.\N Ainda quero brincar com ele mais tarde.
+Dialogue: 0,0:19:19.31,0:19:21.48,Default - Italics,,0,0,0,,Vou te devolver o Komon.
+Dialogue: 0,0:19:21.48,0:19:23.77,Default - Italics,,0,0,0,,Ainda quero brincar com ele mais tarde.
 Dialogue: 0,0:19:29.44,0:19:30.62,Default,,0,0,0,,Oficial Komon!
 Dialogue: 0,0:19:32.63,0:19:34.02,Default,,0,0,0,,Você está bem?
-Dialogue: 0,0:19:37.86,0:19:40.53,Default,,0,0,0,,Oficial Komon! Recomponha-se!
+Dialogue: 0,0:19:37.86,0:19:40.53,Default,,0,0,0,,Oficial Komon!\NRecomponha-se!
 Dialogue: 0,0:19:45.91,0:19:47.04,Default,,0,0,0,,Vice-Capitã?
 Dialogue: 0,0:19:47.04,0:19:49.65,Default,,0,0,0,,Entendo sua dor como ninguém.
-Dialogue: 0,0:19:49.65,0:19:51.71,Default,,0,0,0,,Mas não pode ficar neste estado.
+Dialogue: 0,0:19:49.65,0:19:51.71,Default,,0,0,0,,Mas não pode ficar neste estado!
 Dialogue: 0,0:19:52.36,0:19:55.08,Default,,0,0,0,,Ela também não gostaria disso.
 Dialogue: 0,0:19:55.42,0:19:56.28,Default,,0,0,0,,Certo?
-Dialogue: 0,0:19:59.48,0:20:03.33,Default,,0,0,0,,Se você realmente se importa com ela,\N direcione seu ódio às Bestas.
+Dialogue: 0,0:19:59.48,0:20:01.84,Default,,0,0,0,,Se você realmente se importa com ela,
+Dialogue: 0,0:20:01.84,0:20:03.35,Default,,0,0,0,,direcione seu ódio às Bestas.
 Dialogue: 0,0:20:03.96,0:20:05.01,Default,,0,0,0,,Hã?
-Dialogue: 0,0:20:05.01,0:20:07.37,Default,,0,0,0,,Transforme essa raiva em poder.
+Dialogue: 0,0:20:05.01,0:20:07.37,Default,,0,0,0,,Transforme essa raiva em força.
 Dialogue: 0,0:20:09.06,0:20:10.19,Default,,0,0,0,,Volte para a unidade.
 Dialogue: 0,0:20:11.29,0:20:12.26,Default,,0,0,0,,Vice-Capitã.
 Dialogue: 0,0:20:13.20,0:20:14.36,Default,,0,0,0,,Não acredito que compraram isso pra você.
@@ -225,7 +235,7 @@ Dialogue: 0,0:21:44.31,0:21:47.05,Default,,0,0,0,,Veja! O que é aquilo?
 Comment: 0,0:22:10.98,0:22:11.01,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:22:11.02,0:22:11.03,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:23:40.94,0:23:40.97,Default,chptr,0,0,0,,{Prévia} = Preview
-Dialogue: 0,0:23:41.36,0:23:42.88,Default - Italics,,0,0,0,,Mãe, por favor, pare.
+Dialogue: 0,0:23:41.36,0:23:42.88,Default - Italics,,0,0,0,,Mãe, por favor, pare!
 Dialogue: 0,0:23:42.88,0:23:43.91,Default - Italics,,0,0,0,,Vamos, comam!
 Dialogue: 0,0:23:43.91,0:23:45.64,Default - Italics,,0,0,0,,Dois desses pontos não são humanos!
 Dialogue: 0,0:23:45.64,0:23:50.75,Default - Italics,,0,0,0,,Só continuo buscando o significado da luz que recebi!

@@ -18,7 +18,8 @@ Style: Default - Top Italics,Source Sans Pro,45,&H00FFFFFF,&H00FFFFFF,&H00120703
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Introdução} = Intro
-Dialogue: 0,0:00:00.66,0:00:03.65,Default,,0,0,0,,Riko... Riko!
+Dialogue: 0,0:00:00.63,0:00:01.65,Default,,0,0,0,,Riko...
+Dialogue: 0,0:00:02.37,0:00:03.40,Default,,0,0,0,,Riko!
 Dialogue: 0,0:00:03.65,0:00:06.16,Default - Italics,CR-09-[186],0,0,0,,O que a Riko estava fazendo ali?
 Dialogue: 0,0:00:06.16,0:00:10.87,Default - Italics,CR-09-[187],0,0,0,,Eu não fazia ideia do que estava acontecendo.
 Dialogue: 0,0:00:13.59,0:00:15.47,Default,,0,0,0,,Komon?
@@ -30,7 +31,7 @@ Dialogue: 0,0:00:33.98,0:00:35.30,Default,,0,0,0,,Mas...
 Dialogue: 0,0:00:35.30,0:00:36.71,Default,,0,0,0,,O que está fazendo aqui?
 Dialogue: 0,0:00:56.30,0:00:58.65,Default,CR-09-[191],0,0,0,,Nagi Saijyo?
 Dialogue: 0,0:01:04.32,0:01:05.42,Default,,0,0,0,,Vice-Capitã!
-Dialogue: 0,0:01:09.95,0:01:11.76,Default,,0,0,0,,Ainda há pessoas na área da missão.
+Dialogue: 0,0:01:09.95,0:01:11.76,Default,,0,0,0,,Ainda há pessoas na área da missão?
 Dialogue: 0,0:01:13.28,0:01:14.04,Default,,0,0,0,,Eu te ajudo...
 Dialogue: 0,0:01:17.39,0:01:20.15,Default,,0,0,0,,Isto é seu, Vice-Capitã?
 Dialogue: 0,0:01:20.69,0:01:23.49,Default,,0,0,0,,A Riko estava com isso.
@@ -38,7 +39,7 @@ Dialogue: 0,0:01:24.06,0:01:27.46,Default,,0,0,0,,Sabe como ela chegou aqui?
 Dialogue: 0,0:01:32.95,0:01:34.37,Default,,0,0,0,,Onde conseguiu isto?!
 Dialogue: 0,0:01:35.95,0:01:37.78,Default,,0,0,0,,Responda!\N Onde conseguiu isto?!
 Dialogue: 0,0:01:38.56,0:01:39.42,Default,,0,0,0,,Pare!
-Dialogue: 0,0:01:43.33,0:01:44.63,Default,,0,0,0,,Komon.
+Dialogue: 0,0:01:43.33,0:01:44.63,Default,,0,0,0,,Komon!
 Dialogue: 0,0:01:47.49,0:01:50.22,Default,CR-09-[192],0,0,0,,Você encontrou o Mizorogi, não foi?
 Dialogue: 0,0:02:30.61,0:02:34.07,Default,,0,0,0,,Ainda vamos nos divertir muito.
 Dialogue: 0,0:02:34.62,0:02:35.86,Default,,0,0,0,,Maldito...
@@ -46,10 +47,10 @@ Comment: 0,0:03:04.03,0:03:04.07,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:03:13.32,0:03:13.34,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:04:43.00,0:04:43.03,Default,chptr,0,0,0,,{Parte A} = Part A
 Dialogue: 0,0:04:44.53,0:04:46.57,Default - Top,,0,0,0,,Aquela Besta continua viva?
-Dialogue: 0,0:04:47.51,0:04:50.59,Default - Top,,0,0,0,,O CIC ainda está investigando.
+Dialogue: 0,0:04:47.51,0:04:50.59,Default - Top,,0,0,0,,O CIC detectou sinais ativos dela.
 Dialogue: 0,0:04:50.59,0:04:54.31,Default,,0,0,0,,O Ultraman não conseguiu eliminá-la no Meta Field.
 Dialogue: 0,0:05:18.06,0:05:19.40,Default,,0,0,0,,Vice-Capitã Saijyo.
-Dialogue: 0,0:05:32.24,0:05:34.10,Default,,0,0,0,,Você apagou a memória dela?
+Dialogue: 0,0:05:32.24,0:05:34.10,Default,,0,0,0,,Já apagaram a memória dela?
 Dialogue: 0,0:05:34.10,0:05:35.68,Default,,0,0,0,,Isso não era necessário.
 Dialogue: 0,0:05:36.39,0:05:37.77,Default,,0,0,0,,Não era?
 Dialogue: 0,0:05:38.39,0:05:40.26,Default,,0,0,0,,Ela não se lembra de nada.
@@ -79,12 +80,15 @@ Dialogue: 0,0:07:53.93,0:07:54.89,Default,,0,0,0,,Entendo.
 Dialogue: 0,0:07:57.47,0:08:02.19,Default,,0,0,0,,Aquela moça que encontramos é a sua chefe?
 Dialogue: 0,0:08:03.79,0:08:06.17,Default,,0,0,0,,Sim. Mais ou menos.
 Dialogue: 0,0:08:08.70,0:08:10.89,Default,,0,0,0,,Parece que vocês não se dão bem.
-Dialogue: 0,0:08:16.35,0:08:21.53,Default,,0,0,0,,Nós pensamos diferente.
+Dialogue: 0,0:08:16.35,0:08:17.35,Default,,0,0,0,,Eu...
+Dialogue: 0,0:08:19.40,0:08:21.56,Default,,0,0,0,,Eu não penso da mesma forma que ela.
 Dialogue: 0,0:08:33.15,0:08:38.26,Default,,0,0,0,,Você deve fazer o que acredita ser certo.
 Dialogue: 0,0:08:39.01,0:08:39.74,Default,,0,0,0,,Hã?
 Dialogue: 0,0:08:41.23,0:08:42.38,Default,,0,0,0,,Você consegue.
 Dialogue: 0,0:08:59.01,0:09:00.52,Default,,0,0,0,,Não podemos destruí-la?
-Dialogue: 0,0:09:01.06,0:09:08.79,Default,,0,0,0,,Se a destruirmos, o pólen vai se espalhar.
+Dialogue: 0,0:09:01.07,0:09:03.19,Default,,0,0,0,,Caso seja eliminada,
+Dialogue: 0,0:09:03.19,0:09:05.88,Default,,0,0,0,,acredito que o pólen contido na Besta
+Dialogue: 0,0:09:06.79,0:09:08.87,Default,,0,0,0,,se espalhará em grande quantidade.
 Dialogue: 0,0:09:09.68,0:09:12.28,Default,,0,0,0,,O pólen dela é perigoso assim?
 Dialogue: 0,0:09:12.96,0:09:14.04,Default,,0,0,0,,Não era só inflamável?
 Dialogue: 0,0:09:14.53,0:09:16.60,Default,,0,0,0,,Não, ainda tem mais.
@@ -100,12 +104,12 @@ Dialogue: 0,0:09:56.87,0:09:57.58,Default - Italics,,0,0,0,,Exato.
 Dialogue: 0,0:09:57.99,0:10:01.15,Default,,0,0,0,,Mas ele impediu a formação.
 Dialogue: 0,0:10:06.13,0:10:09.87,Default,,0,0,0,,Os dados da energia residual confirmam isso.
 Dialogue: 0,0:10:09.87,0:10:13.55,Default,,0,0,0,,Aquilo pode ter sido um acidente.
-Dialogue: 0,0:10:13.55,0:10:17.24,Default,,0,0,0,,Mesmo assim, ele pode não aparecer desta vez.
+Dialogue: 0,0:10:13.55,0:10:17.24,Default,,0,0,0,,Ainda assim, não dá para garantir que ele vai aparecer.
 Dialogue: 0,0:10:17.82,0:10:20.76,Default,,0,0,0,,Não, ele definitivamente virá.
 Dialogue: 0,0:10:21.33,0:10:24.97,Default,,0,0,0,,O Ultraman é nosso aliado.
 Dialogue: 0,0:10:26.35,0:10:27.01,Default,,0,0,0,,Por quê?
 Dialogue: 0,0:10:27.35,0:10:28.58,Default,,0,0,0,,Porque acredito nele!
-Dialogue: 0,0:10:28.58,0:10:31.52,Default,,0,0,0,,Vamos nos basear em crenças?
+Dialogue: 0,0:10:28.58,0:10:31.52,Default,,0,0,0,,Vamos nos basear em crenças agora?
 Dialogue: 0,0:10:34.43,0:10:38.49,Default,,0,0,0,,Nagi, cuide do controle de conexão.
 Dialogue: 0,0:10:38.86,0:10:39.72,Default,,0,0,0,,Certo!
 Dialogue: 0,0:10:41.20,0:10:42.15,Default,,0,0,0,,Komon.
@@ -130,7 +134,8 @@ Dialogue: 0,0:12:04.94,0:12:06.58,Default,,0,0,0,,Acionando os Night Raiders.
 Dialogue: 0,0:12:07.58,0:12:10.66,Default - Italics,,0,0,0,,O Portão 1 abrirá em 30 segundos.
 Dialogue: 0,0:12:11.61,0:12:14.89,Default - Italics,,0,0,0,,Todos os veículos, iniciem os preparativos finais.
 Dialogue: 0,0:12:15.86,0:12:18.92,Default - Italics,,0,0,0,,Todos os veículos, iniciem os preparativos finais.
-Dialogue: 0,0:12:43.06,0:12:48.05,Default,,0,0,0,,Se Faust voltar, ele vai nos envolver na escuridão.
+Dialogue: 0,0:12:43.26,0:12:45.11,Default,,0,0,0,,Se Faust aparecer novamente...
+Dialogue: 0,0:12:45.77,0:12:48.05,Default,,0,0,0,,E se eu for engolido por aquela escuridão, então...
 Dialogue: 0,0:12:52.45,0:12:53.37,Default,,0,0,0,,Não...
 Dialogue: 0,0:13:13.49,0:13:14.79,Default,,0,0,0,,Eu sabia!
 Dialogue: 0,0:13:14.79,0:13:16.21,Default,,0,0,0,,O Ultraman veio nos ajudar!
@@ -148,11 +153,11 @@ Dialogue: 0,0:15:26.08,0:15:28.25,Default,,0,0,0,,Mas acabou de cavar a sua pró
 Dialogue: 0,0:15:28.25,0:15:30.81,Default,,0,0,0,,ao entrar aqui ferido.
 Dialogue: 0,0:15:37.27,0:15:38.76,Default,,0,0,0,,É o Ultraman Negro!
 Dialogue: 0,0:15:43.00,0:15:44.56,Default,,0,0,0,,Uma fase diferente?
-Dialogue: 0,0:15:44.56,0:15:45.95,Default,,0,0,0,,Por favor, explique melhor.
+Dialogue: 0,0:15:44.56,0:15:45.95,Default,,0,0,0,,Pode detalhar melhor, por favor?
 Dialogue: 0,0:15:46.23,0:15:50.73,Default,,0,0,0,,Se o Meta Field é uma dobra positiva, esta é negativa.
-Dialogue: 0,0:15:51.01,0:15:56.24,Default,,0,0,0,,Ele inverteu os polos para ter vantagem.
+Dialogue: 0,0:15:51.01,0:15:56.24,Default,,0,0,0,,O Ultraman Negro inverteu os polos para ter vantagem.
 Dialogue: 0,0:15:56.24,0:15:58.23,Default,,0,0,0,,Não gosto nada disso.
-Dialogue: 0,0:15:59.44,0:16:01.15,Default,,0,0,0,,Iniciem o plano de eliminação!
+Dialogue: 0,0:15:59.44,0:16:01.15,Default,,0,0,0,,Iniciar plano de eliminação!
 Dialogue: 0,0:16:01.15,0:16:01.78,Default - Italics,,0,0,0,,Entendido!
 Dialogue: 0,0:16:21.23,0:16:22.77,Default,,0,0,0,,Alvo na mira!
 Dialogue: 0,0:16:23.60,0:16:25.27,Default,,0,0,0,,Míssil Spider, fogo!
@@ -162,7 +167,7 @@ Dialogue: 0,0:16:36.81,0:16:39.22,Default,,0,0,0,,A turbina direita está supera
 Dialogue: 0,0:16:39.78,0:16:41.78,Default,,0,0,0,,Não consigo esfriá-la!
 Dialogue: 0,0:16:41.78,0:16:43.49,Default,,0,0,0,,Isso é um efeito da mudança de fase.
 Dialogue: 0,0:16:43.49,0:16:47.29,Default,,0,0,0,,Desse jeito, perderemos a sincronização.
-Dialogue: 0,0:16:47.62,0:16:49.76,Default,,0,0,0,,Komon, desista do míssil!
+Dialogue: 0,0:16:47.62,0:16:49.76,Default,,0,0,0,,Komon, desista do míssil.
 Dialogue: 0,0:16:49.76,0:16:50.73,Default,,0,0,0,,Use o Strike Vanisher!
 Dialogue: 0,0:16:51.44,0:16:52.53,Default,,0,0,0,,Entendido.
 Dialogue: 0,0:16:52.53,0:16:56.07,Default - Italics,,0,0,0,,Estamos perdendo força,\N os sistemas estão no limite!
@@ -172,11 +177,11 @@ Dialogue: 0,0:16:59.62,0:17:00.71,Default,,0,0,0,,Não podemos atirar?
 Dialogue: 0,0:17:00.71,0:17:02.17,Default,,0,0,0,,Só temos energia para um tiro.
 Dialogue: 0,0:17:04.04,0:17:05.48,Default,,0,0,0,,Só um?
 Dialogue: 0,0:17:17.65,0:17:18.95,Default,CR-09-[195],0,0,0,,Komon, dispare!
-Dialogue: 0,0:17:18.95,0:17:20.76,Default,CR-09-[196],0,0,0,,Mostre que apoia o Ultraman!
+Dialogue: 0,0:17:18.95,0:17:20.76,Default,CR-09-[196],0,0,0,,Ajude o Ultraman em que você tanto acredita!
 Dialogue: 0,0:17:23.13,0:17:24.29,Default - Italics,CR-10-[66],0,0,0,,Você consegue.
 Dialogue: 0,0:17:31.95,0:17:36.38,Default,,0,0,0,,Vice-Capitã, voe entre o Ultraman e Lafleya.
 Dialogue: 0,0:18:25.42,0:18:27.52,Default,,0,0,0,,Strike Vanisher, fogo!
-Dialogue: 0,0:18:48.85,0:18:50.01,Default,,0,0,0,,Isso foi uma explosão de areia?
+Dialogue: 0,0:18:48.85,0:18:50.01,Default,,0,0,0,,Uma explosão de partículas?
 Dialogue: 0,0:18:50.01,0:18:52.25,Default,,0,0,0,,O Gerador Meta atingiu o limite!
 Dialogue: 0,0:18:52.89,0:18:55.28,Default,,0,0,0,,A sincronização de fase com o Meta Field foi perdida.
 Dialogue: 0,0:18:55.74,0:18:58.15,Default - Italics,,0,0,0,,Vou restaurar a sincronização de fase!
@@ -186,7 +191,7 @@ Dialogue: 0,0:19:09.05,0:19:10.60,Default,,0,0,0,,Para onde estamos indo agora?
 Dialogue: 0,0:19:15.34,0:19:16.57,Default,,0,0,0,,Saímos!
 Dialogue: 0,0:19:16.57,0:19:18.98,Default,,0,0,0,,Altitude 8,6!
 Dialogue: 0,0:19:18.98,0:19:20.45,Default,,0,0,0,,Vetor de velocidade...
-Dialogue: 0,0:19:24.90,0:19:25.55,Default,,0,0,0,,Batemos?
+Dialogue: 0,0:19:24.90,0:19:25.55,Default,,0,0,0,,O quê?
 Dialogue: 0,0:19:40.13,0:19:41.23,Default,,0,0,0,,Ultraman!
 Dialogue: 0,0:20:07.15,0:20:08.61,Default,,0,0,0,,Srta. Saida!
 Dialogue: 0,0:20:09.81,0:20:11.86,Default,,0,0,0,,Ainda está acordada?
@@ -194,7 +199,7 @@ Dialogue: 0,0:20:18.85,0:20:19.96,Default,,0,0,0,,Srta. Saida!
 Dialogue: 0,0:20:20.63,0:20:22.50,Default,,0,0,0,,Você está bem?
 Dialogue: 0,0:20:31.60,0:20:35.18,Default,,0,0,0,,Mizorogi Shinya...
 Dialogue: 0,0:20:45.09,0:20:47.45,Default,,0,0,0,,Desculpe a demora!
-Dialogue: 0,0:20:48.71,0:20:51.29,Default,,0,0,0,,Obrigado! Graças ao seu apoio...
+Dialogue: 0,0:20:48.71,0:20:51.35,Default,,0,0,0,,Obrigado por acreditar em mim!
 Dialogue: 0,0:20:54.01,0:20:54.93,Default,,0,0,0,,O que houve?
 Dialogue: 0,0:20:56.39,0:20:57.35,Default,,0,0,0,,Venha comigo.
 Dialogue: 0,0:21:23.31,0:21:24.43,Default,,0,0,0,,Me beije.
@@ -207,7 +212,7 @@ Dialogue: 0,0:23:41.78,0:23:45.09,Default - Italics,,0,0,0,,Alguém a levou ou e
 Dialogue: 0,0:23:45.09,0:23:47.02,Default - Italics,,0,0,0,,De todo modo, ela não está no quarto.
 Dialogue: 0,0:23:47.52,0:23:49.18,Default - Italics,,0,0,0,,Alguém está atrás dela.
 Dialogue: 0,0:23:49.48,0:23:50.95,Default - Italics,,0,0,0,,Mizorogi.
-Dialogue: 0,0:23:52.05,0:23:54.98,Default - Italics,,0,0,0,,Como ele vai dar as caras?
+Dialogue: 0,0:23:52.05,0:23:54.98,Default - Italics,,0,0,0,,Quando e como aquele homem vai dar as caras?
 Dialogue: 0,0:23:55.66,0:23:57.09,Default - Italics,,0,0,0,,Liberte a Riko!
 Dialogue: 0,0:24:04.71,0:24:06.16,Default - Top Italics,,0,0,0,,Diga-me...
 Dialogue: 0,0:24:07.81,0:24:09.35,Default - Top Italics,,0,0,0,,Quem sou eu?

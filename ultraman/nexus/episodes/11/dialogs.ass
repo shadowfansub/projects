@@ -18,7 +18,7 @@ Style: Default - Top Italics,Source Sans Pro,45,&H00FFFFFF,&H00FFFFFF,&H00120703
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Introdução} = Intro
-Dialogue: 0,0:00:04.91,0:00:08.68,Default - Italics,,0,0,0,,Seu sorriso inocente e seus gestos naturais...
+Dialogue: 0,0:00:04.91,0:00:08.68,Default - Italics,,0,0,0,,Seu sorriso inocente e os gestos espontâneos...
 Dialogue: 0,0:00:09.63,0:00:11.32,Default - Italics,,0,0,0,,Eu amava tudo isso nela...
 Dialogue: 0,0:00:12.67,0:00:15.80,Default - Italics,,0,0,0,,Eu acreditava que ficaríamos juntos para sempre.
 Dialogue: 0,0:00:17.02,0:00:21.86,Default - Italics,,0,0,0,,Então, ficava imaginando como seria nosso futuro.
@@ -45,12 +45,12 @@ Dialogue: 0,0:01:41.54,0:01:43.79,Default,,0,0,0,,Melhorou bastante desde a últ
 Dialogue: 0,0:01:45.37,0:01:46.68,Default,,0,0,0,,Obrigado!
 Dialogue: 0,0:01:49.23,0:01:52.57,Default,,0,0,0,,A Vice-Capitã Nagi cometeu\N um pequeno erro de operação.
 Dialogue: 0,0:01:54.08,0:01:55.26,Default,,0,0,0,,Isso é estranho.
-Dialogue: 0,0:01:56.18,0:01:58.20,Default,,0,0,0,,Você está bem?
-Dialogue: 0,0:02:00.02,0:02:02.19,Default,,0,0,0,,Estou.
+Dialogue: 0,0:01:56.18,0:01:58.20,Default,,0,0,0,,Você está sentindo alguma coisa?
+Dialogue: 0,0:02:00.02,0:02:02.19,Default,,0,0,0,,Não. Estou bem.
 Dialogue: 0,0:02:05.16,0:02:06.88,Default,,0,0,0,,Isso é tudo por hoje.
 Dialogue: 0,0:02:14.60,0:02:16.75,Default,,0,0,0,,Você está trabalhando muito.
 Dialogue: 0,0:02:16.75,0:02:18.56,Default,,0,0,0,,Aconteceu algo de especial?
-Dialogue: 0,0:02:18.89,0:02:21.25,Default,,0,0,0,,Não, nada.
+Dialogue: 0,0:02:18.89,0:02:21.25,Default,,0,0,0,,Não, nada!
 Dialogue: 0,0:02:18.97,0:02:21.03,Default - Top,,0,0,0,,O que foi?
 Dialogue: 0,0:02:21.03,0:02:23.66,Default - Top,,0,0,0,,Conte tudo!
 Dialogue: 0,0:02:26.87,0:02:29.52,Default - Italics,,0,0,0,,Nagi, fique com isto.
@@ -60,10 +60,11 @@ Dialogue: 0,0:02:38.82,0:02:39.57,Default - Italics,,0,0,0,,Combinado.
 Dialogue: 0,0:02:53.03,0:02:54.37,Default,,0,0,0,,Você está com medo, não é?
 Dialogue: 0,0:02:55.81,0:02:56.84,Default,,0,0,0,,Capitão.
 Dialogue: 0,0:02:57.69,0:02:58.93,Default,CR-10-[190],0,0,0,,Mizorogi.
-Dialogue: 0,0:03:00.13,0:03:03.34,Default,CR-10-[191],0,0,0,,Como ele vai dar as caras?
-Dialogue: 0,0:03:03.34,0:03:05.37,Default,,0,0,0,,Não importa como.
-Dialogue: 0,0:03:06.51,0:03:10.26,Default,,0,0,0,,Darei o meu melhor, não importa o que aconteça.
-Dialogue: 0,0:03:12.17,0:03:13.35,Default,,0,0,0,,Isso é verdade.
+Dialogue: 0,0:03:00.13,0:03:03.34,Default,CR-10-[191],0,0,0,,Quando e como aquele homem vai dar as caras?
+Dialogue: 0,0:03:03.34,0:03:05.37,Default,,0,0,0,,Não importa quando e como!
+Dialogue: 0,0:03:06.53,0:03:08.07,Default,,0,0,0,,Quando chegar a hora,
+Dialogue: 0,0:03:08.07,0:03:10.34,Default,,0,0,0,,estarei pronta, aconteça o que acontecer.
+Dialogue: 0,0:03:12.17,0:03:13.35,Default,,0,0,0,,Tem razão.
 Dialogue: 0,0:03:14.62,0:03:17.36,Default,,0,0,0,,Para cumprirmos a missão que nos foi dada,
 Dialogue: 0,0:03:19.30,0:03:21.78,Default,,0,0,0,,essa é a realidade em que devemos acreditar.
 Dialogue: 0,0:03:31.58,0:03:33.24,Default - Italics,CR-10-[181],0,0,0,,Me beije.
@@ -86,7 +87,7 @@ Dialogue: 0,0:06:43.17,0:06:45.08,Default,,0,0,0,,Estes são os resultados do te
 Dialogue: 0,0:06:51.51,0:06:53.43,Default,,0,0,0,,Realmente, são resultados impressionantes.
 Dialogue: 0,0:06:53.86,0:06:55.71,Default,,0,0,0,,O nível de imunidade dela é +92.
 Dialogue: 0,0:06:56.22,0:06:58.90,Default,,0,0,0,,Com estes resultados, ela poderia ser um NR.
-Dialogue: 0,0:07:02.04,0:07:03.71,Default,,0,0,0,,Fator Sexual: R-7.
+Dialogue: 0,0:07:02.21,0:07:03.87,Default,,0,0,0,,Fator R-7...
 Dialogue: 0,0:07:04.55,0:07:06.37,Default,,0,0,0,,Espere, isso está errado.
 Dialogue: 0,0:07:06.49,0:07:08.62,Default,,0,0,0,,Não. Todos os testes estão corretos.
 Dialogue: 0,0:07:08.85,0:07:09.92,Default,,0,0,0,,Não pode ser!
@@ -109,13 +110,13 @@ Dialogue: 0,0:08:27.85,0:08:29.08,Default,,0,0,0,,Irmãzinha!
 Dialogue: 0,0:08:31.67,0:08:32.86,Default,,0,0,0,,Takashi.
 Dialogue: 0,0:08:36.32,0:08:39.60,Default,,0,0,0,,Mãe, pai, a Riko voltou!
 Dialogue: 0,0:08:41.53,0:08:43.25,Default,,0,0,0,,Bem-vinda de volta, Riko!
-Dialogue: 0,0:08:43.76,0:08:45.74,Default,,0,0,0,,Saiu do hospital mais cedo do que eu imaginava.
+Dialogue: 0,0:08:43.76,0:08:45.74,Default,,0,0,0,,Recebeu alta mais cedo do que eu imaginava.
 Dialogue: 0,0:08:48.99,0:08:51.20,Default,,0,0,0,,O que houve?\N O que podemos fazer?
 Dialogue: 0,0:08:53.14,0:08:56.43,Default,,0,0,0,,Passei por algo assustador.
 Dialogue: 0,0:08:56.80,0:08:58.32,Default,,0,0,0,,Tadinha...
 Dialogue: 0,0:08:58.87,0:09:00.91,Default,,0,0,0,,Nossa, você está tremendo.
 Dialogue: 0,0:09:01.12,0:09:04.91,Default,,0,0,0,,Está tudo bem.\N Não precisa ter medo.
-Dialogue: 0,0:09:05.48,0:09:08.75,Default,,0,0,0,,Isso mesmo.\N Riko, você tem a gente.
+Dialogue: 0,0:09:05.48,0:09:08.75,Default,,0,0,0,,Isso mesmo!\N Riko, você tem a gente.
 Dialogue: 0,0:09:10.31,0:09:11.64,Default,,0,0,0,,Tem razão.
 Dialogue: 0,0:09:12.81,0:09:17.17,Default,,0,0,0,,Eu tenho uma família tão maravilhosa.
 Dialogue: 0,0:09:23.55,0:09:24.54,Default,,0,0,0,,Isso é...
@@ -129,7 +130,7 @@ Dialogue: 0,0:09:50.35,0:09:52.22,Default,,0,0,0,,Lembrei que preciso ligar para
 Dialogue: 0,0:09:54.76,0:09:58.28,Default,,0,0,0,,Prometi que apresentaria vocês a ele.
 Dialogue: 0,0:10:02.28,0:10:03.21,Default,,0,0,0,,Mas...
 Dialogue: 0,0:10:10.51,0:10:12.64,Default,,0,0,0,,Quem é Komon?
-Dialogue: 0,0:10:13.60,0:10:17.87,Default,,0,0,0,,Quem sou eu?
+Dialogue: 0,0:10:13.60,0:10:17.87,Default,CR-10-[194],0,0,0,,Quem sou eu?
 Dialogue: 0,0:10:21.40,0:10:23.10,Default,,0,0,0,,Por que estou sozinha?
 Dialogue: 0,0:10:24.94,0:10:26.27,Default,,0,0,0,,Onde está a mamãe?
 Dialogue: 0,0:10:31.87,0:10:36.14,Default,,0,0,0,,Onde está o papai?
@@ -149,8 +150,8 @@ Dialogue: 0,0:12:02.09,0:12:03.09,Default,,0,0,0,,Vou procurá-la!
 Dialogue: 0,0:12:03.09,0:12:04.70,Default,,0,0,0,,Se for à casa dela, não vai encontrá-la.
 Dialogue: 0,0:12:04.89,0:12:09.06,Default,,0,0,0,,Sabemos que ela foi para lá, mas que já saiu.
 Dialogue: 0,0:12:10.72,0:12:13.87,Default,,0,0,0,,Não confio em você!\N Tenho que ver por mim mesmo.
-Dialogue: 0,0:12:13.99,0:12:16.70,Default,,0,0,0,,Já esteve na casa dela?
-Dialogue: 0,0:12:18.33,0:12:19.40,Default,,0,0,0,,Bem...
+Dialogue: 0,0:12:13.99,0:12:16.70,Default,,0,0,0,,Você já foi à casa dela alguma vez?
+Dialogue: 0,0:12:18.33,0:12:19.40,Default,,0,0,0,,Não...
 Dialogue: 0,0:12:23.74,0:12:24.70,Default,,0,0,0,,Este é o endereço.
 Dialogue: 0,0:12:32.63,0:12:36.27,Default,,0,0,0,,Chefe Shuto, isso foi uma boa ideia?
 Dialogue: 0,0:12:37.02,0:12:39.24,Default,,0,0,0,,Ele tem o direito de saber a verdade.
@@ -183,13 +184,15 @@ Dialogue: 0,0:14:33.13,0:14:33.71,Default,,0,0,0,,Então...
 Dialogue: 0,0:14:33.71,0:14:35.51,Default,,0,0,0,,Foi alguém da nossa equipe?
 Dialogue: 0,0:14:36.30,0:14:38.06,Default,,0,0,0,,Pode confirmar a origem?
 Dialogue: 0,0:14:38.17,0:14:40.00,Default,,0,0,0,,Estou tentando, mas...
-Dialogue: 0,0:14:41.55,0:14:42.73,Default,,0,0,0,,O que foi?
-Dialogue: 0,0:14:42.73,0:14:48.23,Default,,0,0,0,,Detectei o mesmo sinal próximo da nossa base.
+Dialogue: 0,0:14:40.69,0:14:41.40,Default,,0,0,0,,Hã?
+Dialogue: 0,0:14:41.62,0:14:42.53,Default,,0,0,0,,O que foi?
+Dialogue: 0,0:14:42.53,0:14:46.67,Default,,0,0,0,,É que acabei de detectar um sinal semelhante
+Dialogue: 0,0:14:46.67,0:14:48.37,Default,,0,0,0,,nas proximidades da nossa base.
 Dialogue: 0,0:15:01.75,0:15:04.56,Default,,0,0,0,,Você veio, Ultraman.
 Dialogue: 0,0:15:05.58,0:15:06.34,Default,,0,0,0,,Vá!
 Dialogue: 0,0:15:07.82,0:15:08.82,Default,,0,0,0,,Mas...
 Dialogue: 0,0:15:08.82,0:15:09.89,Default,,0,0,0,,Depressa!
-Dialogue: 0,0:15:10.29,0:15:12.86,Default,,0,0,0,,Tenho contas para acertar com o Faust.
+Dialogue: 0,0:15:10.29,0:15:12.86,Default,,0,0,0,,Tenho contas para acertar com Faust.
 Dialogue: 0,0:15:26.47,0:15:28.10,Default,,0,0,0,,Isso é inútil.
 Dialogue: 0,0:16:19.17,0:16:21.11,Default,,0,0,0,,Eu sou sua sombra.
 Dialogue: 0,0:16:22.46,0:16:28.27,Default,,0,0,0,,Enquanto você existir, não desaparecerei.
@@ -215,7 +218,7 @@ Dialogue: 0,0:19:51.84,0:19:52.73,Default - Italics,,0,0,0,,Sim...
 Dialogue: 0,0:19:53.14,0:19:54.56,Default - Italics,,0,0,0,,Você é uma marionete.
 Dialogue: 0,0:19:55.51,0:20:01.02,Default - Italics,,0,0,0,,Você morreu há muito tempo.
 Dialogue: 0,0:20:05.55,0:20:10.50,Default,,0,0,0,,Eu já morri?
-Dialogue: 0,0:20:14.53,0:20:16.57,Default - Italics,,0,0,0,,O que está fazendo?
+Dialogue: 0,0:20:14.53,0:20:16.57,Default - Italics,,0,0,0,,Por que freou desse jeito?!
 Dialogue: 0,0:20:21.73,0:20:23.12,Default - Italics,,0,0,0,,Fujam, depressa!
 Dialogue: 0,0:20:25.36,0:20:26.20,Default - Italics,,0,0,0,,Mãe!
 Dialogue: 0,0:20:27.41,0:20:28.23,Default - Italics,,0,0,0,,Não!

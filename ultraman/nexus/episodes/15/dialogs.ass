@@ -19,17 +19,18 @@ Style: Default - Top Italics,Source Sans Pro,45,&H00FFFFFF,&H00FFFFFF,&H00120703
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Default,chptr,0,0,0,,{Introdução} = Intro
 Dialogue: 0,0:00:02.52,0:00:03.99,Default,,0,0,0,,Mega Cannon Formation.
-Dialogue: 0,0:00:18.33,0:00:22.77,Default - Italics,CR-13-[184],0,0,0,,Se você realmente se importa com ela,\N direcione seu ódio às Bestas.
+Dialogue: 0,0:00:18.67,0:00:20.74,Default - Italics,CR-13-[184],0,0,0,,Se você realmente se importa com ela,
+Dialogue: 0,0:00:20.74,0:00:22.22,Default - Italics,CR-13-[184],0,0,0,,direcione seu ódio às Bestas!
 Dialogue: 0,0:00:22.77,0:00:24.01,Default - Italics,CR-13-[185],0,0,0,,Hã?
-Dialogue: 0,0:00:24.01,0:00:26.63,Default - Italics,CR-13-[186],0,0,0,,Transforme essa raiva em poder.
+Dialogue: 0,0:00:24.01,0:00:26.63,Default - Italics,CR-13-[186],0,0,0,,Transforme essa raiva em força!
 Dialogue: 0,0:00:26.93,0:00:29.85,Default,CR-14-[151],0,0,0,,Não perdoarei esse monstro terrível!
 Dialogue: 0,0:00:41.50,0:00:43.86,Default,CR-14-[139],0,0,0,,Alguém me ajude!
-Dialogue: 0,0:00:48.42,0:00:49.27,Default,CR-14-[153],0,0,0,,Dispare.
+Dialogue: 0,0:00:48.42,0:00:49.27,Default,CR-14-[153],0,0,0,,Dispare!
 Dialogue: 0,0:00:58.91,0:01:00.98,Default,,0,0,0,,Riko!
 Dialogue: 0,0:01:12.70,0:01:15.23,Default,CR-14-[161],0,0,0,,Aguente firme, Riko! Riko!
-Dialogue: 0,0:01:15.23,0:01:20.93,Default - Italics,,0,0,0,,Graças ao meu ódio profundo,\N acabei machucando uma garota.
-Dialogue: 0,0:01:21.44,0:01:25.74,Default - Italics,,0,0,0,,Meu ódio continuou machucando as pessoas...
-Dialogue: 0,0:01:28.68,0:01:33.63,Default - Italics,,0,0,0,,Até meu próprio coração.
+Dialogue: 0,0:01:15.23,0:01:20.93,Default - Italics,,0,0,0,,Dominado pelo meu ódio profundo,\N acabei machucando uma garotinha.
+Dialogue: 0,0:01:21.44,0:01:25.74,Default - Italics,,0,0,0,,Meu ódio continuava machucando as pessoas...
+Dialogue: 0,0:01:28.68,0:01:33.63,Default - Italics,,0,0,0,,Até mesmo o meu próprio coração.
 Dialogue: 0,0:01:41.09,0:01:42.39,Default,,0,0,0,,Sr. Himeya?
 Dialogue: 0,0:01:45.78,0:01:46.70,Default,,0,0,0,,Ué?
 Dialogue: 0,0:01:46.81,0:01:50.19,Default,,0,0,0,,Invadiu a área da TLT só para falar com o Komon?
@@ -48,7 +49,7 @@ Dialogue: 0,0:04:06.65,0:04:07.58,Default,,0,0,0,,O quê?
 Dialogue: 0,0:04:09.67,0:04:10.73,Default,,0,0,0,,Recentemente,
 Dialogue: 0,0:04:12.08,0:04:14.95,Default,,0,0,0,,um conhecido dele foi à redação do jornal.
 Dialogue: 0,0:04:17.70,0:04:19.48,Default,,0,0,0,,O nome dele é Komon.
-Dialogue: 0,0:04:20.56,0:04:22.27,Default,,0,0,0,,Ele tem cerca de 23 ou 24 anos.
+Dialogue: 0,0:04:20.56,0:04:22.27,Default,,0,0,0,,Tem cerca de 23 ou 24 anos.
 Dialogue: 0,0:04:25.90,0:04:30.04,Default,,0,0,0,,A Riko e aquela garota que conheci no zoológico...
 Dialogue: 0,0:04:31.14,0:04:35.09,Default,,0,0,0,,Todo mundo que se envolve comigo acaba sofrendo.
 Dialogue: 0,0:04:36.22,0:04:40.35,Default,,0,0,0,,Você também perdeu aquela garota da foto?
@@ -56,7 +57,7 @@ Dialogue: 0,0:04:44.12,0:04:46.13,Default,,0,0,0,,Perguntei sobre você para uma
 Dialogue: 0,0:04:47.01,0:04:49.06,Default,,0,0,0,,Uma mulher chamada Sakuta.
 Dialogue: 0,0:04:49.06,0:04:54.31,Default - Italics,CR-06-[136],0,0,0,,Ele foi disposto a morrer.
 Dialogue: 0,0:04:54.83,0:04:55.62,Default,,0,0,0,,Porém...
-Dialogue: 0,0:04:57.94,0:04:59.40,Default,,0,0,0,,Nós somos diferentes.
+Dialogue: 0,0:04:57.94,0:04:59.40,Default,,0,0,0,,Somos diferentes.
 Dialogue: 0,0:05:01.44,0:05:04.89,Default,,0,0,0,,Não sou forte como você.
 Dialogue: 0,0:05:05.62,0:05:07.14,Default,,0,0,0,,Isso não é verdade.
 Dialogue: 0,0:05:08.96,0:05:12.36,Default,,0,0,0,,Todos têm um passado do qual querem se esquecer.
@@ -69,7 +70,7 @@ Dialogue: 0,0:05:40.69,0:05:45.67,Default,,0,0,0,,Ela espantou a morte e reacend
 Dialogue: 0,0:05:47.67,0:05:51.09,Default,,0,0,0,,Sera perdeu seus pais e irmãos na guerra.
 Dialogue: 0,0:05:51.09,0:05:53.05,Default,,0,0,0,,Carregando água para a aldeia,
 Dialogue: 0,0:05:53.65,0:05:57.22,Default,,0,0,0,,ela conseguiu se alimentar e sobreviver.
-Dialogue: 0,0:05:58.78,0:06:02.35,Default,,0,0,0,,Ela me tratou como se fosse seu irmão de sangue.
+Dialogue: 0,0:05:58.78,0:06:02.35,Default,,0,0,0,,Ela me tratou como se eu fosse seu irmão de sangue.
 Dialogue: 0,0:06:03.10,0:06:06.02,Default,,0,0,0,,Por um momento, esqueci o terror da guerra.
 Dialogue: 0,0:06:06.02,0:06:08.09,Default,,0,0,0,,Eu vivia e ria como nunca.
 Dialogue: 0,0:06:09.46,0:06:10.30,Default,,0,0,0,,Mas...
@@ -92,16 +93,17 @@ Dialogue: 0,0:07:17.45,0:07:20.12,Default,,0,0,0,,Quando o Jun voltou para casa.
 Dialogue: 0,0:07:27.04,0:07:29.83,Default,,0,0,0,,Eu não entendia a dor dele.
 Dialogue: 0,0:07:36.51,0:07:40.91,Default,,0,0,0,,Ironicamente, o mundo exaltou aquelas fotos.
 Dialogue: 0,0:07:41.79,0:07:45.08,Default,,0,0,0,,Mas isso só o atormentou ainda mais.
-Dialogue: 0,0:07:45.08,0:07:48.56,Default - Italics,,0,0,0,,Sera. Sera.
-Dialogue: 0,0:07:49.31,0:07:53.05,Default - Italics,,0,0,0,,Não se culpe tanto!\N Se não tivesse tirado aquela foto,
-Dialogue: 0,0:07:53.05,0:07:55.95,Default - Italics,,0,0,0,,o mundo não teria conhecido aquele incidente trágico.
+Dialogue: 0,0:07:45.08,0:07:48.56,Default - Italics,,0,0,0,,Sera. Sera!
+Dialogue: 0,0:07:49.29,0:07:51.64,Default - Italics,,0,0,0,,Não se culpe tanto!
+Dialogue: 0,0:07:51.64,0:07:53.10,Default - Italics,,0,0,0,,Se não tivesse tirado aquelas fotos,
+Dialogue: 0,0:07:53.10,0:07:55.97,Default - Italics,,0,0,0,,o mundo não teria conhecido aquele incidente trágico.
 Dialogue: 0,0:07:56.79,0:07:57.37,Default - Italics,,0,0,0,,Por isso...
-Dialogue: 0,0:07:57.37,0:08:03.27,Default - Italics,,0,0,0,,Tenho um sonho que se repete sem parar.
+Dialogue: 0,0:07:57.37,0:08:03.27,Default - Italics,,0,0,0,,Tenho um sonho que se repete constantemente.
 Dialogue: 0,0:08:03.78,0:08:05.18,Default - Italics,,0,0,0,,Um sonho?
 Dialogue: 0,0:08:05.18,0:08:09.05,Default - Italics,,0,0,0,,Nesse sonho, a Sera está...
 Dialogue: 0,0:08:19.17,0:08:20.72,Default - Italics,,0,0,0,,Sera.
 Dialogue: 0,0:08:27.69,0:08:28.61,Default - Italics,,0,0,0,,Sera.
-Dialogue: 0,0:08:32.26,0:08:33.38,Default - Italics,,0,0,0,,Sera.
+Dialogue: 0,0:08:32.26,0:08:33.38,Default - Italics,,0,0,0,,Sera!
 Dialogue: 0,0:08:34.93,0:08:39.37,Default,,0,0,0,,Tanto nos sonhos quanto na vida real,
 Dialogue: 0,0:08:40.39,0:08:44.30,Default,,0,0,0,,a Sera, que deveria ter falecido, me guiava.
 Dialogue: 0,0:08:44.85,0:08:46.69,Default - Italics,,0,0,0,,Jun!
@@ -111,7 +113,7 @@ Dialogue: 0,0:10:51.42,0:10:52.60,Default - Italics,CR-06-[173],0,0,0,,Quem é v
 Dialogue: 0,0:10:55.11,0:10:57.17,Default - Italics,CR-06-[174],0,0,0,,Por que me chamou?
 Dialogue: 0,0:11:03.02,0:11:04.20,Default,,0,0,0,,Queria muito saber...
 Dialogue: 0,0:11:07.18,0:11:10.62,Default,,0,0,0,,Como o Himeya está agora?
-Dialogue: 0,0:11:14.73,0:11:16.34,Default,,0,0,0,,Himeya está investigando esses incidentes.
+Dialogue: 0,0:11:14.73,0:11:16.34,Default,,0,0,0,,Himeya está investigando estes incidentes.
 Dialogue: 0,0:11:17.67,0:11:18.96,Default,,0,0,0,,Incidentes?
 Dialogue: 0,0:11:18.96,0:11:23.03,Default,,0,0,0,,Se quer notícias dele, investigue-os também.
 Dialogue: 0,0:11:23.67,0:11:24.77,Default,,0,0,0,,Sr. Negoro.
@@ -124,7 +126,7 @@ Dialogue: 0,0:11:47.89,0:11:52.90,Default,,0,0,0,,Mas ela me guiou até esta luz
 Dialogue: 0,0:11:54.28,0:12:00.77,Default,,0,0,0,,Entendi o propósito dela quando te salvei.
 Dialogue: 0,0:12:04.00,0:12:05.77,Default,,0,0,0,,Não posso mudar o passado,
 Dialogue: 0,0:12:06.95,0:12:09.44,Default,,0,0,0,,mas talvez eu possa mudar o futuro.
-Dialogue: 0,0:12:16.90,0:12:17.52,Default - Italics,CR-02-[130],0,0,0,,Pra você!
+Dialogue: 0,0:12:16.90,0:12:17.52,Default - Italics,CR-02-[130],0,0,0,,Para você!
 Dialogue: 0,0:12:18.40,0:12:20.62,Default - Italics,CR-02-[132],0,0,0,,É um amuleto.\N "Dê seu melhor, Kuina!"
 Dialogue: 0,0:12:20.94,0:12:23.29,Default - Italics,CR-01-[221],0,0,0,,Dê o seu melhor no novo trabalho.
 Dialogue: 0,0:12:23.81,0:12:24.59,Default,,0,0,0,,É inútil.
@@ -143,11 +145,11 @@ Dialogue: 0,0:13:41.89,0:13:45.76,Default,,0,0,0,,Transforme seu ódio em força
 Dialogue: 0,0:13:48.00,0:13:49.28,Default,,0,0,0,,Eu sei.
 Dialogue: 0,0:14:04.33,0:14:05.53,Default,,0,0,0,,Himeya.
 Dialogue: 0,0:14:06.77,0:14:09.46,Default - Italics,,0,0,0,,Komon, livre-se dessa raiva.
-Dialogue: 0,0:14:10.19,0:14:12.30,Default - Italics,,0,0,0,,Você não mudará nada com o ódio.
+Dialogue: 0,0:14:10.19,0:14:12.30,Default - Italics,,0,0,0,,Você não mudará nada com o ódio!
 Dialogue: 0,0:14:12.30,0:14:13.94,Default - Italics,,0,0,0,,Eu quero força!
 Dialogue: 0,0:14:14.53,0:14:16.46,Default - Italics,,0,0,0,,Quero força para derrotar as Bestas!
-Dialogue: 0,0:14:18.24,0:14:22.84,Default - Italics,,0,0,0,,Komon, enfrente seu passado e viva o futuro!
-Dialogue: 0,0:14:22.84,0:14:24.67,Default - Italics,CR-14-[177],0,0,0,,Foi a Besta quem matou a Riko.
+Dialogue: 0,0:14:18.24,0:14:22.84,Default - Italics,,0,0,0,,Komon, supere seu passado e viva o futuro!
+Dialogue: 0,0:14:22.84,0:14:24.67,Default - Italics,CR-14-[177],0,0,0,,Foi aquela Besta que matou a Riko...
 Dialogue: 0,0:14:25.41,0:14:26.38,Default - Italics,CR-14-[178],0,0,0,,Ela terá o que merece!
 Dialogue: 0,0:14:35.55,0:14:38.25,Default,,0,0,0,,Não há sinais de sobreviventes na área.
 Dialogue: 0,0:14:38.25,0:14:39.80,Default,,0,0,0,,A Besta provavelmente os devorou.
@@ -166,20 +168,20 @@ Dialogue: 0,0:15:13.93,0:15:15.26,Default,CR-14-[181],0,0,0,,Mizorogi.
 Dialogue: 0,0:15:17.06,0:15:21.72,Default,CR-14-[182],0,0,0,,Fique quieto e veja-o ser consumido pelas trevas.
 Dialogue: 0,0:15:23.58,0:15:24.71,Default,,0,0,0,,Desgraçado!
 Dialogue: 0,0:17:12.35,0:17:13.88,Default,,0,0,0,,Shiori, atrás de você!
-Dialogue: 0,0:17:45.65,0:17:47.67,Default,,0,0,0,,Komon! O alvo está vindo!
+Dialogue: 0,0:17:45.65,0:17:47.67,Default,,0,0,0,,Komon, aí vem ele!
 Dialogue: 0,0:17:47.67,0:17:48.54,Default,,0,0,0,,Entendido!
 Dialogue: 0,0:17:53.85,0:17:55.63,Default,,0,0,0,,Perdi o alvo!
 Dialogue: 0,0:18:45.34,0:18:46.58,Default,,0,0,0,,Oficial Ishibori!
 Dialogue: 0,0:18:59.13,0:19:02.36,Default - Italics,CR-15-[123],0,0,0,,Transforme seu ódio em força e acabe com ela.
 Dialogue: 0,0:19:20.72,0:19:22.74,Default - Italics,CR-14-[138],0,0,0,,Socorro!
 Dialogue: 0,0:19:24.08,0:19:26.08,Default - Italics,CR-14-[139],0,0,0,,Alguém me ajude!
-Dialogue: 0,0:19:26.93,0:19:28.99,Default - Italics,CR-14-[162],0,0,0,,Maldito! Por que você atirou nela?
+Dialogue: 0,0:19:26.93,0:19:28.99,Default - Italics,CR-14-[162],0,0,0,,Maldito!\N Por que atirou nela?
 Dialogue: 0,0:19:29.24,0:19:31.32,Default - Italics,CR-14-[163],0,0,0,,Por que atirou na Riko?
 Dialogue: 0,0:19:32.93,0:19:36.13,Default,,0,0,0,,Dispare, Komon!
 Dialogue: 0,0:19:36.59,0:19:39.21,Default,,0,0,0,,Dispare, Komon!
 Dialogue: 0,0:19:41.39,0:19:42.32,Default,CR-14-[183],0,0,0,,Komon!
 Dialogue: 0,0:19:44.71,0:19:45.33,Default,,0,0,0,,Dispare, Komon!
-Dialogue: 0,0:19:49.78,0:19:51.48,Default - Italics,CR-14-[163],0,0,0,,Por que atirou na Riko?
+Dialogue: 0,0:19:49.78,0:19:51.48,Default - Italics,CR-14-[163],0,0,0,,Por que atirou na Riko?!
 Dialogue: 0,0:19:52.30,0:19:53.58,Default - Italics,CR-14-[164],0,0,0,,Não vou te perdoar!
 Dialogue: 0,0:19:53.58,0:19:55.34,Default - Italics,CR-14-[165],0,0,0,,Nunca vou te perdoar!
 Dialogue: 0,0:19:57.17,0:19:58.24,Default,,0,0,0,,Komon!
@@ -187,17 +189,18 @@ Dialogue: 0,0:20:17.17,0:20:18.48,Default,,0,0,0,,Oficial Ishibori!
 Dialogue: 0,0:20:29.44,0:20:31.28,Default,,0,0,0,,Por que não atirou?
 Dialogue: 0,0:20:36.66,0:20:38.32,Default,,0,0,0,,Por que não atirou?!
 Dialogue: 0,0:20:47.13,0:20:48.26,Default,,0,0,0,,Komon...
-Dialogue: 0,0:20:49.94,0:20:53.11,Default,,0,0,0,,Capitão, ele está bem.
+Dialogue: 0,0:20:49.94,0:20:53.11,Default,,0,0,0,,Capitão, ele está bem!
 Dialogue: 0,0:20:56.23,0:20:57.68,Default,,0,0,0,,Vamos atrás da Besta!
 Dialogue: 0,0:20:57.68,0:20:58.80,Default,,0,0,0,,Entendido!
-Dialogue: 0,0:21:49.76,0:21:53.55,Default - Italics,,0,0,0,,Himeya, você estava certo.
+Dialogue: 0,0:21:49.83,0:21:50.98,Default - Italics,,0,0,0,,Sr. Himeya...
+Dialogue: 0,0:21:52.19,0:21:54.00,Default - Italics,,0,0,0,,Você estava certo.
 Dialogue: 0,0:21:54.46,0:21:56.99,Default - Italics,,0,0,0,,Não consigo mudar nada na base do ódio.
 Dialogue: 0,0:21:59.02,0:22:00.85,Default - Italics,,0,0,0,,O que devo fazer?
-Dialogue: 0,0:22:02.20,0:22:07.75,Default - Top Italics,,0,0,0,,Não sei mais o que fazer.
+Dialogue: 0,0:22:02.20,0:22:07.75,Default - Top Italics,,0,0,0,,Porque já não sei mais o que fazer.
 Comment: 0,0:22:09.98,0:22:10.01,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:22:10.04,0:22:10.05,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:23:39.94,0:23:39.97,Default,chptr,0,0,0,,{Prévia} = Preview
-Dialogue: 0,0:23:43.21,0:23:43.84,Default - Italics,,0,0,0,,Quer vê-la?
+Dialogue: 0,0:23:43.21,0:23:43.84,Default - Italics,,0,0,0,,Vou deixar...
 Dialogue: 0,0:23:44.34,0:23:45.17,Default - Italics,,0,0,0,,Hã?
 Dialogue: 0,0:23:48.28,0:23:49.85,Default - Italics,,0,0,0,,Vou deixar você ver a Riko.
 Dialogue: 0,0:23:51.01,0:23:52.15,Default - Italics,,0,0,0,,Komon.

@@ -23,9 +23,10 @@ Dialogue: 0,0:00:12.92,0:00:16.67,Default - Italics,CR-13-[3],0,0,0,,Por sua cau
 Dialogue: 0,0:00:17.67,0:00:18.57,Default - Italics,CR-12-[126],0,0,0,,Riko.
 Dialogue: 0,0:00:20.87,0:00:24.51,Default - Italics,CR-13-[104],0,0,0,,Saida Riko era minha marionete.
 Dialogue: 0,0:00:38.62,0:00:41.83,Default - Italics,CR-12-[169],0,0,0,,Riko!
-Dialogue: 0,0:00:42.08,0:00:45.71,Default - Italics,CR-13-[184],0,0,0,,Se você realmente se importa com ela,\N direcione seu ódio às Bestas.
+Dialogue: 0,0:00:42.12,0:00:44.27,Default - Italics,CR-13-[184],0,0,0,,Se você realmente se importa com ela,
+Dialogue: 0,0:00:44.27,0:00:45.98,Default - Italics,CR-13-[184],0,0,0,,direcione seu ódio às Bestas!
 Dialogue: 0,0:00:46.40,0:00:47.47,Default - Italics,CR-13-[185],0,0,0,,Hã?
-Dialogue: 0,0:00:47.47,0:00:49.43,Default - Italics,CR-13-[186],0,0,0,,Transforme essa raiva em poder.
+Dialogue: 0,0:00:47.47,0:00:49.43,Default - Italics,CR-13-[186],0,0,0,,Transforme essa raiva em força!
 Dialogue: 0,0:00:54.91,0:00:58.54,Default - Italics,,0,0,0,,Eu precisava de ódio para fugir do meu desespero.
 Dialogue: 0,0:01:00.03,0:01:01.18,Default - Italics,,0,0,0,,No entanto...
 Dialogue: 0,0:01:07.50,0:01:12.31,Default - Italics,,0,0,0,,Ondas de Bestas detectadas na área 6, ponto 221.
@@ -40,7 +41,7 @@ Dialogue: 0,0:01:31.38,0:01:34.73,Default,,0,0,0,,Aqui é os Night Raiders.\N MP
 Dialogue: 0,0:01:35.82,0:01:36.57,Default,,0,0,0,,Certo.
 Dialogue: 0,0:01:37.30,0:01:38.08,Default,,0,0,0,,Entendido.
 Dialogue: 0,0:01:39.02,0:01:40.49,Default,,0,0,0,,Consegui os dados do mapa.
-Dialogue: 0,0:01:43.27,0:01:44.82,Default,,0,0,0,,Tem um relatório da MP.
+Dialogue: 0,0:01:43.27,0:01:44.82,Default,,0,0,0,,Obtive o relatório da MP.
 Dialogue: 0,0:01:45.44,0:01:47.64,Default,,0,0,0,,Aparentemente, houve danos.
 Dialogue: 0,0:01:48.26,0:01:55.63,Default,,0,0,0,,Uma testemunha viu um monstro atacando um carro.
 Dialogue: 0,0:01:56.75,0:01:59.40,Default,,0,0,0,,Estas são as fotos tiradas pela câmera no carro.
@@ -48,25 +49,27 @@ Dialogue: 0,0:02:08.13,0:02:08.95,Default,,0,0,0,,Não é possível...
 Dialogue: 0,0:02:09.92,0:02:12.97,Default,,0,0,0,,São aquelas pessoas?
 Dialogue: 0,0:02:12.97,0:02:13.64,Default,,0,0,0,,São.
 Dialogue: 0,0:02:14.14,0:02:15.97,Default,,0,0,0,,Você conhece essa família?
-Dialogue: 0,0:02:15.97,0:02:18.72,Default,,0,0,0,,Encontrei eles no zoológico.
+Dialogue: 0,0:02:15.97,0:02:18.72,Default,,0,0,0,,Eu os encontrei no zoológico.
 Dialogue: 0,0:02:19.87,0:02:23.06,Default,,0,0,0,,Segundo a testemunha,\N depois que a Besta atacou os pais,
 Dialogue: 0,0:02:23.50,0:02:27.26,Default,,0,0,0,,ela levou os corpos deles, com as crianças, vivas.
-Dialogue: 0,0:02:27.68,0:02:29.43,Default,,0,0,0,,Por que ela deixou as crianças vivas?
-Dialogue: 0,0:02:32.71,0:02:35.61,Default,,0,0,0,,Para serem usadas como reféns.
+Dialogue: 0,0:02:27.68,0:02:29.43,Default,,0,0,0,,Por que deixar as crianças vivas?
+Dialogue: 0,0:02:32.71,0:02:35.61,Default,,0,0,0,,Para usá-las como reféns.
 Dialogue: 0,0:02:42.89,0:02:43.98,Default,,0,0,0,,Será que...
 Dialogue: 0,0:02:44.96,0:02:48.80,Default,,0,0,0,,Eles foram atacados só porque me conheciam?
 Comment: 0,0:02:50.02,0:02:50.05,Default,chptr,0,0,0,,{Abertura} = Opening
 Comment: 0,0:02:59.28,0:02:59.29,Default,opsync,0,0,0,opsync,opsync
 Comment: 0,0:04:28.99,0:04:29.02,Default,chptr,0,0,0,,{Parte A} = Part A
-Dialogue: 0,0:04:33.65,0:04:38.96,Default - Top,,0,0,0,,Irmão, acorda. Por favor, acorda.
+Dialogue: 0,0:04:33.64,0:04:37.36,Default - Top,,0,0,0,,Irmão, acorde.
+Dialogue: 0,0:04:37.36,0:04:39.11,Default - Top,,0,0,0,,Por favor, acorde.
 Dialogue: 0,0:04:40.37,0:04:41.88,Default,,0,0,0,,Irmão!
+Dialogue: 0,0:04:45.31,0:04:47.27,Default,,0,0,0,,Minha cabeça...
 Dialogue: 0,0:04:49.28,0:04:50.50,Default,,0,0,0,,Onde estamos?
 Dialogue: 0,0:04:50.50,0:04:51.54,Default,,0,0,0,,Na nossa casa de férias.
 Dialogue: 0,0:04:52.44,0:04:53.84,Default,,0,0,0,,Quando chegamos aqui?
 Dialogue: 0,0:04:53.84,0:04:56.58,Default,,0,0,0,,Não sei. Só percebi agora.
 Dialogue: 0,0:04:57.48,0:04:59.08,Default,,0,0,0,,E a mamãe e o papai?
-Dialogue: 0,0:04:59.94,0:05:03.69,Default,,0,0,0,,Eles estão na cozinha, mas estão agindo estranho.
-Dialogue: 0,0:05:40.43,0:05:42.79,Default,,0,0,0,,Vocês acordaram! Vamos jantar?
+Dialogue: 0,0:04:59.94,0:05:03.69,Default,,0,0,0,,Eles estão na cozinha, mas estão agindo estranho!
+Dialogue: 0,0:05:40.43,0:05:42.79,Default,,0,0,0,,Vocês acordaram!\N Vamos jantar?
 Dialogue: 0,0:06:03.29,0:06:08.05,Default,,0,0,0,,Detectei as mesmas Ondas de Bestas no ponto 274.
 Dialogue: 0,0:06:11.23,0:06:15.46,Default,,0,0,0,,Envie o Chester Alpha para verificar a situação.
 Dialogue: 0,0:06:19.67,0:06:23.43,Default,,0,0,0,,A Besta foi atrás daquela família.
@@ -87,21 +90,21 @@ Dialogue: 0,0:07:51.00,0:07:53.19,Default,,0,0,0,,Por que continua lutando?
 Dialogue: 0,0:07:54.82,0:07:56.34,Default,,0,0,0,,Não vai ganhar nada com isso.
 Dialogue: 0,0:08:10.33,0:08:13.68,Default,,0,0,0,,Ponto 274. Deve ser ali.
 Dialogue: 0,0:08:23.02,0:08:25.64,Default,,0,0,0,,O que está acontecendo?\N Vocês estão tão estranhos!
-Dialogue: 0,0:08:39.74,0:08:40.97,Default,,0,0,0,,É para comer tudinho.
+Dialogue: 0,0:08:39.74,0:08:40.97,Default,,0,0,0,,É para comer tudinho!
 Dialogue: 0,0:08:40.97,0:08:42.70,Default,,0,0,0,,Obedeçam à sua mãe!
 Dialogue: 0,0:08:46.00,0:08:48.05,Default,CR-13-[211],0,0,0,,Dois desses pontos não são humanos!
 Dialogue: 0,0:08:48.79,0:08:49.82,Default,,0,0,0,,São Bestas.
 Dialogue: 0,0:08:50.16,0:08:52.96,Default,,0,0,0,,As crianças estão em perigo! Vamos!
-Dialogue: 0,0:09:03.49,0:09:04.90,Default,,0,0,0,,Esse sinal é...
+Dialogue: 0,0:09:03.49,0:09:04.90,Default,,0,0,0,,Este sinal é...
 Dialogue: 0,0:09:16.81,0:09:19.28,Default,,0,0,0,,Ninguém entende sua dor.
 Dialogue: 0,0:09:20.10,0:09:22.81,Default,,0,0,0,,Nem mesmo as crianças que está tentando salvar.
 Dialogue: 0,0:09:27.12,0:09:28.49,Default,,0,0,0,,Eu mandei comer!
-Dialogue: 0,0:09:28.49,0:09:30.33,Default,CR-13-[209],0,0,0,,Mãe, por favor, pare.
+Dialogue: 0,0:09:28.49,0:09:30.33,Default,CR-13-[209],0,0,0,,Mãe, por favor, pare!
 Dialogue: 0,0:09:30.33,0:09:31.92,Default,CR-13-[210],0,0,0,,Vamos, comam!
 Dialogue: 0,0:09:31.92,0:09:34.72,Default,,0,0,0,,Não! O que houve com vocês?
 Dialogue: 0,0:09:34.72,0:09:36.06,Default,,0,0,0,,Por favor, parem!
-Dialogue: 0,0:09:40.43,0:09:41.90,Default,,0,0,0,,Mãe, por favor, pare.
-Dialogue: 0,0:09:41.90,0:09:43.90,Default,,0,0,0,,Pai, por favor, pare.
+Dialogue: 0,0:09:40.43,0:09:41.90,Default,,0,0,0,,Mãe, por favor, pare!
+Dialogue: 0,0:09:41.90,0:09:43.90,Default,,0,0,0,,Pai, por favor, pare!
 Dialogue: 0,0:09:44.53,0:09:45.34,Default,,0,0,0,,Fiquem quietos!
 Dialogue: 0,0:09:45.34,0:09:46.60,Default,,0,0,0,,Soltem as crianças!
 Dialogue: 0,0:09:55.50,0:09:56.45,Default,,0,0,0,,Esperem!
@@ -113,18 +116,20 @@ Dialogue: 0,0:10:22.07,0:10:23.31,Default - Italics,CR-13-[214],0,0,0,,Este é o
 Dialogue: 0,0:11:08.42,0:11:09.99,Default - Top Italics,,0,0,0,,Nexus.
 Dialogue: 0,0:11:11.79,0:11:12.99,Default - Top Italics,,0,0,0,,Nexus.
 Comment: 0,0:11:12.99,0:11:13.02,Default,chptr,0,0,0,,{Parte B} = Part B
-Dialogue: 0,0:11:12.99,0:11:14.95,Default,,0,0,0,,Vamos, andem logo.
-Dialogue: 0,0:11:14.95,0:11:16.17,Default,,0,0,0,,Mãe, por favor, me solta.
-Dialogue: 0,0:11:16.17,0:11:17.61,Default,,0,0,0,,Pai, para com isso.
-Dialogue: 0,0:11:17.61,0:11:19.93,Default,,0,0,0,,Que moleque chato!\N Vamos, Riko.
-Dialogue: 0,0:11:19.93,0:11:20.84,Default,,0,0,0,,Pai.
+Dialogue: 0,0:11:12.99,0:11:14.95,Default,,0,0,0,,Vamos, andem logo!
+Dialogue: 0,0:11:14.95,0:11:16.17,Default,,0,0,0,,Mãe, por favor, me solta!
+Dialogue: 0,0:11:16.17,0:11:17.61,Default,,0,0,0,,Pai, para com isso!
+Dialogue: 0,0:11:17.73,0:11:19.12,Default,,0,0,0,,Que moleque chato!
+Dialogue: 0,0:11:19.12,0:11:19.80,Default,,0,0,0,,Vamos, Riko!
+Dialogue: 0,0:11:19.80,0:11:20.84,Default,,0,0,0,,Pai!
 Dialogue: 0,0:11:20.84,0:11:22.43,Default,,0,0,0,,Kaoru, já chega!
 Dialogue: 0,0:11:24.04,0:11:25.10,Default,,0,0,0,,Bestas!
 Dialogue: 0,0:11:35.24,0:11:36.62,Default,,0,0,0,,Não faça isso!
-Dialogue: 0,0:11:37.55,0:11:40.65,Default,,0,0,0,,Pare! Essa não é sua mãe!
+Dialogue: 0,0:11:37.55,0:11:38.75,Default,,0,0,0,,Pare!
+Dialogue: 0,0:11:38.75,0:11:40.31,Default,,0,0,0,,Essa não é sua mãe!
 Dialogue: 0,0:11:40.65,0:11:43.58,Default,,0,0,0,,Seus pais estão mortos!
-Dialogue: 0,0:11:43.58,0:11:46.38,Default,,0,0,0,,Mentira! Não tem como isso ser verdade!
-Dialogue: 0,0:11:46.38,0:11:49.36,Default,,0,0,0,,Irmão, me ajuda!
+Dialogue: 0,0:11:43.58,0:11:46.38,Default,,0,0,0,,Mentira! \N Você está inventando isso!
+Dialogue: 0,0:11:46.38,0:11:49.36,Default,,0,0,0,,Irmão, me ajude!
 Dialogue: 0,0:11:49.36,0:11:51.22,Default,,0,0,0,,Irmão!
 Dialogue: 0,0:12:25.49,0:12:27.27,Default,,0,0,0,,Que visão horrenda está me proporcionando...
 Dialogue: 0,0:12:27.90,0:12:30.03,Default,,0,0,0,,Demônio Mephisto.
@@ -141,14 +146,14 @@ Dialogue: 0,0:13:42.13,0:13:44.63,Default,,0,0,0,,Achei que um deles tivesse mor
 Dialogue: 0,0:13:44.63,0:13:46.84,Default,,0,0,0,,Olhe bem, esse é diferente.
 Dialogue: 0,0:13:49.61,0:13:53.52,Default - Italics,,0,0,0,,Capitão, aquele gigante preto é Mizorogi Shinya.
 Dialogue: 0,0:13:57.28,0:13:58.56,Default,CR-13-[215],0,0,0,,Aquele é o Mizorogi?
-Dialogue: 0,0:14:15.66,0:14:18.16,Default,,0,0,0,,Me solta! Socorro, irmão!
+Dialogue: 0,0:14:15.65,0:14:18.16,Default,,0,0,0,,Me solta! Irmão!
 Dialogue: 0,0:14:18.16,0:14:20.74,Default,,0,0,0,,Parem! Soltem a Riko!
 Dialogue: 0,0:14:31.93,0:14:33.17,Default,,0,0,0,,Por favor, parem!
 Dialogue: 0,0:14:34.85,0:14:36.76,Default,,0,0,0,,Esperem! Riko!
 Dialogue: 0,0:14:36.76,0:14:38.39,Default,,0,0,0,,Riko!
 Dialogue: 0,0:15:07.26,0:15:08.43,Default,,0,0,0,,Nosferu!
 Dialogue: 0,0:15:23.07,0:15:24.34,Default,,0,0,0,,Não! Não!
-Dialogue: 0,0:15:25.05,0:15:30.65,Default,,0,0,0,,Socorro, irmão! Me ajuda!
+Dialogue: 0,0:15:25.05,0:15:30.65,Default,,0,0,0,,Socorro, irmão! Me ajude!
 Dialogue: 0,0:15:30.90,0:15:31.81,Default,,0,0,0,,Riko.
 Dialogue: 0,0:15:38.82,0:15:44.21,Default,,0,0,0,,Não! Não!
 Dialogue: 0,0:15:57.74,0:16:01.01,Default,,0,0,0,,Riko. Riko!
@@ -165,20 +170,21 @@ Dialogue: 0,0:17:13.06,0:17:13.82,Default,,0,0,0,,Entendido!
 Dialogue: 0,0:17:14.24,0:17:14.78,Default,,0,0,0,,Entendido!
 Dialogue: 0,0:17:33.82,0:17:36.31,Default,,0,0,0,,Ishibori, qual é a nossa distância do alvo?
 Dialogue: 0,0:17:36.68,0:17:39.01,Default,,0,0,0,,São 200 metros.
-Dialogue: 0,0:17:57.39,0:17:59.81,Default,,0,0,0,,Estabilizador de arma, preparado.
-Dialogue: 0,0:17:59.81,0:18:00.62,Default,,0,0,0,,Entendido!
+Dialogue: 0,0:17:57.54,0:17:59.50,Default,,0,0,0,,Estabilizador de arma, funcional.
+Dialogue: 0,0:17:59.81,0:18:00.65,Default,,0,0,0,,Entendido!
 Dialogue: 0,0:18:17.94,0:18:20.65,Default,,0,0,0,,Não perdoarei esse monstro terrível!
-Dialogue: 0,0:18:45.26,0:18:49.28,Default,,0,0,0,,Parem! A Riko está dentro daquele monstro!
-Dialogue: 0,0:19:16.68,0:19:17.21,Default,,0,0,0,,Dispare.
+Dialogue: 0,0:18:45.14,0:18:46.28,Default,,0,0,0,,Parem!
+Dialogue: 0,0:18:46.28,0:18:49.28,Default,,0,0,0,,A Riko está dentro daquele monstro!
+Dialogue: 0,0:19:16.68,0:19:17.21,Default,,0,0,0,,Dispare!
 Dialogue: 0,0:19:36.04,0:19:39.33,Default,,0,0,0,,Riko. Riko!
 Dialogue: 0,0:19:51.30,0:19:52.38,Default,,0,0,0,,Conseguimos!
-Dialogue: 0,0:20:39.07,0:20:40.91,Default - Italics,,0,0,0,,Encontramos as crianças.
+Dialogue: 0,0:20:39.07,0:20:40.91,Default - Italics,,0,0,0,,Encontramos as crianças!
 Dialogue: 0,0:20:40.91,0:20:42.29,Default - Italics,,0,0,0,,O menino está seguro.
 Dialogue: 0,0:20:42.29,0:20:47.49,Default - Italics,,0,0,0,,A menina sobreviveu, mas está em estado crítico.
 Dialogue: 0,0:20:48.49,0:20:49.37,Default - Italics,,0,0,0,,Estado crítico?
 Dialogue: 0,0:20:50.82,0:20:53.67,Default - Italics,,0,0,0,,Ela estava presa na testa do Nosferu.
 Dialogue: 0,0:21:04.58,0:21:07.38,Default,,0,0,0,,Aguente firme, Riko! Riko!
-Dialogue: 0,0:21:22.59,0:21:25.12,Default,,0,0,0,,Maldito! Por que você atirou nela?
+Dialogue: 0,0:21:22.59,0:21:25.12,Default,,0,0,0,,Maldito!\NPor que atirou nela?
 Dialogue: 0,0:21:25.12,0:21:26.44,Default,,0,0,0,,Por que atirou na Riko?
 Dialogue: 0,0:21:28.16,0:21:29.71,Default,,0,0,0,,Não vou te perdoar!
 Dialogue: 0,0:21:29.71,0:21:31.54,Default,,0,0,0,,Nunca vou te perdoar!
@@ -193,7 +199,7 @@ Dialogue: 0,0:21:48.82,0:21:50.36,Default,,0,0,0,,Ele não vai se lembrar de nad
 Comment: 0,0:22:09.98,0:22:10.01,Default,chptr,0,0,0,,{Encerramento} = Ending
 Comment: 0,0:22:10.24,0:22:10.25,Default,edsync,0,0,0,edsync,edsync
 Comment: 0,0:23:39.94,0:23:39.97,Default,chptr,0,0,0,,{Prévia} = Preview
-Dialogue: 0,0:23:41.37,0:23:42.96,Default - Italics,,0,0,0,,Foi a Besta quem matou a Riko.
+Dialogue: 0,0:23:41.37,0:23:42.96,Default - Italics,,0,0,0,,Foi aquela Besta quem matou a Riko...
 Dialogue: 0,0:23:43.34,0:23:44.61,Default - Italics,,0,0,0,,Ela terá o que merece!
 Dialogue: 0,0:23:44.61,0:23:45.41,Default - Italics,,0,0,0,,Himeya...
 Dialogue: 0,0:23:46.04,0:23:48.34,Default - Italics,,0,0,0,,Não adianta tentar salvar o Komon.
